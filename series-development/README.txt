@@ -23,6 +23,11 @@ full shooting script as PDF, editable Word, and Markdown; the illustrated
 picture-board PDF; seven 9:16 key-art panels; the writers' room drafts; and the
 critic architecture and continuity log. v1 remains the original 12-episode
 development package for historical reference.
+Grand-Chukuchuku_Chapter_01_5_Minute_Pilot_Package.zip is the standalone pilot
+package. It contains a five-minute Chapter One opening episode, an editable
+Word screenplay, a 17-board visual storyboard, the pilot's two new keyframes,
+and the relevant Chapter One reference panels. The fee-notice device and all
+scene-specific dialogue remain labelled proposed dramatic construction.
 picture-board/ keeps the editable panel images, board PDF, visual system, and
 provenance notes. The individual images are visual development composites, not
 literal reconstructions of a particular memory or event.

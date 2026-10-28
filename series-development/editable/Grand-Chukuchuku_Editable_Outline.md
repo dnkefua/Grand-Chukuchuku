@@ -10,7 +10,7 @@ Biography below is drawn from Zino's account. Structure, episode seeds, and emot
 
 ## Series foundation
 
-Grand-Chukuchuku follows Zino from street football in Fiango to education in America, deportation in 2019, and a new beginning in Dubai in 2020. His mother's belief sustains him, while financial pressure, temper, people-pleasing, grief, and misplaced trust complicate his ambitions. Success is real, but the house he wants to build for her remains an unfinished promise.
+Grand-Chukuchuku follows Zino from a crowded compound in Fiango to education in America, deportation in 2019, and a new beginning in Dubai in 2020. Raised by his mother after his father dies, Zino learns to use humor, intelligence, and stories to face financial pressure, grief, and misplaced trust. Success is real, but the house he wants to build for her remains an unfinished promise.
 
 **Format:** Animated thriller; 1-3 minute episodes; vertical 9:16 intended. Mature themes. English and Cameroon Pidgin, with English subtitles proposed.
 
@@ -22,31 +22,33 @@ Grand-Chukuchuku follows Zino from street football in Fiango to education in Ame
 
 ## Logline
 
-A gifted boy in Kumba invents an invincible hero while dreaming of building his mother a house. His pursuit of a future takes him to America, through immigration insecurity and an alleged betrayal, and eventually to Dubai, where rebuilding his fortune may be easier than finding peace.
+After losing his father, a gifted boy in Kumba invents an invincible hero while dreaming of building his mother a house. His pursuit of a future takes him to America, through immigration insecurity and an alleged betrayal, and eventually to Dubai, where rebuilding his fortune may be easier than finding peace.
 
 ## Unified synopsis
 
-In Fiango, Kumba, ten-year-old Zino is clever, competitive, and rarely short of an answer. On the football field, he entertains Luc and Gideo with stories of Grand-Chukuchuku, an imaginary man capable of impossible feats. Around the shared well and the compound's central mango tree, his world is full of humor, affection, and neighborhood life. His mother, a teacher raising him alone, believes in him. Zino's deepest fear is that he will never build her a house.
+In Fiango, Kumba, ten-year-old Zino is clever, competitive, and rarely short of an answer. On the football field, he entertains Luc and Gideon, known as Gideo, with stories of Grand-Chukuchuku, an imaginary man capable of impossible feats. His compound's well, mango tree, crowded tenants, and the landlord's monthly rent and electricity collection make money impossible to ignore. Zino's deepest fear is that he will never build his mother a house.
 
-His intelligence cannot protect him from unpaid school fees. Exclusions during primary and high school become recurring reminders that opportunity depends on money as well as ability. A paternal uncle helps from time to time. Boarding school, fence-jumping trips home for food, friendships, first love, and an inspiring chemistry teacher give these years warmth and texture. Zino completes secondary school in 2007 and his first degree in 2011. America becomes a practical possibility, funded by his uncle, friends and family, and the sale of a large piece of family land.
+Zino is raised by his mother, a primary-school teacher. His father dies after a snake bite while spraying cocoa; in the family account, he passes out before reaching home. His age at the loss remains to be placed. School-fee exclusions, boarding-school trips over the fence to eat at home, friendship, first love, and Miss Mukete's influence make education both hope and pressure. Professional School provides June evenings for study, social life, and escape. Zino completes secondary school in 2007 and his first degree in 2011. His uncle, friends, family, and a land sale make America possible.
 
 He arrives in the United States in 2012 and completes a master's in 2014. Studying social work comes more easily than securing his life around it: late fees nearly cost him his place, and money, loneliness, immigration uncertainty, and relationships place him under pressure. His girlfriend offers support. A nursing-equivalency ambition is obstructed by unavailable documents from home, a separate issue from his immigration status. He misses Cameroon while knowing that going back would not automatically resolve the expectations he carries.
 
 Before 2019, a nine-month Coursera blockchain course and three consecutive hackathon wins open another path. He develops Nkap, then njangi.xyz, and pitches the venture to football friends. Its possible future value feeds his excitement and, in his account, others' desire to take control. Zino says friends reported him to immigration to remove him from the business. That allegation and its motive remain his account; the precise evidence and the projects' subsequent ownership are still to be established. He is deported in 2019 after remaining without appropriate immigration documents.
 
-He spends roughly six months in Cameroon before moving to Dubai in 2020 to work for a Chinese online retailer of digital products. COVID complicates the new beginning. Across the wider story, the Ambazonian crisis brings family bereavement, housing loss, disrupted farming, and relatives crowded into a two-bedroom home in Douala. His supportive maternal aunt is killed. These events must be placed at their actual dates, rather than assumed to follow his deportation.
-
-Zino eventually becomes a successful crypto merchant in Dubai. The final chapter asks what this success can repair, what grief it cannot remove, and whether he can find happiness without becoming the invincible character he invented. The proposed emotional destination is redemption grounded in truthful choices and relationships. His mother's house remains unbuilt: an honest, open promise that carries hope beyond the ending.
+He spends roughly six months in Cameroon before moving to Dubai in 2020 to work for a Chinese online retailer of digital products. COVID complicates the new beginning. The Ambazonian crisis brings family bereavement, housing loss, disrupted farming, and relatives crowded into a two-bedroom home in Douala; his supportive maternal aunt is killed. Zino eventually becomes a successful crypto merchant in Dubai. The final chapter asks whether this success can bring peace without turning his mother's unbuilt house into a false ending.
 
 ## People
 
 **Zino / Nkeh Nkengzincho:** Born in 1990. Intelligent, witty, talented, kind, and strongly concerned with justice. Temper, people-pleasing, and limited self-awareness complicate his decisions. He wants success and happiness, with a house for his mother as the enduring goal.
 
-**His mother:** A teacher who raises him as a single mother and believes in his future. Develop her own work, humor, ambitions, and burdens as well as her sacrifices for Zino. Her name and individual memories remain to be supplied.
+**His father:** Dies from a snake bite while spraying cocoa. In the family account, he cuts the bite area and tries to suck out the venom, then passes out before reaching home; his right arm is swollen. This is a family-history account, not medical guidance. Confirm the date, Zino's age, and the immediate effect on the household before scripting the scene.
+
+**His mother:** A primary-school teacher from a young age and throughout Zino's childhood. After his father's death, she raises Zino and believes in his future. Develop her own work, humor, ambitions, and burdens as well as her sacrifices. Her name and individual memories remain to be supplied.
 
 **Paternal uncle:** Provides occasional school-fee support and helps make America possible. His precise contributions and relationship with Zino need expansion; no financial conditions or motives have been established.
 
-**Luc and Gideo:** Zino's closest childhood friends and an audience for his Grand-Chukuchuku stories. Their separate personalities and adult paths need development. They have not been identified as the friends involved in the later allegation.
+**Gideon (Gideo):** Sharp, business-minded, and always looking for a way to make money. He buys his first camera in secondary school and often pays when he and Zino go out. He values Zino's company because Zino can talk to girls, while Gideon's quietness leaves girls feeling bored. Confirm whether Gideo is his nickname before scripts use it consistently.
+
+**Luc:** God-fearing, funny, candid, and often carrying a small Gideons Bible. He approaches students to preach. He values Zino's directness, help with maths, and ability to talk openly about girls. Confirm the preferred Bible wording and his age in these memories.
 
 **Elianne and Miss Mukete:** Elianne is Zino's first love. Miss Mukete is his favorite chemistry teacher. Establish when each enters his life and the specific memories that define their influence.
 
@@ -57,6 +59,16 @@ Zino eventually becomes a successful crypto merchant in Dubai. The final chapter
 **Business associates:** Friends who hear the crypto pitch. Their roles, contributions, agreements, and identities need clarification. Disputed conduct should be portrayed from the evidence and perspective actually available.
 
 **Grand-Chukuchuku:** Zino's fictional ideal person, introduced through tall stories that border reality and fantasy. His impossible victories contrast with the limits Zino encounters. He is a storytelling invention, not a supernatural explanation for events.
+
+## Fiango world
+
+**The Fiango compound:** Two families, three single mothers, two bachelors, and three students rent within the compound. The shared well, mango tree, monthly rent, and electricity collection make it a living social system, not just a backdrop.
+
+**Professional School:** Around June, students gather at school in the evenings to prepare for an examination. Some read alone or in groups; others use the gathering to socialize, smoke, drink, court girls, or simply escape home. Treat the setting as varied: it is not true that every student misbehaves. Confirm whether the examination is the GCE or the Government Common Entrance.
+
+**Jungle justice:** Zino reports witnessing at least four incidents in Fiango in which people accused of theft were attacked by a crowd and burned with tires and fuel. This belongs in the story as traumatic exposure and a source of fear, silence, or moral conflict. Do not stage the violence as spectacle; establish each incident's date, Zino's age, and what he witnessed directly before dramatizing it.
+
+**Everyday texture:** Food, church, football, music, school routines, discipline, slang, celebrations, neighborhood life, and the sound of the landlord's monthly visit can keep the world specific and alive.
 
 ## Chronology
 
@@ -71,7 +83,9 @@ Zino eventually becomes a successful crypto merchant in Dubai. The final chapter
 - **2019:** Deportation for remaining without appropriate immigration documents.
 - **2019-2020:** Roughly six months in Cameroon before the Dubai move; exact months open.
 - **2020 onward:** Dubai, digital-retail employment, COVID, and later crypto-merchant success.
-- **Dates to place:** Aunt's killing, loss of housing and farming income, relocation to Douala.
+- **Date to place:** Father's death after a snake bite while spraying cocoa; confirm Zino's age and the family aftermath.
+- **Dates to place:** Aunt's killing, loss of housing and farming income, relocation to Douala, and each reported jungle-justice incident.
+- **June study sessions:** Professional School appears during secondary-school years; confirm the school, years, and whether the examination was the GCE or Government Common Entrance.
 - **Present account:** Mother's house remains unbuilt; later business milestones need expansion.
 
 # Chapter 1: Fiango
@@ -88,13 +102,13 @@ Zino eventually becomes a successful crypto merchant in Dubai. The final chapter
 
 ## Act I - Setup
 
-Street football introduces Zino's wit, competitiveness, and temper. Luc and Gideo hear his outrageous stories about Grand-Chukuchuku, the man who achieves what nobody else can. Brief fantasy sequences make those boasts visible before returning us to the real game. The neighboring houses, shared well, and central mango tree establish the compound as the emotional center of his world. At home, his mother's belief gives his confidence a foundation. Beneath the jokes lies a lasting desire: to build her a house.
+Street football introduces Zino's wit, competitiveness, and temper. Luc and Gideon, known as Gideo, hear his outrageous stories about Grand-Chukuchuku, the man who achieves what nobody else can. Brief fantasy sequences make those boasts visible before returning us to the real game. The compound is a small society: two families, three single mothers, two bachelors, and three student tenants share the well and mango tree. The landlord's monthly collection of rent and electricity money turns money into a recurring presence. Zino's mother, a primary-school teacher, believes in him. His father's death after a snake bite while spraying cocoa belongs as a memory once its date and Zino's age are confirmed.
 
-**Turning point:** His imagination can win an argument, but the family's financial limits cannot be wished away.
+**Turning point:** His imagination can win an argument, but the household's limits cannot be wished away.
 
 ## Act II - Confrontation
 
-Education reveals both Zino's ability and the limits of that advantage. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. His mother's teaching income and his uncle's intermittent help keep opportunity alive without removing uncertainty. Boarding school in Kumba supplies comic escapes over the fence to eat at home. Friendships, first love, and Miss Mukete's influence enter at their confirmed ages. His wish to impress people begins to compete with his need to be honest about what he cannot control.
+Education reveals both Zino's ability and the limits of that advantage. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. His mother's primary-school teaching income and his uncle's intermittent help keep opportunity alive without removing uncertainty. Boarding school in Kumba supplies comic escapes over the fence to eat at home. Each June, Professional School gives students evening time to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino also reports witnessing jungle justice in Fiango. Treat this as traumatic background, carried through fear and aftermath rather than graphic spectacle.
 
 **Turning point:** Being the cleverest boy in the room does not guarantee that he can remain in it.
 
@@ -107,30 +121,31 @@ Zino completes secondary school in 2007. Academic progress creates a new thresho
 ## Possible short episodes
 
 1. **Grand-Chukuchuku Never Loses:** A football dispute introduces the imaginary hero and the real boy's difficulty accepting an unfavorable decision.
-2. **The Fence:** A boarding-school escape for a meal at home reveals ingenuity, appetite, and the pull of belonging.
-3. **School Fees:** At the remembered age, a fee exclusion interrupts academic confidence and changes the rhythm of an ordinary school day.
+2. **School Fees:** At the remembered age, a fee exclusion interrupts academic confidence and changes the rhythm of an ordinary school day.
+3. **Professional School:** June evening revision creates a divided space: some students study; some pursue distraction; Zino must decide what kind of future he is preparing for.
+4. **The Crowd:** After Zino witnesses the aftermath of an alleged thief being attacked, the episode stays with his fear, the adults' silence, and the question of justice rather than depicting the killing.
 
 ## Memory prompts
 
-1. Which secondary school did you enter, when did boarding begin, and what did the uniform look like?
+1. Which secondary school did you enter, when did boarding begin, and what is one defining memory of Luc, Gideon (Gideo), Elianne, or Miss Mukete?
 
    Notes: 
 
-2. Describe a fee-exclusion day: who spoke, how you returned home, and what happened next.
+2. How old were you when your father died, and what do you remember directly versus what relatives told you?
 
    Notes: 
 
-3. Reconstruct one fence-jumping trip: companions, route, food, and any consequences.
+3. What did Professional School mean in your school, which exam was it for, and what is one evening you remember?
 
    Notes: 
 
-4. When did Luc, Gideo, Elianne, and Miss Mukete enter your life? Give one defining memory of each.
+4. For each jungle-justice incident, what did you witness directly, how old were you, and what effect did it have on you?
 
    Notes: 
 
 **Grand-Chukuchuku motif:** Grand-Chukuchuku is playful and spectacular: imaginary victories contrast with ordinary limits.
 
-**Details still open:** The opening is at ten, after primary completion in 1999. The previously drafted age-ten fee scene is a proposed composite, not a confirmed dated memory.
+**Details still open:** The opening is at ten, after primary completion in 1999. The age-ten fee scene remains a proposed composite. Confirm Zino's age at his father's death; confirm whether Gideo is Gideon's nickname; and distinguish GCE from Government Common Entrance before using Professional School in a dated scene.
 
 
 # Chapter 2: The Price of Leaving

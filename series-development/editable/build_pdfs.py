@@ -171,13 +171,13 @@ def cover(c):
     c.drawString(M, 392, "READING MAP")
     entries = [
         ("Series foundation & synopsis", "02-03"),
-        ("People & chronology", "04-05"),
-        ("01  Fiango", "06-07"),
-        ("02  The Price of Leaving", "08-09"),
-        ("03  America on Borrowed Time", "10-11"),
-        ("04  The Betrayal", "12-13"),
-        ("05  Rebuilding", "14-15"),
-        ("Expansion guide", "16"),
+        ("People, world & chronology", "04-06"),
+        ("01  Fiango", "07-08"),
+        ("02  The Price of Leaving", "09-10"),
+        ("03  America on Borrowed Time", "11-12"),
+        ("04  The Betrayal", "13-14"),
+        ("05  Rebuilding", "15-16"),
+        ("Expansion guide", "17"),
     ]
     y = 366
     c.setFont("Body", 9.2)
@@ -216,7 +216,7 @@ def cover(c):
     page_end(c)
 
 def foundation(c):
-    l = Layout(c, 2, 16, "Series foundation")
+    l = Layout(c, 2, 17, "Series foundation")
     bookmark(c, "foundation", "Series foundation")
     l.title("The series", "An unfinished promise", "Suspense, heartbreak, and hope, grounded in one family's experience.")
     l.sub("Logline", DATA["logline"])
@@ -233,7 +233,7 @@ def foundation(c):
     page_end(c)
 
 def synopsis(c):
-    l = Layout(c, 3, 16, "Unified synopsis")
+    l = Layout(c, 3, 17, "Unified synopsis")
     bookmark(c, "synopsis", "Unified series synopsis")
     l.title("The complete story", "From Fiango to Dubai", "One continuous synopsis connecting all five chapters.")
     for p in DATA["synopsis"]:
@@ -241,22 +241,36 @@ def synopsis(c):
     page_end(c)
 
 def people(c):
-    l = Layout(c, 4, 16, "People & relationships")
+    l = Layout(c, 4, 17, "People & relationships")
     bookmark(c, "people", "People and relationships")
     l.title("Character foundation", "The people around Zino", "Develop each person beyond the role they play in his success or suffering.")
-    for name, text in DATA["characters"]:
+    for name, text in DATA["characters"][:7]:
         l.p(name, "sub", 3)
         l.p(text, "small", 9)
     l.note("Language", "Zino uses Pidgin with friends and English at home; French and English feature in school. Let remembered speech guide individual voices. Do not make every character sound alike.")
     page_end(c)
 
+def world(c):
+    l = Layout(c, 5, 17, "Fiango world")
+    bookmark(c, "world", "Fiango world")
+    l.title("Fiango", "The world that made him", "The compound, school, and street life should carry as much story weight as plot.")
+    for name, text in DATA["world"]:
+        l.p(name, "sub", 3)
+        l.p(text, "small", 8)
+    l.sub("Later relationships and story device")
+    for name, text in DATA["characters"][7:]:
+        l.p(name, "sub", 2)
+        l.p(text, "small", 6)
+    l.note("Depiction rule", "When the story touches death, mob violence, grief, or adult activity around young people, stay with Zino's point of view, consequence, and moral uncertainty. Do not turn suffering into background decoration or spectacle.")
+    page_end(c)
+
 def chronology(c):
-    l = Layout(c, 5, 16, "Chronology & open details")
+    l = Layout(c, 6, 17, "Chronology & open details")
     bookmark(c, "timeline", "Chronology and open details")
     l.title("Working chronology", "What belongs where", "Anchors supplied by Zino; exact months and several connecting details remain open.")
     l.table(DATA["timeline"], [104, CW - 104], pad=5)
     l.sub("Public history to verify", "Place the Ambazonian crisis, Cameroon football victories, and the Biya, Obama, and Trump presidencies against the confirmed personal timeline. Identify the intended AFCON victory. Clarify whether the World Trade Center reference means the 1993 bombing or the September 11, 2001 attacks. Public figures are context; no specific policy has yet been established as causing Zino's experience.")
-    l.note("Continuity rule", "Keep nursing licensing, university payments, immigration status, and business ownership as distinct issues. Date the aunt's killing and family displacement before deciding where to dramatize them. Never turn a proposed scene into an established memory simply by repeating it.")
+    l.note("Continuity rule", "Keep nursing licensing, university payments, immigration status, and business ownership as distinct issues. Date Zino's father's death, the aunt's killing, family displacement, and the reported jungle-justice incidents before deciding where to dramatize them. Never turn a proposed scene into an established memory simply by repeating it.")
     page_end(c)
 
 def chapter_outline(c, ch, page, total):
@@ -287,7 +301,7 @@ def chapter_workbook(c, ch, page, total):
     page_end(c)
 
 def expansion(c):
-    l = Layout(c, 16, 16, "Expansion guide")
+    l = Layout(c, 17, 17, "Expansion guide")
     bookmark(c, "expansion", "How to expand the chapters")
     l.title("Your next writing pass", "From outline to lived scenes", "Use the chapter PDFs independently; the editable text contains the same structure.")
     l.sub("1. Capture one memory at a time", "Record the year or approximate age, location, people present, what Zino wanted, what happened, and what changed. Add sensory details: food, church, football, school routines, music, slang, discipline, celebrations, and neighborhood sounds. Separate exact remembered words from reconstructed dialogue.")
@@ -314,6 +328,9 @@ def export_markdown():
         lines += [p, ""]
     lines += ["## People", ""]
     for name, text in DATA["characters"]:
+        lines += [f"**{name}:** {text}", ""]
+    lines += ["## Fiango world", ""]
+    for name, text in DATA["world"]:
         lines += [f"**{name}:** {text}", ""]
     lines += ["## Chronology", ""]
     for period, text in DATA["timeline"]:
@@ -384,11 +401,12 @@ def main():
     foundation(c)
     synopsis(c)
     people(c)
+    world(c)
     chronology(c)
     for ch in DATA["chapters"]:
-        page = 6 + 2 * (ch["number"] - 1)
-        chapter_outline(c, ch, page, 16)
-        chapter_workbook(c, ch, page + 1, 16)
+        page = 7 + 2 * (ch["number"] - 1)
+        chapter_outline(c, ch, page, 17)
+        chapter_workbook(c, ch, page + 1, 17)
     expansion(c)
     c.save()
     for ch in DATA["chapters"]:
@@ -402,8 +420,8 @@ def main():
     export_word()
     readme = """GRAND-CHUKUCHUKU - DEVELOPMENT PACK
 
-Start with Grand-Chukuchuku_Series_and_Chapters.pdf (16 pages).
-It contains the unified synopsis, characters, chronology, and all five chapters.
+Start with Grand-Chukuchuku_Series_and_Chapters.pdf (17 pages).
+It contains the unified synopsis, characters, Fiango world, chronology, and all five chapters.
 
 chapters/ contains five separate two-page PDFs. Each has three acts,
 turning points, possible 1-3 minute episodes, and memory-expansion prompts.
@@ -414,6 +432,9 @@ five chapter Markdown files, structured source JSON, and the Python builder
 The Markdown files can be opened in any text editor or imported into a writing app.
 The structured JSON is the authoritative source for rebuilding the PDFs.
 
+scripts/ contains episode-screenplay drafts. CONTINUITY_LOG.md records
+confirmed corrections and questions that must be resolved before scripting.
+
 All biographical material is based on Zino's account, not independently verified.
 Proposed scenes and disputed details are identified for further development.
 This is a story-development draft, not a finished screenplay or produced series.
@@ -421,7 +442,7 @@ This is a story-development draft, not a finished screenplay or produced series.
     (ROOT / "README.txt").write_text(readme)
     zip_path = ROOT / "Grand-Chukuchuku_Complete_Development_Pack.zip"
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
-        for p in [master, ROOT / "README.txt"] + sorted((ROOT / "chapters").glob("*.pdf")) + sorted((ROOT / "editable").glob("*")):
+        for p in [master, ROOT / "README.txt", ROOT / "CONTINUITY_LOG.md"] + sorted((ROOT / "chapters").glob("*.pdf")) + sorted((ROOT / "editable").glob("*")) + sorted((ROOT / "scripts").glob("*")):
             if p.is_file():
                 z.write(p, p.relative_to(ROOT))
     print(json.dumps({"master": str(master), "archive": str(zip_path), "chapter_pdfs": 5}, indent=2))

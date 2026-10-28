@@ -26,9 +26,9 @@ After losing his father, a gifted boy in Kumba invents an invincible hero while 
 
 ## Unified synopsis
 
-In Fiango, Kumba, ten-year-old Zino is clever, competitive, and rarely short of an answer. On the football field, he entertains Luc and Gideon, known as Gideo, with stories of Grand-Chukuchuku, an imaginary man capable of impossible feats. His compound's well, mango tree, crowded tenants, and the landlord's monthly rent and electricity collection make money impossible to ignore. Zino's deepest fear is that he will never build his mother a house.
+In Fiango, Kumba, ten-year-old Zino is clever, competitive, and rarely short of an answer. On the football field, he entertains Luc and Gideon with stories of Grand-Chukuchuku, an imaginary man capable of impossible feats. His compound's well, mango tree, crowded tenants, and the landlord's monthly rent and electricity collection make money impossible to ignore. Zino's deepest fear is that he will never build his mother a house.
 
-Zino is raised by his mother, a primary-school teacher. His father dies after a snake bite while spraying cocoa; in the family account, he passes out before reaching home. His age at the loss remains to be placed. School-fee exclusions, boarding-school trips over the fence to eat at home, friendship, first love, and Miss Mukete's influence make education both hope and pressure. Professional School provides June evenings for study, social life, and escape. Zino completes secondary school in 2007 and his first degree in 2011. His uncle, friends, family, and a land sale make America possible.
+Zino is raised by his mother, a primary-school teacher. His father dies after a snake bite while spraying cocoa when Zino is two; in the family account, he passes out before reaching home. Zino has no direct memory of the loss. School-fee exclusions, boarding-school trips over the fence to eat at home, friendship, first love, and Miss Mukete's influence make education both hope and pressure. Professional School, a daytime vocational campus, opens its classrooms at night for secondary-school students to revise, socialize, and escape home. Zino completes secondary school in 2007 and his first degree in 2011. His uncle, friends, family, and a land sale make America possible.
 
 He arrives in the United States in 2012 and completes a master's in 2014. Studying social work comes more easily than securing his life around it: late fees nearly cost him his place, and money, loneliness, immigration uncertainty, and relationships place him under pressure. His girlfriend offers support. A nursing-equivalency ambition is obstructed by unavailable documents from home, a separate issue from his immigration status. He misses Cameroon while knowing that going back would not automatically resolve the expectations he carries.
 
@@ -40,13 +40,13 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 **Zino / Nkeh Nkengzincho:** Born in 1990. Intelligent, witty, talented, kind, and strongly concerned with justice. Temper, people-pleasing, and limited self-awareness complicate his decisions. He wants success and happiness, with a house for his mother as the enduring goal.
 
-**His father:** Dies from a snake bite while spraying cocoa. In the family account, he cuts the bite area and tries to suck out the venom, then passes out before reaching home; his right arm is swollen. This is a family-history account, not medical guidance. Confirm the date, Zino's age, and the immediate effect on the household before scripting the scene.
+**His father:** Dies from a snake bite while spraying cocoa when Zino is two. In the family account, he cuts the bite area and tries to suck out the venom, then passes out before reaching home; his right arm is swollen. Zino has no personal recollection, so this belongs in family testimony or a prologue rather than a firsthand flashback. This is family history, not medical guidance.
 
 **His mother:** A primary-school teacher from a young age and throughout Zino's childhood. After his father's death, she raises Zino and believes in his future. Develop her own work, humor, ambitions, and burdens as well as her sacrifices. Her name and individual memories remain to be supplied.
 
 **Paternal uncle:** Provides occasional school-fee support and helps make America possible. His precise contributions and relationship with Zino need expansion; no financial conditions or motives have been established.
 
-**Gideon (Gideo):** Sharp, business-minded, and always looking for a way to make money. He buys his first camera in secondary school and often pays when he and Zino go out. He values Zino's company because Zino can talk to girls, while Gideon's quietness leaves girls feeling bored. Confirm whether Gideo is his nickname before scripts use it consistently.
+**Gideon:** Sharp, business-minded, and always looking for a way to make money. He buys his first camera in secondary school and often pays when he and Zino go out. He values Zino's company because Zino can talk to girls, while Gideon's quietness leaves girls feeling bored.
 
 **Luc:** God-fearing, funny, candid, and often carrying a small Gideons Bible. He approaches students to preach. He values Zino's directness, help with maths, and ability to talk openly about girls. Confirm the preferred Bible wording and his age in these memories.
 
@@ -64,15 +64,16 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 **The Fiango compound:** Two families, three single mothers, two bachelors, and three students rent within the compound. The shared well, mango tree, monthly rent, and electricity collection make it a living social system, not just a backdrop.
 
-**Professional School:** Around June, students gather at school in the evenings to prepare for an examination. Some read alone or in groups; others use the gathering to socialize, smoke, drink, court girls, or simply escape home. Treat the setting as varied: it is not true that every student misbehaves. Confirm whether the examination is the GCE or the Government Common Entrance.
+**Professional School:** A real vocational school active in daytime for building, construction, and electrical training. During the secondary-school years, its classrooms open at night around June for students to revise for the exam period. Some read alone or in groups; others use the gathering to socialize, smoke, drink, court girls, or simply escape home. Treat the setting as varied: it is not true that every student misbehaves.
 
-**Jungle justice:** Zino reports witnessing at least four incidents in Fiango in which people accused of theft were attacked by a crowd and burned with tires and fuel. This belongs in the story as traumatic exposure and a source of fear, silence, or moral conflict. Do not stage the violence as spectacle; establish each incident's date, Zino's age, and what he witnessed directly before dramatizing it.
+**Jungle justice:** During his secondary-school years, Zino reports witnessing at least four incidents in Fiango in which people accused of theft were attacked by a crowd and burned with tires and fuel. This belongs in the story as traumatic exposure and a source of fear, silence, or moral conflict. Do not stage the violence as spectacle; use a composite episode that stays with consequence, sound, and moral uncertainty.
 
 **Everyday texture:** Food, church, football, music, school routines, discipline, slang, celebrations, neighborhood life, and the sound of the landlord's monthly visit can keep the world specific and alive.
 
 ## Chronology
 
 - **1990:** Zino is born.
+- **Around 1992:** Zino's father dies after a snake bite while spraying cocoa, when Zino is two. Zino has no direct recollection.
 - **1999:** Primary school completed; its fee exclusion belongs before this milestone.
 - **Around 2000:** Opening: Zino is ten, in Fiango, after primary school.
 - **2007:** Secondary school completed; high-school fee exclusion has no exact date yet.
@@ -83,9 +84,8 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 - **2019:** Deportation for remaining without appropriate immigration documents.
 - **2019-2020:** Roughly six months in Cameroon before the Dubai move; exact months open.
 - **2020 onward:** Dubai, digital-retail employment, COVID, and later crypto-merchant success.
-- **Date to place:** Father's death after a snake bite while spraying cocoa; confirm Zino's age and the family aftermath.
-- **Dates to place:** Aunt's killing, loss of housing and farming income, relocation to Douala, and each reported jungle-justice incident.
-- **June study sessions:** Professional School appears during secondary-school years; confirm the school, years, and whether the examination was the GCE or Government Common Entrance.
+- **Dates to place:** Aunt's killing, loss of housing and farming income, relocation to Douala, and individual jungle-justice incidents within the secondary-school years.
+- **June study sessions:** Professional School is a vocational campus that opens classrooms at night during the secondary-school exam period. Confirm the school name and years; use Zino's remembered local terminology in dialogue.
 - **Present account:** Mother's house remains unbuilt; later business milestones need expansion.
 
 # Chapter 1: Fiango
@@ -102,13 +102,13 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 ## Act I - Setup
 
-Street football introduces Zino's wit, competitiveness, and temper. Luc and Gideon, known as Gideo, hear his outrageous stories about Grand-Chukuchuku, the man who achieves what nobody else can. Brief fantasy sequences make those boasts visible before returning us to the real game. The compound is a small society: two families, three single mothers, two bachelors, and three student tenants share the well and mango tree. The landlord's monthly collection of rent and electricity money turns money into a recurring presence. Zino's mother, a primary-school teacher, believes in him. His father's death after a snake bite while spraying cocoa belongs as a memory once its date and Zino's age are confirmed.
+Street football introduces Zino's wit, competitiveness, and temper. Luc and Gideon hear his outrageous stories about Grand-Chukuchuku, the man who achieves what nobody else can. Brief fantasy sequences make those boasts visible before returning us to the real game. The compound is a small society: two families, three single mothers, two bachelors, and three student tenants share the well and mango tree. The landlord's monthly collection of rent and electricity money turns money into a recurring presence. Zino's mother, a primary-school teacher, believes in him. His father died after a snake bite while spraying cocoa when Zino was two, so the loss enters through family history rather than a memory he owns.
 
 **Turning point:** His imagination can win an argument, but the household's limits cannot be wished away.
 
 ## Act II - Confrontation
 
-Education reveals both Zino's ability and the limits of that advantage. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. His mother's primary-school teaching income and his uncle's intermittent help keep opportunity alive without removing uncertainty. Boarding school in Kumba supplies comic escapes over the fence to eat at home. Each June, Professional School gives students evening time to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino also reports witnessing jungle justice in Fiango. Treat this as traumatic background, carried through fear and aftermath rather than graphic spectacle.
+Education reveals both Zino's ability and the limits of that advantage. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. His mother's primary-school teaching income and his uncle's intermittent help keep opportunity alive without removing uncertainty. Boarding school in Kumba supplies comic escapes over the fence to eat at home. Each June, the daytime vocational school called Professional School opens classrooms at night for secondary-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur in these years. Feature them through a composite episode about fear and aftermath, not graphic spectacle.
 
 **Turning point:** Being the cleverest boy in the room does not guarantee that he can remain in it.
 
@@ -127,11 +127,11 @@ Zino completes secondary school in 2007. Academic progress creates a new thresho
 
 ## Memory prompts
 
-1. Which secondary school did you enter, when did boarding begin, and what is one defining memory of Luc, Gideon (Gideo), Elianne, or Miss Mukete?
+1. Which secondary school did you enter, when did boarding begin, and what is one defining memory of Luc, Gideon, Elianne, or Miss Mukete?
 
    Notes: 
 
-2. How old were you when your father died, and what do you remember directly versus what relatives told you?
+2. Who told you the story of your father's death, and what details are most important for that family-history scene?
 
    Notes: 
 
@@ -145,7 +145,7 @@ Zino completes secondary school in 2007. Academic progress creates a new thresho
 
 **Grand-Chukuchuku motif:** Grand-Chukuchuku is playful and spectacular: imaginary victories contrast with ordinary limits.
 
-**Details still open:** The opening is at ten, after primary completion in 1999. The age-ten fee scene remains a proposed composite. Confirm Zino's age at his father's death; confirm whether Gideo is Gideon's nickname; and distinguish GCE from Government Common Entrance before using Professional School in a dated scene.
+**Details still open:** The opening is at ten, after primary completion in 1999. The age-ten fee scene remains a proposed composite. Zino's father died when he was two, so he has no firsthand memory of it. Professional School is a vocational campus that opens classrooms at night during the secondary-school exam period.
 
 
 # Chapter 2: The Price of Leaving

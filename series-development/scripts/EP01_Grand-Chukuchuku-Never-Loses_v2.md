@@ -11,7 +11,7 @@
 
 Zino is ten, around 2000, after completing primary school. He is brilliant, funny, competitive, and determined to seem larger than the pressures around him. Fiango is a community full of life, but money is always close by: the landlord comes for rent and electricity contributions, and Zino's mother works as a primary-school teacher.
 
-This episode does **not** assign a date to the school-fee exclusion or to his father's death. Those events will be placed after Zino confirms their chronology. It does not show jungle justice; that material needs its own consequence-led episode after dates and direct memories are recorded.
+This episode does **not** assign a date to the school-fee exclusion. Zino's father died when he was two, so that family history belongs in a prologue or testimony scene rather than Zino's own flashback. It does not show jungle justice; that material has its own consequence-led secondary-school episode.
 
 ---
 
@@ -23,7 +23,7 @@ This episode does **not** assign a date to the school-fee exclusion or to his fa
 
 **ZINO (V.O.):** In Fiango, everybody knows your business before you know it yourself.
 
-The football cuts between feet. **ZINO** takes possession. **GIDEON (GIDEO)** yells for a pass. **LUC** calls a foul before anyone falls.
+The football cuts between feet. **ZINO** takes possession. **GIDEON** yells for a pass. **LUC** calls a foul before anyone falls.
 
 **LUC:** Zino, pass the ball. Even Moses passed something.
 
@@ -107,7 +107,7 @@ Zino sits with the completed sum in front of him. Outside, football resumes. Ins
 
 ## Script notes for later revision
 
-- Confirm whether `Gideon (Gideo)` is the right naming convention before voice recording.
+- Use `Gideon` consistently in all dialogue and credits.
 - Replace all proposed dialogue with remembered speech where available.
 - Add specific clothing, food, compound sounds, and the mother's name after Zino supplies them.
 - The landlord visit is a proposed composite inspired by the confirmed monthly collection. Do not claim it is a transcript of a specific day.

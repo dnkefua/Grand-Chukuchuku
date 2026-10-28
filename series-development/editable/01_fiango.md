@@ -12,13 +12,13 @@
 
 ## Act I - Setup
 
-Street football introduces Zino's wit, competitiveness, and temper. Luc and Gideon, known as Gideo, hear his outrageous stories about Grand-Chukuchuku, the man who achieves what nobody else can. Brief fantasy sequences make those boasts visible before returning us to the real game. The compound is a small society: two families, three single mothers, two bachelors, and three student tenants share the well and mango tree. The landlord's monthly collection of rent and electricity money turns money into a recurring presence. Zino's mother, a primary-school teacher, believes in him. His father's death after a snake bite while spraying cocoa belongs as a memory once its date and Zino's age are confirmed.
+Street football introduces Zino's wit, competitiveness, and temper. Luc and Gideon hear his outrageous stories about Grand-Chukuchuku, the man who achieves what nobody else can. Brief fantasy sequences make those boasts visible before returning us to the real game. The compound is a small society: two families, three single mothers, two bachelors, and three student tenants share the well and mango tree. The landlord's monthly collection of rent and electricity money turns money into a recurring presence. Zino's mother, a primary-school teacher, believes in him. His father died after a snake bite while spraying cocoa when Zino was two, so the loss enters through family history rather than a memory he owns.
 
 **Turning point:** His imagination can win an argument, but the household's limits cannot be wished away.
 
 ## Act II - Confrontation
 
-Education reveals both Zino's ability and the limits of that advantage. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. His mother's primary-school teaching income and his uncle's intermittent help keep opportunity alive without removing uncertainty. Boarding school in Kumba supplies comic escapes over the fence to eat at home. Each June, Professional School gives students evening time to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino also reports witnessing jungle justice in Fiango. Treat this as traumatic background, carried through fear and aftermath rather than graphic spectacle.
+Education reveals both Zino's ability and the limits of that advantage. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. His mother's primary-school teaching income and his uncle's intermittent help keep opportunity alive without removing uncertainty. Boarding school in Kumba supplies comic escapes over the fence to eat at home. Each June, the daytime vocational school called Professional School opens classrooms at night for secondary-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur in these years. Feature them through a composite episode about fear and aftermath, not graphic spectacle.
 
 **Turning point:** Being the cleverest boy in the room does not guarantee that he can remain in it.
 
@@ -37,11 +37,11 @@ Zino completes secondary school in 2007. Academic progress creates a new thresho
 
 ## Memory prompts
 
-1. Which secondary school did you enter, when did boarding begin, and what is one defining memory of Luc, Gideon (Gideo), Elianne, or Miss Mukete?
+1. Which secondary school did you enter, when did boarding begin, and what is one defining memory of Luc, Gideon, Elianne, or Miss Mukete?
 
    Notes: 
 
-2. How old were you when your father died, and what do you remember directly versus what relatives told you?
+2. Who told you the story of your father's death, and what details are most important for that family-history scene?
 
    Notes: 
 
@@ -55,4 +55,4 @@ Zino completes secondary school in 2007. Academic progress creates a new thresho
 
 **Grand-Chukuchuku motif:** Grand-Chukuchuku is playful and spectacular: imaginary victories contrast with ordinary limits.
 
-**Details still open:** The opening is at ten, after primary completion in 1999. The age-ten fee scene remains a proposed composite. Confirm Zino's age at his father's death; confirm whether Gideo is Gideon's nickname; and distinguish GCE from Government Common Entrance before using Professional School in a dated scene.
+**Details still open:** The opening is at ten, after primary completion in 1999. The age-ten fee scene remains a proposed composite. Zino's father died when he was two, so he has no firsthand memory of it. Professional School is a vocational campus that opens classrooms at night during the secondary-school exam period.

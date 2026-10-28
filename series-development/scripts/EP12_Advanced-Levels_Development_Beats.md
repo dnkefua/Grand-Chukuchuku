@@ -9,7 +9,7 @@
 
 ### Purpose
 
-After two years at boarding high school, Zino writes five GCE Advanced-Level subjects, the maximum and the area that will shape his university studies. His school has a 100% Advanced-Level pass rate. The radio result does not carry fear that he will fail; it carries the joy, pressure, and life-changing meaning of hearing his name in public.
+After two years at boarding high school, Zino writes five GCE Advanced-Level subjects, the maximum and the area that will shape his university studies. His school has a 100% Advanced-Level pass rate. The radio result does not carry fear that he will fail; it carries the joy, pressure, and life-changing meaning of hearing his name in public. It is also the condition his uncle set for America after the Ordinary-Level results.
 
 The finale must make a distinction: passing is not the same as being financially secure. The result proves Zino has a future worth fighting for; it does not pay for that future.
 
@@ -23,13 +23,13 @@ The boarding school's final exam period shows the environment Zino has learned t
 
 ### Act II — The radio (0:45–1:48)
 
-Students gather to hear results read over the radio. The school has a 100% pass rate, so the crowd does not carry the same fear as the Ordinary-Level result day; it carries anticipation and the electricity of being called. Each name opens a burst of relief and celebration. Zino waits for his own not because he expects failure, but because the moment makes his achievement public and real.
+Students gather to hear results read over the radio. The school has a 100% pass rate, so the crowd does not carry the same fear as the Ordinary-Level result day; it carries anticipation and the electricity of being called. Each name opens a burst of relief and celebration. Zino waits for his own not because he expects failure, but because the moment makes his achievement public and fulfills the condition his uncle set for America.
 
 **Turn:** His name is heard. For a moment, all of Fiango, boarding school, his mother, and the absent father he never knew seem to stand behind it.
 
 ### Act III — The cost after joy (1:48–2:45)
 
-Celebration must come from Zino's exact memory. The hard turn follows: five Advanced-Level subjects identify a path toward university, but they do not create tuition or travel money. Grand-Chukuchuku appears only briefly. This time he does not solve the problem. Zino looks at his mother, the result, or the road home and understands that the next dream will require sacrifice from more than one person.
+Celebration must come from Zino's exact memory. Then Zino reminds his uncle of the promise. The uncle moves the sequence: first Zino must earn a university degree, then America. Five Advanced-Level subjects identify a path toward university, but they do not create tuition or travel money. Grand-Chukuchuku appears only briefly. This time he does not solve the problem. Zino looks at his mother, the result, or the road home and understands that the next dream will require sacrifice from more than one person.
 
 **End button:** A map, application, or family-land image introduces Chapter Two without claiming a specific event before Zino supplies it.
 
@@ -39,3 +39,4 @@ Celebration must come from Zino's exact memory. The hard turn follows: five Adva
 2. Where was the radio result heard, and which exact moment made the school know it had a 100% pass rate?
 3. What did Zino, his mother, Luc, Gideon, teachers, or priests do to celebrate?
 4. What was the first practical conversation after the result about university, money, or leaving Cameroon?
+5. What exact words did the uncle use when he deferred America until after the first degree?

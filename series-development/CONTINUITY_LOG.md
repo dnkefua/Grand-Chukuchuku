@@ -14,6 +14,7 @@ This log separates confirmed additions from items that still need a date, source
 - The first five secondary-school years are day school with Luc and Gideon. The final two years are high school at a remote boarding school reached after a day of travel through mountains and valleys. It has top students, wealthy parents, white teachers and priests, strict routine, bullying, and severe discipline.
 - The earlier statement that Zino jumped a boarding-school fence to eat at home is corrected. He witnessed students punished after jumping the fence to buy food; he did not jump himself.
 - At the end of five day-school years, Zino writes ten GCE Ordinary-Level subjects out of a maximum eleven. After two boarding years, he writes five GCE Advanced-Level subjects, the maximum and his university study area. Results are read on the radio. The boarding school has a 100% Advanced-Level pass rate, so Zino waits for his name with excitement rather than fear of failing.
+- Proud of the Ordinary-Level result, Zino's uncle promises that Zino can choose any school and go to America if he succeeds in all five Advanced-Level subjects. Zino chooses boarding school. After the A Levels, the uncle defers America until Zino completes a first university degree.
 
 ## Items requiring clarification
 
@@ -25,6 +26,7 @@ This log separates confirmed additions from items that still need a date, source
 | Jungle-justice incidents | All occurred during secondary-school years. Capture date/place, direct observation, and emotional aftermath for each before dramatizing beyond the planned composite episode. |
 | Boarding school | Record the name, village, boarding start year, travel route, punishments, bullying, teachers, priests, and the students who jumped the fence. |
 | GCE result days | Record Zino's ten Ordinary-Level subjects, five Advanced-Level subjects, where each radio was heard, who was present, and the words or celebration he remembers. |
+| Uncle's promise | Record the exact Ordinary-Level promise, how Zino chose boarding school, the Advanced-Level conversation, and why America moved to after the first degree. |
 | Adult activity at Professional School | Confirm what Zino directly saw, at what age, and how far the series should depict it. Avoid sexual content involving minors. |
 
 ## Existing guardrails that remain active

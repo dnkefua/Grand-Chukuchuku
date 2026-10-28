@@ -28,7 +28,7 @@ After losing his father, a gifted boy in Kumba invents an invincible hero while 
 
 In Fiango, Kumba, ten-year-old Zino is clever, competitive, and rarely short of an answer. On the football field, he entertains Luc and Gideon with stories of Grand-Chukuchuku, an imaginary man capable of impossible feats. His compound's well, mango tree, crowded tenants, and the landlord's monthly rent and electricity collection make money impossible to ignore. Zino's deepest fear is that he will never build his mother a house.
 
-Zino is raised by his mother, a primary-school teacher. His father dies after a snake bite while spraying cocoa when Zino is two; in the family account, he passes out before reaching home. Zino has no direct memory of the loss. Five Fiango day-school years give him Luc, Gideon, Professional School, football, school-fee pressure, and Miss Mukete. He writes ten GCE Ordinary-Level subjects, then waits for the radio results. Two remote boarding years bring mountains and valleys, a day-long journey from home, rich students, white teachers and priests, strict routine, bullying, and severe discipline. He witnesses students punished for jumping the fence to buy food. He writes five GCE Advanced-Level subjects; his school records a 100% pass rate. The radio reading and celebration mark his 2007 completion.
+Zino is raised by his mother, a primary-school teacher. His father dies after a snake bite while spraying cocoa when Zino is two; in the family account, he passes out before reaching home. Zino has no direct memory of the loss. Five Fiango day-school years give him Luc, Gideon, Professional School, football, school-fee pressure, and Miss Mukete. After ten GCE Ordinary-Level subjects and radio results, his proud uncle promises he can choose any school and go to America if he succeeds in all five Advanced-Level subjects. Zino chooses remote boarding school. After two hard years, he writes five Advanced Levels; the school has a 100% pass rate. When Zino reminds his uncle about America, the promise moves: first he must earn a university degree.
 
 He arrives in the United States in 2012 and completes a master's in 2014. Studying social work comes more easily than securing his life around it: late fees nearly cost him his place, and money, loneliness, immigration uncertainty, and relationships place him under pressure. His girlfriend offers support. A nursing-equivalency ambition is obstructed by unavailable documents from home, a separate issue from his immigration status. He misses Cameroon while knowing that going back would not automatically resolve the expectations he carries.
 
@@ -44,7 +44,7 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 **His mother:** A primary-school teacher from a young age and throughout Zino's childhood. After his father's death, she raises Zino and believes in his future. Develop her own work, humor, ambitions, and burdens as well as her sacrifices. Her name and individual memories remain to be supplied.
 
-**Paternal uncle:** Provides occasional school-fee support and helps make America possible. His precise contributions and relationship with Zino need expansion; no financial conditions or motives have been established.
+**Paternal uncle:** Provides occasional school-fee support. Proud of Zino's Ordinary-Level results, he promises that Zino can choose any school and go to America if he succeeds in all five Advanced-Level subjects. Zino chooses boarding school on that basis. After the A Levels, the uncle defers America until Zino completes a first university degree. His exact words, contributions, and reasons remain to be developed.
 
 **Gideon:** Sharp, business-minded, and always looking for a way to make money. He buys his first camera in secondary school and often pays when he and Zino go out. He values Zino's company because Zino can talk to girls, while Gideon's quietness leaves girls feeling bored.
 
@@ -78,8 +78,8 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 - **Around 1992:** Zino's father dies after a snake bite while spraying cocoa, when Zino is two. Zino has no direct recollection.
 - **1999:** Primary school completed; its fee exclusion belongs before this milestone.
 - **Around 2000:** Opening: Zino is ten, in Fiango, after primary school. Five years of day school begin, with Luc and Gideon.
-- **Around 2005:** Five years of Fiango day school end with ten GCE Ordinary-Level subjects (maximum 11) and radio results. Two years of high school then begin at a remote boarding school reached after a day of travel through mountains and valleys.
-- **2007:** Boarding high school ends with five GCE Advanced-Level subjects (maximum 5), forming Zino's university study area. His school has a 100% Advanced-Level pass rate; radio results and celebration mark the completion of the secondary-school period.
+- **Around 2005:** Five years of Fiango day school end with ten GCE Ordinary-Level subjects (maximum 11) and radio results. Zino's uncle promises school choice and America if Zino succeeds in all five Advanced-Level subjects; Zino chooses a remote boarding school.
+- **2007:** Boarding high school ends with five GCE Advanced-Level subjects (maximum 5), forming Zino's university study area. His school has a 100% Advanced-Level pass rate. When Zino recalls the America promise, his uncle defers it until Zino completes a first university degree.
 - **2011:** First degree completed; subject and institution need confirmation.
 - **2012:** Moves to the United States; Oklahoma and East Central University are identified.
 - **2014:** Master's completed; social-work studies identified; exact award title to confirm.
@@ -111,22 +111,22 @@ Street football introduces Zino's wit, competitiveness, and temper. Luc and Gide
 
 ## Act II - Confrontation
 
-The first five years of day school give Zino daily life with Luc and Gideon. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. Each June, the daytime vocational school called Professional School opens classrooms at night for day-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur during these Fiango years. At the end of the five years, he writes ten GCE Ordinary-Level subjects, from a possible maximum of eleven. Results are read on the radio, turning the wait into a shared public ordeal and the result into celebration.
+The first five years of day school give Zino daily life with Luc and Gideon. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. Each June, the daytime vocational school called Professional School opens classrooms at night for day-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur during these Fiango years. At the end of the five years, he writes ten GCE Ordinary-Level subjects, from a possible maximum of eleven. Proud of the result, his uncle promises that Zino can choose any school and go to America if he succeeds in all five Advanced-Level subjects. Zino chooses boarding school.
 
-**Turning point:** The first result opens a road forward, but it sends Zino farther from everything familiar.
+**Turning point:** The first result turns an uncle's pride into a promise strong enough to send Zino far from home.
 
 ## Act III - Consequence
 
-The final two high-school years move Zino to a remote village reached after a day of travel through mountains and valleys. Boarding school brings elite students, rich parents, white teachers and priests, rigid routine, bullying, and discipline. Zino witnesses students punished for jumping the fence to buy food; he is not the student jumping. At the end, he writes five GCE Advanced-Level subjects, the maximum and his university study area. His school has a 100% Advanced-Level pass rate, so Zino is not waiting in fear of failure; the radio reading of names and the celebration give the result its emotional force. He completes secondary school in 2007, but education still requires money.
+The final two high-school years move Zino to a remote village reached after a day of travel through mountains and valleys. Boarding school brings elite students, rich parents, white teachers and priests, rigid routine, bullying, and discipline. Zino witnesses students punished for jumping the fence to buy food; he is not the student jumping. At the end, he writes five GCE Advanced-Level subjects, the maximum and his university study area. His school has a 100% Advanced-Level pass rate, so the radio result brings celebration rather than fear of failing. When Zino reminds his uncle about America, the uncle moves the promise: first Zino must complete a university degree.
 
-**Turning point:** He has the qualification to continue, but the household still needs a way to pay.
+**Turning point:** Zino has met the condition, but the goalpost moves and the next dream becomes a longer journey.
 
 ## Possible short episodes
 
 1. **Grand-Chukuchuku Never Loses:** A football dispute introduces the imaginary hero and the real boy's difficulty accepting an unfavorable decision.
 2. **School Fees:** At the remembered age, a fee exclusion interrupts academic confidence and changes the rhythm of an ordinary school day.
 3. **The Crowd:** Zino witnesses a hard-R composite of jungle justice during the Fiango day-school years: an accusation becomes public violence. The episode shows the brutality directly and ends with the fear, silence, and moral damage left behind.
-4. **Results on Air:** The GCE Ordinary-Level and Advanced-Level result days make the radio a public stage for dread, names, relief, joy, and celebration. Zino writes ten Ordinary-Level and five Advanced-Level subjects.
+4. **Results on Air:** The radio makes the GCE result days public. Ten Ordinary Levels bring Zino an uncle's promise of school choice and America after five Advanced Levels; the later promise is deferred until after university.
 5. **The Fence:** Zino witnesses students punished after jumping the boarding-school fence to buy food. The episode makes clear that he does not jump, while showing how hunger, fear, and discipline shape the whole dormitory.
 
 ## Memory prompts
@@ -135,7 +135,7 @@ The final two high-school years move Zino to a remote village reached after a da
 
    Notes: 
 
-2. Who told you the story of your father's death, and what details are most important for that family-history scene?
+2. What exact words did your uncle use after the Ordinary Levels, and how did you decide to take him up on the boarding-school offer?
 
    Notes: 
 
@@ -143,13 +143,13 @@ The final two high-school years move Zino to a remote village reached after a da
 
    Notes: 
 
-4. What was the boarding school's name, how did you travel there, what were your five Advanced-Level subjects, and who was present around the radio when the results were read?
+4. What was the boarding school's name, how did you travel there, what were your five Advanced-Level subjects, and how did your uncle explain the change to his America promise?
 
    Notes: 
 
 **Grand-Chukuchuku motif:** Grand-Chukuchuku is playful and spectacular: imaginary victories contrast with ordinary limits.
 
-**Details still open:** Five day-school years end in ten Ordinary Levels; two boarding years end in five Advanced Levels and radio results. Zino witnessed the fence punishments.
+**Details still open:** Ordinary Levels earn an America promise; Advanced Levels defer it until after university. Zino witnessed the fence punishments.
 
 
 # Chapter 2: The Price of Leaving
@@ -166,9 +166,9 @@ The final two high-school years move Zino to a remote village reached after a da
 
 ## Act I - Setup
 
-Zino enters the next stage of his education with ability, ambition, and financial uncertainty. The dream of America begins to require concrete qualifications and preparations. His mother believes in him; his paternal uncle remains an important source of help. Elianne's place in this period should follow the actual relationship timeline, bringing intimacy and a competing sense of what a future might look like. Study, romance, family expectations, and the dream of nursing belong together only where his memories connect them. Childhood confidence must now become a workable plan.
+Zino enters the next stage of his education with ability, ambition, and financial uncertainty. After the Advanced Levels, he reminds his uncle of the America promise made after his Ordinary-Level results. His uncle changes the sequence: Zino must first earn a university degree. That deferral gives higher education a concrete purpose beyond ambition. His mother believes in him; his uncle remains important support. Elianne's place in this period should follow the actual relationship timeline. Study, romance, family expectations, and the dream of nursing belong together only where his memories connect them.
 
-**Turning point:** America becomes a practical possibility rather than a story about someday.
+**Turning point:** America remains possible, but only if Zino can first complete the new condition.
 
 ## Act II - Confrontation
 

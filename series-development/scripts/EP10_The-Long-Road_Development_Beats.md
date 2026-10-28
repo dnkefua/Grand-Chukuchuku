@@ -9,7 +9,7 @@
 
 ### Purpose
 
-After five years of day school in Fiango with Luc and Gideon, Zino enters a remote boarding high school. It takes a day to reach the village, through mountains and valleys. The school brings a drastic change in distance, routine, discipline, social class, teachers, priests, bullying, and the meaning of home.
+After five years of day school in Fiango with Luc and Gideon, Zino chooses a remote boarding high school after his uncle promises school choice and America if he succeeds in all five Advanced-Level subjects. It takes a day to reach the village, through mountains and valleys. The school brings a drastic change in distance, routine, discipline, social class, teachers, priests, bullying, and the meaning of home.
 
 The travel method, school name, exact year, specific teachers, dormitory rules, and individual bullying events still need Zino's memories. This episode should use the confirmed emotional truth without inventing details.
 
@@ -19,7 +19,7 @@ The travel method, school name, exact year, specific teachers, dormitory rules, 
 
 The compound begins crowded and familiar: the well, mango tree, a ball in the dirt, and neighbors who know Zino's stories. He packs for a school that feels too far away to be real. His mother checks what he has with the practical eye of a primary-school teacher. Zino performs confidence for her and for himself. Grand-Chukuchuku appears in fantasy, crossing a mountain in one stride with a suitcase on his shoulder.
 
-**Immediate question:** Can Zino carry Fiango's confidence into a place built for children who seem more prepared than he is?
+**Immediate question:** Can Zino carry Fiango's confidence into a place built for children who seem more prepared than he is—and earn the condition tied to America?
 
 ### Act II — The road and the gate (0:42–1:45)
 

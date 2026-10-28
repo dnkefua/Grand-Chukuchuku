@@ -133,11 +133,11 @@ class Layout:
         self.c.setStrokeColor(LINE)
         self.c.setLineWidth(0.45)
         for _ in range(count):
-            if self.y - 13 < 62:
+            if self.y - 10 < 62:
                 raise ValueError(f"Writing rules overflow page {self.page}")
-            self.c.line(M, self.y - 5, W - M, self.y - 5)
-            self.y -= 13
-        self.y -= 4
+            self.c.line(M, self.y - 4, W - M, self.y - 4)
+            self.y -= 10
+        self.y -= 2
 
 def page_end(c):
     c.showPage()

@@ -12,9 +12,9 @@
 
 ## Act I - Setup
 
-Zino enters the next stage of his education with ability, ambition, and financial uncertainty. The dream of America begins to require concrete qualifications and preparations. His mother believes in him; his paternal uncle remains an important source of help. Elianne's place in this period should follow the actual relationship timeline, bringing intimacy and a competing sense of what a future might look like. Study, romance, family expectations, and the dream of nursing belong together only where his memories connect them. Childhood confidence must now become a workable plan.
+Zino enters the next stage of his education with ability, ambition, and financial uncertainty. After the Advanced Levels, he reminds his uncle of the America promise made after his Ordinary-Level results. His uncle changes the sequence: Zino must first earn a university degree. That deferral gives higher education a concrete purpose beyond ambition. His mother believes in him; his uncle remains important support. Elianne's place in this period should follow the actual relationship timeline. Study, romance, family expectations, and the dream of nursing belong together only where his memories connect them.
 
-**Turning point:** America becomes a practical possibility rather than a story about someday.
+**Turning point:** America remains possible, but only if Zino can first complete the new condition.
 
 ## Act II - Confrontation
 

@@ -23,10 +23,10 @@ The chapter begins with a ten-year-old boy who creates Grand-Chukuchuku because 
 | 6 | **Miss Mukete** | Zino wants to be seen as more than a boy with fee problems. Miss Mukete recognizes ability but demands discipline; first love enters only after its real chronology is supplied. | Exam season begins and students speak about Professional School. |
 | 7 | **Professional School** | Zino wants the freedom of night study: revision, friends, attention, and escape from home. He moves between students who study and students who use the night for other pursuits. | A noise outside interrupts the classroom. |
 | 8 | **The Crowd** | During the Fiango day-school years, an unproven accusation of theft becomes direct hard-R jungle justice. Zino, Gideon, and Luc see public brutality they cannot stop or explain. | Zino returns home carrying smoke and silence. |
-| 9 | **Results on Air** | After the crowd, Zino wants ordinary life to feel possible again. He writes ten GCE Ordinary-Level subjects, then waits with other students and families while results are read on the radio. | His result opens the road to boarding school, away from Fiango. |
-| 10 | **The Long Road** | A day-long journey through mountains and valleys takes Zino to a remote boarding high school, far from Fiango. He wants to prove he belongs among the country's best students. | The dormitory reveals wealth, priests, white teachers, bullying, and rules he does not yet understand. |
+| 9 | **Results on Air** | After the crowd, Zino wants ordinary life to feel possible again. He writes ten GCE Ordinary-Level subjects, then waits with other students and families while results are read on the radio. His proud uncle promises school choice and America if Zino succeeds in all five Advanced-Level subjects. | Zino chooses boarding school and the road away from Fiango. |
+| 10 | **The Long Road** | A day-long journey through mountains and valleys takes Zino to the boarding school promised by his uncle. He wants to prove he belongs among the country's best students and earn the promised path to America. | The dormitory reveals wealth, priests, white teachers, bullying, and rules he does not yet understand. |
 | 11 | **The Fence** | Zino witnesses students punished after jumping the boarding-school fence to buy food. He wants to keep his head down, but the violence of discipline makes hunger and fear communal. | Exam pressure and the question of whether he can endure the school take over. |
-| 12 | **Advanced Levels** | Zino writes five GCE Advanced-Level subjects, the maximum and his university study area. Because his school has a 100% pass rate, the radio result is communal joy rather than fear of failure. | In 2007, the qualification is real; paying for the next dream remains unresolved. |
+| 12 | **Advanced Levels** | Zino writes five GCE Advanced-Level subjects, the maximum and his university study area. Because his school has a 100% pass rate, the radio result is communal joy rather than fear of failure. | When Zino reminds his uncle about America, the promise moves: first university, then America. |
 
 ## Character engines
 
@@ -42,7 +42,7 @@ The chapter begins with a ten-year-old boy who creates Grand-Chukuchuku because 
 
 - The compound is a pressure cooker: two families, three single mothers, two bachelors, and three student tenants share a well, mango tree, rent anxiety, music, food, gossip, and the landlord's monthly visit.
 - The first five years are Fiango day school with Luc and Gideon. Professional School is a daytime vocational campus for building, construction, and electrical training. Around June, its rooms open at night for day-school exam study. It holds genuine work and distraction; never treat all students as delinquent.
-- The final two years are at a remote boarding high school reached after a day of travel through mountains and valleys. It brings top students, wealthy parents, white teachers and priests, strict discipline, bullying, and a distance from home that changes Zino's sense of belonging. The GCE Advanced-Level result is read on radio; the school's 100% pass rate shifts Zino's tension from failure to what the result will demand next.
+- The final two years are at a remote boarding high school reached after a day of travel through mountains and valleys. Zino chooses it after his uncle promises school choice and America if he succeeds in all five Advanced-Level subjects. The school brings top students, wealthy parents, white teachers and priests, strict discipline, bullying, and a distance from home that changes Zino's sense of belonging. The GCE Advanced-Level result is read on radio; the school's 100% pass rate shifts Zino's tension from failure to what the result will demand next.
 - Zino shifts language by relationship: Pidgin with friends, English at home, French and English in school. Use remembered phrases rather than generic slang.
 - Jungle justice is direct hard-R material. The accused person's guilt stays unknown. The crowd's certainty is the horror. Show the violence through Zino's witness perspective, then show the change it leaves in him.
 
@@ -50,7 +50,7 @@ The chapter begins with a ten-year-old boy who creates Grand-Chukuchuku because 
 
 1. Give the finale a concrete post-secondary financial barrier, deadline, or opportunity from Zino's memory.
 2. Establish a consistent rule for Grand-Chukuchuku: every fantasy reveals something Zino cannot say plainly; after “The Crowd,” the device should fail or change.
-3. Confirm the dates and details of the day-school fee exclusion, boarding-school fence punishments Zino witnessed, jungle-justice composite, and each radio-result day.
+3. Confirm the dates and details of the day-school fee exclusion, boarding-school fence punishments Zino witnessed, jungle-justice composite, each radio-result day, and the uncle's two America-promise conversations.
 4. Record the day-school name, ten Ordinary-Level subjects, boarding-school name and start year, travel route, five Advanced-Level subjects, Professional School years, Miss Mukete's period, and Elianne's period.
 5. Give the mother a personal desire and a boundary that creates dramatic choice.
 6. Track recurring objects: football, landlord notebook, well bucket, mango tree, exercise book, Gideon's camera, Luc's Bible, and the school fence. Each should mean something different by Episode 12.
@@ -68,7 +68,7 @@ The chapter begins with a ten-year-old boy who creates Grand-Chukuchuku because 
 
 ## Fact tiers
 
-**Confirmed:** father died when Zino was two; mother was a primary-school teacher; Gideon and Luc's core traits; compound arrangement; monthly rent and electricity collection; five day-school years with Luc and Gideon; ten GCE Ordinary-Level subjects; two remote boarding high-school years; five GCE Advanced-Level subjects; radio results; 100% Advanced-Level school pass rate; Professional School identity; at least four jungle-justice incidents during day school; school milestones.
+**Confirmed:** father died when Zino was two; mother was a primary-school teacher; Gideon and Luc's core traits; compound arrangement; monthly rent and electricity collection; five day-school years with Luc and Gideon; ten GCE Ordinary-Level subjects; the uncle's school-choice and America promise; two remote boarding high-school years; five GCE Advanced-Level subjects; radio results; 100% Advanced-Level school pass rate; America deferred until after a first degree; Professional School identity; at least four jungle-justice incidents during day school; school milestones.
 
 **Unresolved:** exact calendar dates, school names, individual jungle-justice events, individual fee-exclusion details, the boarding-school fence punishments, the father's family testimony, and Elianne's chronology.
 

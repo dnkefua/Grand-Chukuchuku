@@ -444,6 +444,9 @@ five 9:16 key-art panels; and the critic review and continuity log.
 picture-board/ keeps the editable panel images, board PDF, visual system, and
 provenance notes. The individual images are visual development composites, not
 literal reconstructions of a particular memory or event.
+visual-reference/ contains the current author-supplied compound and
+Grand-Chukuchuku character baseline. This baseline takes precedence when a
+later board, animation asset, or image-generation prompt is created.
 
 All biographical material is based on Zino's account, not independently verified.
 Proposed scenes and disputed details are identified for further development.
@@ -459,10 +462,13 @@ This is a story-development draft, not a finished screenplay or produced series.
             + sorted((ROOT / "scripts").glob("*"))
             + sorted((ROOT / "writers-room").rglob("*"))
             + sorted((ROOT / "picture-board").rglob("*"))
+            + sorted((ROOT / "visual-reference").rglob("*"))
+            + [ROOT.parent / "Courtyard well inside the compound.png", ROOT.parent / "Grand Chukuchuku main character sheet.png"]
         )
         for p in files:
             if p.is_file():
-                z.write(p, p.relative_to(ROOT))
+                name = p.relative_to(ROOT) if p.is_relative_to(ROOT) else Path("visual-reference-source") / p.name
+                z.write(p, name)
     print(json.dumps({"master": str(master), "archive": str(zip_path), "chapter_pdfs": 5}, indent=2))
 
 if __name__ == "__main__":

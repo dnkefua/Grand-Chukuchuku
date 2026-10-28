@@ -4,6 +4,10 @@
 **Format:** 2D adult animation, vertical 9:16, English and Cameroon Pidgin with subtitles  
 **Status:** Development visual board. The images establish framing, character relationships, colour, and emotional progression; they are not literal reconstructions of Zino's memories.
 
+## Canonical visual references
+
+Use [`VISUAL_BASELINE_V1.md`](../visual-reference/VISUAL_BASELINE_V1.md) and its two author-supplied images before creating or revising any panel. The compound reference controls Fiango's geography and material feel. The Grand-Chukuchuku model sheet controls the adult ideal's face, hair, wardrobe, silhouette and emotional range. This baseline supersedes an older panel whenever they differ.
+
 ## Visual system
 
 - **Look:** Original expressive 2D adult-animation key art. Strong silhouettes, textured colour, sharp facial acting, cinematic light, and no imitation of a living artist or a specific show.

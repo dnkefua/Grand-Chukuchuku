@@ -24,6 +24,9 @@ five 9:16 key-art panels; and the critic review and continuity log.
 picture-board/ keeps the editable panel images, board PDF, visual system, and
 provenance notes. The individual images are visual development composites, not
 literal reconstructions of a particular memory or event.
+visual-reference/ contains the current author-supplied compound and
+Grand-Chukuchuku character baseline. This baseline takes precedence when a
+later board, animation asset, or image-generation prompt is created.
 
 All biographical material is based on Zino's account, not independently verified.
 Proposed scenes and disputed details are identified for further development.

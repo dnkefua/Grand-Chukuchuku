@@ -31,6 +31,7 @@ from reportlab.pdfgen import canvas
 
 
 ROOT = Path(__file__).resolve().parent.parent
+PROJECT_ROOT = ROOT.parent
 SCRIPT = ROOT / "scripts" / "Grand-Chukuchuku_Chapter_01_Full_Shooting_Script_v1.md"
 SCRIPT_PDF = SCRIPT.with_suffix(".pdf")
 SCRIPT_DOCX = SCRIPT.with_suffix(".docx")
@@ -39,6 +40,7 @@ BOARD_PDF = BOARD_DIR / "Grand-Chukuchuku_Chapter_01_Picture_Board.pdf"
 PACKAGE = ROOT / "Grand-Chukuchuku_Chapter_01_Script_and_Picture_Board_v1.zip"
 CONTINUITY = ROOT / "CONTINUITY_LOG.md"
 REVIEW = ROOT / "writers-room" / "drafts" / "CRITIC_CHAPTER_01_REVIEW.md"
+VISUAL_BASELINE = ROOT / "visual-reference" / "VISUAL_BASELINE_V1.md"
 
 INK = colors.HexColor("#183C39")
 MUTED = colors.HexColor("#586863")
@@ -73,6 +75,19 @@ PANELS = [
         "04_The_Crowd_Witness_View.png",
         "The crowd: witness view",
         "Episode 08 · A non-spectacular witness image for the hard-R sequence. The accused remains unnamed and guilt is never established.",
+    ),
+]
+
+BASELINES = [
+    (
+        PROJECT_ROOT / "Courtyard well inside the compound.png",
+        "Fiango compound reference",
+        "Author-supplied baseline for the circular courtyard: central mango tree, masonry well, clustered low homes, corrugated roofs, red-earth road, dense foliage, wall and power lines.",
+    ),
+    (
+        PROJECT_ROOT / "Grand Chukuchuku main character sheet.png",
+        "Grand-Chukuchuku model sheet",
+        "Author-supplied baseline for Zino's adult ideal: short tapered curls, close beard, navy suit, open white shirt, brown shoes, and a warm, expressive confidence.",
     ),
 ]
 
@@ -287,19 +302,50 @@ def board_cover(c: canvas.Canvas) -> None:
     c.line(48, 115, W - 48, 115)
     c.setFillColor(MUTED)
     c.setFont("GCSans", 8.5)
-    c.drawString(48, 92, "AI-generated development art. Composite scenes; not literal documentary reconstruction.")
+    c.drawString(48, 92, "Author-supplied compound and character references control all new or revised art.")
     c.drawString(48, 70, "Hard-R master requires a separate platform release cut before publishing to TikTok.")
+    c.showPage()
+
+
+def baseline_page(c: canvas.Canvas, idx: int, source: Path, title: str, caption: str) -> None:
+    c.setFillColor(PAPER)
+    c.rect(0, 0, W, H, fill=1, stroke=0)
+    c.setFillColor(GOLD)
+    c.setFont("GCSansB", 8)
+    c.drawString(43, H - 39, f"VISUAL BASELINE {idx:02d} / {len(BASELINES):02d}")
+    c.setFillColor(INK)
+    c.setFont("GCSerifB", 19)
+    c.drawString(43, H - 68, title)
+    with PILImage.open(source) as im:
+        iw, ih = im.size
+    max_w, max_h = W - 86, H - 210
+    scale = min(max_w / iw, max_h / ih)
+    dw, dh = iw * scale, ih * scale
+    x = (W - dw) / 2
+    y = 112 + (max_h - dh) / 2
+    c.drawImage(str(source), x, y, width=dw, height=dh, preserveAspectRatio=True, mask="auto")
+    c.setStrokeColor(LINE)
+    c.rect(x, y, dw, dh, stroke=1, fill=0)
+    para = Paragraph(markdown_rich(caption), ParagraphStyle("base-cap", fontName="GCSans", fontSize=9.2, leading=13, textColor=MUTED))
+    para.wrapOn(c, W - 86, 52)
+    para.drawOn(c, 43, 62)
+    c.setFillColor(MUTED)
+    c.setFont("GCSans", 7)
+    c.drawRightString(W - 43, 30, "CHAPTER ONE · PICTURE BOARD")
     c.showPage()
 
 
 def build_board_pdf() -> None:
     missing = [name for name, _, _ in PANELS if not (BOARD_DIR / name).exists()]
+    missing += [str(path) for path, _, _ in BASELINES if not path.exists()]
     if missing:
-        raise FileNotFoundError("Missing board panels: " + ", ".join(missing))
+        raise FileNotFoundError("Missing board references: " + ", ".join(missing))
     c = canvas.Canvas(str(BOARD_PDF), pagesize=A4, pageCompression=1)
     c.setTitle("Grand-Chukuchuku | Chapter One Picture Board")
     c.setAuthor("Based on the life of Nkeh Nkengzincho (Zino)")
     board_cover(c)
+    for idx, (source, title, caption) in enumerate(BASELINES, 1):
+        baseline_page(c, idx, source, title, caption)
     for idx, (name, title, caption) in enumerate(PANELS, 1):
         c.setFillColor(PAPER)
         c.rect(0, 0, W, H, fill=1, stroke=0)
@@ -333,8 +379,9 @@ def build_board_pdf() -> None:
 def make_package() -> None:
     targets = [
         SCRIPT, SCRIPT_PDF, SCRIPT_DOCX, BOARD_PDF, BOARD_DIR / "README.md",
-        CONTINUITY, REVIEW,
+        CONTINUITY, REVIEW, VISUAL_BASELINE,
         *[BOARD_DIR / name for name, _, _ in PANELS],
+        *[path for path, _, _ in BASELINES],
     ]
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for path in targets:
@@ -344,6 +391,8 @@ def make_package() -> None:
                 dest = Path("Full_Shooting_Script") / path.name
             elif path.parent == BOARD_DIR:
                 dest = Path("Picture_Board") / path.name
+            elif path == VISUAL_BASELINE or path in [item[0] for item in BASELINES]:
+                dest = Path("Visual_Baseline") / path.name
             elif path == CONTINUITY:
                 dest = Path("Documentation") / path.name
             else:

@@ -17,16 +17,16 @@ The chapter begins with a ten-year-old boy who creates Grand-Chukuchuku because 
 | --- | --- | --- | --- |
 | 1 | **Grand-Chukuchuku Never Loses** | Zino wants to win a football argument and impress Gideon and Luc. His temper turns a disputed call into a performance, until the landlord arrives for rent and electricity money. | The landlord says he will return before dark. |
 | 2 | **Rent and Light** | Zino wants to make his mother laugh and prove that Grand-Chukuchuku can solve their problem. He learns that a correct maths answer earns praise, not money. | His mother opens a paper he is not allowed to read. |
-| 3 | **The Fence** | In boarding school, Zino wants food and the comfort of home. A fence escape gives him both, then makes returning to school risky. | A school notice or fee conversation makes school belonging conditional. |
-| 4 | **Gideon's First Camera** | Gideon wants to turn his new camera into a business opportunity. Zino wants to be useful by helping him with girls, but speaks for Gideon instead of letting him speak. | Gideon asks Zino to help with something bigger. |
-| 5 | **Luc's Bible** | Luc wants to save a student he believes is drifting. Zino wants him to stop embarrassing himself. Their comedy becomes honest when Luc names Zino's need to look untouchable. | Zino hears that a student has been sent home over fees. |
-| 6 | **School Fees** | Zino wants to stay in class and avoid shame. His academic ability cannot solve the family problem, so he has to stop performing confidence and admit what happened. | He sees his mother working late while the future of school remains uncertain. |
-| 7 | **Miss Mukete** | Zino wants to be seen as more than a boy with fee problems. Miss Mukete recognizes ability but demands discipline; first love enters only after its real chronology is supplied. | Exam season begins and students speak about Professional School. |
-| 8 | **Professional School** | Zino wants the freedom of night study: revision, friends, attention, and escape from home. He moves between students who study and students who use the night for other pursuits. | A noise outside interrupts the classroom. |
-| 9 | **The Crowd** | An unproven accusation of theft becomes direct hard-R jungle justice. Zino, Gideon, and Luc see public brutality they cannot stop or explain. | Zino returns home carrying smoke and silence. |
-| 10 | **The Next Day** | Zino wants normal life to resume, but an ordinary accusation or argument now carries new terror. This must be based on a remembered incident or labeled a composite. | A choice risks school, friendship, or Elianne's trust. |
-| 11 | **The Examination** | Zino wants proof that he can rise above the compound's limits. Study, fees, freedom, and friendship collide during the exam period. | A result leads immediately to the question of how he can continue. |
-| 12 | **After Fiango** | Zino completes secondary school in 2007 and wants the achievement to mean safety for his mother. It does not. | America becomes an expensive future, not an impossible story. |
+| 3 | **Gideon's First Camera** | During day school, Gideon wants to turn his new camera into a business opportunity. Zino wants to be useful by helping him with girls, but speaks for Gideon instead of letting him speak. | Gideon asks Zino to help with something bigger. |
+| 4 | **Luc's Bible** | During day school, Luc wants to save a student he believes is drifting. Zino wants him to stop embarrassing himself. Their comedy becomes honest when Luc names Zino's need to look untouchable. | Zino hears that a student has been sent home over fees. |
+| 5 | **School Fees** | Zino wants to stay in class and avoid shame. His academic ability cannot solve the family problem, so he has to stop performing confidence and admit what happened. | He sees his mother working late while the future of school remains uncertain. |
+| 6 | **Miss Mukete** | Zino wants to be seen as more than a boy with fee problems. Miss Mukete recognizes ability but demands discipline; first love enters only after its real chronology is supplied. | Exam season begins and students speak about Professional School. |
+| 7 | **Professional School** | Zino wants the freedom of night study: revision, friends, attention, and escape from home. He moves between students who study and students who use the night for other pursuits. | A noise outside interrupts the classroom. |
+| 8 | **The Crowd** | During the Fiango day-school years, an unproven accusation of theft becomes direct hard-R jungle justice. Zino, Gideon, and Luc see public brutality they cannot stop or explain. | Zino returns home carrying smoke and silence. |
+| 9 | **The Next Day** | Zino wants ordinary life to resume, but an ordinary accusation or argument now carries new terror. This must be based on a remembered incident or labeled a composite. | A choice risks school, friendship, or Elianne's trust. |
+| 10 | **The Long Road** | A day-long journey through mountains and valleys takes Zino to a remote boarding high school, far from Fiango. He wants to prove he belongs among the country's best students. | The dormitory reveals wealth, priests, white teachers, bullying, and rules he does not yet understand. |
+| 11 | **The Fence** | Zino witnesses students punished after jumping the boarding-school fence to buy food. He wants to keep his head down, but the violence of discipline makes hunger and fear communal. | Exam pressure and the question of whether he can endure the school take over. |
+| 12 | **After Fiango** | Zino completes boarding high school in 2007 and wants the achievement to mean safety for his mother. It does not. | America becomes an expensive future, not an impossible story. |
 
 ## Character engines
 
@@ -41,7 +41,8 @@ The chapter begins with a ten-year-old boy who creates Grand-Chukuchuku because 
 ## Culture and visual rules
 
 - The compound is a pressure cooker: two families, three single mothers, two bachelors, and three student tenants share a well, mango tree, rent anxiety, music, food, gossip, and the landlord's monthly visit.
-- Professional School is a daytime vocational campus for building, construction, and electrical training. Around June, its rooms open at night for secondary-school exam study. It holds genuine work and distraction; never treat all students as delinquent.
+- The first five years are Fiango day school with Luc and Gideon. Professional School is a daytime vocational campus for building, construction, and electrical training. Around June, its rooms open at night for day-school exam study. It holds genuine work and distraction; never treat all students as delinquent.
+- The final two years are at a remote boarding high school reached after a day of travel through mountains and valleys. It brings top students, wealthy parents, white teachers and priests, strict discipline, bullying, and a distance from home that changes Zino's sense of belonging.
 - Zino shifts language by relationship: Pidgin with friends, English at home, French and English in school. Use remembered phrases rather than generic slang.
 - Jungle justice is direct hard-R material. The accused person's guilt stays unknown. The crowd's certainty is the horror. Show the violence through Zino's witness perspective, then show the change it leaves in him.
 
@@ -49,8 +50,8 @@ The chapter begins with a ten-year-old boy who creates Grand-Chukuchuku because 
 
 1. Give the finale a concrete post-secondary financial barrier, deadline, or opportunity from Zino's memory.
 2. Establish a consistent rule for Grand-Chukuchuku: every fantasy reveals something Zino cannot say plainly; after “The Crowd,” the device should fail or change.
-3. Confirm the dates and details of the secondary-school fee exclusion, boarding-school fence incident, and the jungle-justice composite.
-4. Record the school name, boarding start, Professional School years, Miss Mukete's period, and Elianne's period.
+3. Confirm the dates and details of the day-school fee exclusion, boarding-school fence punishments Zino witnessed, and the jungle-justice composite.
+4. Record the day-school name, boarding-school name and start year, travel route, Professional School years, Miss Mukete's period, and Elianne's period.
 5. Give the mother a personal desire and a boundary that creates dramatic choice.
 6. Track recurring objects: football, landlord notebook, well bucket, mango tree, exercise book, Gideon's camera, Luc's Bible, and the school fence. Each should mean something different by Episode 12.
 
@@ -67,8 +68,8 @@ The chapter begins with a ten-year-old boy who creates Grand-Chukuchuku because 
 
 ## Fact tiers
 
-**Confirmed:** father died when Zino was two; mother was a primary-school teacher; Gideon and Luc's core traits; compound arrangement; monthly rent and electricity collection; Professional School identity; at least four jungle-justice incidents during secondary school; school milestones.
+**Confirmed:** father died when Zino was two; mother was a primary-school teacher; Gideon and Luc's core traits; compound arrangement; monthly rent and electricity collection; five day-school years with Luc and Gideon; two remote boarding high-school years; Professional School identity; at least four jungle-justice incidents during day school; school milestones.
 
-**Unresolved:** exact calendar dates, schools, individual jungle-justice events, individual fee-exclusion details, the father's family testimony, and Elianne's chronology.
+**Unresolved:** exact calendar dates, school names, individual jungle-justice events, individual fee-exclusion details, the boarding-school fence punishments, the father's family testimony, and Elianne's chronology.
 
 **Proposed composite:** exact dialogue, landlord visit in Episode 1, the single jungle-justice event in Episode 9, Gideon lowering the camera, Luc losing words, and the mother's immediate response.

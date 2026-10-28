@@ -1,6 +1,6 @@
 # Chapter 1: Fiango
 
-**Period:** Around 2000-2007, with earlier memories clearly identified
+**Period:** Around 2000-2007: five day-school years, then two boarding high-school years
 
 **Focus:** Football, friendship, unpaid school fees, and a gifted boy's growing determination to give his mother a better life.
 
@@ -18,9 +18,9 @@ Street football introduces Zino's wit, competitiveness, and temper. Luc and Gide
 
 ## Act II - Confrontation
 
-Education reveals both Zino's ability and the limits of that advantage. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. His mother's primary-school teaching income and his uncle's intermittent help keep opportunity alive without removing uncertainty. Boarding school in Kumba supplies comic escapes over the fence to eat at home. Each June, the daytime vocational school called Professional School opens classrooms at night for secondary-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur in these years. Feature them through a hard-R composite episode that shows the crowd's brutality directly, then follows what Zino carries away from it.
+The first five years of day school give Zino daily life with Luc and Gideon. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. Each June, the daytime vocational school called Professional School opens classrooms at night for day-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur during these Fiango years. The final two high-school years move him to a remote village reached after a day of travel through mountains and valleys. Boarding school brings elite students, rich parents, white teachers and priests, rigid routine, bullying, and discipline. Zino witnesses students punished for jumping the fence to buy food; he is not the student jumping.
 
-**Turning point:** Being the cleverest boy in the room does not guarantee that he can remain in it.
+**Turning point:** Being clever does not make Zino safe when the rules, people, and distance from home all change.
 
 ## Act III - Consequence
 
@@ -32,12 +32,13 @@ Zino completes secondary school in 2007. Academic progress creates a new thresho
 
 1. **Grand-Chukuchuku Never Loses:** A football dispute introduces the imaginary hero and the real boy's difficulty accepting an unfavorable decision.
 2. **School Fees:** At the remembered age, a fee exclusion interrupts academic confidence and changes the rhythm of an ordinary school day.
-3. **Professional School:** June evening revision creates a divided space: some students study; some pursue distraction; Zino must decide what kind of future he is preparing for.
-4. **The Crowd:** Zino witnesses a hard-R composite of jungle justice: an accusation becomes public violence. The episode shows the brutality directly and ends with the fear, silence, and moral damage left behind.
+3. **The Crowd:** Zino witnesses a hard-R composite of jungle justice during the Fiango day-school years: an accusation becomes public violence. The episode shows the brutality directly and ends with the fear, silence, and moral damage left behind.
+4. **The Long Road:** A day-long trip through mountains and valleys takes Zino to boarding school, where distance, wealth, routine, bullying, and strict discipline change the rules of his life.
+5. **The Fence:** Zino witnesses students punished after jumping the boarding-school fence to buy food. The episode makes clear that he does not jump, while showing how hunger, fear, and discipline shape the whole dormitory.
 
 ## Memory prompts
 
-1. Which secondary school did you enter, when did boarding begin, and what is one defining memory of Luc, Gideon, Elianne, or Miss Mukete?
+1. Which day school did you attend with Luc and Gideon, when did boarding begin, and what is one defining memory of Luc, Gideon, Elianne, or Miss Mukete?
 
    Notes: 
 
@@ -45,14 +46,14 @@ Zino completes secondary school in 2007. Academic progress creates a new thresho
 
    Notes: 
 
-3. What did Professional School mean in your school, which exam was it for, and what is one evening you remember?
+3. What did Professional School mean in your day school, which exam was it for, and what is one evening or jungle-justice incident you remember most clearly?
 
    Notes: 
 
-4. For each jungle-justice incident, what did you witness directly, how old were you, and what effect did it have on you?
+4. What was the boarding school's name, how did you travel there, and what did the mountains, valleys, dormitories, teachers, priests, bullying, and punishment feel like?
 
    Notes: 
 
 **Grand-Chukuchuku motif:** Grand-Chukuchuku is playful and spectacular: imaginary victories contrast with ordinary limits.
 
-**Details still open:** The opening is at ten, after primary completion in 1999. The age-ten fee scene remains a proposed composite. Zino's father died when he was two, so he has no firsthand memory of it. Professional School is a vocational campus that opens classrooms at night during the secondary-school exam period.
+**Details still open:** The first five years are Fiango day school with Luc and Gideon; the final two are remote boarding high school. Professional School belongs in day school. Zino witnessed, rather than joined, the fence punishments.

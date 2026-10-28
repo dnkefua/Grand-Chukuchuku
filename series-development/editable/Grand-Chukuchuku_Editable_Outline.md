@@ -28,7 +28,7 @@ After losing his father, a gifted boy in Kumba invents an invincible hero while 
 
 In Fiango, Kumba, ten-year-old Zino is clever, competitive, and rarely short of an answer. On the football field, he entertains Luc and Gideon with stories of Grand-Chukuchuku, an imaginary man capable of impossible feats. His compound's well, mango tree, crowded tenants, and the landlord's monthly rent and electricity collection make money impossible to ignore. Zino's deepest fear is that he will never build his mother a house.
 
-Zino is raised by his mother, a primary-school teacher. His father dies after a snake bite while spraying cocoa when Zino is two; in the family account, he passes out before reaching home. Zino has no direct memory of the loss. School-fee exclusions, boarding-school trips over the fence to eat at home, friendship, first love, and Miss Mukete's influence make education both hope and pressure. Professional School, a daytime vocational campus, opens its classrooms at night for secondary-school students to revise, socialize, and escape home. Zino completes secondary school in 2007 and his first degree in 2011. His uncle, friends, family, and a land sale make America possible.
+Zino is raised by his mother, a primary-school teacher. His father dies after a snake bite while spraying cocoa when Zino is two; in the family account, he passes out before reaching home. Zino has no direct memory of the loss. Five years of day school in Fiango give him Luc, Gideon, Professional School, football, school-fee pressure, and Miss Mukete. Two final years at a remote boarding high school introduce mountains and valleys, a day-long journey from home, rich students, white teachers and priests, strict routine, bullying, and severe discipline. He witnesses students punished for jumping the fence to buy food. Zino completes secondary school in 2007 and his first degree in 2011. His uncle, friends, family, and a land sale make America possible.
 
 He arrives in the United States in 2012 and completes a master's in 2014. Studying social work comes more easily than securing his life around it: late fees nearly cost him his place, and money, loneliness, immigration uncertainty, and relationships place him under pressure. His girlfriend offers support. A nursing-equivalency ambition is obstructed by unavailable documents from home, a separate issue from his immigration status. He misses Cameroon while knowing that going back would not automatically resolve the expectations he carries.
 
@@ -66,6 +66,8 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 **Professional School:** A real vocational school active in daytime for building, construction, and electrical training. During the secondary-school years, its classrooms open at night around June for students to revise for the exam period. Some read alone or in groups; others use the gathering to socialize, smoke, drink, court girls, or simply escape home. Treat the setting as varied: it is not true that every student misbehaves.
 
+**Boarding high school:** For the final two years before 2007, Zino attends a boarding high school in a remote village reached after a day of travel through mountains and valleys. It brings him into a new world of top students, wealthy parents, white teachers and priests, strict routine, discipline, bullying, and distance from home. He witnesses students punished after they jump the fence to buy food; do not make him the one who jumps.
+
 **Jungle justice:** During his secondary-school years, Zino reports witnessing at least four incidents in Fiango in which people accused of theft were attacked by a crowd and burned with tires and fuel. This is core hard-R material: depict the public brutality and its aftermath directly through Zino's witnessing. The accusation must remain unproven, and the scene must retain its moral weight rather than treat violence as proof of guilt.
 
 **Everyday texture:** Food, church, football, music, school routines, discipline, slang, celebrations, neighborhood life, and the sound of the landlord's monthly visit can keep the world specific and alive.
@@ -75,8 +77,9 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 - **1990:** Zino is born.
 - **Around 1992:** Zino's father dies after a snake bite while spraying cocoa, when Zino is two. Zino has no direct recollection.
 - **1999:** Primary school completed; its fee exclusion belongs before this milestone.
-- **Around 2000:** Opening: Zino is ten, in Fiango, after primary school.
-- **2007:** Secondary school completed; high-school fee exclusion has no exact date yet.
+- **Around 2000:** Opening: Zino is ten, in Fiango, after primary school. Five years of day school begin, with Luc and Gideon.
+- **Around 2005:** Two years of high school begin at a remote boarding school reached after a day of travel through mountains and valleys.
+- **2007:** Two years of boarding high school complete the secondary-school period; the high-school fee exclusion has no exact date yet.
 - **2011:** First degree completed; subject and institution need confirmation.
 - **2012:** Moves to the United States; Oklahoma and East Central University are identified.
 - **2014:** Master's completed; social-work studies identified; exact award title to confirm.
@@ -84,13 +87,13 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 - **2019:** Deportation for remaining without appropriate immigration documents.
 - **2019-2020:** Roughly six months in Cameroon before the Dubai move; exact months open.
 - **2020 onward:** Dubai, digital-retail employment, COVID, and later crypto-merchant success.
-- **Dates to place:** Aunt's killing, loss of housing and farming income, relocation to Douala, and individual jungle-justice incidents within the secondary-school years.
-- **June study sessions:** Professional School is a vocational campus that opens classrooms at night during the secondary-school exam period. Confirm the school name and years; use Zino's remembered local terminology in dialogue.
+- **Dates to place:** Aunt's killing, loss of housing and farming income, relocation to Douala, and individual jungle-justice incidents within the five day-school years.
+- **June study sessions:** Professional School is a vocational campus that opens classrooms at night during the day-school exam period. Confirm the school name and years; use Zino's remembered local terminology in dialogue.
 - **Present account:** Mother's house remains unbuilt; later business milestones need expansion.
 
 # Chapter 1: Fiango
 
-**Period:** Around 2000-2007, with earlier memories clearly identified
+**Period:** Around 2000-2007: five day-school years, then two boarding high-school years
 
 **Focus:** Football, friendship, unpaid school fees, and a gifted boy's growing determination to give his mother a better life.
 
@@ -108,9 +111,9 @@ Street football introduces Zino's wit, competitiveness, and temper. Luc and Gide
 
 ## Act II - Confrontation
 
-Education reveals both Zino's ability and the limits of that advantage. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. His mother's primary-school teaching income and his uncle's intermittent help keep opportunity alive without removing uncertainty. Boarding school in Kumba supplies comic escapes over the fence to eat at home. Each June, the daytime vocational school called Professional School opens classrooms at night for secondary-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur in these years. Feature them through a hard-R composite episode that shows the crowd's brutality directly, then follows what Zino carries away from it.
+The first five years of day school give Zino daily life with Luc and Gideon. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. Each June, the daytime vocational school called Professional School opens classrooms at night for day-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur during these Fiango years. The final two high-school years move him to a remote village reached after a day of travel through mountains and valleys. Boarding school brings elite students, rich parents, white teachers and priests, rigid routine, bullying, and discipline. Zino witnesses students punished for jumping the fence to buy food; he is not the student jumping.
 
-**Turning point:** Being the cleverest boy in the room does not guarantee that he can remain in it.
+**Turning point:** Being clever does not make Zino safe when the rules, people, and distance from home all change.
 
 ## Act III - Consequence
 
@@ -122,12 +125,13 @@ Zino completes secondary school in 2007. Academic progress creates a new thresho
 
 1. **Grand-Chukuchuku Never Loses:** A football dispute introduces the imaginary hero and the real boy's difficulty accepting an unfavorable decision.
 2. **School Fees:** At the remembered age, a fee exclusion interrupts academic confidence and changes the rhythm of an ordinary school day.
-3. **Professional School:** June evening revision creates a divided space: some students study; some pursue distraction; Zino must decide what kind of future he is preparing for.
-4. **The Crowd:** Zino witnesses a hard-R composite of jungle justice: an accusation becomes public violence. The episode shows the brutality directly and ends with the fear, silence, and moral damage left behind.
+3. **The Crowd:** Zino witnesses a hard-R composite of jungle justice during the Fiango day-school years: an accusation becomes public violence. The episode shows the brutality directly and ends with the fear, silence, and moral damage left behind.
+4. **The Long Road:** A day-long trip through mountains and valleys takes Zino to boarding school, where distance, wealth, routine, bullying, and strict discipline change the rules of his life.
+5. **The Fence:** Zino witnesses students punished after jumping the boarding-school fence to buy food. The episode makes clear that he does not jump, while showing how hunger, fear, and discipline shape the whole dormitory.
 
 ## Memory prompts
 
-1. Which secondary school did you enter, when did boarding begin, and what is one defining memory of Luc, Gideon, Elianne, or Miss Mukete?
+1. Which day school did you attend with Luc and Gideon, when did boarding begin, and what is one defining memory of Luc, Gideon, Elianne, or Miss Mukete?
 
    Notes: 
 
@@ -135,17 +139,17 @@ Zino completes secondary school in 2007. Academic progress creates a new thresho
 
    Notes: 
 
-3. What did Professional School mean in your school, which exam was it for, and what is one evening you remember?
+3. What did Professional School mean in your day school, which exam was it for, and what is one evening or jungle-justice incident you remember most clearly?
 
    Notes: 
 
-4. For each jungle-justice incident, what did you witness directly, how old were you, and what effect did it have on you?
+4. What was the boarding school's name, how did you travel there, and what did the mountains, valleys, dormitories, teachers, priests, bullying, and punishment feel like?
 
    Notes: 
 
 **Grand-Chukuchuku motif:** Grand-Chukuchuku is playful and spectacular: imaginary victories contrast with ordinary limits.
 
-**Details still open:** The opening is at ten, after primary completion in 1999. The age-ten fee scene remains a proposed composite. Zino's father died when he was two, so he has no firsthand memory of it. Professional School is a vocational campus that opens classrooms at night during the secondary-school exam period.
+**Details still open:** The first five years are Fiango day school with Luc and Gideon; the final two are remote boarding high school. Professional School belongs in day school. Zino witnessed, rather than joined, the fence punishments.
 
 
 # Chapter 2: The Price of Leaving

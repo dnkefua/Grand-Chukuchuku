@@ -4,12 +4,12 @@
 
 **Target length:** 2 minutes 30 seconds
 **Format:** Vertical 9:16 animated short
-**Story period:** Zino's secondary-school years
+**Story period:** One of Zino's five Fiango day-school years, before boarding high school
 **Draft status:** Development beats — hard-R proposed composite, not a record of one specific incident
 
 ### Purpose
 
-Zino reports witnessing at least four incidents of jungle justice in Fiango while he was in secondary school. This hard-R episode folds the emotional truth of those experiences into one composite event: a teenager sees the crowd call itself justice while carrying out public brutality.
+Zino reports witnessing at least four incidents of jungle justice in Fiango during the five day-school years before boarding high school. This hard-R episode folds the emotional truth of those experiences into one composite event: a teenager sees the crowd call itself justice while carrying out public brutality.
 
 The violence is shown directly through Zino's witness perspective: the beating, four tires, fuel, fire, screaming, heat, and the aftermath remain on screen. The person accused of theft is not named and is never treated as proven guilty. The episode stays with the crowd's fear, cruelty, and moral damage rather than making the violence a victory.
 
@@ -17,7 +17,7 @@ The violence is shown directly through Zino's witness perspective: the beating, 
 
 ### Act I — The night-school choice (0:00–0:40)
 
-June evening. The daytime vocational campus known as Professional School is open for secondary-school students. A classroom holds real revision: a few students work alone, another group shares notes, and Luc quietly tries to draw a student into a conversation about faith. Gideon has his secondary-school camera bag with him and wants to leave early to look for a paying opportunity. Zino uses humour to pull attention toward himself, then settles into the work.
+June evening. The daytime vocational campus known as Professional School is open for day-school students. A classroom holds real revision: a few students work alone, another group shares notes, and Luc quietly tries to draw a student into a conversation about faith. Gideon has his camera bag with him and wants to leave early to look for a paying opportunity. Zino uses humour to pull attention toward himself, then settles into the work.
 
 **Immediate question:** Will this be a night of studying, distraction, or both?
 
@@ -35,7 +35,7 @@ Zino walks back through a compound that is too quiet, with smoke caught in his u
 
 ### Details to add from Zino's memory
 
-1. Which secondary-school year best represents the events?
+1. Which day-school year best represents the events?
 2. Did Professional School and the incident occur on the same evening, or should these be separate locations and episodes?
 3. What did Zino see directly, hear, smell, or learn afterward?
 4. Who was with him, and what did his mother or another adult say?

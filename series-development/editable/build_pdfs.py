@@ -268,7 +268,7 @@ def chronology(c):
     l = Layout(c, 6, 17, "Chronology & open details")
     bookmark(c, "timeline", "Chronology and open details")
     l.title("Working chronology", "What belongs where", "Anchors supplied by Zino; exact months and several connecting details remain open.")
-    l.table(DATA["timeline"], [104, CW - 104], pad=5)
+    l.table(DATA["timeline"], [104, CW - 104], pad=3)
     l.sub("Public history to verify", "Place the Ambazonian crisis, Cameroon football victories, and the Biya, Obama, and Trump presidencies against the confirmed personal timeline. Identify the intended AFCON victory. Clarify whether the World Trade Center reference means the 1993 bombing or the September 11, 2001 attacks. Public figures are context; no specific policy has yet been established as causing Zino's experience.")
     l.note("Continuity rule", "Keep nursing licensing, university payments, immigration status, and business ownership as distinct issues. Date Zino's father's death, the aunt's killing, family displacement, and the reported jungle-justice incidents before deciding where to dramatize them. Never turn a proposed scene into an established memory simply by repeating it.")
     page_end(c)

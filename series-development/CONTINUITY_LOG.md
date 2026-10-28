@@ -11,6 +11,8 @@ This log separates confirmed additions from items that still need a date, source
 - The Fiango compound holds two families, three single mothers, two bachelors, and three student tenants. The landlord collects monthly rent and electricity money.
 - Zino reports witnessing at least four incidents of jungle justice in Fiango against people accused of theft. The hard-R master will depict this brutality directly through Zino's secondary-school perspective, while preserving the uncertainty of the accusation and the consequences for everyone involved.
 - Professional School is a real daytime vocational school for building, construction, and electrical training. Around June in the secondary-school years, its classrooms open at night for exam-period study. Some students study; others socialize, smoke, drink, pursue relationships, or use the session as a reason to leave home. Do not treat this as true of every student.
+- The first five secondary-school years are day school with Luc and Gideon. The final two years are high school at a remote boarding school reached after a day of travel through mountains and valleys. It has top students, wealthy parents, white teachers and priests, strict routine, bullying, and severe discipline.
+- The earlier statement that Zino jumped a boarding-school fence to eat at home is corrected. He witnessed students punished after jumping the fence to buy food; he did not jump himself.
 
 ## Items requiring clarification
 
@@ -20,6 +22,7 @@ This log separates confirmed additions from items that still need a date, source
 | Professional School exam terminology | The setting is resolved: a vocational campus whose classrooms open at night during the exam period. Use Zino's remembered local terminology in dialogue until the formal exam name is needed. |
 | Gideons Bible wording | Confirm whether Luc carried a Gideons Bible, a personal Bible, or another small Bible. |
 | Jungle-justice incidents | All occurred during secondary-school years. Capture date/place, direct observation, and emotional aftermath for each before dramatizing beyond the planned composite episode. |
+| Boarding school | Record the name, village, boarding start year, travel route, punishments, bullying, teachers, priests, and the students who jumped the fence. |
 | Adult activity at Professional School | Confirm what Zino directly saw, at what age, and how far the series should depict it. Avoid sexual content involving minors. |
 
 ## Existing guardrails that remain active

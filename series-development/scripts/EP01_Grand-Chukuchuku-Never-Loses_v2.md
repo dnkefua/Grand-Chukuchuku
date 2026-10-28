@@ -103,7 +103,7 @@ Zino sits with the completed sum in front of him. Outside, football resumes. Ins
 
 **CUT TO BLACK.**
 
-**END CARD:** GRAND-CHUKUCHUKU — EPISODE 02: “THE FENCE”
+**END CARD:** GRAND-CHUKUCHUKU — EPISODE 02: “RENT AND LIGHT”
 
 ## Script notes for later revision
 

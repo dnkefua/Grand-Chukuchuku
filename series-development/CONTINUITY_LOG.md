@@ -15,6 +15,10 @@ This log separates confirmed additions from items that still need a date, source
 - The earlier statement that Zino jumped a boarding-school fence to eat at home is corrected. He witnessed students punished after jumping the fence to buy food; he did not jump himself.
 - At the end of five day-school years, Zino writes ten GCE Ordinary-Level subjects out of a maximum eleven. After two boarding years, he writes five GCE Advanced-Level subjects, the maximum and his university study area. Results are read on the radio. The boarding school has a 100% Advanced-Level pass rate, so Zino waits for his name with excitement rather than fear of failing.
 - Proud of the Ordinary-Level result, Zino's uncle promises that Zino can choose any school and go to America if he succeeds in all five Advanced-Level subjects. Zino chooses boarding school. After the A Levels, the uncle defers America until Zino completes a first university degree.
+- Football is an everyday Fiango rhythm: players contribute small stakes before street matches, and the winning side takes the pooled money. Matches happen in the evenings on the road, with slippers sometimes used as goalposts.
+- “Nacking Bottle” is a street-football variation: a beer bottle stands at each end and the first side to strike the other side's bottle three times wins. Zino saved lunch money to play. The exact ages, stakes, opponents and individual matches remain to be recorded.
+- At school, Zino admires and talks to girls, sometimes to help the quieter Gideon start a conversation. He also helps Luc with mathematics while Luc continues approaching students to preach.
+- Gideon pursues camera work and books or seeks birthday-party gigs. The exact camera, event dates, clients and payments remain open.
 
 ## Items requiring clarification
 
@@ -28,6 +32,7 @@ This log separates confirmed additions from items that still need a date, source
 | GCE result days | Record Zino's ten Ordinary-Level subjects, five Advanced-Level subjects, where each radio was heard, who was present, and the words or celebration he remembers. |
 | Uncle's promise | Record the exact Ordinary-Level promise, how Zino chose boarding school, the Advanced-Level conversation, and why America moved to after the first degree. |
 | Adult activity at Professional School | Confirm what Zino directly saw, at what age, and how far the series should depict it. Avoid sexual content involving minors. |
+| Christmas holiday / club night | Record Zino's age, calendar year, location, who was present, and what happened. The memory includes Gideon paying for drinks and Zino helping him meet girls, but it cannot be placed in the 1999–2007 school chapter unless Zino confirms it occurred when all depicted participants were adults. |
 
 ## Existing guardrails that remain active
 

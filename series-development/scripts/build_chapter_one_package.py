@@ -6,6 +6,7 @@ from __future__ import annotations
 from html import escape
 from pathlib import Path
 import re
+import sys
 import zipfile
 
 from docx import Document
@@ -32,15 +33,28 @@ from reportlab.pdfgen import canvas
 
 ROOT = Path(__file__).resolve().parent.parent
 PROJECT_ROOT = ROOT.parent
-SCRIPT = ROOT / "scripts" / "Grand-Chukuchuku_Chapter_01_Full_Shooting_Script_v1.md"
+VERSION = sys.argv[1] if len(sys.argv) == 2 else "v1"
+if VERSION not in {"v1", "v2"}:
+    raise SystemExit("Usage: build_chapter_one_package.py [v1|v2]")
+
+SCRIPT = ROOT / "scripts" / f"Grand-Chukuchuku_Chapter_01_Full_Shooting_Script_{VERSION}.md"
 SCRIPT_PDF = SCRIPT.with_suffix(".pdf")
 SCRIPT_DOCX = SCRIPT.with_suffix(".docx")
 BOARD_DIR = ROOT / "picture-board"
-BOARD_PDF = BOARD_DIR / "Grand-Chukuchuku_Chapter_01_Picture_Board.pdf"
-PACKAGE = ROOT / "Grand-Chukuchuku_Chapter_01_Script_and_Picture_Board_v1.zip"
+BOARD_PDF = BOARD_DIR / ("Grand-Chukuchuku_Chapter_01_Picture_Board.pdf" if VERSION == "v1" else f"Grand-Chukuchuku_Chapter_01_Picture_Board_{VERSION}.pdf")
+PACKAGE = ROOT / f"Grand-Chukuchuku_Chapter_01_Script_and_Picture_Board_{VERSION}.zip"
 CONTINUITY = ROOT / "CONTINUITY_LOG.md"
 REVIEW = ROOT / "writers-room" / "drafts" / "CRITIC_CHAPTER_01_REVIEW.md"
 VISUAL_BASELINE = ROOT / "visual-reference" / "VISUAL_BASELINE_V1.md"
+V2_ROOM_DOCS = [
+    ROOT / "writers-room" / "v2-drafts" / "CRITIC_60_EPISODE_ARCHITECTURE.md",
+    ROOT / "writers-room" / "v2-drafts" / "WRITER_A_EPS_01_10.md",
+    ROOT / "writers-room" / "v2-drafts" / "WRITER_B_EPS_13_24.md",
+    ROOT / "writers-room" / "v2-drafts" / "WRITER_C_EPS_25_36.md",
+    ROOT / "writers-room" / "v2-drafts" / "WRITER_D_EPS_37_48.md",
+    ROOT / "writers-room" / "v2-drafts" / "WRITER_E_EPS_49_60.md",
+    ROOT / "scripts" / "build_chapter_one_v2.py",
+]
 
 INK = colors.HexColor("#183C39")
 MUTED = colors.HexColor("#586863")
@@ -77,6 +91,19 @@ PANELS = [
         "Episode 08 · A non-spectacular witness image for the hard-R sequence. The accused remains unnamed and guilt is never established.",
     ),
 ]
+if VERSION == "v2":
+    PANELS.extend([
+        (
+            "05_Nacking_Bottle.png",
+            "Nacking Bottle",
+            "Episodes 03–05, 13–15 and 30 · Lunch money, two target bottles and a pooled stake turn an evening street game into a test of hunger, temper and trust.",
+        ),
+        (
+            "06_Between_Bells.png",
+            "Between bells",
+            "Episodes 08–12 and 18–21 · Zino helps Luc with maths while Gideon gathers courage to speak for himself; the ordinary school day becomes character work.",
+        ),
+    ])
 
 BASELINES = [
     (
@@ -293,7 +320,7 @@ def board_cover(c: canvas.Canvas) -> None:
     c.setFont("GCSans", 14)
     c.drawString(48, H - 226, "Chapter One: Fiango")
     quote = Paragraph(
-        "Five visual anchors for a 12-episode, 9:16 animated chapter about imagination, school, public violence, and the road away from home.",
+        f"{len(PANELS)} visual anchors for a {60 if VERSION == 'v2' else 12}-episode, 9:16 animated chapter about imagination, school, public violence, and the road away from home.",
         ParagraphStyle("quote", fontName="GCSerif", fontSize=14, leading=20, textColor=INK),
     )
     quote.wrapOn(c, W - 130, 150)
@@ -383,6 +410,11 @@ def make_package() -> None:
         *[BOARD_DIR / name for name, _, _ in PANELS],
         *[path for path, _, _ in BASELINES],
     ]
+    if VERSION == "v2":
+        missing = [path for path in V2_ROOM_DOCS if not path.exists()]
+        if missing:
+            raise FileNotFoundError("Missing v2 room documents: " + ", ".join(map(str, missing)))
+        targets.extend(V2_ROOM_DOCS)
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for path in targets:
             if path == SCRIPT:
@@ -395,6 +427,8 @@ def make_package() -> None:
                 dest = Path("Visual_Baseline") / path.name
             elif path == CONTINUITY:
                 dest = Path("Documentation") / path.name
+            elif path in V2_ROOM_DOCS:
+                dest = Path("Writers_Room") / path.name
             else:
                 dest = Path("Documentation") / path.name
             z.write(path, dest)

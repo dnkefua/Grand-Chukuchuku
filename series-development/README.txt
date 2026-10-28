@@ -17,10 +17,12 @@ confirmed corrections and questions that must be resolved before scripting.
 writers-room/ contains the active season map, cultural rules, fact tiers, and
 editorial requirements used to develop each new script.
 
-Grand-Chukuchuku_Chapter_01_Script_and_Picture_Board_v1.zip is the
-download-ready Chapter One package. It contains the 12-episode full shooting
-script as PDF, editable Word, and Markdown; the illustrated picture-board PDF;
-five 9:16 key-art panels; and the critic review and continuity log.
+Grand-Chukuchuku_Chapter_01_Script_and_Picture_Board_v2.zip is the current
+download-ready Chapter One package. It contains the 60-episode, two-minutes-max
+full shooting script as PDF, editable Word, and Markdown; the illustrated
+picture-board PDF; seven 9:16 key-art panels; the writers' room drafts; and the
+critic architecture and continuity log. v1 remains the original 12-episode
+development package for historical reference.
 picture-board/ keeps the editable panel images, board PDF, visual system, and
 provenance notes. The individual images are visual development composites, not
 literal reconstructions of a particular memory or event.

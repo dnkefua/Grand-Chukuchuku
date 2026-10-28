@@ -18,27 +18,27 @@ Street football introduces Zino's wit, competitiveness, and temper. Luc and Gide
 
 ## Act II - Confrontation
 
-The first five years of day school give Zino daily life with Luc and Gideon. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. Each June, the daytime vocational school called Professional School opens classrooms at night for day-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur during these Fiango years. The final two high-school years move him to a remote village reached after a day of travel through mountains and valleys. Boarding school brings elite students, rich parents, white teachers and priests, rigid routine, bullying, and discipline. Zino witnesses students punished for jumping the fence to buy food; he is not the student jumping.
+The first five years of day school give Zino daily life with Luc and Gideon. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. Each June, the daytime vocational school called Professional School opens classrooms at night for day-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur during these Fiango years. At the end of the five years, he writes ten GCE Ordinary-Level subjects, from a possible maximum of eleven. Results are read on the radio, turning the wait into a shared public ordeal and the result into celebration.
 
-**Turning point:** Being clever does not make Zino safe when the rules, people, and distance from home all change.
+**Turning point:** The first result opens a road forward, but it sends Zino farther from everything familiar.
 
 ## Act III - Consequence
 
-Zino completes secondary school in 2007. Academic progress creates a new threshold rather than financial security. The closing movement should grow from a remembered examination, result, or family conversation, making clear what this achievement means to him and his mother. Grand-Chukuchuku can still supply effortless victories; Zino's real future requires help, patience, and choices. The child who dreams of lifting his mother out of hardship now faces the practical requirements of further education. The chapter ends with a milestone achieved and the next opportunity still uncertain.
+The final two high-school years move Zino to a remote village reached after a day of travel through mountains and valleys. Boarding school brings elite students, rich parents, white teachers and priests, rigid routine, bullying, and discipline. Zino witnesses students punished for jumping the fence to buy food; he is not the student jumping. At the end, he writes five GCE Advanced-Level subjects, the maximum and his university study area. His school has a 100% Advanced-Level pass rate, so Zino is not waiting in fear of failure; the radio reading of names and the celebration give the result its emotional force. He completes secondary school in 2007, but education still requires money.
 
-**Turning point:** He has the ability to continue, but the household still needs a way to pay.
+**Turning point:** He has the qualification to continue, but the household still needs a way to pay.
 
 ## Possible short episodes
 
 1. **Grand-Chukuchuku Never Loses:** A football dispute introduces the imaginary hero and the real boy's difficulty accepting an unfavorable decision.
 2. **School Fees:** At the remembered age, a fee exclusion interrupts academic confidence and changes the rhythm of an ordinary school day.
 3. **The Crowd:** Zino witnesses a hard-R composite of jungle justice during the Fiango day-school years: an accusation becomes public violence. The episode shows the brutality directly and ends with the fear, silence, and moral damage left behind.
-4. **The Long Road:** A day-long trip through mountains and valleys takes Zino to boarding school, where distance, wealth, routine, bullying, and strict discipline change the rules of his life.
+4. **Results on Air:** The GCE Ordinary-Level and Advanced-Level result days make the radio a public stage for dread, names, relief, joy, and celebration. Zino writes ten Ordinary-Level and five Advanced-Level subjects.
 5. **The Fence:** Zino witnesses students punished after jumping the boarding-school fence to buy food. The episode makes clear that he does not jump, while showing how hunger, fear, and discipline shape the whole dormitory.
 
 ## Memory prompts
 
-1. Which day school did you attend with Luc and Gideon, when did boarding begin, and what is one defining memory of Luc, Gideon, Elianne, or Miss Mukete?
+1. Which day school did you attend with Luc and Gideon, what were your ten Ordinary-Level subjects, and what is one defining memory of Luc, Gideon, Elianne, or Miss Mukete?
 
    Notes: 
 
@@ -50,10 +50,10 @@ Zino completes secondary school in 2007. Academic progress creates a new thresho
 
    Notes: 
 
-4. What was the boarding school's name, how did you travel there, and what did the mountains, valleys, dormitories, teachers, priests, bullying, and punishment feel like?
+4. What was the boarding school's name, how did you travel there, what were your five Advanced-Level subjects, and who was present around the radio when the results were read?
 
    Notes: 
 
 **Grand-Chukuchuku motif:** Grand-Chukuchuku is playful and spectacular: imaginary victories contrast with ordinary limits.
 
-**Details still open:** The first five years are Fiango day school with Luc and Gideon; the final two are remote boarding high school. Professional School belongs in day school. Zino witnessed, rather than joined, the fence punishments.
+**Details still open:** Five day-school years end in ten Ordinary Levels; two boarding years end in five Advanced Levels and radio results. Zino witnessed the fence punishments.

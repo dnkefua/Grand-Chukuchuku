@@ -17,6 +17,14 @@ confirmed corrections and questions that must be resolved before scripting.
 writers-room/ contains the active season map, cultural rules, fact tiers, and
 editorial requirements used to develop each new script.
 
+Grand-Chukuchuku_Chapter_01_Script_and_Picture_Board_v1.zip is the
+download-ready Chapter One package. It contains the 12-episode full shooting
+script as PDF, editable Word, and Markdown; the illustrated picture-board PDF;
+five 9:16 key-art panels; and the critic review and continuity log.
+picture-board/ keeps the editable panel images, board PDF, visual system, and
+provenance notes. The individual images are visual development composites, not
+literal reconstructions of a particular memory or event.
+
 All biographical material is based on Zino's account, not independently verified.
 Proposed scenes and disputed details are identified for further development.
 This is a story-development draft, not a finished screenplay or produced series.

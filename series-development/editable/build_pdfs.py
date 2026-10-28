@@ -437,6 +437,14 @@ confirmed corrections and questions that must be resolved before scripting.
 writers-room/ contains the active season map, cultural rules, fact tiers, and
 editorial requirements used to develop each new script.
 
+Grand-Chukuchuku_Chapter_01_Script_and_Picture_Board_v1.zip is the
+download-ready Chapter One package. It contains the 12-episode full shooting
+script as PDF, editable Word, and Markdown; the illustrated picture-board PDF;
+five 9:16 key-art panels; and the critic review and continuity log.
+picture-board/ keeps the editable panel images, board PDF, visual system, and
+provenance notes. The individual images are visual development composites, not
+literal reconstructions of a particular memory or event.
+
 All biographical material is based on Zino's account, not independently verified.
 Proposed scenes and disputed details are identified for further development.
 This is a story-development draft, not a finished screenplay or produced series.
@@ -444,7 +452,15 @@ This is a story-development draft, not a finished screenplay or produced series.
     (ROOT / "README.txt").write_text(readme)
     zip_path = ROOT / "Grand-Chukuchuku_Complete_Development_Pack.zip"
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
-        for p in [master, ROOT / "README.txt", ROOT / "CONTINUITY_LOG.md"] + sorted((ROOT / "chapters").glob("*.pdf")) + sorted((ROOT / "editable").glob("*")) + sorted((ROOT / "scripts").glob("*")) + sorted((ROOT / "writers-room").glob("*")):
+        files = (
+            [master, ROOT / "README.txt", ROOT / "CONTINUITY_LOG.md", ROOT / "Grand-Chukuchuku_Chapter_01_Script_and_Picture_Board_v1.zip"]
+            + sorted((ROOT / "chapters").glob("*.pdf"))
+            + sorted((ROOT / "editable").glob("*"))
+            + sorted((ROOT / "scripts").glob("*"))
+            + sorted((ROOT / "writers-room").rglob("*"))
+            + sorted((ROOT / "picture-board").rglob("*"))
+        )
+        for p in files:
             if p.is_file():
                 z.write(p, p.relative_to(ROOT))
     print(json.dumps({"master": str(master), "archive": str(zip_path), "chapter_pdfs": 5}, indent=2))

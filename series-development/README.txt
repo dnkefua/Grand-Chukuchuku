@@ -14,6 +14,8 @@ The structured JSON is the authoritative source for rebuilding the PDFs.
 
 scripts/ contains episode-screenplay drafts. CONTINUITY_LOG.md records
 confirmed corrections and questions that must be resolved before scripting.
+writers-room/ contains the active season map, cultural rules, fact tiers, and
+editorial requirements used to develop each new script.
 
 All biographical material is based on Zino's account, not independently verified.
 Proposed scenes and disputed details are identified for further development.

@@ -434,6 +434,8 @@ The structured JSON is the authoritative source for rebuilding the PDFs.
 
 scripts/ contains episode-screenplay drafts. CONTINUITY_LOG.md records
 confirmed corrections and questions that must be resolved before scripting.
+writers-room/ contains the active season map, cultural rules, fact tiers, and
+editorial requirements used to develop each new script.
 
 All biographical material is based on Zino's account, not independently verified.
 Proposed scenes and disputed details are identified for further development.
@@ -442,7 +444,7 @@ This is a story-development draft, not a finished screenplay or produced series.
     (ROOT / "README.txt").write_text(readme)
     zip_path = ROOT / "Grand-Chukuchuku_Complete_Development_Pack.zip"
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
-        for p in [master, ROOT / "README.txt", ROOT / "CONTINUITY_LOG.md"] + sorted((ROOT / "chapters").glob("*.pdf")) + sorted((ROOT / "editable").glob("*")) + sorted((ROOT / "scripts").glob("*")):
+        for p in [master, ROOT / "README.txt", ROOT / "CONTINUITY_LOG.md"] + sorted((ROOT / "chapters").glob("*.pdf")) + sorted((ROOT / "editable").glob("*")) + sorted((ROOT / "scripts").glob("*")) + sorted((ROOT / "writers-room").glob("*")):
             if p.is_file():
                 z.write(p, p.relative_to(ROOT))
     print(json.dumps({"master": str(master), "archive": str(zip_path), "chapter_pdfs": 5}, indent=2))

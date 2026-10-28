@@ -18,7 +18,7 @@ Street football introduces Zino's wit, competitiveness, and temper. Luc and Gide
 
 ## Act II - Confrontation
 
-Education reveals both Zino's ability and the limits of that advantage. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. His mother's primary-school teaching income and his uncle's intermittent help keep opportunity alive without removing uncertainty. Boarding school in Kumba supplies comic escapes over the fence to eat at home. Each June, the daytime vocational school called Professional School opens classrooms at night for secondary-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur in these years. Feature them through a composite episode about fear and aftermath, not graphic spectacle.
+Education reveals both Zino's ability and the limits of that advantage. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. His mother's primary-school teaching income and his uncle's intermittent help keep opportunity alive without removing uncertainty. Boarding school in Kumba supplies comic escapes over the fence to eat at home. Each June, the daytime vocational school called Professional School opens classrooms at night for secondary-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur in these years. Feature them through a hard-R composite episode that shows the crowd's brutality directly, then follows what Zino carries away from it.
 
 **Turning point:** Being the cleverest boy in the room does not guarantee that he can remain in it.
 
@@ -33,7 +33,7 @@ Zino completes secondary school in 2007. Academic progress creates a new thresho
 1. **Grand-Chukuchuku Never Loses:** A football dispute introduces the imaginary hero and the real boy's difficulty accepting an unfavorable decision.
 2. **School Fees:** At the remembered age, a fee exclusion interrupts academic confidence and changes the rhythm of an ordinary school day.
 3. **Professional School:** June evening revision creates a divided space: some students study; some pursue distraction; Zino must decide what kind of future he is preparing for.
-4. **The Crowd:** After Zino witnesses the aftermath of an alleged thief being attacked, the episode stays with his fear, the adults' silence, and the question of justice rather than depicting the killing.
+4. **The Crowd:** Zino witnesses a hard-R composite of jungle justice: an accusation becomes public violence. The episode shows the brutality directly and ends with the fear, silence, and moral damage left behind.
 
 ## Memory prompts
 

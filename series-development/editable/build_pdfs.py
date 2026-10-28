@@ -224,8 +224,8 @@ def foundation(c):
     l.table([
         ["Format", "Animated thriller; episodes of 1-3 minutes; vertical 9:16 intended."],
         ["Audience & language", "Cameroonians, Africans across the continent, and the diaspora. English and Cameroon Pidgin; English subtitles proposed."],
-        ["Tone & look", "Adult themes; humor comes from character and daily life. Original expressive 2D animation, with The Boondocks as a quality reference."],
-        ["Production", "Author-supplied voices; AI-assisted visuals. Budget, release schedule, and platform-specific cuts remain to be decided."],
+        ["Tone & look", "Hard-R material: direct depictions of violence and adult consequences, balanced by humor rooted in character and daily life. Original expressive 2D animation, with The Boondocks as a quality reference."],
+        ["Production", "Author-supplied voices; AI-assisted visuals. Build a hard-R master; later create separate platform-release cuts where TikTok rules require them. Budget and release schedule remain to be decided."],
     ], [110, CW - 110])
     l.sub("The engine of the series", "Each stage tests the same belief: if Zino is clever and works hard enough, can he keep his mother safe and make her proud? His talent creates opportunities; temper, people-pleasing, and uncertain self-awareness complicate what follows.")
     l.sub("The whole-series arc", "Act I: Fiango and the cost of leaving establish the dream. Act II: America and the alleged betrayal test it. Act III: rebuilding asks what success and happiness actually mean. Chapters are story movements, not fixed seasons; their episode counts remain open.")
@@ -261,7 +261,7 @@ def world(c):
     for name, text in DATA["characters"][7:]:
         l.p(name, "sub", 2)
         l.p(text, "small", 6)
-    l.note("Depiction rule", "When the story touches death, mob violence, grief, or adult activity around young people, stay with Zino's point of view, consequence, and moral uncertainty. Do not turn suffering into background decoration or spectacle.")
+    l.note("Hard-R depiction rule", "Show violence and adult consequences directly when the story requires it. In jungle-justice scenes, keep the accused person's guilt unproven and follow Zino's witness perspective, physical fear, and aftermath. The brutality must have narrative consequence.")
     page_end(c)
 
 def chronology(c):
@@ -323,7 +323,7 @@ def make_canvas(path):
 
 def export_markdown():
     lines = ["# GRAND-CHUKUCHUKU", "", "Series synopsis and five-chapter development workbook", "", f"Based on the life of {DATA['author']}", "", f"Development draft: {DATA['date']}", "", "Biography below is drawn from Zino's account. Structure, episode seeds, and emotional transitions are proposed for expansion, not additional biographical claims.", "", "## Logline", "", DATA["logline"], "", "## Unified synopsis", ""]
-    lines[10:10] = ["## Series foundation", "", DATA["premise"], "", "**Format:** Animated thriller; 1-3 minute episodes; vertical 9:16 intended. Mature themes. English and Cameroon Pidgin, with English subtitles proposed.", "", "**Audience:** Cameroonians, Africans across the continent, and the diaspora.", "", "**Production:** Author-supplied voices; AI-assisted visuals. Original expressive 2D animation, with The Boondocks as a quality reference. Budget and release schedule remain open.", "", "**Overall arc:** Act I establishes the dream through Fiango and the cost of leaving. Act II tests it in America and the alleged betrayal. Act III asks what rebuilding, success, and happiness mean.", ""]
+    lines[10:10] = ["## Series foundation", "", DATA["premise"], "", "**Format:** Hard-R animated thriller; 1-3 minute episodes; vertical 9:16 intended. English and Cameroon Pidgin, with English subtitles proposed.", "", "**Audience:** Cameroonians, Africans across the continent, and the diaspora.", "", "**Production:** Author-supplied voices; AI-assisted visuals. Original expressive 2D animation, with The Boondocks as a quality reference. Build a hard-R master, then make separate platform-release cuts where TikTok rules require them. Budget and release schedule remain open.", "", "**Overall arc:** Act I establishes the dream through Fiango and the cost of leaving. Act II tests it in America and the alleged betrayal. Act III asks what rebuilding, success, and happiness mean.", ""]
     for p in DATA["synopsis"]:
         lines += [p, ""]
     lines += ["## People", ""]

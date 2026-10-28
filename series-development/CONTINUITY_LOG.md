@@ -9,7 +9,7 @@ This log separates confirmed additions from items that still need a date, source
 - Gideon is the correct spelling. He is sharp and business-minded, bought his first camera in secondary school, often paid when he and Zino went out, and valued Zino's help speaking with girls.
 - Luc is God-fearing, carries a small Gideons Bible, preaches to students, and values Zino's honesty, humour, mathematics help, and conversations about girls.
 - The Fiango compound holds two families, three single mothers, two bachelors, and three student tenants. The landlord collects monthly rent and electricity money.
-- Zino reports witnessing at least four incidents of jungle justice in Fiango against people accused of theft. Scenes will center fear, aftermath, and moral consequence rather than graphic violence.
+- Zino reports witnessing at least four incidents of jungle justice in Fiango against people accused of theft. The hard-R master will depict this brutality directly through Zino's secondary-school perspective, while preserving the uncertainty of the accusation and the consequences for everyone involved.
 - Professional School is a real daytime vocational school for building, construction, and electrical training. Around June in the secondary-school years, its classrooms open at night for exam-period study. Some students study; others socialize, smoke, drink, pursue relationships, or use the session as a reason to leave home. Do not treat this as true of every student.
 
 ## Items requiring clarification

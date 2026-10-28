@@ -5,13 +5,13 @@
 **Target length:** 2 minutes 30 seconds
 **Format:** Vertical 9:16 animated short
 **Story period:** Zino's secondary-school years
-**Draft status:** Development beats — a proposed composite, not a record of one specific incident
+**Draft status:** Development beats — hard-R proposed composite, not a record of one specific incident
 
 ### Purpose
 
-Zino reports witnessing at least four incidents of jungle justice in Fiango while he was in secondary school. This episode folds the emotional truth of those experiences into one composite event: a teenager learns that the crowd can call itself justice while creating fear and silence.
+Zino reports witnessing at least four incidents of jungle justice in Fiango while he was in secondary school. This hard-R episode folds the emotional truth of those experiences into one composite event: a teenager sees the crowd call itself justice while carrying out public brutality.
 
-The script must not show a person being beaten or burned. Use sound, blocked sightlines, faces, the sudden smell of fuel, the reflection of fire, and the next day's silence. The person accused of theft must not be named or treated as proven guilty.
+The violence is shown directly through Zino's witness perspective: the beating, four tires, fuel, fire, screaming, heat, and the aftermath remain on screen. The person accused of theft is not named and is never treated as proven guilty. The episode stays with the crowd's fear, cruelty, and moral damage rather than making the violence a victory.
 
 ---
 
@@ -23,13 +23,13 @@ June evening. The daytime vocational campus known as Professional School is open
 
 ### Act II — The sound outside (0:40–1:45)
 
-A rush of voices breaks the classroom rhythm. Someone outside shouts an accusation. Students move toward the gate. Zino, Gideon, and Luc are carried by curiosity until an older student blocks their view and says, “No go there.” The noise grows. A metal object clatters; then there is the smell of fuel. Luc grips his small Bible but does not preach. Gideon lowers the camera bag rather than taking it out. Zino hears the crowd chant the word “thief,” but he cannot know what happened or whether the accusation is true.
+A rush of voices breaks the classroom rhythm. Someone outside shouts an accusation. Students move toward the gate. Zino, Gideon, and Luc are carried by curiosity until an older student blocks their view and says, “No go there.” The crowd shoves past him. Through the gap, Zino sees an accused man pulled to the ground and struck. Four tires are forced around him. Fuel splashes the road and his clothes. Luc grips his small Bible but cannot find words. Gideon pulls out his camera, then lowers it as the fire catches. The man screams. Heat hits the students' faces. Zino hears the crowd chant “thief,” but he cannot know what happened or whether the accusation is true.
 
 **Turn:** The boys understand that staying to watch is itself a choice.
 
 ### Act III — What follows them home (1:45–2:30)
 
-Zino walks back through a compound that is too quiet. Firelight is visible only as a reflection on a metal basin. At home, his mother sees his face and asks what happened. He starts a Grand-Chukuchuku story about a hero who can stop a crowd with one hand, then cannot finish it. She tells him to wash and sit down. The next morning, school resumes, but students speak in fragments and no one names the accused person.
+Zino walks back through a compound that is too quiet, with smoke caught in his uniform and the sound of screaming still in his ears. At home, his mother sees his face and asks what happened. He starts a Grand-Chukuchuku story about a hero who can stop a crowd with one hand, then cannot finish it. She tells him to wash and sit down. The next morning, school resumes, but students speak in fragments and no one names the accused person.
 
 **End button:** Zino looks at the mango tree and hears the football game begin. For once, he does not join it.
 

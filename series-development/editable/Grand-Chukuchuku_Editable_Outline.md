@@ -12,11 +12,11 @@ Biography below is drawn from Zino's account. Structure, episode seeds, and emot
 
 Grand-Chukuchuku follows Zino from a crowded compound in Fiango to education in America, deportation in 2019, and a new beginning in Dubai in 2020. Raised by his mother after his father dies, Zino learns to use humor, intelligence, and stories to face financial pressure, grief, and misplaced trust. Success is real, but the house he wants to build for her remains an unfinished promise.
 
-**Format:** Animated thriller; 1-3 minute episodes; vertical 9:16 intended. Mature themes. English and Cameroon Pidgin, with English subtitles proposed.
+**Format:** Hard-R animated thriller; 1-3 minute episodes; vertical 9:16 intended. English and Cameroon Pidgin, with English subtitles proposed.
 
 **Audience:** Cameroonians, Africans across the continent, and the diaspora.
 
-**Production:** Author-supplied voices; AI-assisted visuals. Original expressive 2D animation, with The Boondocks as a quality reference. Budget and release schedule remain open.
+**Production:** Author-supplied voices; AI-assisted visuals. Original expressive 2D animation, with The Boondocks as a quality reference. Build a hard-R master, then make separate platform-release cuts where TikTok rules require them. Budget and release schedule remain open.
 
 **Overall arc:** Act I establishes the dream through Fiango and the cost of leaving. Act II tests it in America and the alleged betrayal. Act III asks what rebuilding, success, and happiness mean.
 
@@ -66,7 +66,7 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 **Professional School:** A real vocational school active in daytime for building, construction, and electrical training. During the secondary-school years, its classrooms open at night around June for students to revise for the exam period. Some read alone or in groups; others use the gathering to socialize, smoke, drink, court girls, or simply escape home. Treat the setting as varied: it is not true that every student misbehaves.
 
-**Jungle justice:** During his secondary-school years, Zino reports witnessing at least four incidents in Fiango in which people accused of theft were attacked by a crowd and burned with tires and fuel. This belongs in the story as traumatic exposure and a source of fear, silence, or moral conflict. Do not stage the violence as spectacle; use a composite episode that stays with consequence, sound, and moral uncertainty.
+**Jungle justice:** During his secondary-school years, Zino reports witnessing at least four incidents in Fiango in which people accused of theft were attacked by a crowd and burned with tires and fuel. This is core hard-R material: depict the public brutality and its aftermath directly through Zino's witnessing. The accusation must remain unproven, and the scene must retain its moral weight rather than treat violence as proof of guilt.
 
 **Everyday texture:** Food, church, football, music, school routines, discipline, slang, celebrations, neighborhood life, and the sound of the landlord's monthly visit can keep the world specific and alive.
 
@@ -108,7 +108,7 @@ Street football introduces Zino's wit, competitiveness, and temper. Luc and Gide
 
 ## Act II - Confrontation
 
-Education reveals both Zino's ability and the limits of that advantage. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. His mother's primary-school teaching income and his uncle's intermittent help keep opportunity alive without removing uncertainty. Boarding school in Kumba supplies comic escapes over the fence to eat at home. Each June, the daytime vocational school called Professional School opens classrooms at night for secondary-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur in these years. Feature them through a composite episode about fear and aftermath, not graphic spectacle.
+Education reveals both Zino's ability and the limits of that advantage. His earlier primary-school fee exclusion can return as a clearly placed memory; the later high-school exclusion belongs at its actual date. His mother's primary-school teaching income and his uncle's intermittent help keep opportunity alive without removing uncertainty. Boarding school in Kumba supplies comic escapes over the fence to eat at home. Each June, the daytime vocational school called Professional School opens classrooms at night for secondary-school students to revise, study in groups, socialize, or escape home; show its temptations without claiming every student is distracted. Zino's four reported encounters with jungle justice occur in these years. Feature them through a hard-R composite episode that shows the crowd's brutality directly, then follows what Zino carries away from it.
 
 **Turning point:** Being the cleverest boy in the room does not guarantee that he can remain in it.
 
@@ -123,7 +123,7 @@ Zino completes secondary school in 2007. Academic progress creates a new thresho
 1. **Grand-Chukuchuku Never Loses:** A football dispute introduces the imaginary hero and the real boy's difficulty accepting an unfavorable decision.
 2. **School Fees:** At the remembered age, a fee exclusion interrupts academic confidence and changes the rhythm of an ordinary school day.
 3. **Professional School:** June evening revision creates a divided space: some students study; some pursue distraction; Zino must decide what kind of future he is preparing for.
-4. **The Crowd:** After Zino witnesses the aftermath of an alleged thief being attacked, the episode stays with his fear, the adults' silence, and the question of justice rather than depicting the killing.
+4. **The Crowd:** Zino witnesses a hard-R composite of jungle justice: an accusation becomes public violence. The episode shows the brutality directly and ends with the fear, silence, and moral damage left behind.
 
 ## Memory prompts
 

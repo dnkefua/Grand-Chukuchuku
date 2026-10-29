@@ -41,3 +41,4 @@ This log separates confirmed additions from items that still need a date, source
 - The aunt's killing, family displacement, and effects of the Ambazonian crisis need exact dates and sources before scenes are written.
 - Zino's mother’s house remains unbuilt. Do not turn the goal into a completed ending.
 - Grand-Chukuchuku is Zino's invented ideal person. Fantasy sequences must remain distinguishable from real events.
+- Character Bible v1 locks proposed animation signals—not literal likenesses—for Zino, Grand-Chukuchuku, Gideon, Luc, Elianne, Mother, Paternal Uncle, Miss Mukete and the Landlord. The father remains a family-testimony / nonliteral-memory treatment. The maternal aunt, U.S. girlfriend, boarding-school cast, crypto circle, Dubai colleagues, and university / immigration characters remain intentionally unvisualized until Zino supplies their source details.

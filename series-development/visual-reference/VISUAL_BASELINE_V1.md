@@ -22,3 +22,7 @@ Professional School must retain a practical, lived-in building/construction/elec
 ## Board rule from 28 October 2026
 
 The existing Chapter One picture-board panels remain valid for dramatic framing. Any new panel, replacement, animation asset or render must start from these two references. When an older panel conflicts with this baseline, the baseline wins.
+
+## Character-bible handoff from 29 October 2026
+
+[`../character-bible/Grand-Chukuchuku_Character_Bible_v1.pdf`](../character-bible/Grand-Chukuchuku_Character_Bible_v1.pdf) adds production-ready, **proposed** visual signals for Gideon, Luc, Elianne, Zino's mother, paternal uncle, Miss Mukete and the landlord. It also preserves the father as a nonliteral family-memory treatment and holds later cast designs until source details arrive. The character bible extends this baseline; it does not replace author-supplied real references or convert any proposed feature into biographical fact.

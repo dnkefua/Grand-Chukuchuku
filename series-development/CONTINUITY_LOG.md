@@ -2,6 +2,15 @@
 
 This log separates confirmed additions from items that still need a date, source, or naming decision. It is the reference to update before changing a script, outline, or animation prompt.
 
+## Pilot revision — 30 October 2026
+
+- The author rejected the original pilot's weak thriller structure and repetitive reference-art storyboard. The active replacement is **The Man Who Never Ran**, in `pilot-chapter-one/rebuild-v2/`, with eighteen distinct drawn keyframes and a thirty-six-shot, five-minute target edit. The old pilot and its Artlist cue map are development history.
+- The replacement uses an explicit age-ten passage and a later-secondary witness composite at approximately fourteen / 2004. That exact witness-event age and year are proposed, awaiting the author's correction. Friends' exact actions and presence at that incident remain composite staging.
+- Born 1990 plus primary completion in 1999 means the age-ten present must not claim the primary fee exclusion. The rejected pilot conflated these; the new pilot removes that fee plot.
+- Mother's home dialogue is English. Grand appears only within Zino's active telling. The camera does not invent a photograph, pursuit, rescuer, culprit identity or proof of the accused adult's guilt.
+- The cold-open/return water action is an attempted drink from freshly drawn water in a bucket beside the well, not washing into the communal drinking-water supply. Wider animation layout must establish that bucket clearly; current close-up stills leave it offscreen.
+- The next short must acknowledge the pilot's ending. This standalone pilot condenses Chapter One material; it does not silently replace the sixty-episode season chronology.
+
 ## Added on 28 October 2026
 
 - Zino's father died after a snake bite while spraying cocoa when Zino was two. In the family account, he cut the bite area and tried to suck out the venom, then passed out before reaching home and died with his right arm swollen. Zino has no direct memory of the death; it should enter through family testimony or a prologue, not a firsthand flashback.

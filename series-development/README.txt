@@ -1,5 +1,12 @@
 GRAND-CHUKUCHUKU - DEVELOPMENT PACK
 
+CURRENT PILOT (30 OCTOBER 2026): The Man Who Never Ran.
+Grand-Chukuchuku_Pilot_v2_Cinematic_Package.zip contains the replacement
+screenplay, eighteen distinct drawn keyframes, a thirty-six-shot five-minute
+target edit, standalone frame viewer, and independent critic review.
+Start in pilot-chapter-one/rebuild-v2/. The earlier Courtyard Keeps Score
+pilot and its Artlist audio plan are superseded development history.
+
 Start with Grand-Chukuchuku_Series_and_Chapters.pdf (17 pages).
 It contains the unified synopsis, characters, Fiango world, chronology, and all five chapters.
 

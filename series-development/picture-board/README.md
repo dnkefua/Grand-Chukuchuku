@@ -4,6 +4,8 @@
 **Format:** 2D adult animation, vertical 9:16, English and Cameroon Pidgin with subtitles  
 **Status:** Development visual board. The images establish framing, character relationships, colour, and emotional progression; they are not literal reconstructions of Zino's memories.
 
+**30 October correction:** these older reference panels are not authority for day-school wardrobe or football participation. Forms One–Five wear light sky-blue short-sleeved shirts with dark-blue trousers / skirts. Luc and Gideon do not play football. The current pilot sheets in `../pilot-chapter-one/rebuild-v2/art/` reflect the uniform correction; older character/scene anchors retain their historical proposed colours pending a separate reference-art redraw.
+
 ## Canonical visual references
 
 Use [`VISUAL_BASELINE_V1.md`](../visual-reference/VISUAL_BASELINE_V1.md) and its two author-supplied images before creating or revising any panel. The compound reference controls Fiango's geography and material feel. The Grand-Chukuchuku model sheet controls the adult ideal's face, hair, wardrobe, silhouette and emotional range. This baseline supersedes an older panel whenever they differ.

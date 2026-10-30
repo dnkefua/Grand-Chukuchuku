@@ -5,6 +5,7 @@ from html import escape
 import json
 import re
 import zipfile
+import sys
 
 from reportlab.pdfgen import canvas
 from reportlab.lib import colors
@@ -420,6 +421,17 @@ def main():
     export_word()
     readme = """GRAND-CHUKUCHUKU - DEVELOPMENT PACK
 
+CURRENT AUTHOR UPDATE (30 OCTOBER 2026):
+character-bible/Fiango_Life_and_Characters_Update_2026-10-30.pdf records
+the daily routine, named school/street cast, sky-blue/navy school uniform,
+Lizzy's Form Three breakup, taxi pattern, TV, motel and poultry-farm context.
+Grand-Chukuchuku_Character_Bible_v2.zip is the current character package.
+Grand-Chukuchuku_Pilot_v2_Cinematic_Package.zip is the current pilot:
+The Man Who Never Ran, with eighteen drawn keyframes and a 36-shot target edit.
+The older Courtyard Keeps Score pilot and its Artlist plan are superseded.
+The complete development ZIP is an older snapshot; use the current individual
+packages and source files for the latest corrections.
+
 Start with Grand-Chukuchuku_Series_and_Chapters.pdf (17 pages).
 It contains the unified synopsis, characters, Fiango world, chronology, and all five chapters.
 
@@ -460,6 +472,9 @@ Proposed scenes and disputed details are identified for further development.
 This is a story-development draft, not a finished screenplay or produced series.
 """
     (ROOT / "README.txt").write_text(readme)
+    if "--documents-only" in sys.argv:
+        print(json.dumps({"master": str(master), "chapter_pdfs": 5, "archive": "not rebuilt; existing archive is a historical snapshot"}, indent=2))
+        return
     zip_path = ROOT / "Grand-Chukuchuku_Complete_Development_Pack.zip"
     with zipfile.ZipFile(zip_path, "w", zipfile.ZIP_DEFLATED) as z:
         files = (

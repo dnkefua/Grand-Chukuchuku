@@ -8,6 +8,8 @@ The old pilot and its Artlist audio plan remain historical development material.
 
 ## Story and chronology
 
+Author corrections on 30 October 2026: Luc and Gideon are nonplayers beside the pitch. The day-school uniform is light sky-blue short-sleeved shirts with dark-blue boys' trousers / girls' skirts. The three current pilot sheets have been edited to match; older colour variants remain only as development history. See `../../character-bible/Fiango_Life_and_Characters_Update_2026-10-30.md` for the weekday routine and new cast. Those details expand the surrounding chapter rather than crowding this five-minute pilot.
+
 The pilot opens on an older Zino at the well, moves four years earlier to his age-ten introduction, then returns to the later secondary-school evening that explains the opening. The crowd sequence is a **proposed composite of the witness experiences described by the author**, not a dated reconstruction. Approximate age fourteen / 2004 is a working placement awaiting correction. Friends' exact actions, dialogue, camera type, route and timings are proposed. No accusation is established as guilt.
 
 This standalone pilot condenses moments that the sixty-episode Chapter One develops at greater length. It does not silently rewrite the season into a five-minute chronology. The next short after this pilot must acknowledge its ending rather than present the rejected fee-notice cliffhanger.

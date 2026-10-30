@@ -4,7 +4,7 @@ Series synopsis and five-chapter development workbook
 
 Based on the life of Nkeh Nkengzincho (Zino)
 
-Development draft: 28 October 2026
+Development draft: 30 October 2026
 
 Biography below is drawn from Zino's account. Structure, episode seeds, and emotional transitions are proposed for expansion, not additional biographical claims.
 
@@ -44,13 +44,13 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 **His mother:** A primary-school teacher from a young age and throughout Zino's childhood. After his father's death, she raises Zino and believes in his future. Develop her own work, humor, ambitions, and burdens as well as her sacrifices. Her name and individual memories remain to be supplied.
 
-**Paternal uncle:** Provides occasional school-fee support. Proud of Zino's Ordinary-Level results, he promises that Zino can choose any school and go to America if he succeeds in all five Advanced-Level subjects. Zino chooses boarding school on that basis. After the A Levels, the uncle defers America until Zino completes a first university degree. His exact words, contributions, and reasons remain to be developed.
+**Paternal uncle:** A renowned lawyer known for suits, later a Christian convert and cocoa trader. By Form Three he has a large Kumba store shipping trailers to Douala. He supports school at times, promises America after five A-Levels, then defers until a first degree. Legal/trading overlap, payment timing and deferral reasons remain open. He loved Zino's father; his advice about avoiding the father's path is his reported judgement, not a verdict on farming.
 
-**Gideon:** Sharp, business-minded, and always looking for a way to make money. He buys his first camera in secondary school and often pays when he and Zino go out. He values Zino's company because Zino can talk to girls, while Gideon's quietness leaves girls feeling bored.
+**Gideon:** Business-minded, buys his first camera in secondary school, seeks birthday gigs and often pays for outings. Does not play football: sits watching and bantering, especially when Zino loses. Quiet with girls; loves Sophy in Forms Two-Five. Zino declines her advances from loyalty.
 
-**Luc:** God-fearing, funny, candid, and often carrying a small Gideons Bible. He approaches students to preach. He values Zino's directness, help with maths, and ability to talk openly about girls. Confirm the preferred Bible wording and his age in these memories.
+**Luc:** God-fearing, carries a small Bible and preaches to students. Does not play football; evangelises or chats. Values Zino's honesty, maths help and humour. The friendship must not turn him into an invented teammate or default referee.
 
-**Elianne and Miss Mukete:** Elianne is Zino's first love. Miss Mukete is his favorite chemistry teacher. Establish when each enters his life and the specific memories that define their influence.
+**School relationships / Miss Mukete:** Lizzy: Form One crush, girlfriend from Two, breakup in Three. Mirabel: maths friendship from Three until U.S. departure. Elianne was previously called first love; identity/place is unresolved, so do not merge her with Lizzy. Miss Mukete is the favourite chemistry teacher. New details and neutral Tracey notes are in the Fiango update.
 
 **Maternal aunt:** Cooks for him, supports him, and believes in him. Her later killing is a profound family loss. Build her life and personality before depicting its loss; date and circumstances remain to be established.
 
@@ -62,15 +62,15 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 ## Fiango world
 
-**The Fiango compound:** Two families, three single mothers, two bachelors, and three students rent within the compound. The shared well, mango tree, monthly rent, and electricity collection make it a living social system, not just a backdrop.
+**The Fiango compound:** Two families, three single mothers, two bachelors and three students share a well, mango tree and two bathrooms. Zino's room is two apartments from Mother's front room. At 5:30 he fetches four buckets in two trips. The drawer usually holds 200 CFA: 100 taxi/100 school, or walk early and retain 200. Taxi on three mornings weekly.
 
-**Professional School:** A real vocational school active in daytime for building, construction, and electrical training. During the secondary-school years, its classrooms open at night around June for students to revise for the exam period. Some read alone or in groups; others use the gathering to socialize, smoke, drink, court girls, or simply escape home. Treat the setting as varied: it is not true that every student misbehaves.
+**Professional School:** A working vocational campus for building, construction and electrical training. Around June, classrooms open at night for secondary-school exam revision. Genuine individual/group study coexists with socialising, distractions and a pretext to leave home; not every student misbehaves.
 
-**Boarding high school:** For the final two years before 2007, Zino attends a boarding high school in a remote village reached after a day of travel through mountains and valleys. It brings him into a new world of top students, wealthy parents, white teachers and priests, strict routine, discipline, bullying, and distance from home. He witnesses students punished after they jump the fence to buy food; do not make him the one who jumps.
+**Boarding high school:** Two high-school years before 2007, in a remote village a day away across mountains and valleys. Elite students, wealthy parents, white teachers and priests, discipline and bullying change Zino's world. He witnesses punishments after students jump the fence to buy food; he does not jump himself.
 
-**Jungle justice:** During his secondary-school years, Zino reports witnessing at least four incidents in Fiango in which people accused of theft were attacked by a crowd and burned with tires and fuel. This is core hard-R material: depict the public brutality and its aftermath directly through Zino's witnessing. The accusation must remain unproven, and the scene must retain its moral weight rather than treat violence as proof of guilt.
+**Jungle justice:** Zino reports witnessing at least four secondary-school incidents: crowds attack people accused of theft and burn them with tires and fuel. Depict physical harm and aftermath through his witness perspective. Accusation is never proof of guilt; an individual event's names, dates and sequence need his recollection.
 
-**Everyday texture:** Food, church, football, music, school routines, discipline, slang, celebrations, neighborhood life, and the sound of the landlord's monthly visit can keep the world specific and alive.
+**Everyday texture:** Ayuk, Arey, Noge, Bismark and Robi play football; Luc/Gideon do not. Children first watch TV through an adjacent barred window, later at Ayuk's during secondary school. The tarred pickup road is five houses behind, near five-storey Azi Motel and Mother's aunt's poultry farm. Uniform: sky-blue short sleeves, dark-blue trousers/skirts.
 
 ## Chronology
 

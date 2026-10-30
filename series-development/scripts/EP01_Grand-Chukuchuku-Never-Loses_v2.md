@@ -23,9 +23,9 @@ This episode does **not** assign a date to the school-fee exclusion. Zino's fath
 
 **ZINO (V.O.):** In Fiango, everybody knows your business before you know it yourself.
 
-The football cuts between feet. **ZINO** takes possession. **GIDEON** yells for a pass. **LUC** calls a foul before anyone falls.
+The football cuts between feet. **ZINO** takes possession. **AYUK** calls for a pass. **GIDEON** sits watching and bantering from the sideline; he does not play. **LUC** is talking to someone nearby, Bible in hand; he does not play.
 
-**LUC:** Zino, pass the ball. Even Moses passed something.
+**AYUK:** Zino, pass the ball. Even Moses passed something.
 
 **ZINO:** Moses no get my left foot.
 

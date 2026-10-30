@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="510" height="230" preserveAspectRatio="xMinYMin meet" viewBox="0 0 510 230" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="510" height="230"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-230)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="510" height="230" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(98%,97%,94%); fill-rule: evenodd;"/>
+			<rect x="10" y="158" width="130" height="48" rx="5" ry="5" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="48.435546875" y="187" style="font-family: UpdateBold; font-size: 8px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,374) scale(1,-1)">COMPOUND</text>
+			<text x="51.52197265625" y="170" style="font-family: UpdateBody; font-size: 7px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,340) scale(1,-1)">Zino / Mother</text>
+			<rect x="185" y="158" width="130" height="48" rx="5" ry="5" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="217.673828125" y="187" style="font-family: UpdateBold; font-size: 8px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,374) scale(1,-1)">TARRED ROAD</text>
+			<text x="230.741455078125" y="170" style="font-family: UpdateBody; font-size: 7px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,340) scale(1,-1)">taxi pickup</text>
+			<rect x="360" y="158" width="140" height="48" rx="5" ry="5" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="405.732421875" y="187" style="font-family: UpdateBold; font-size: 8px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,374) scale(1,-1)">AZI MOTEL</text>
+			<text x="409.634033203125" y="170" style="font-family: UpdateBody; font-size: 7px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,340) scale(1,-1)">five storeys</text>
+			<rect x="360" y="40" width="140" height="48" rx="5" ry="5" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="401.0" y="69" style="font-family: UpdateBold; font-size: 8px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,138) scale(1,-1)">GREAT-AUNT</text>
+			<text x="392.513427734375" y="52" style="font-family: UpdateBody; font-size: 7px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,104) scale(1,-1)">house + poultry farm</text>
+			<path d="M 140,182 L 185,182 Z" style="stroke: rgb(74%,55%,25%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<path d="M 315,182 L 360,182 Z" style="stroke: rgb(74%,55%,25%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<path d="M 430,158 L 430,88 Z" style="stroke: rgb(74%,55%,25%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<text x="133.164306640625" y="213" style="font-family: UpdateBody; font-size: 7px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,426) scale(1,-1)">5 houses behind</text>
+			<text x="325.751708984375" y="213" style="font-family: UpdateBody; font-size: 7px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,426) scale(1,-1)">nearby</text>
+			<text x="440" y="121" style="font-family: UpdateBody; font-size: 7px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,242) scale(1,-1)">next to</text>
+			<text x="14" y="18" style="font-family: UpdateBody; font-size: 7px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,36) scale(1,-1)">Diagram placement does not assign a compass bearing to “behind” or “nearby”.</text>
+		</g>
+	</g>
+</svg>

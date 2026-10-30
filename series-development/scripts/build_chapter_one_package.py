@@ -166,7 +166,7 @@ def page_chrome(c: canvas.Canvas, doc: SimpleDocTemplate) -> None:
     c.drawString(43, H - 29, "GRAND-CHUKUCHUKU")
     c.setFont("GCSans", 7.1)
     c.drawRightString(W - 43, H - 29, "CHAPTER ONE · FIANGO · SHOOTING DRAFT")
-    c.drawString(43, 29, "AUTHOR-BASED DEVELOPMENT DRAFT · 28 OCTOBER 2026")
+    c.drawString(43, 29, "AUTHOR-BASED DEVELOPMENT DRAFT · " + ("30 OCTOBER 2026" if VERSION == "v2" else "28 OCTOBER 2026"))
     c.setFont("GCSansB", 7.5)
     c.drawRightString(W - 43, 29, f"{doc.page:02d}")
     c.restoreState()
@@ -301,7 +301,7 @@ def build_script_docx(markdown: str) -> None:
             word_add_rich(p, line)
     doc.core_properties.title = "Grand-Chukuchuku | Chapter One Full Shooting Script"
     doc.core_properties.author = "Based on the life of Nkeh Nkengzincho (Zino)"
-    doc.core_properties.subject = "Fiango · 12 vertical animated episodes"
+    doc.core_properties.subject = f"Fiango · {60 if VERSION == 'v2' else 12} vertical animated episodes"
     doc.save(SCRIPT_DOCX)
 
 
@@ -331,6 +331,11 @@ def board_cover(c: canvas.Canvas) -> None:
     c.setFont("GCSans", 8.5)
     c.drawString(48, 92, "Author-supplied compound and character references control all new or revised art.")
     c.drawString(48, 70, "Hard-R master requires a separate platform release cut before publishing to TikTok.")
+    if VERSION == "v2":
+        c.setFont("GCSans", 8)
+        c.drawString(48, 176, "30 Oct update: these older anchors retain superseded wardrobe concepts.")
+        c.drawString(48, 160, "Day school uses sky-blue shirts and dark-blue trousers / skirts. Luc and Gideon do not play.")
+        c.drawString(48, 144, "Use the updated pilot sheets and Character Bible v2 for current character direction.")
     c.showPage()
 
 
@@ -415,6 +420,12 @@ def make_package() -> None:
         if missing:
             raise FileNotFoundError("Missing v2 room documents: " + ", ".join(map(str, missing)))
         targets.extend(V2_ROOM_DOCS)
+        targets.extend([
+            ROOT / "character-bible" / "Fiango_Life_and_Characters_Update_2026-10-30.md",
+            ROOT / "character-bible" / "Fiango_Life_and_Characters_Update_2026-10-30.pdf",
+            ROOT / "character-bible" / "Fiango_Neighbourhood_Adjacency_2026-10-30.svg",
+            ROOT / "writers-room" / "CONTEXT_REVIEW_2026-10-30.md",
+        ])
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for path in targets:
             if path == SCRIPT:

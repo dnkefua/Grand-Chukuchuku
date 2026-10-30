@@ -1,7 +1,7 @@
 # Grand-Chukuchuku character bible
 
-Start with `Grand-Chukuchuku_Character_Bible_v1.pdf`. It has illustrated production pages for the ten currently identified characters and a protected list of later characters who are known but not yet safe to visualise in detail.
+Start with `Grand-Chukuchuku_Character_Bible_v2.pdf`. It corrects the core-cast facts and appends the 30 October daily-life update, named street and school peers, confirmed uniform, relative-location diagram, uncle's career and open continuity questions. New peers have written design briefs; no new real likenesses are claimed. The core is numbered separately from the appended update.
 
-`Grand-Chukuchuku_Character_Bible_v1.md` is the editable source. Each entry separates confirmed biography, family testimony and proposed animation choices. The four PNG sheets are visual-development references, not literal portraits of real people.
+`Grand-Chukuchuku_Character_Bible_v2.md` is the current editable text, generated from the original core plus the authoritative `Fiango_Life_and_Characters_Update_2026-10-30.md`. V1 remains history. Earlier portrait sheets guide faces but their proposed uniforms and uncle's lawyer-era wardrobe are superseded by the update. Every new visual must follow the confirmed sky-blue/navy day-school uniform.
 
-Run `python3 build_character_bible.py` from this directory to rebuild the PDF and the separate download package.
+Run `python3 build_fiango_update.py` then `python3 build_character_bible.py` from this directory to rebuild the update, diagram, combined PDF and separate package.

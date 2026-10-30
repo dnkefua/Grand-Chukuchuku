@@ -11,7 +11,7 @@ These two author-supplied images are the canonical visual references for all new
 
 Grand-Chukuchuku is Zino's adult, idealised invention. He should look composed, well dressed and physically grounded—the man Zino imagines he could become, not a superhero costume. His confidence comes from posture, eye-line and a quick smile.
 
-Ten-year-old Zino is a younger real-world counterpart, not a shrunken copy of the adult model. Preserve the family resemblance through the hairline, brow, eyes and smile, while keeping his clothes, proportions and movement appropriate to his age and Fiango street football. Grand-Chukuchuku appears with richer navy, gold and cream accents; Zino's real world remains red earth, sun-faded fabric, school whites and compound greens.
+Ten-year-old Zino is a younger real-world counterpart, not a shrunken copy of the adult model. Preserve the family resemblance through the hairline, brow, eyes and smile, while keeping his clothes, proportions and movement appropriate to his age and Fiango street football. Grand-Chukuchuku appears with richer navy, gold and cream accents; Zino's real world remains red earth, sun-faded fabric, school sky blue/navy and compound greens.
 
 ## Environment continuity
 
@@ -26,3 +26,12 @@ The existing Chapter One picture-board panels remain valid for dramatic framing.
 ## Character-bible handoff from 29 October 2026
 
 [`../character-bible/Grand-Chukuchuku_Character_Bible_v1.pdf`](../character-bible/Grand-Chukuchuku_Character_Bible_v1.pdf) adds production-ready, **proposed** visual signals for Gideon, Luc, Elianne, Zino's mother, paternal uncle, Miss Mukete and the landlord. It also preserves the father as a nonliteral family-memory treatment and holds later cast designs until source details arrive. The character bible extends this baseline; it does not replace author-supplied real references or convert any proposed feature into biographical fact.
+
+## Author corrections — 30 October 2026
+
+- The current character bible is [v2](../character-bible/Grand-Chukuchuku_Character_Bible_v2.pdf), with the [daily-life and character update](../character-bible/Fiango_Life_and_Characters_Update_2026-10-30.md). Its author-supplied facts supersede earlier proposed wardrobe and character action.
+- **Forms One–Five uniform:** light sky-blue short-sleeved shirts; dark-blue trousers for boys, dark-blue skirts for girls. Older white/cream/brown school art is a superseded concept. Boarding uniform is unconfirmed. Casual football clothes and Grand's adult suit are separate.
+- **Football:** Luc and Gideon do not play. Gideon sits and banters; Luc evangelises or chats. Ayuk, Arey, Noge, Bismark and Robi play with Zino. School uniforms no longer distinguish the trio by shirt colour; use faces, posture, camera bag and Bible.
+- **Compound layout:** Zino's room is two apartments from Mother's front room; two shared bathrooms have short doors showing feet/lower shins. These details override assumptions drawn from a picturesque courtyard reference. The reference controls materials and mood, not a measured floor plan.
+- **Uncle:** lawyer-era suits are confirmed; the earlier casual-shirt drawing is not authority for that era. Later cocoa-store dress remains open.
+- **Neighbourhood:** the tarred pickup road is five houses behind; Azi Motel is five storeys; Mother's aunt has a poultry business next to it. Treat the new adjacency schematic as relationships, not surveyed distances or compass bearings.

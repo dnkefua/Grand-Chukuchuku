@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="510" height="380" preserveAspectRatio="xMinYMin meet" viewBox="0 0 510 380" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="510" height="380"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-380)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="510" height="380" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(98%,97%,94%); fill-rule: evenodd;"/>
+			<path d="M 272,204 L 272,337 Z" style="stroke: rgb(74%,55%,25%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<text x="268.281494140625" y="276" style="font-family: UpdateBody; font-size: 6.5px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,552) scale(1,-1)">north</text>
+			<path d="M 272,337 L 104,337 Z" style="stroke: rgb(74%,55%,25%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<text x="180.7430419921875" y="345" style="font-family: UpdateBody; font-size: 6.5px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,690) scale(1,-1)">next</text>
+			<path d="M 272,337 L 442,337 Z" style="stroke: rgb(74%,55%,25%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<text x="344.815673828125" y="345" style="font-family: UpdateBody; font-size: 6.5px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,690) scale(1,-1)">cousins</text>
+			<path d="M 272,204 L 272,67 Z" style="stroke: rgb(74%,55%,25%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<text x="267.9244384765625" y="129" style="font-family: UpdateBody; font-size: 6.5px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,258) scale(1,-1)">south</text>
+			<path d="M 272,67 L 104,67 Z" style="stroke: rgb(74%,55%,25%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<text x="180.7430419921875" y="75" style="font-family: UpdateBody; font-size: 6.5px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,150) scale(1,-1)">next</text>
+			<path d="M 272,204 L 442,204 Z" style="stroke: rgb(74%,55%,25%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<text x="294.3427734375" y="236" style="font-family: UpdateBody; font-size: 6.5px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,472) scale(1,-1)">adjacent; side unknown</text>
+			<path d="M 272,67 L 442,204 Z" style="stroke: rgb(74%,55%,25%); stroke-linecap: butt; stroke-width: 1.1;"/>
+			<text x="362.371826171875" y="112" style="font-family: UpdateBody; font-size: 6.5px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,224) scale(1,-1)">next to TV house</text>
+			<rect x="210" y="182" width="124" height="46" rx="5" ry="5" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,22%); fill-rule: evenodd;"/>
+			<text x="231.767919921875" y="211" style="font-family: UpdateBold; font-size: 7.4px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,422) scale(1,-1)">ZINO’S COMPOUND</text>
+			<text x="227.738720703125" y="195" style="font-family: UpdateBody; font-size: 6.2px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,390) scale(1,-1)">well / mango / shared rooms</text>
+			<rect x="210" y="315" width="124" height="46" rx="5" ry="5" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="260.58564453125" y="344" style="font-family: UpdateBold; font-size: 7.4px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,688) scale(1,-1)">AYUK</text>
+			<text x="246.596044921875" y="328" style="font-family: UpdateBody; font-size: 6.2px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,656) scale(1,-1)">one house north</text>
+			<rect x="42" y="315" width="124" height="46" rx="5" ry="5" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="92.193603515625" y="344" style="font-family: UpdateBold; font-size: 7.4px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,688) scale(1,-1)">NOGE</text>
+			<text x="84.2798828125" y="328" style="font-family: UpdateBody; font-size: 6.2px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,656) scale(1,-1)">next to Ayuk</text>
+			<rect x="380" y="315" width="124" height="46" rx="5" ry="5" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="431.0806640625" y="344" style="font-family: UpdateBold; font-size: 7.4px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,688) scale(1,-1)">AREY</text>
+			<text x="420.692041015625" y="328" style="font-family: UpdateBody; font-size: 6.2px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,656) scale(1,-1)">Ayuk’s cousin</text>
+			<rect x="210" y="45" width="124" height="46" rx="5" ry="5" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="252.876708984375" y="74" style="font-family: UpdateBold; font-size: 7.4px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,148) scale(1,-1)">BISMARK</text>
+			<text x="233.975048828125" y="58" style="font-family: UpdateBody; font-size: 6.2px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,116) scale(1,-1)">south / next to TV house</text>
+			<rect x="42" y="45" width="124" height="46" rx="5" ry="5" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="93.808740234375" y="74" style="font-family: UpdateBold; font-size: 7.4px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,148) scale(1,-1)">ROBI</text>
+			<text x="79.40283203125" y="58" style="font-family: UpdateBody; font-size: 6.2px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,116) scale(1,-1)">next to Bismark</text>
+			<rect x="380" y="182" width="124" height="46" rx="5" ry="5" style="stroke: rgb(80%,84%,81%); stroke-linecap: butt; stroke-width: 1; fill: rgb(90%,93%,90%); fill-rule: evenodd;"/>
+			<text x="420.885791015625" y="211" style="font-family: UpdateBold; font-size: 7.4px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,422) scale(1,-1)">TV HOUSE</text>
+			<text x="407.114404296875" y="195" style="font-family: UpdateBody; font-size: 6.2px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,390) scale(1,-1)">adjacent to compound</text>
+			<text x="14" y="365" style="font-family: UpdateBold; font-size: 8px;fill: rgb(9%,23%,22%); stroke:none;" transform="translate(0,730) scale(1,-1)">RELATIONSHIPS / NOT A MEASURED FLOOR PLAN</text>
+			<text x="14" y="14" style="font-family: UpdateBody; font-size: 7px;fill: rgb(34%,40%,38%); stroke:none;" transform="translate(0,28) scale(1,-1)">Only north/south labels are directional facts; other links show adjacency or kinship.</text>
+		</g>
+	</g>
+</svg>

@@ -17,7 +17,7 @@ SOURCES = [
 
 GRID = [
     ("I", "01", "The Courtyard Keeps Score", "A disputed football call gives Zino his first Grand-Chukuchuku story."),
-    ("I", "02", "Well Water", "A water chore teaches Zino that compound duty comes before street play."),
+    ("I", "02", "Well Water", "Four buckets, the bathroom queue and 200 CFA turn dawn into a transport decision."),
     ("I", "03", "Lunch Money", "Zino saves lunch money for a bottle-game stake and hides the cost."),
     ("I", "04", "First Bottle", "Nacking Bottle's three-hit rule turns one coin into a real risk."),
     ("I", "05", "The Deciding Pass", "Zino has to pass rather than take the glory shot."),
@@ -96,6 +96,12 @@ HEADER = """# GRAND-CHUKUCHUKU
 
 ### Character and visual rules
 
+- Updated 30 October 2026: the author's `character-bible/Fiango_Life_and_Characters_Update_2026-10-30.md` controls daily routine, named school peers and neighbourhood corrections. Earlier proposed actions lose precedence when they conflict with it.
+- Luc and Gideon do not play football. Gideon watches and banters; Luc evangelises or chats. Ayuk, Arey, Noge, Bismark and Robi are the supplied street-playing circle. They are not identified as the later crypto associates.
+- Forms One–Five uniform: light sky-blue short-sleeved shirts for both sexes; boys wear dark-blue trousers and girls dark-blue skirts. Boarding colours remain unconfirmed. Other clothes may be casual wear, not alternate uniforms.
+- Dawn: about 5:30, four buckets in two rounds, one in each hand; two shared bathrooms; Zino's room two apartments from Mother's front room. Her bedside drawer usually has 200 CFA: 100 for one taxi ride and 100 at school, or walk early and keep 200 for school. Taxis are taken on three mornings a week.
+- Lizzy: crush Form One, girlfriend Form Two, breakup Form Three. Mirabel's maths friendship starts Form Three and continues to U.S. departure. Sophy is Gideon's interest Forms Two–Five; Zino refuses her advances from loyalty. Elianne remains a separate unresolved identity, not an assumed alias. All school-age relationships remain non-graphic; Tracey's reported Form Three experience is retained in neutral notes pending exact context.
+- The uncle is a renowned lawyer known for suits, later a Christian convert and cocoa trader with a Kumba store by Form Three, shipping to Douala. Do not invent why support was intermittent or why the America promise changed.
 - Zino speaks Pidgin with friends, English at home and French/English in school. Every line below is P until Zino confirms it as remembered speech.
 - The compound and Grand-Chukuchuku's adult design follow `series-development/visual-reference/VISUAL_BASELINE_V1.md`. Grand-Chukuchuku appears only after Zino begins an impossible story; he is exuberant early, silent before the crowd, and increasingly absent at boarding school.
 - The school-age season does not depict drinking, sexual activity or nightclub attendance. The Christmas memory of Gideon paying for drinks while Zino helps him approach girls is held as an **18+ Chapter Two/post-secondary placement question** until Zino supplies its year and age.
@@ -131,13 +137,14 @@ TAIL = """
 6. Record individual jungle-justice incidents separately; this script uses only an explicitly labelled composite witness scene.
 7. Confirm Gideon's camera type and photo process before an animation shows a print, screen or delivery.
 8. Place the Christmas club/drinks/girls memory only after Zino gives its year and confirms he was 18 or older.
+9. Lizzy's breakup is resolved as Form Three; Elianne's identity/place, Tracey's exact age/context and the exact year of Ayuk's TV purchase remain open. Working peer-age estimates are not birthdays.
 
 ## Production guardrails
 
 - Primary-school and high-school fee exclusions are separate confirmed events. This v2 never blends them.
 - Nacking Bottle uses the author-supplied beer bottles as game markers. It does not show school-age drinking.
 - Professional School remains a daytime vocational campus for construction, building and electrical training. Its night access is mixed: serious study, social life and distraction; no group is written as inherently delinquent.
-- Do not add grades, rankings, school names, fee amounts, travel method, uncle quotation, named girls, or a literal family object unless Zino confirms it.
+- Do not invent grades, rankings, school names, fee amounts, unknown travel stages, verbatim uncle quotations or family objects. Use the supplied named school peers only at their confirmed forms; unrecorded action and dialogue remain proposed.
 - A Chapter One scene earns its hard-R force through consequence, not spectacle. Keep the camera with the witness and the changed child.
 """
 
@@ -158,6 +165,7 @@ def episode_chunks(source: Path) -> list[tuple[int, str]]:
 
 def polish(number: int, chunk: str) -> str:
     changes = {
+        10: [("EPISODE 11 — THE EMPTY SEAT", "EPISODE 11 — THE MONEY MATCH")],
         3: [("EPISODE 04 — NACKING BOTTLE", "EPISODE 04 — FIRST BOTTLE")],
         4: [("# EPISODE 04 — “NACKING BOTTLE”", "# EPISODE 04 — “FIRST BOTTLE”"),
             ("EPISODE 05 — THREE HITS", "EPISODE 05 — THE DECIDING PASS")],

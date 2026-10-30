@@ -29,7 +29,7 @@ The drop becomes a football thump. A scuffed ball races between a pair of slippe
 
 **ZINO:** Na goal.
 
-Luc shakes his head. Gideon points at the disturbed slipper. Zino notices two younger listeners near the well. He changes the audience instead of the score.
+Gideon is watching from a sideline seat, not playing. Luc pauses his nearby conversation to listen. Ayuk and other same-class street peers belong to the playing circle. Gideon points at the disturbed slipper. Zino notices listeners near the well. He changes the audience instead of the score.
 
 **ZINO:** Grand-Chukuchuku score from worse side.
 
@@ -47,7 +47,7 @@ The gold switches off. The same boy has a bucket to carry. A quick glance at his
 
 A high view establishes the geography: the vocational campus, the gate, the road, the compound opposite. Practical classroom light holds back the night. Inside, construction and electrical diagrams remain on the board. Some students work alone; others share pages. Conversation in the corridor competes with pencil scratches.
 
-Zino, now approximately fourteen, points at one step in Luc's maths problem. He gives Luc the pencil back.
+Zino, now approximately fourteen, points at one step in Luc's maths problem. All three boys wear the confirmed day-school uniform: light sky-blue short-sleeved shirts and dark-blue trousers. Schoolgirls, where present, wear the same sky-blue shirts and dark-blue skirts. Zino gives Luc the pencil back. Gideon is identified by his bag and Luc by his Bible, not invented alternate uniform colours.
 
 **ZINO:** You solve am. I only show you road.
 
@@ -83,7 +83,7 @@ Luc hesitates. Adults cross in front of the boys. Zino catches Luc's sleeve rath
 
 **ZINO:** Stay here.
 
-Gideon is still beside them, olive shirt visible against the gate light. His camera stays in its bag. He is a boy assessing danger, not a witness collecting a future thriller clue.
+Gideon is still beside them, camera bag visible against the gate light. His camera stays in its bag. He is a boy assessing danger, not a witness collecting a future thriller clue.
 
 Adult shoulders fill the foreground. A gap opens, then closes. Their curiosity has become something harder to put down.
 
@@ -140,5 +140,8 @@ One unresolved note may enter after black. No outside knock, secret pursuer or p
 - Gideon's camera is absent in the ten-year-old passage as a conservative design choice. At fourteen, it stays closed: there is no fabricated evidence photograph.
 - Age-ten secondary-school entry must not inherit the confirmed 1999 primary-fee exclusion. No fee scene appears here.
 - Pidgin among friends; English in the home. The opening is the same moment revisited after its cause, not two separate visits.
+- Author correction on 30 October: Luc and Gideon do not play football. Luc chats/evangelises; Gideon watches and banters. Ayuk, Arey, Noge, Bismark and Robi are the playing circle. Their names are not mapped to later business associates.
+- The same update confirms the sky-blue short-sleeved shirt / dark-blue trousers-or-skirt uniform for the five day-school years. Age-ten casual football clothes and Grand's adult suit remain separate; boarding uniform is not yet confirmed.
+- The expanded weekday routine, neighbourhood, school relationships, motel and great-aunt's poultry farm are in the current Fiango update. They are expansion material, not a requirement to crowd every detail into this five-minute witness pilot.
 - The drawings are eighteen keyframes supporting a thirty-six-shot edit. Extra acting poses, reverse coverage, recordings and movement still require an animatic. The source images are not final character turnarounds or finished animation.
 - This pilot condenses later Chapter One material as a standalone introduction. The sixty-episode season remains an expansion source; the rejected v1 pilot and its music cue plan are superseded.

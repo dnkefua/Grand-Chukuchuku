@@ -21,8 +21,8 @@ from reportlab.platypus import Paragraph
 ROOT = Path(__file__).resolve().parent
 SERIES = ROOT.parent
 PROJECT = SERIES.parent
-PDF = ROOT / "Grand-Chukuchuku_Character_Bible_v1.pdf"
-PACKAGE = SERIES / "Grand-Chukuchuku_Character_Bible_v1.zip"
+PDF = ROOT / "Grand-Chukuchuku_Character_Bible_v2.pdf"
+PACKAGE = SERIES / "Grand-Chukuchuku_Character_Bible_v2.zip"
 OUTPUT = PROJECT.parent / "output" / "grand-chukuchuku"
 W, H = A4
 M = 42
@@ -77,9 +77,9 @@ def page(c: canvas.Canvas, number: int, total: int, label: str) -> None:
     c.drawString(M, H - 29, "GRAND-CHUKUCHUKU")
     c.setFont("CastSans", 7.1)
     c.drawRightString(W - M, H - 29, label.upper())
-    c.drawString(M, 29, "AUTHOR-BASED CHARACTER DEVELOPMENT · 29 OCTOBER 2026")
+    c.drawString(M, 29, "AUTHOR-BASED CHARACTER DEVELOPMENT · 30 OCTOBER 2026")
     c.setFont("CastSansB", 7.5)
-    c.drawRightString(W - M, 29, f"{number:02d} / {total:02d}")
+    c.drawRightString(W - M, 29, f"CORE {number:02d} / {total:02d}")
 
 
 def para(c: canvas.Canvas, text: str, style: str, x: float, top: float, width: float) -> float:
@@ -152,7 +152,7 @@ def cast_system(c: canvas.Canvas) -> None:
         ("GIDEON", "Camera and crossed-body bag; scans for a route to money before he speaks."),
         ("LUC", "Small Bible, square posture and clean lines; moral courage without a sermon."),
         ("MOTHER", "Teacher’s papers, practical shoes and upright control; care expressed through action."),
-        ("UNCLE", "Envelope, newspaper and deliberate hands; pride constrained by what he can do."),
+        ("UNCLE", "Lawyer-era suits, faith and bulk cocoa trade; family pride with unresolved limits."),
         ("MISS MUKETE", "Glass, chalk and blue/white precision; academic attention with standards."),
         ("LANDLORD", "Keys and ledger; money pressure present without turning him into a villain."),
     ]
@@ -223,18 +223,18 @@ def friends_page(c: canvas.Canvas) -> None:
     c.drawString(M, H - 96, "Distinct friends who make Fiango feel lived in")
     fit_image(c, image("friends"), M, 276, 220, 391)
     x, y, width = 285, H - 122, 267
-    y = card(c, x, y, width, "GIDEON", "Business-minded friend; sees opportunity before he sees comfort.",
-             "Confirmed: first camera in secondary school, birthday gigs, pays for small outings, quiet with girls and values Zino’s social help.",
-             "Olive stripes, compact camera, cross-body bag, guarded shoulders and a measuring gaze.")
+    y = card(c, x, y, width, "GIDEON", "Business-minded friend and sideline banter; never a football player.",
+             "Confirmed: camera in secondary school, birthday gigs, often pays, quiet with girls. Loves Sophy in Forms Two–Five. Watches and banters when Zino plays.",
+             "Camera bag and guarded posture. The updated school portrait uses sky-blue short sleeves and dark-blue trousers; casual clothes remain separate.")
     y -= 8
     y = card(c, x, y, width, "LUC", "Faithful, candid friend; the group’s conscience.",
-             "Confirmed: carries a small Bible, preaches to students, values Zino’s maths help and humour.",
-             "Clean white/brown school palette, lean upright posture, compact Bible kept close to chest.")
+             "Confirmed: carries a small Bible, preaches, values Zino’s maths help. Does not play football; evangelises or chats nearby.",
+             "Lean posture and small Bible. The corrected portrait follows the day-school uniform: sky-blue short sleeves and dark-blue trousers.")
     y -= 8
-    card(c, x, y, width, "ELIANNE", "Zino’s first love; must remain a full person, never a prize.",
-         "Confirmed: first love only. Her chronology, age, personal goals and relationship story are open.",
-         "Proposed: neat braids, blue accent, books and a deliberate gaze; give her boundaries and a life beyond Zino.",
-         "Keep every age-specific version provisional until Zino supplies the relationship timeline.")
+    card(c, x, y, width, "ELIANNE", "Previously named first love; identity/place still open.",
+         "Lizzy is now confirmed as the school girlfriend: crush Form One, together Form Two, breakup Form Three. Do not merge or delete Elianne without clarification.",
+         "Old school-era look is provisional. Girls’ day-school uniform is sky-blue short sleeves with a dark-blue skirt.",
+         "See the appended character update for Lizzy, Mirabel, Sophy and Tracey; new portraits are not yet supplied.")
     c.showPage()
 
 
@@ -252,13 +252,13 @@ def family_page(c: canvas.Canvas) -> None:
              "Confirmed: taught from a young age throughout his childhood; believed in him and raised him after his father died.",
              "Wax-print teacher dresses, marked exercise books, practical shoes and controlled upright posture. Care shows in action, not pity.")
     y -= 8
-    y = card(c, x, y, width, "PATERNAL UNCLE", "Intermittent school-fee support and the person who makes, then defers, America’s promise.",
-             "Confirmed: supported fees at times; proud of O-Levels; promised America after five A-Levels, then moved it to after a first degree.",
-             "Understated collared shirt, envelope, newspaper and deliberate hands. No automatic wealth or villainy.",
-             "Name, work, contribution sequence and reason for the deferral remain open.")
+    y = card(c, x, y, width, "PATERNAL UNCLE", "Renowned lawyer, Christian convert and cocoa businessman; supports school at times.",
+             "Known for suits. By Form Three, a large Kumba cocoa store ships trailers to Douala. O-Level pride leads to the America promise, later deferred until after a degree.",
+             "The updated charcoal suit illustrates his lawyer era. Later store/dispatch dress is open. Cocoa links him to his brother’s farming livelihood.",
+             "Conversion/work overlap, support timing and deferral motive remain open; professional success does not prove household cash access.")
     y -= 8
     card(c, x, y, width, "ZINO’S FATHER", "A loss Zino inherited, not a memory he owns.",
-         "Family testimony: died after a snake bite while spraying cocoa when Zino was two. Zino has no direct recollection.",
+         "Limited formal schooling; grew and sold cocoa. Family testimony: fatal snake bite when Zino was two; Zino has no direct recollection.",
          "Use a respectful photo, told memory or restrained symbolic image only. The cocoa-farmer portrait is nonliteral.",
          "No first-person Zino flashback, invented dialogue, injury spectacle or invented character history.")
     c.showPage()
@@ -316,7 +316,7 @@ def reserved_page(c: canvas.Canvas) -> None:
 def build_pdf() -> None:
     fonts()
     c = canvas.Canvas(str(PDF), pagesize=A4, pageCompression=1)
-    c.setTitle("Grand-Chukuchuku | Character Bible v1")
+    c.setTitle("Grand-Chukuchuku | Character Bible v2")
     c.setAuthor("Based on the life of Nkeh Nkengzincho (Zino)")
     cover(c)
     cast_system(c)
@@ -327,12 +327,34 @@ def build_pdf() -> None:
     adults_page(c)
     reserved_page(c)
     c.save()
+    # Append the current author's update, including named new cast and adjacency map.
+    import fitz
+    update = ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.pdf"
+    if not update.exists():
+        raise FileNotFoundError("Run build_fiango_update.py first")
+    with fitz.open(PDF) as core, fitz.open(update) as appendix:
+        core.insert_pdf(appendix)
+        combined = core.tobytes(garbage=4, deflate=True)
+    PDF.write_bytes(combined)
 
 
 def package() -> None:
     readme = ROOT / "README.md"
-    md = ROOT / "Grand-Chukuchuku_Character_Bible_v1.md"
-    files = [PDF, md, readme, ROOT / "build_character_bible.py"] + sorted((ROOT / "images").glob("*.png")) + [SERIES / "visual-reference" / "VISUAL_BASELINE_V1.md"]
+    md = ROOT / "Grand-Chukuchuku_Character_Bible_v2.md"
+    legacy = (ROOT / "Grand-Chukuchuku_Character_Bible_v1.md").read_text()
+    replacements = {
+        "Character Bible v1 — Fiango and the wider story": "Character Bible v2 — Fiango and the wider story",
+        "Illustrated and production-ready for Chapter One age 10; later-life variants remain open.": "Illustrated design proposal for Chapter One age 10; turnarounds and later-life variants remain open.",
+        "**Elianne** | Zino’s first love": "**Elianne** | Previously named first love; identity/place unresolved",
+        "**C — Foundation:** Elianne is identified as Zino’s first love. Her exact age, years, school, relationship arc and voice have not yet been supplied.": "**C — Foundation:** Elianne was previously named first love. Lizzy is now confirmed as the Form One crush, Form Two girlfriend and Form Three breakup. Their identities must not be merged without clarification.",
+        "**P — Distinct visual code:** Lean upright silhouette; neat white school shirt, brown shorts or trousers; compact worn Bible close to his body.": "**P — Distinct visual code:** Lean upright silhouette and small Bible. Confirmed day-school uniform: light sky-blue short-sleeved shirt with dark-blue trousers; prior white/brown concepts are superseded. He does not play football; he evangelises or chats.",
+        "**P — Distinct visual code:** Older than Zino’s mother, understated collared shirt, folded newspaper, plain envelope, careful hands. His visual language is modest responsibility, never automatic wealth.": "**C / P — Visual correction:** He is a renowned lawyer known for suits, later a Christian convert and cocoa trader with a large Kumba store by Form Three, shipping trailers to Douala. The revised illustration shows a charcoal lawyer-era suit; later store/dispatch clothing remains open.",
+        "**Continuity hold:** Name, profession, family circumstances, exact contribution, and motive for the deferral remain open.": "**Continuity hold:** Name, conversion date, legal/trading overlap, family circumstances, exact contributions and motive for the deferral remain open. His profession is now supplied.",
+    }
+    for before,after in replacements.items():legacy=legacy.replace(before,after)
+    legacy=legacy.replace("**Performance:** His jokes land dry.", "**C — Football correction:** He does not play; he sits watching and bantering, especially when Zino loses.\n- **Performance:** His jokes land dry.")
+    md.write_text(legacy + "\n\n---\n\n" + (ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.md").read_text())
+    files = [PDF, md, readme, ROOT / "build_character_bible.py", ROOT / "build_fiango_update.py", ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.md", ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.pdf", ROOT / "Fiango_Neighbourhood_Adjacency_2026-10-30.svg", ROOT / "Fiango_Taxi_Motel_Poultry_2026-10-30.svg", SERIES / "writers-room" / "CONTEXT_REVIEW_2026-10-30.md"] + sorted((ROOT / "images").glob("*.png")) + [SERIES / "visual-reference" / "VISUAL_BASELINE_V1.md"]
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for file in files:
             if file.parent == ROOT / "images":

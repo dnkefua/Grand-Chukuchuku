@@ -8,6 +8,10 @@
 
 **Block movement:** These episodes do not rush from a result into boarding. They let revision, waiting, a promise, travel, routine, social difference and loneliness change Zino one short decision at a time. Grand-Chukuchuku only appears when Zino deliberately tells a story or hides a fear.
 
+**Author update — 30 October 2026:** The paternal uncle was a renowned lawyer remembered in suits, later a cocoa trader after giving his life to Christ. By Zino's Form Three he had opened a large cocoa store in Kumba and shipped cocoa to Douala by trailer. He loved his late brother, Zino's father, who had limited formal education and farmed cocoa. The uncle urged Zino to study so he would not follow the same constrained educational path; preserve the author's report without inventing that farming or the father was a failure. Exact legal/business overlap, conversion date, wardrobe after the career change and meaning of each warning remain to be recorded.
+
+**Uniform distinction:** Until leaving Form Five, boys wear dark blue trousers and light sky blue short-sleeved shirts; girls wear dark blue skirts and the same light sky blue shirts. These supplied day-school colours do not establish the remote boarding school's uniform. The boarding colour design remains P until the author supplies it.
+
 ---
 
 # EPISODE 37 — “TEN ON THE TABLE”
@@ -24,7 +28,7 @@
 ### 0:18–0:55 — EACH ONE HAS WEIGHT
 **VISUAL | P:** At the compound table, Zino moves between papers instead of making a Grand-Chukuchuku story. His mother marks her pupils' books nearby, hears him recite a point, then points back to the line he skipped.
 
-**MOTHER (P):** Read the question before you answer am.
+**MOTHER (P, English):** Read the question before you answer it.
 
 ### 0:55–1:30 — FRIENDS PASS THROUGH
 **VISUAL | P:** Gideon crosses the courtyard with his camera bag; Luc passes with his small Bible under an exercise book. Neither interrupts. The football sits near Zino's chair, unused.
@@ -113,7 +117,7 @@
 
 **ZINO (P):** You hear am?
 
-**MOTHER (P):** I hear you.
+**MOTHER (P, English):** I heard it.
 
 ### 1:33–2:00 — HOOK
 **VISUAL | C uncle pride / P staging:** Zino's uncle arrives or is revealed nearby only if the remembered arrangement supports it. He studies Zino with quiet pride before speaking.
@@ -128,12 +132,14 @@
 
 **Runtime:** 1:55  
 **Logline:** Zino wants his uncle's pride to mean something practical; the offer opens a road that comes with a harder condition.  
-**Fact tier:** **C** — after Zino's O-Level result, his paternal uncle promised he could choose any school and go to America if he made all five A-Level papers. **P** — exact meeting, wording, reaction and dialogue.
+**Fact tier:** **C** — the uncle was a renowned lawyer remembered in suits, later became a cocoa trader after Christian conversion, and opened a large Kumba store by Zino's Form Three, moving cocoa to Douala by trailer. C — after Zino's O-Level result he promised any school and America if Zino made all five A-Level papers. P — this store-memory montage, meeting, precise warning, promise wording and reaction. R — exact dates and professional overlap.
 
 ### 0:00–0:20 — PRIDE WITH HISTORY
-**VISUAL | C support / P staging:** The uncle's presence follows the irregular fee support already established in the season. There is no invented cheque, cash handover or repayment account.
+**VISUAL | C context / P staging:** A brief, clearly labelled *FORM THREE — EARLIER* memory: cocoa sacks at the uncle's large Kumba store and a trailer prepared for Douala. Match a hand resting on schoolwork to the O-Level conversation in the present. The store is not automatically the promise's actual meeting place. No invented sale total, cheque, cash handover or repayment account appears.
 
-**UNCLE (P):** You make me proud.
+**UNCLE (P, reported advice paraphrased, over the memory):** Study hard. Your father did not have your education.
+
+**VISUAL | P:** Return to the present uncle's pride in the result. His love for his late brother must remain compatible with the warning; the edit does not declare the father's farming life a failure.
 
 ### 0:20–0:56 — THE CONDITION
 **VISUAL | C promise / P dialogue:** The uncle speaks the offer in proposed words. Zino hears both permission and the challenge.
@@ -150,7 +156,7 @@
 
 **END CARD:** *EPISODE 42 — THE SCHOOL HE CHOSE*
 
-**Fact boundary:** The promise and the choice are confirmed. The exact words, reason, school list, mother's response and uncle's means remain open.
+**Fact boundary:** The promise, school choice, legal career and later cocoa business are confirmed by the author. The exact words, warning's tone, conversion date, promise setting, school list, mother's response and liquid finances remain open; business scale does not prove money was always available for school fees.
 
 ---
 
@@ -166,7 +172,7 @@
 ### 0:22–0:54 — A CHOICE, NOT A FLIGHT
 **VISUAL | P:** Mother asks Zino to put only needed things into a bag. He tries to add the football. She lets him decide; he sets it back down.
 
-**MOTHER (P):** You choose this place. Carry your work too.
+**MOTHER (P, English):** You chose this place. Take your work seriously too.
 
 ### 0:54–1:24 — FRIENDS MAKE IT HARDER
 **VISUAL | P:** Gideon adjusts his camera but does not take a photo. Luc starts a prayer, stops when Zino jokes, then simply squeezes his shoulder.

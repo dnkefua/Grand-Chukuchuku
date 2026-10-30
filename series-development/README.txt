@@ -1,11 +1,15 @@
 GRAND-CHUKUCHUKU - DEVELOPMENT PACK
 
-CURRENT PILOT (30 OCTOBER 2026): The Man Who Never Ran.
-Grand-Chukuchuku_Pilot_v2_Cinematic_Package.zip contains the replacement
-screenplay, eighteen distinct drawn keyframes, a thirty-six-shot five-minute
-target edit, standalone frame viewer, and independent critic review.
-Start in pilot-chapter-one/rebuild-v2/. The earlier Courtyard Keeps Score
-pilot and its Artlist audio plan are superseded development history.
+CURRENT AUTHOR UPDATE (30 OCTOBER 2026):
+character-bible/Fiango_Life_and_Characters_Update_2026-10-30.pdf records
+the daily routine, named school/street cast, sky-blue/navy school uniform,
+Lizzy's Form Three breakup, taxi pattern, TV, motel and poultry-farm context.
+Grand-Chukuchuku_Character_Bible_v2.zip is the current character package.
+Grand-Chukuchuku_Pilot_v2_Cinematic_Package.zip is the current pilot:
+The Man Who Never Ran, with eighteen drawn keyframes and a 36-shot target edit.
+The older Courtyard Keeps Score pilot and its Artlist plan are superseded.
+The complete development ZIP is an older snapshot; use the current individual
+packages and source files for the latest corrections.
 
 Start with Grand-Chukuchuku_Series_and_Chapters.pdf (17 pages).
 It contains the unified synopsis, characters, Fiango world, chronology, and all five chapters.

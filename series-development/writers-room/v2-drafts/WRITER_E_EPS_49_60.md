@@ -8,6 +8,10 @@
 
 This block deliberately gives the remote school a daily life—bell, bed, basin, books, hunger, quiet competition, school fees and waiting—before the final result. Grand-Chukuchuku remains mostly absent: the real Zino has to do the work.
 
+**Author update — 30 October 2026:** The paternal uncle's background is now known: renowned lawyer remembered in suits, then cocoa trader after Christian conversion; a large Kumba cocoa store by Zino's Form Three and trailer shipments to Douala. This confirms his profession/business, not the reason he later deferred America or the precise finances available at the A-Level conversation. Fiango's four-bucket dawn routine and two shared bathrooms are home details; do not silently transplant that layout into the remote boarding campus.
+
+**School-stage distinction:** The supplied light sky blue shirts with dark blue boys' trousers/girls' skirts are the Form One–Five day-school uniform. This boarding-school block must not claim those colours are confirmed for the later campus. Approximate Form One–Five age bands are planning estimates, not recorded birthdays.
+
 ---
 
 # EPISODE 49 — “BEFORE FIRST BELL”
@@ -320,7 +324,7 @@ This block deliberately gives the remote school a daily life—bell, bed, basin,
 
 **Target runtime:** 2:00  
 **Logline:** Zino reminds his uncle that he made all five papers, only to learn that America now waits beyond a first university degree.  
-**Fact tier:** C — after A Levels Zino reminded his uncle of the earlier promise; uncle said America would come after Zino’s first university degree. R — location, timing, reason, exact words and who was present. P — scene, dialogue, visual response and chapter button.
+**Fact tier:** C — after A Levels Zino reminded his uncle of the earlier promise; uncle said America would come after Zino's first university degree. C — uncle's earlier law career and later Kumba cocoa-store/trailer business. R — conversation location, timing, deferral reason, exact words and who was present; the business does not establish cash available for America. P — scene, dialogue, visual response and chapter button.
 
 ### 0:00–0:27 — THE REMINDER
 **VISUAL | C event / P staging:** At an unspecified later conversation, Zino places his result book between himself and his uncle. The setting stays unidentifiable until remembered.

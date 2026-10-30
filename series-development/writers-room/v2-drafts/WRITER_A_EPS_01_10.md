@@ -10,6 +10,10 @@
 
 **Safety boundary:** Zino and his friends are school-age in this section. The school scenes can include social curiosity, flirting and friendship, but no sexual activity, drinking or nightclub activity is depicted. The Christmas night-out memory belongs after its age and year are confirmed.
 
+**Author update — 30 October 2026:** Zino plays street football with same-age classmates Ayuk, Arey (Ayuk's cousin), Noge, Bismark and Robi. Gideon does not play: he watches and banters, particularly when Zino loses. Luc does not play: he evangelises or chats nearby. Exact match teams, scores and individual peer actions below remain P. Taxi travel is three mornings a week, one 100-CFA ride from pickup to school; other early starts can mean walking. “College” here means the five secondary day-school years, so Ayuk's household television belongs in that period. The school uniform is light sky blue short-sleeved shirts for everyone, dark blue trousers for boys and dark blue skirts for girls. These are day-school colours, not an invented boarding uniform.
+
+**Neighbourhood orientation:** Ayuk lives one house north of the compound; Arey is his cousin; Noge lives next to Ayuk; Bismark is south, beside the neighbouring TV house; Robi is next to Bismark. The major tarred taxi road is five houses behind the compound, distinct from the dirt-road football space. AZI Motel is a nearby five-storey landmark. Mother's aunt lives beside the motel and runs a large poultry farm supplying the hotel and others; she is Zino's great-aunt, not the separately reported maternal aunt who was killed. The exact motel/road bearings and whether “poultry” is the intended wording remain source notes for the location bible rather than invented plot actions.
+
 ---
 
 # EPISODE 01 — “THE COURTYARD KEEPS SCORE”
@@ -18,7 +22,7 @@
 
 **Episode engine:** Zino wants a disputed street-football goal counted; when he loses the argument, he invents the first Grand-Chukuchuku rescue.
 
-**Fact tier:** C — Zino meets Gideon and Luc through street football in Fiango; the compound has a well and central mango tree; street football sometimes uses slippers as goalposts on the dirt road; Zino tells Grand-Chukuchuku stories. P — this particular match, score, dialogue and fantasy.
+**Fact tier:** C — Zino plays street football in Fiango with classmates Ayuk, Arey, Noge, Bismark and Robi; Gideon watches and banters rather than playing; Luc evangelises or chats rather than playing; the compound has a well and central mango tree; slippers sometimes mark goals; Zino tells Grand-Chukuchuku stories. P — this particular match, opponent, score, dialogue and fantasy.
 
 ### 0:00–0:15 — WIDE HOME
 
@@ -28,13 +32,13 @@
 
 ### 0:15–0:42 — THE ARGUMENT
 
-**VISUAL | P:** Gideon blocks the narrow slipper goal. Luc watches the line with his small Bible tucked under one arm. Zino's shot brushes the outside slipper and rolls past.
+**VISUAL | P:** Ayuk guards the narrow slipper goal. Gideon sits beyond the playing line, ready with commentary; Luc speaks with a neighbour nearby, his small Bible tucked under one arm. Zino's shot brushes the outside slipper and rolls past.
 
 **GIDEON (P):** Outside. No goal.
 
 **ZINO (P):** Your eye don miss road since morning.
 
-**LUC (P):** Na outside, Zino.
+**AYUK (P):** Na outside, Zino.
 
 ### 0:42–1:12 — GRAND-CHUKUCHUKU ARRIVES
 
@@ -48,13 +52,13 @@
 
 **VISUAL | P:** The ball sits in a wash basin. Zino lifts it out. His mother crosses the courtyard carrying pupil exercise books. She gives him one look: keep the ball away from the water.
 
-**MOTHER (P):** Finish play before dark. And no break my basin.
+**MOTHER (P):** Finish playing before dark. And do not break my basin.
 
 **VISUAL | P:** Zino nods, hiding embarrassment with a grin.
 
 ### 1:42–1:55 — HOOK
 
-**VISUAL | P:** Gideon flips a small coin into his palm and watches an older evening match forming at the road.
+**VISUAL | P:** Gideon watches classmates gather contributions for another evening match. He stays seated beside the playing area; he is not joining a side.
 
 **GIDEON (P):** This one no be play-play. Everybody put something.
 
@@ -66,47 +70,47 @@
 
 **Target runtime:** 1:50
 
-**Episode engine:** Zino wants to reach the evening match before it starts; his mother makes him learn that the compound needs his hands before it needs his feet.
+**Episode engine:** Zino wants an early enough start to walk to school and keep all his school money; water duties and the shared-bathroom queue consume the minutes he needs.
 
-**Fact tier:** C — the compound well is used for drawing water; mother is a primary-school teacher; multiple households share the compound. P — this chore, mother’s instruction, neighbours and dialogue.
+**Fact tier:** C — around 5:30 a.m. a cock crows behind Zino's room; he fetches four buckets from the well in two rounds, one in each hand; tenants share two bathrooms whose doors expose feet/lower shins; his room is two apartments away from Mother's front room; she teaches primary school; he takes one 100-CFA taxi ride to school on three mornings per week. P — this particular morning, elapsed minutes, neighbours and dialogue. R — exact years of the separate-room arrangement.
 
-### 0:00–0:18 — THE QUEUE
+### 0:00–0:18 — THE COCK
 
-**VISUAL | C setting / P action:** Buckets form a loose morning line at the well. A bachelor waits with a container; student tenants pass through with books; women greet one another beneath the mango shade. Zino keeps glancing toward the road.
+**VISUAL | C routine / P staging:** Around 5:30 a.m., a cock crows behind Zino's room. He opens his eyes, sits up and reaches for the first pair of buckets. Mother's room remains at the front, two apartments away; do not merge their rooms into one interior.
 
-**ZINO (V.O., P):** In our compound, even water know who come first.
+**ZINO (V.O., P):** Even cock get alarm. Na me e dey wake.
 
-### 0:18–0:45 — A QUICK PLAN
+### 0:18–0:45 — TWO ROUNDS
 
-**VISUAL | P:** Zino tries to pull the bucket too fast. Rope burns his palm and water sloshes over the rim.
+**VISUAL | C routine / P staging:** He draws water, then carries two filled buckets, one in each hand. A second trip repeats the route: four buckets total, not one bucket carried twice. The weight changes his gait; water sloshes only when he hurries.
 
-**MOTHER (P):** If you hurry water, na empty bucket you carry home.
+**MOTHER (P, English):** Steady. You will spill it.
 
-**ZINO (P):** Match fit start without me.
+**ZINO (P, English):** I want to leave early.
 
-**MOTHER (P):** Water no go carry itself.
+**MOTHER (P, English):** Then finish properly.
 
-### 0:45–1:16 — EVERYBODY SEES
+### 0:45–1:16 — TWO DOORS
 
-**VISUAL | P:** Gideon passes with his camera bag, already looking for where money might be made. Luc gives a small greeting to an older tenant. Zino pretends the bucket is no trouble while the three of them watch.
+**VISUAL | C setting / P staging:** Ready with his washing things, Zino joins the queue for one of two shared bathrooms. Only feet and lower shins can be seen beneath the doors, indicating occupancy. Keep the frame on the queue, doors and waiting; no nudity, looking through openings or bathing is shown.
 
-**GIDEON (P):** Champion goalkeeper, fight rope first.
+**ZINO (V.O., P):** Two bathroom. Whole compound get morning.
 
-**ZINO (P):** Grand-Chukuchuku pull river with one hand.
+**VISUAL | P:** The line advances by one person. Zino checks the daylight growing at the compound entrance.
 
-**VISUAL | P:** Zino tries again slowly. This time he fills the container cleanly.
+**SOUND:** Bucket set down, a latch, greetings from waking rooms.
 
-### 1:16–1:40 — A SMALL PRICE
+### 1:16–1:40 — THE DRAWER
 
-**VISUAL | P:** Mother takes one bucket, leaving Zino the other. She hands him a small wrapped lunch for school the next day.
+**VISUAL | C routine / P staging:** Now in his light sky blue short-sleeved shirt and dark blue trousers, Zino enters Mother's front room. He checks the drawer beside her queen-size bed. Two coins total 200 CFA francs. One hundred can go to the single taxi ride, one hundred to school spending; leaving early enough to walk would preserve both.
 
-**MOTHER (P):** This one na for tomorrow. No forget.
+**MOTHER (P, English):** Your school money is there.
 
-**VISUAL | P:** Zino looks from the lunch to the road where the older players are now putting coins together.
+**VISUAL | C route / P choice:** He looks from the two coins to the light outside, then toward the route to the tarred road five houses behind the compound. Three taxi mornings a week means one pickup-to-school ride on each of those mornings, not three paid connections.
 
 ### 1:40–1:50 — HOOK
 
-**VISUAL | P:** He slips the lunch into his school bag with a calculating look.
+**VISUAL | P:** On this proposed morning, he pockets both coins and sets out on foot. Walking preserves the full 200 for school; the next choice is whether to eat or save some of it.
 
 **END CARD:** *EPISODE 03 — LUNCH MONEY*
 
@@ -118,7 +122,7 @@
 
 **Episode engine:** Zino saves what should buy his lunch because he wants enough to join Nacking Bottle after school; hunger makes his clever plan harder to hide.
 
-**Fact tier:** C — Zino saved lunch money to play Nacking Bottle after school. P — the lunch, amount, class period, friends’ notice and dialogue.
+**Fact tier:** C — Zino usually finds two coins totalling 200 CFA francs in the drawer beside Mother's bed; 100 funds one pickup-to-school taxi ride on three mornings a week and 100 school spending, or he can walk early and keep all 200 for school; he saved lunch money to play Nacking Bottle. P — which travel choice he made that morning, the class period, friends' notice and dialogue.
 
 ### 0:00–0:18 — THE DECISION
 
@@ -170,7 +174,7 @@
 
 ### 0:00–0:20 — THE RULE
 
-**VISUAL | C game / P staging:** Two beer bottles stand at opposite ends of a narrow dirt-road pitch. A small pile of contributed coins lies on a folded cloth. Older and younger players make room for Zino, Gideon and Luc.
+**VISUAL | C game / P staging:** Two beer bottles stand at opposite ends of a narrow dirt-road pitch. A small pile of contributed coins lies on a folded cloth. Zino and Ayuk face Arey and Noge in this proposed team arrangement. Gideon watches from the edge; Luc chats with another classmate nearby.
 
 **ON SCREEN | C:** *NACKING BOTTLE: HIT THE OTHER BOTTLE THREE TIMES.*
 
@@ -186,7 +190,7 @@
 
 ### 0:50–1:22 — THE OTHER SIDE ANSWERS
 
-**VISUAL | P:** An opponent hits Zino’s bottle. Gideon calculates angles aloud; Luc’s instinct is to tell Zino not to lose his temper. Zino insists on taking the next shot.
+**VISUAL | P:** Arey hits Zino's bottle. From his seat outside the pitch, Gideon begins his banter. Luc pauses his nearby conversation to tell Zino not to lose his temper. Zino insists on taking the next shot.
 
 **LUC (P):** No turn game to quarrel.
 
@@ -196,13 +200,15 @@
 
 **VISUAL | P:** Zino misses wide. The game remains tied at one hit each. The light changes. He sees the cloth of coins and feels his empty stomach more sharply.
 
-**FANTASY | P:** Grand-Chukuchuku points at the bottle, then waits. He will not kick for Zino.
+**ZINO (P):** Grand-Chukuchuku no dey miss this kind one.
+
+**FANTASY | P, actively told:** Grand-Chukuchuku points at the bottle, then waits. He will not kick for Zino; the image ends when Gideon interrupts.
 
 ### 1:45–2:00 — HOOK
 
 **VISUAL | P:** An older player nudges the ball to the centre.
 
-**OLDER PLAYER (P):** Next hit decide who go sleep happy.
+**AREY (P):** First side reach three. Game never finish.
 
 **END CARD:** *EPISODE 05 — THREE HITS*
 
@@ -212,15 +218,15 @@
 
 **Target runtime:** 1:55
 
-**Episode engine:** With the game level and darkness coming, Zino must decide whether to take the winning shot or pass to Gideon.
+**Episode engine:** With both sides on two hits and darkness coming, Zino must decide whether to take the winning shot or pass to Ayuk while Gideon banters from the sideline.
 
-**Fact tier:** C — Nacking Bottle’s winning condition is three hits on the other bottle; football stakes and contributions are part of Zino’s street life. P — exact game outcome, player positions, dialogue and consequence.
+**Fact tier:** C — Nacking Bottle's winning condition is three hits; Zino's actual football peers include Ayuk, Arey, Noge, Bismark and Robi; Gideon does not play and Luc evangelises or chats. P — this match's teams, score, outcome, dialogue and consequence.
 
 ### 0:00–0:20 — THE LAST ANGLE
 
-**VISUAL | P:** The opposing bottle has two marks. Zino’s side has one. Gideon stands open at a better angle; Zino wants the glory.
+**VISUAL | P:** The same game has advanced to two hits apiece. Ayuk stands open at a better angle; Zino wants the glory. Gideon is still seated beyond the playing area; Luc continues a nearby conversation.
 
-**GIDEON (P):** Pass am.
+**AYUK (P):** Pass am.
 
 **ZINO (P):** Everybody go remember who score.
 
@@ -232,17 +238,17 @@
 
 ### 0:48–1:20 — ONE MORE CHANCE
 
-**VISUAL | P:** The ball returns. Zino’s temper rises when someone jokes about his saved lunch. Luc catches his wrist before he can answer.
+**VISUAL | P:** The ball returns. Gideon's sideline joke about Zino's missed chance stings. During the stoppage, Luc steps near enough to catch Zino's wrist before the response becomes a quarrel; Luc does not enter as a player.
 
 **LUC (P):** Play the road, Zino. No play the people.
 
-**VISUAL | P:** Zino looks at Gideon. This time he passes.
+**VISUAL | P:** Zino looks at Ayuk's open position. This time he passes.
 
-### 1:20–1:42 — GIDEON’S FOOT
+### 1:20–1:42 — THE THIRD HIT
 
-**VISUAL | P:** Gideon hits the bottle. It falls. The score is two-two, not a win. Gideon’s face says the partnership mattered more than the noise.
+**VISUAL | P:** Ayuk hits the opposing bottle a third time. Their side wins, three-two. The contributions are handed to Zino and Ayuk together; no exact stake or split is claimed. Gideon applauds from his seat, still ready with a joke.
 
-**GIDEON (P):** Again.
+**GIDEON (P):** So your leg fit hear somebody else name.
 
 ### 1:42–1:55 — HOOK
 
@@ -256,23 +262,23 @@
 
 **Target runtime:** 1:55
 
-**Episode engine:** Zino returns from the game too late to escape the landlord’s visit; he sees an adult pressure that cannot be beaten in three hits.
+**Episode engine:** After a small street-game win, Zino sees the landlord's collection notebook and learns that winning a few coins cannot cover the compound's adult pressures.
 
-**Fact tier:** C — the landlord collects rent and electricity money monthly; mother teaches in primary school; the compound includes two families, three single mothers, two bachelors and student tenants. P — this collection day, payment order, reaction and dialogue.
+**Fact tier:** C — the landlord collects rent and electricity monthly; Mother teaches primary school and occupies the front room; Zino's room is two apartments away; the compound includes two families, three single mothers, two bachelors and student tenants. P — this collection day, the small match winnings, movement between rooms, payment order and dialogue.
 
 ### 0:00–0:18 — THE NOTEBOOK
 
-**VISUAL | C setting / P action:** The landlord’s notebook moves from door to door. Doors close carefully. A tenant lowers a radio. Mother holds pupil books against her hip and notices the landlord before Zino sees him.
+**VISUAL | C setting / P action:** The landlord's notebook moves from door to door. Establish Mother's room at the front and Zino's own room two apartments away. Doors close carefully. A tenant lowers a radio. Mother holds pupil books against her hip and notices the landlord before Zino sees him.
 
 ### 0:18–0:45 — ZINO’S LATE RETURN
 
-**VISUAL | P:** Zino arrives dirty, carrying no winnings. The ball stops at the edge of the yard.
+**VISUAL | P:** Zino arrives dusty with his share of the small match pot. He sees the landlord's collection book and closes his hand: a football win has not made the rent-and-light problem small. The ball stops at the yard's edge.
 
-**MOTHER (P):** You hear me call?
+**MOTHER (P, English):** Did you hear me call?
 
-**ZINO (P):** I dey come.
+**ZINO (P, English):** I am coming.
 
-**MOTHER (P):** “Dey come” no carry water. Take the bucket.
+**MOTHER (P, English):** Then come inside. Bring your book.
 
 ### 0:45–1:14 — THE JOKE FALLS FLAT
 
@@ -286,7 +292,7 @@
 
 **VISUAL | P:** Mother returns, sets her exercise books beside Zino’s schoolwork and points to a problem. She refuses to let rent-day silence become his whole evening.
 
-**MOTHER (P):** You lose match. You no lose book.
+**MOTHER (P, English):** A match is finished. Your work is not.
 
 **VISUAL | P:** Zino sits. The ball remains outside.
 
@@ -308,7 +314,7 @@
 
 ### 0:00–0:18 — THE BOOKING
 
-**VISUAL | P:** Gideon cleans his camera with a shirt edge, checks a handwritten time on a small paper and refuses football invitations.
+**VISUAL | P:** Gideon cleans his camera with a shirt edge and checks a handwritten time. Zino invites him to come and watch the next game; Gideon declines because he has camera work. He is never invited as a player.
 
 **GIDEON (P):** Today I get work.
 
@@ -488,9 +494,9 @@
 
 **Target runtime:** 1:55
 
-**Episode engine:** Zino wants to prove that his Nacking Bottle loss was nothing; a team street-football pot makes him choose between being the hero and being useful.
+**Episode engine:** Zino wants another street-game win to belong to him alone; a team football pot makes him choose between being the hero and being useful.
 
-**Fact tier:** C — evening street-football players contribute money and the winning side takes the pot; dirt-road goals can be made with slippers; Zino, Gideon and Luc play football together. P — teams, stake, score, individual contributions, game result and dialogue.
+**Fact tier:** C — evening street-football players contribute money and the winning side takes the pot; dirt-road goals can be made with slippers; Zino plays with Ayuk, Arey, Noge, Bismark and Robi, classmates of the same age group; Gideon watches and banters, and Luc evangelises or chats. P — teams, stake, score, contributions, result and dialogue.
 
 ### 0:00–0:18 — THE POT
 
@@ -498,23 +504,23 @@
 
 **GIDEON (P):** Today, na team own. No carry ball go marry am.
 
-### 0:18–0:47 — GIDEON’S TERMS
+### 0:18–0:47 — FROM THE SIDELINE
 
-**VISUAL | P:** Gideon puts down one contribution and points Zino toward his side. The arrangement is a proposed friendship beat, not a claim of a remembered loan.
+**VISUAL | P:** Zino places his contribution beside the others and joins Bismark and Robi in this proposed team selection; Ayuk, Arey and Noge arrange the opposition. Gideon sits at the sideline, looking from the pot to Zino's face. He is not a contributor-player or teammate.
 
-**ZINO (P):** If we win, I go return your own.
+**ZINO (P):** Watch well. Today you no go laugh.
 
-**GIDEON (P):** First make we win. After that, do mathematics.
+**GIDEON (P):** Win first. I still get mouth.
 
 ### 0:47–1:17 — THE PASS
 
-**VISUAL | P:** Zino dribbles too long, hears the crowd begin to complain, then spots Gideon clear between the slipper posts. His first instinct is to shoot; he passes. Gideon scores.
+**VISUAL | P:** Zino dribbles too long, hears Bismark call, then spots Robi clear between the slipper posts. His first instinct is to shoot; he passes. Robi scores. Gideon reacts from his seat; Luc is talking to a classmate off the road.
 
 **SOUND:** Sandal scrape, ball thud, a tight burst of celebration.
 
 ### 1:17–1:40 — THE REAL WIN
 
-**VISUAL | P:** The other side restarts fast. Luc shouts a warning. Zino tracks back and blocks a shot with his shin. It hurts; he does not turn it into a speech.
+**VISUAL | P:** The other side restarts fast. Bismark shouts a warning. Zino tracks back and blocks a shot with his shin. It hurts; he does not turn it into a speech. Luc pauses his conversation at the sideline.
 
 **LUC (P):** Sometimes pass na the winning shot.
 
@@ -532,13 +538,13 @@
 
 **Target runtime:** 1:50
 
-**Episode engine:** Zino wants to impress a girl in the corridor without looking foolish; the bell sends him into class unprepared and gives a teacher a first view of his talent and distraction.
+**Episode engine:** Form One Zino wants to impress his crush Lizzy in the corridor without looking foolish; the bell sends him into class unprepared and exposes talent without preparation.
 
-**Fact tier:** C — Zino admired girls and was socially confident at school; he speaks French and English in school; he is witty, talented, people-pleasing and sometimes lacks self-awareness. R — Miss Mukete’s exact school placement is still unconfirmed. P — the girl, corridor, classroom, teacher, work and dialogue.
+**Fact tier:** C — Lizzy is Zino's crush in Form One, becomes his girlfriend in Form Two, and the relationship ends in Form Three (the author corrected the earlier Form Four account); he is socially confident, speaks French and English at school, and can be witty, people-pleasing and distracted. R — Elianne's identity/timeline relative to Lizzy and Miss Mukete's school placement remain open. P — this corridor encounter, class, teacher, work and dialogue.
 
 ### 0:00–0:17 — TWO LANGUAGES
 
-**VISUAL | C language / P staging:** Students change rooms at the bell. Zino shifts easily from French with one classmate to English with another. He notices a girl in the corridor and forgets the exercise book under his arm.
+**VISUAL | C language, uniform and crush / P staging:** A clear *FORM ONE* placement. Students change rooms at the bell: light sky blue short-sleeved shirts with dark blue trousers for boys and dark blue skirts for girls. Zino shifts from French with one classmate to English with another. He notices Lizzy and forgets his exercise book. She is his crush here; their relationship does not begin until Form Two.
 
 **ZINO (P):** If bell no ring, this corridor fit become parliament.
 

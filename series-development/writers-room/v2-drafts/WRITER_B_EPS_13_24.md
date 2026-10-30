@@ -6,13 +6,15 @@
 **Placement:** Midway through the five Fiango day-school years, 2000–2005. This block deliberately delays O-Level results, the boarding-school move and jungle justice so the audience can live in Zino's daily world first.  
 **Draft rule:** All scene construction and dialogue are **P — Proposed composite** unless specifically labelled **C — Confirmed recollection**. Do not market proposed moments as verbatim autobiography.
 
+**Author correction — 30 October 2026:** Gideon never plays football; he watches and banters. Luc never plays; he evangelises or chats. Zino's playing classmates are Ayuk, Arey, Noge, Bismark and Robi. Specific game roles remain P. Lizzy's breakup is now resolved to Form Three, correcting the earlier Form Four account; do not merge her identity with Elianne. Mirabel's friendship begins in Form Three. Sophy's Form Two–Five interest remains a nonsexual friendship-and-loyalty story. Day-school uniform: light sky blue short-sleeved shirts for all; dark blue trousers for boys, dark blue skirts for girls. Taxi use is one 100-CFA ride on three mornings weekly. “College” means the five secondary years, when Zino watches TV in Ayuk's nearby home.
+
 ---
 
 # EPISODE 13 — “THE LUNCH BELL”
 
 **Target runtime:** 1:45  
 **Logline:** Zino wants to turn one saved lunch into a chance at the evening game, but hunger makes the school day longer than pride expected.  
-**Fact tier:** C — Zino saved lunch money to play Nacking Bottle after school. P — amount, food, class period, dialogue and outcome.
+**Fact tier:** C — Zino saved lunch money to play Nacking Bottle; his usual school money was two coins totalling 200 CFA, with 100 for one taxi ride on three mornings weekly and 100 for school, or all 200 retained for school if he walked early. P — that day's travel choice, food, saving amount, dialogue and game outcome.
 
 ### 0:00–0:18 — THE COIN
 **VISUAL | P:** A lunch bell cuts across a dusty day-school yard. Zino closes his palm around one small coin instead of joining a food queue. Gideon notices; Luc opens his lunch.
@@ -22,7 +24,7 @@
 **ZINO (P):** Money wey enter football no get hunger.
 
 ### 0:18–0:55 — THE AFTERNOON STRETCHES
-**VISUAL | P:** In class, the coin presses a square into Zino's palm under the desk. A question on the board blurs; a classmate's food wrapper crackles louder than chalk.
+**VISUAL | P:** In class, the coin presses a circle into Zino's palm under the desk. A question on the board blurs; a classmate's food wrapper crackles louder than chalk.
 
 **SOUND:** Chalk, bell echo, Zino's stomach, a distant ball against dirt.
 
@@ -54,14 +56,14 @@
 **ZINO (P):** Three knock. Na all man money.
 
 ### 0:20–0:54 — FIRST POINT
-**VISUAL | P:** Zino feints, shoots and clips the bottle. It spins but remains standing. His side erupts; Gideon folds his arms, calculating rather than celebrating. Luc holds the contributions away from the road dust.
+**VISUAL | P:** Zino feints, shoots and clips the bottle. It spins but remains standing: a hit still counts. His proposed teammate Ayuk celebrates; Gideon, seated off the pitch, folds his arms and prepares a joke. Luc is speaking with another student nearby. Noge keeps the contribution cup beyond the playing line.
 
 **SOUND:** Bottle clink. Boys shouting. A coin bouncing in a metal cup.
 
 ### 0:54–1:23 — THE OTHER SIDE LEARNS HIM
-**VISUAL | P:** Zino tries the same move. An opponent reads it, takes the ball and scores a clean hit against Zino's bottle. The count is tied. Zino's temper rises when someone laughs.
+**VISUAL | P:** Zino tries the same move. Arey reads it, takes the ball and scores a clean hit against Zino's bottle. The count is tied. Gideon's sideline laugh makes Zino's temper rise.
 
-**LUC (P):** Play ball. No play your anger.
+**GIDEON (P):** Play ball. No play your anger.
 
 ### 1:23–1:55 — HOOK
 **VISUAL | P:** Final run. Zino shoots too hard. The ball misses the bottle and disappears toward the compound well. Everyone scatters after it. The loose contribution cup remains unattended in the dirt.
@@ -87,7 +89,7 @@
 **ZINO (P):** If I run now, na only my shoe go catch me.
 
 ### 0:52–1:18 — THE COUNT
-**VISUAL | P:** Zino puts the cup in the centre. Gideon counts each contribution aloud; Luc makes everyone repeat their amount so no one becomes invisible. A player insists a coin is missing.
+**VISUAL | P:** Zino puts the cup in the centre. Gideon helps count aloud from his spectator's seat; Ayuk asks the contributing players to repeat their amounts. Luc continues talking with a student beyond the road. A player insists a coin is missing.
 
 **GIDEON (P):** Count no dey lie. Person fit lie.
 
@@ -165,18 +167,18 @@
 # EPISODE 18 — “THE CORRIDOR”
 
 **Target runtime:** 1:45  
-**Logline:** Gideon asks Zino to open a conversation with a girl, but Zino's gift for talking threatens to become another way of taking over.  
-**Fact tier:** C — Zino talked to girls for Gideon; Gideon was quiet with girls and girls could find him boring. P — girl, location, dialogue and result.
+**Logline:** From Form Two onward, Gideon asks Zino to help speak to Sophy; Zino has to make room for his friend while maintaining his own boundary.
+**Fact tier:** C — Sophy is Gideon's romantic interest from Form Two to Form Five; she is money-minded, likes Zino and approaches him, but he turns her down out of loyalty to Gideon. C — Zino helped the quieter Gideon with conversations. P — this school conversation, exact form within that range, camera discussion and outcome. No sexual styling or activity is depicted.
 
 ### 0:00–0:18 — THE REQUEST
-**VISUAL | P:** School corridor after class. Gideon spots a girl speaking with friends, then gives Zino a tiny push of the shoulder toward her.
+**VISUAL | C relationship / P staging:** *FORM TWO OR LATER — BEFORE O LEVELS.* School corridor after class. Gideon spots Sophy with friends, then gives Zino a tiny push toward her. Her money-minded outlook is part of her character, not permission to assign an invented financial demand or motive as fact.
 
 **GIDEON (P):** Just start am.
 
 **ZINO (P):** You finish am.
 
 ### 0:18–0:48 — TOO WELL STARTED
-**VISUAL | P:** Zino makes a funny observation about the chalk dust on everyone's uniforms. The group laughs. Gideon is caught at the edge of the laughter.
+**VISUAL | C uniform / P dialogue:** Chalk dust shows against their light sky blue short-sleeved shirts and dark blue trousers/skirts. Zino makes a funny observation; Sophy and her friends laugh. Gideon is caught at the edge of it.
 
 ### 0:48–1:17 — HANDOFF
 **VISUAL | P:** Zino stops himself mid-story and asks Gideon a direct question about the camera gig. Gideon tells the girl about taking portraits. His first line lands awkwardly; his second is better.
@@ -184,21 +186,21 @@
 **GIDEON (P):** I like catch person when they forget camera dey there.
 
 ### 1:17–1:45 — HOOK
-**VISUAL | P:** The girl asks Zino for a joke instead. He points to Gideon.
+**VISUAL | P:** Sophy directs her attention back to Zino instead of Gideon. Zino steps aside and points to his friend; he does not accept a flirtation on Gideon's behalf or in secret.
 
 **ZINO (P):** Today, na he get microphone.
 
 **END CARD:** *EPISODE 19 — SAY IT YOURSELF*
 
-**Boundary:** The relationship dynamic is confirmed. This is not a claim about a named girl or a real conversation.
+**Boundary:** Sophy's identity and the Form Two–Five dynamic are confirmed by the author; this particular conversation, gesture and wording are proposed. Do not infer the start or end of a committed Sophy–Gideon relationship.
 
 ---
 
 # EPISODE 19 — “SAY IT YOURSELF”
 
 **Target runtime:** 1:40  
-**Logline:** Gideon decides to speak for himself, and Zino has to learn that silence can be a form of friendship.  
-**Fact tier:** C — Gideon struggled to keep girls interested because he was quiet; Zino often helped him talk to girls. P — continuation, reaction and dialogue.
+**Logline:** Gideon decides to speak for himself with Sophy, while Zino holds the line between being charming and betraying his friend.
+**Fact tier:** C — Gideon liked Sophy from Form Two–Five; Sophy liked and approached Zino, who turned her down out of loyalty. C — Gideon was quiet and Zino often helped him speak with girls. P — this continuation, school conversation and outcome.
 
 ### 0:00–0:22 — THE WAIT
 **VISUAL | P:** The girl waits. Zino presses his lips together. Gideon grips his camera case, then asks the girl what kind of picture she likes.
@@ -216,7 +218,7 @@
 
 **END CARD:** *EPISODE 20 — ONE MINUTE*
 
-**Boundary:** Do not turn this into a confirmed relationship, private contact or portrait booking.
+**Boundary:** This is a proposed Sophy conversation within the confirmed Form Two–Five interest, not proof of a committed relationship, private contact or portrait booking. Zino's refusal remains the loyalty boundary; he does not secretly pursue her.
 
 ---
 
@@ -281,19 +283,19 @@
 # EPISODE 22 — “SLIPPERS FOR POSTS”
 
 **Target runtime:** 1:45  
-**Logline:** With no bottles available, the boys improvise a street match from slippers and pride—until Zino's need to impress costs his side the stake.  
-**Fact tier:** C — street football happened every evening; slippers could mark the posts; players contributed and winners took the pooled funds. P — match, players, amount and dialogue.
+**Logline:** With no bottles available, Zino's classmates improvise a street match from slippers and pride—until a camera accident interrupts the game and tests the friends off the pitch.
+**Fact tier:** C — street football happened every evening; slippers could mark the posts; players contributed and winners took the pooled funds; Zino's peers include Ayuk, Arey, Noge, Bismark and Robi; Gideon does not play and Luc evangelises or chats. P — this match, teams, accident, amount and dialogue.
 
 ### 0:00–0:20 — BUILD A PITCH
 **VISUAL | C practice / P staging:** Slippers are laid wide in the red dirt. Feet draw lines. Gideon places the contribution cup beyond the touchline and uses the camera to measure the frame.
 
 ### 0:20–0:48 — ZINO WANTS A MOMENT
-**VISUAL | P:** Zino refuses an easy pass so he can dribble through two players. The ball hits a slipper post and rolls out. His teammate glares.
+**VISUAL | P:** Zino refuses an easy pass to Bismark so he can dribble through Arey and Noge. The ball hits a slipper post and rolls out. Bismark glares. Gideon watches from the sideline; Luc talks to a classmate outside the game.
 
-**TEAMMATE (P):** Ball no be audience.
+**BISMARK (P):** Ball no be audience.
 
 ### 0:48–1:16 — THE BETTER PASS
-**VISUAL | P:** Next attack, Zino sees a smaller player open and passes. The player scores. Zino's smile arrives late, but it is real.
+**VISUAL | P:** Next attack, Zino sees Robi open and passes. Robi scores. Zino's smile arrives late, but it is real. These teams and individual goals are proposed, not a remembered match record.
 
 ### 1:16–1:45 — HOOK
 **VISUAL | P:** Gideon's camera catches the goal, but its strap snaps. The camera hits the dirt, and Gideon freezes before he can check it.
@@ -322,7 +324,7 @@
 **VISUAL | P:** Zino gathers the contribution cup and returns every coin to its owner before anyone can claim a winner. He then offers to carry Gideon's bag home. Gideon accepts the bag, not the joke.
 
 ### 1:22–1:50 — HOOK
-**VISUAL | P:** At the compound well, Gideon rinses dust from the strap only. Mother sees the boys arrive quiet and gives Zino a bucket.
+**VISUAL | P:** Beside the compound well, Gideon wipes dust from the strap using a damp cloth over a separate basin; nothing dirty is rinsed into the shared water supply. Mother sees the boys arrive quiet and sets her books down.
 
 **END CARD:** *EPISODE 24 — THE WELL LIST*
 
@@ -333,26 +335,26 @@
 # EPISODE 24 — “THE WELL LIST”
 
 **Target runtime:** 2:00  
-**Logline:** At the well, Zino learns that the compound's ordinary chores carry the same quiet calculations as a football stake.  
-**Fact tier:** C — Fiango compound has a central well, mango tree, clustered renters and monthly rent/light collection; mother is a primary-school teacher. P — bucket queue, list, neighbour exchange and dialogue.
+**Logline:** Four buckets, two bathrooms and two coins make Zino's school morning an exercise in arithmetic before he reaches class.
+**Fact tier:** C — Zino wakes around 5:30 a.m., draws four buckets in two trips carrying one in each hand, queues for one of two shared bathrooms, and finds 200 CFA beside Mother's queen-size bed in her front room two apartments away; his taxi is one 100-CFA ride on three mornings weekly. C — during secondary school Ayuk's father has a TV, and Zino watches sports/films there until around 9 p.m. P — this morning/evening, waiting time, journey choice and dialogue. R — exact start year of the bedroom and Ayuk-TV arrangements.
 
-### 0:00–0:24 — QUEUE AT DUSK
-**VISUAL | C setting / P staging:** The masonry well, mango shadow, laundry, rust-red roofs and power lines match the canonical compound reference. Buckets line up. A student tenant waits behind a single mother; a bachelor carries a light-bill paper past the gate.
+### 0:00–0:24 — FOUR
+**VISUAL | C routine / P staging:** Cockcrow behind Zino's room, around 5:30. Two buckets travel from well to room, one in each hand. The trip repeats. Four full buckets wait by the time the early light touches the mango leaves.
 
-### 0:24–0:54 — MOTHER'S WORK CONTINUES
-**VISUAL | P:** Mother marks pupil books on a stool near the doorway, pausing only to count the buckets Zino has filled. She gives a neighbour space before taking her turn.
+### 0:24–0:54 — TWO DOORS
+**VISUAL | C routine / P staging:** Zino queues for one of the two tenant bathrooms. Lower shins and feet below a door establish that it is occupied. A latch opens on the other side; he waits his turn rather than treating the opening beneath the door as a view inside. No bathing or nudity is shown.
 
-**MOTHER (P):** Finish water before you finish story.
+**SOUND:** Bucket, sandals, latch, greetings and someone calling that school time is near.
 
-### 0:54–1:25 — THE THREE FRIENDS
-**VISUAL | P:** Gideon tests the repaired-looking strap without claiming the camera is fixed. Luc takes one bucket with his free hand; Zino talks about a match, then notices everyone is working.
+### 0:54–1:25 — TWO COINS
+**VISUAL | C routine / P staging:** In his light sky blue short-sleeved shirt and dark blue trousers, Zino crosses to Mother's front room. The drawer beside her queen-size bed holds 200 CFA in two coins. He separates the usual 100 for one taxi ride from the 100 for school, then puts both together: walking early keeps the full budget.
 
-**LUC (P):** Every place get its own team.
+**MOTHER (P, English):** Leave in time. Do not run into the road.
 
-### 1:25–2:00 — HOOK
-**VISUAL | P:** The landlord's notebook appears at the gate. The compound lowers its volume. Zino's ball rests beside a bucket, waiting for the next evening.
+### 1:25–2:00 — WHAT A MORNING BUYS
+**VISUAL | P on C routine:** Zino chooses to walk on this proposed morning and pockets both coins; the taxi alternative is one 100-CFA pickup-to-school ride on three mornings of the week. A brief *EVENING — SECONDARY SCHOOL YEARS* transition shows Ayuk's home, one house north. Zino and classmates watch sport or a film together inside; end near 9 p.m., without claiming a particular broadcast, electricity failure or curfew argument. This follows the earlier period when children watched a neighbouring home's TV through steel window bars.
 
 **END CARD:** *EPISODE 25 — RENT DAY AGAIN*
 
-**Boundary:** Compound details are confirmed; the specific well evening and landlord timing are proposed.
+**Boundary:** The routine, taxi frequency and 200/100/100 arithmetic are confirmed. “College” is now clarified as secondary day school, so the Ayuk-TV scene belongs in that period; its exact year, programme and gathering are proposed. The earlier barred-window TV memory remains distinct and undated.
 

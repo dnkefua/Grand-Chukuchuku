@@ -2,6 +2,47 @@
 
 This log separates confirmed additions from items that still need a date, source, or naming decision. It is the reference to update before changing a script, outline, or animation prompt.
 
+## Weekday, neighbourhood and relationship corrections — 30 October 2026
+
+These later recollections override conflicting proposed script action and physical layouts. They do not silently settle contradictory dates.
+
+### Answers received during this update — these resolve the open wording below
+
+- **Lizzy breakup: Form Three.** Form Four is superseded. Lizzy is the school girlfriend; Elianne's identity/place has not been explicitly reconciled, so do not merge the names.
+- **Uniform:** light sky-blue short-sleeved shirts for boys and girls; dark-blue trousers for boys and dark-blue skirts for girls. This overrides earlier proposed white/cream shirts and brown school trousers. Casual football clothes and Grand's adult suit remain separate.
+- **Taxi:** one 100-CFA ride from the pickup to school on three mornings per week. This resolves the earlier ambiguous 'three times' phrase; it does not mean three taxi changes per day. Other mornings may involve walking; exact weekly days are not supplied.
+- **TV 'college':** the five secondary day-school years. Ayuk's TV belongs in that period; exact form/year of purchase is still open.
+- **Taxi route:** a major tarred road is five houses behind the compound. A five-storey **Azi Motel** is nearby. No compass direction for 'behind', exact road name, pickup coordinates or travel time has been supplied.
+- **Mother's aunt:** her house is next to Azi Motel, with a large poultry farm supplying that hotel and other hotels. 'Poetry/peotry' is read as poultry from the farming context. This woman is Zino's great-aunt and must not be confused with the maternal aunt later killed.
+- **Peer ages:** the author authorizes sensible working estimates for this similar-age school cohort. With the existing approximate 2000–2005 day-school span, use Form One about 10–11, Two 11–12, Three 12–13, Four 13–14, Five 14–15. These are production estimates, not exact birthdays. Tracey remains an older student/near peer; do not invent adult status or a precise age.
+
+- **Morning:** around 5:30 a.m., cocks crow behind Zino's room. He fetches four buckets from the well in two rounds, carrying two buckets at once, one in each hand. He then queues for one of two shared bathrooms used by tenants. The door leaves the lower shins/feet visible, indicating occupancy; no nudity or voyeuristic bathroom view is implied.
+- **Rooms:** Zino has his own room, two apartments away from his mother's room at the front. She has a queen-size bed and a bedside drawer. This corrects any staging that places their beds in one room or assumes an open-plan home. It does not prove the exact floor plan or age when this arrangement began.
+- **School money:** he checks the drawer for two coins totalling 200 CFA francs, usually left for school. He can spend 100 on transport and 100 at school, or leave early and walk, retaining the 200 for school. Clarified: one 100-CFA taxi ride on three mornings per week.
+- **Television:** first he and other compound children stand outside an adjacent house, watching a large television through a barred window. During the five secondary day-school years, Ayuk's father buys a TV and Zino watches sport and films at Ayuk's, one house from the compound, sometimes until 9 p.m. Exact form/year remains open. Early outdoor-window viewing is a class/access detail, not proof the household excluded them maliciously.
+- **Street players:** Ayuk (a house north of the compound), his cousin Arey, Noge (next to Ayuk's house), Bismark (south, next to the TV house), and Robi (next to Bismark) play with Zino. The author describes this circle as the same age group and class. No exact addresses, east/west placement, team positions, skills or personalities have been supplied.
+- **Luc does not play football.** He evangelises or chats with people. **Gideon does not play football.** He watches and banters, especially when Zino loses. Replace earlier invented goalkeeper, scorer and teammate actions. Meeting/socialising around football is distinct from all three playing.
+- **Lizzy:** crush from Form One, girlfriend from Form Two, breakup in Form Three. The author corrected the earlier Form Four statement. Lizzy is not automatically Elianne or a replacement name.
+- **Mirabel:** friendship starts in Form Three through Zino's brilliance in maths and continues until he leaves for the USA. Do not invent romance or rivalry.
+- **Sophy:** Gideon is in love with her from Forms Two to Five. Zino recalls her interest in money and her repeated advances toward him; he turns her down out of loyalty to Gideon. Her school-age portrayal is nonsexual. Exact dialogue, independent goals and appearance are open.
+- **Tracey:** an older student who comes to night revision at Professional School. Zino reports his first sexual experience with her during Form Three, described as after a breakup with Lizzy. Exact ages, timing and circumstances are unknown. Retain this autobiographical account neutrally; do not invent consent, coercion, an adult age, erotic detail or an explicit school-age sexual scene. Its emotional meaning can be developed non-graphically after clarification.
+- **Paternal uncle:** a renowned lawyer who habitually wore suits; after giving his life to Christ he became a cocoa trader. By Zino's Form Three year he opened a large cocoa store in Kumba, shipping cocoa by trailer to Douala. His former 'profession unknown' status is superseded. The precise order, year and overlap of legal work, conversion and trading remain open.
+- **Father and uncle:** uncle deeply loved his late brother. The father had limited formal schooling and farmed cocoa. Uncle advised Zino to study hard so as not to end up like his father. Attribute that judgement to the uncle's reported advice, not the narrator; do not portray cocoa farming or the father as personal failure. A successful professional relative does not establish Zino's household access to cash or explain late fees by itself.
+- **Unrelated circles:** these school/neighbourhood names are not identified as the later crypto associates or alleged immigration informants. Never merge the groups without the author's confirmation.
+
+### Open questions from this update
+
+| Item | Resolution needed |
+| --- | --- |
+| Lizzy / Tracey chronology | Breakup resolved as Form Three; exact ages and event ordering within the year remain open. |
+| Elianne and Lizzy | Different people, an alias/name correction, or different meanings of first love? |
+| Taxi phrase and fare | Resolved: one 100-CFA ride on three mornings a week. Exact weekdays and travel time are not supplied. |
+| 'College' and TV access | Secondary school resolved. Exact form/year of Ayuk's TV purchase remains open. |
+| Room and bathroom layout | From which age/form did Zino have the separate room? Is the feet-visible doorway detail for bathrooms, toilets or both? No nudity is needed. |
+| Tracey's age / context | Record both ages and the author's own interpretation before assigning relationship or harm labels. |
+| Uncle's career sequence | Exact year of conversion, overlap/end of legal work, cocoa-store dates, and his reasons for changing the America promise. |
+
+
 ## Pilot revision — 30 October 2026
 
 - The author rejected the original pilot's weak thriller structure and repetitive reference-art storyboard. The active replacement is **The Man Who Never Ran**, in `pilot-chapter-one/rebuild-v2/`, with eighteen distinct drawn keyframes and a thirty-six-shot, five-minute target edit. The old pilot and its Artlist cue map are development history.

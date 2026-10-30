@@ -8,6 +8,8 @@
 
 **Fact key:** **C** confirmed recollection supplied by Zino; **FT** family testimony; **R** reported/incomplete detail; **P** proposed composite or dialogue. All dialogue below is P unless explicitly stated otherwise.
 
+**Author update — 30 October 2026:** Mirabel befriends Zino through mathematics from Form Three until his US departure. Gideon watches/banters at football and Luc evangelises/chats; neither plays. Uncle was a renowned lawyer in suits, then a cocoa trader after Christian conversion, with a large Kumba store by Zino's Form Three shipping to Douala by trailer. Father's limited education and farming are family context, not proof of a failed life. Lizzy's breakup is now resolved to Form Three. Tracey's reported experience with Form Three Zino remains an undramatized, non-graphic continuity entry pending exact ages; she is only confirmed to be an older student, not necessarily an adult. Never sexualise the school-age characters. Uniform for daytime school: light sky blue short-sleeved shirts with dark blue trousers for boys and dark blue skirts for girls; night-study clothing remains separately proposed.
+
 ---
 
 # EPISODE 25 — “THE WORKSHOP GATE”
@@ -51,7 +53,7 @@
 ### 0:00–0:18 — BEFORE DARK
 **VISUAL | C setting / P action:** Mother returns with her teaching bag as Zino closes his revision book over a football. At the well, buckets knock and neighbours call across the courtyard.
 
-**MOTHER (P):** You go read?
+**MOTHER (P, English):** Are you going to study?
 
 **ZINO (P):** I go read.
 
@@ -137,28 +139,28 @@
 # EPISODE 29 — “THE GROUP”
 
 **Target runtime:** 1:50  
-**Logline:** Zino turns a group-study problem into a performance, until a quieter student shows him that being right is not the same as helping.  
-**Fact tier:** **C** Students studied individually and in groups at Professional School. Zino is academically talented but temper-prone and eager to please. **P** problem, student, reaction and dialogue.
+**Logline:** Zino turns a group-study problem into a performance, until Mirabel's demand to understand the working challenges him to teach as clearly as he can answer.
+**Fact tier:** **C** Students studied individually and in groups at Professional School; Mirabel's friendship with Zino began through his mathematics brilliance in Form Three and continued until his US departure; Zino is talented and eager to please. **P** this later-secondary group, problem, question, reaction and dialogue. The scene does not claim Mirabel herself is weak at mathematics.
 
 ### 0:00–0:20 — THE CIRCLE
-**VISUAL | C setting / P staging:** Four students cluster around one exercise. Luc has his Bible put away under his notes. Zino arrives with a football tucked at his side and sees everyone stuck.
+**VISUAL | C setting and friendship / P staging:** In a clearly post-Form-Three study session, Mirabel, Luc and two classmates cluster around an exercise. Luc has his Bible under his notes. Zino arrives with a football and sees a disputed step in the working.
 
 ### 0:20–0:52 — THE QUICK ANSWER
-**VISUAL | P:** Zino explains fast, adding jokes so everyone looks at him. A quiet student copies the answer but does not understand the working.
+**VISUAL | P:** Zino explains fast, adding jokes so everyone looks at him. Mirabel points to the step he skipped instead of accepting an answer because it came from him. Luc has copied it but cannot yet explain it.
 
-**QUIET STUDENT (P):** Why that number change?
+**MIRABEL (P):** Why that number change?
 
 **ZINO (P):** Because na so e be.
 
 ### 0:52–1:22 — THE SECOND TRY
-**VISUAL | P:** Luc does not correct Zino aloud. He slides the page back. Zino reads the question again, then uses a small football sketch to explain one step. The quiet student completes the next step alone.
+**VISUAL | P:** Mirabel slides the page back without laughing at him. Zino reads the question again, then uses a small football sketch to explain one step. Mirabel checks the logic; Luc completes the next step alone. Friendship includes challenge as well as admiration.
 
 ### 1:22–1:50 — HOOK
 **VISUAL | P:** The group says Zino should lead tomorrow. He wants the praise, then hears the football bounce outside and remembers his own money is tied up in a street game.
 
 **END CARD:** *EPISODE 30 — “THREE HITS”*
 
-**Fact boundary:** Group study, Zino’s intelligence and his help with Luc’s maths are C. The student, subject matter and learning turn are P.
+**Fact boundary:** Group study, Mirabel's friendship through maths, Zino's intelligence and his help with Luc are C. This session, question, teaching exchange and outcome are P; the scene does not date their first meeting or turn admiration into romance.
 
 ---
 
@@ -166,15 +168,15 @@
 
 **Target runtime:** 2:00  
 **Logline:** Zino carries study pressure into Nacking Bottle and learns that one missed shot can feel more urgent when his lunch money is on the ground.  
-**Fact tier:** **C** Street football happened most evenings; players contributed small stakes; Nacking Bottle used beer bottles at both ends and the first side to hit the other bottle three times won; Zino saved lunch money to play after school. **P** match, contributions, players, amounts, dialogue and outcome.
+**Fact tier:** **C** Street football happened most evenings with classmates Ayuk, Arey, Noge, Bismark and Robi; Gideon watched and bantered, Luc evangelised or chatted; Nacking Bottle used a beer bottle at both ends, three opposing-bottle hits won, and Zino saved lunch money for stakes. **P** this match, teams, contributions, amounts, dialogue and outcome.
 
 ### 0:00–0:20 — THE FIELD IS A ROAD
-**VISUAL | C practice / P staging:** Slippers mark one end of the dirt road. A beer bottle marks the other. Small notes and coins enter a hand, then disappear into a cloth. Gideon counts without touching Zino’s share.
+**VISUAL | C practice / P staging:** A beer bottle stands at each end of the road; slippers mark the side of this Nacking Bottle area, not a substitute second target. Zino joins Ayuk against Arey and Noge in this proposed arrangement. Gideon watches from outside the pitch. Luc talks with another classmate nearby.
 
 **GIDEON (P):** Three hits. Winner carry am.
 
 ### 0:20–0:55 — FIRST CONTACT
-**SOUND | C game rule / P action:** The ball smacks the bottle. One mark is scratched in dust. Zino celebrates too early; Luc, holding the ball for the restart, tells him to breathe.
+**SOUND | C game rule / P action:** The ball smacks the bottle. One mark is scratched in dust. Zino celebrates too early; Arey retrieves the ball for the restart. From his spectator's seat, Gideon punctures the celebration with banter. Luc remains in conversation off the pitch.
 
 **ZINO (P):** One don enter. Two more.
 
@@ -211,7 +213,7 @@
 ### 0:52–1:25 — MOTHER’S SECOND CLASSROOM
 **VISUAL | P:** He reaches the compound early. Mother looks up from pupil books, hears only what he can say, then opens another book beside her own. No amount, payment source or rescue is shown.
 
-**MOTHER (P):** School close for today. Your head no close.
+**MOTHER (P, English):** School is closed for today. Your mind is not.
 
 ### 1:25–1:55 — HOOK
 **VISUAL | P:** Back in the night classroom, older Zino finally writes on the blank page. Outside, a distant shout travels down the road. He cannot identify its source.
@@ -321,7 +323,7 @@
 ### 0:00–0:22 — WATER DOES NOT FIX IT
 **VISUAL | C setting / P action:** At the well under the mango tree, Zino scrubs soot from his uniform. Mother sets down a bucket, notices he is shaking and takes the brush from him.
 
-**MOTHER (P):** Sit first.
+**MOTHER (P, English):** Sit down first.
 
 ### 0:22–0:52 — THE STORY STOPS
 **VISUAL | P:** Zino tries to speak in Grand-Chukuchuku’s grand voice, then cannot complete the first line. Mother does not force an explanation. She puts the book he carried beside him.
@@ -361,7 +363,7 @@
 ### 0:50–1:22 — MOTHER’S STANDARD
 **VISUAL | C mother profession / P action:** Mother marks pupils’ books and then checks only the first line of Zino’s plan.
 
-**MOTHER (P):** One line correct. Then next one.
+**MOTHER (P, English):** Get one line right. Then the next.
 
 **VISUAL | P:** Zino nods. He does not tell a story.
 

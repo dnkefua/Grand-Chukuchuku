@@ -18,13 +18,17 @@
 
 - Updated 30 October 2026: the author's `character-bible/Fiango_Life_and_Characters_Update_2026-10-30.md` controls daily routine, named school peers and neighbourhood corrections. Earlier proposed actions lose precedence when they conflict with it.
 - Luc and Gideon do not play football. Gideon watches and banters; Luc evangelises or chats. Ayuk, Arey, Noge, Bismark and Robi are the supplied street-playing circle. They are not identified as the later crypto associates.
+- Gideon has a W-shaped hairline and almost-afro hair; Zino calls him **Giddy**. Constant gigs, trading and paid services lead to a bread-selling place in the market by Form Five; he also comes to Zino for schoolwork explanations. Luc has a high flat-top and a muscular older-secondary silhouette from evening training with mud-formed dumbbells and a sand-filled punching bag. The training's starting year is unknown: do not give his ten-year-old version adult bodybuilding proportions. **Lucky Luc** is Zino's greeting when he meets Luc alone.
+- Maths is Zino's favourite: he understands scientific concepts quickly and enjoys solving a puzzle more than memorising reading-heavy material. He loves singing, begins writing songs in **Form Five**, records his first demo after returning home from boarding high school, and continues making music in America. Music does not begin in the USA. The first-demo sequence belongs at the Chapter One/Two bridge, after the boarding years; studio, song and recording companions remain open.
+- Zino is Catholic and served at Mass throughout primary school. Secondary-school demands left no time to continue altar service; this does not establish a loss of faith. Mother's trust and the separate room gave him freedom to come, go or sleep late without her always noticing; this is not proof of neglect or approval of every action.
+- Author-supplied GCE minimum pass thresholds are **4 O-Level subjects / 2 A-Level subjects**. Keep these separate from Zino's **10 / 5 subjects taken**, the **11 / 5 maxima**, the uncle's **all-five** condition and the school's **100% A-Level pass rate**. These are the author's story facts, not independently verified exam regulations.
 - Forms One–Five uniform: light sky-blue short-sleeved shirts for both sexes; boys wear dark-blue trousers and girls dark-blue skirts. Boarding colours remain unconfirmed. Other clothes may be casual wear, not alternate uniforms.
 - Dawn: about 5:30, four buckets in two rounds, one in each hand; two shared bathrooms; Zino's room two apartments from Mother's front room. Her bedside drawer usually has 200 CFA: 100 for one taxi ride and 100 at school, or walk early and keep 200 for school. Taxis are taken on three mornings a week.
-- Lizzy: crush Form One, girlfriend Form Two, breakup Form Three. Mirabel's maths friendship starts Form Three and continues to U.S. departure. Sophy is Gideon's interest Forms Two–Five; Zino refuses her advances from loyalty. Elianne remains a separate unresolved identity, not an assumed alias. All school-age relationships remain non-graphic; Tracey's reported Form Three experience is retained in neutral notes pending exact context.
+- Lizzy: crush Form One, girlfriend Form Two, breakup Form Three. Mirabel's maths friendship starts Form Three and continues to U.S. departure. Sophy is Gideon's interest Forms Two–Five; Zino refuses her advances from loyalty. Elianne remains a separate unresolved identity, not an assumed alias. All school-age relationships remain non-graphic; Tracey's reported Form Three experience is retained in neutral notes pending exact context. Tracey had already sat the GCE twice unsuccessfully and saw Zino teach maths to students who later passed; this does not establish her exact age, private motive, a transaction or the sole cause of anyone's results.
 - The uncle is a renowned lawyer known for suits, later a Christian convert and cocoa trader with a Kumba store by Form Three, shipping to Douala. Do not invent why support was intermittent or why the America promise changed.
 - Zino speaks Pidgin with friends, English at home and French/English in school. Every line below is P until Zino confirms it as remembered speech.
 - The compound and Grand-Chukuchuku's adult design follow `series-development/visual-reference/VISUAL_BASELINE_V1.md`. Grand-Chukuchuku appears only after Zino begins an impossible story; he is exuberant early, silent before the crowd, and increasingly absent at boarding school.
-- The school-age season does not depict drinking, sexual activity or nightclub attendance. The Christmas memory of Gideon paying for drinks while Zino helps him approach girls is held as an **18+ Chapter Two/post-secondary placement question** until Zino supplies its year and age.
+- The Christmas memory of Gideon paying for drinks while Zino helps him approach girls remains unplaced pending its year, ages and sequence. It can be developed at its actual age with age-appropriate, non-graphic relationships, without moving it simply to fill a gap. Do not invent ages or events; no explicit sexual portrayal of school-age characters.
 - The jungle-justice composite retains the harm Zino supplied while leaving the accused unnamed, unheard over the crowd and never established as guilty. It shows no body, verdict, motive, police result, replay or triumphal score.
 
 ## Five-act overview
@@ -418,7 +422,7 @@
 
 **GIDEON (P):** Today I get work.
 
-**ZINO (P):** Camera work or girl work?
+**ZINO (P):** Giddy. Camera work or girl work?
 
 **GIDEON (P):** Both people fit pay. One with money.
 
@@ -510,7 +514,7 @@
 
 **Episode engine:** Luc wants one student to hear him preach; Zino wants the moment to become a joke, until Luc’s courage exposes Zino’s need for an audience.
 
-**Fact tier:** C — Luc carries a small Gideons Bible, approaches students to preach and values Zino’s humour. P — student, specific exchange, reaction and dialogue.
+**Fact tier:** C — Luc carries a small Gideons Bible, approaches students to preach and values Zino’s humour. Zino is Catholic and served at Mass throughout primary school; secondary-school demands leave no time to continue altar service. P — student, specific exchange, reaction and dialogue. Zino's teasing does not establish disbelief or Luc's denomination.
 
 ### 0:00–0:17 — THE APPROACH
 
@@ -556,15 +560,17 @@
 
 **Episode engine:** Luc needs help with a maths problem; Zino has to teach him without showing off, just as an office-door image hints that school access can disappear.
 
-**Fact tier:** C — Zino helps Luc with maths; Luc values Zino’s directness and humour; Zino is intelligent. P — specific question, lesson, class moment, office-door image and dialogue.
+**Fact tier:** C — Zino helps Luc and Gideon with schoolwork; Luc values his directness and humour. Maths is Zino's favourite because he enjoys its puzzle-like reasoning; he grasps scientific concepts readily. P — specific question, lesson, class moment, office-door image and dialogue.
 
 ### 0:00–0:18 — THE QUESTION
 
-**VISUAL | P:** Luc’s exercise book contains one unanswered maths problem. He has written a careful heading, then nothing beneath it.
+**VISUAL | P:** Zino finds Luc studying alone. Luc's exercise book contains one unanswered maths problem. He has written a careful heading, then nothing beneath it.
+
+**ZINO (P):** Lucky Luc. Which number catch you?
 
 **LUC (P):** This number no dey hear prayer.
 
-**ZINO (P):** Number hear work. Move.
+**ZINO (P):** Na puzzle. Find where the piece fit.
 
 ### 0:18–0:47 — FOOTBALL ON PAPER
 
@@ -586,7 +592,9 @@
 
 **ZINO (P):** No tell anybody. My reputation go spoil.
 
-**VISUAL | P:** Gideon appears at the door with his camera bag and points toward the football road. Zino closes the book before following.
+**VISUAL | P:** Gideon appears at the door with his camera bag and his own exercise book. He points to one line. Zino makes room beside Luc; the football outside will have to wait one more moment.
+
+**GIDEON (P):** Explain this one before we go.
 
 ### 1:40–2:00 — HOOK
 
@@ -764,7 +772,7 @@
 **VISUAL | P:** The cup sits alone beneath the mango tree while the players chase the ball. Zino returns first. Coins glint in the dust; an older player spots him from the road.
 
 ### 0:24–0:52 — THE EASY STORY
-**VISUAL | P:** Zino lifts the cup. GRAND-CHUKUCHUKU flickers in a fantasy suit, dropping coins into a vault, then Zino hears Gideon shout his name from the well.
+**VISUAL | P:** Zino lifts the cup. For a moment, his body hides it from the road. He looks toward the compound exit, then hears Gideon shout his name from the well. No imagined character makes this choice for him.
 
 **ZINO (P):** If I run now, na only my shoe go catch me.
 
@@ -956,7 +964,7 @@
 ### 0:20–0:57 — MAKE IT A FIELD
 **VISUAL | P:** Zino turns the question into a football pitch: arrows become passes, a missing value becomes an open player. Luc follows, then redraws the solution in his own plain symbols.
 
-**ZINO (P):** You no need pray for number. Make you ask am where e dey go.
+**ZINO (P):** Na why I like maths. Puzzle. Find where each piece belong.
 
 ### 0:57–1:27 — LUC FINISHES IT
 **VISUAL | P:** Zino tries to take the pencil. Luc pulls it back with a grin and completes the final line himself. The distant game erupts without them.
@@ -1096,14 +1104,16 @@
 
 **Target runtime:** 1:45  
 **Logline:** Zino uses evening revision to leave the compound, then has to decide whether the freedom is worth carrying home an untouched book.  
-**Fact tier:** **C** Professional School evening sessions gave some students a reason to leave home; some studied and some used the time to socialise. **P** this evening, mother’s question, route and dialogue.
+**Fact tier:** **C** Professional School evening sessions gave some students a reason to leave home; some studied and some used the time to socialise. Zino's separate room gave him freedom to come, go and sleep late without Mother always knowing; she trusted him. **P** this evening, mother's question, route and dialogue. Trust is not blanket permission or evidence of neglect.
 
 ### 0:00–0:18 — BEFORE DARK
-**VISUAL | C setting / P action:** Mother returns with her teaching bag as Zino closes his revision book over a football. At the well, buckets knock and neighbours call across the courtyard.
+**VISUAL | C setting / P action:** Zino steps from his own room with his revision book. Mother crosses toward her front room, two apartments away, carrying her teaching bag. Their paths meet by chance; she is not stationed at his door. Buckets knock at the well.
 
 **MOTHER (P, English):** Are you going to study?
 
-**ZINO (P):** I go read.
+**ZINO (P, English):** Yes. At the school.
+
+**VISUAL | P:** She nods and goes inside. He has her trust; she has not inspected the book. He looks once at the freedom of the open compound entrance.
 
 ### 0:18–0:50 — THE ROAD OFFERS OTHER THINGS
 **VISUAL | P:** On the red-earth road, Gideon slows near laughter and music drifting from a side lane. Luc keeps walking. Zino sees both directions: the lit classrooms and the boys already gathering outside them.
@@ -1367,7 +1377,7 @@
 ### 0:58–1:30 — FIRE
 **SOUND | C harm / P staging:** A cap twists. Liquid hits dirt. Ignition. The man screams. Fire, smoke, heat and the boys’ recoiling faces are shown; no body, no verdict, no police outcome, no triumphant framing and no replay.
 
-**FANTASY | P:** Grand-Chukuchuku steps between Zino and the fire, adult suit glowing through smoke. He opens his mouth. No sound comes. The image fractures away.
+**VISUAL | P:** Zino looks toward an ordinary roofline as if searching for the beginning of a story. Nothing changes: no gold, no figure, no impossible interruption. He cannot get the words out. The crowd remains real, beyond anything his stories can undo.
 
 ### 1:30–2:00 — HOOK
 **VISUAL | P:** The three boys walk away without speaking. Gideon holds his unused camera to his chest. Zino looks down at his hands as ash lands on them.
@@ -1414,7 +1424,7 @@
 
 **Target runtime:** 1:55  
 **Logline:** Zino turns the discipline of his next ten papers into a way to keep moving, but the list makes clear how much of life he has to hold at once.  
-**Fact tier:** **C** At the end of five Fiango day-school years, Zino wrote ten GCE Ordinary-Level subjects out of a maximum eleven. **P** timetable, study arrangements, dialogue and exact subject order. This episode begins the O-Level preparation; it does not show results.
+**Fact tier:** **C** At the end of five Fiango day-school years, Zino wrote ten GCE Ordinary-Level subjects out of a maximum eleven. The author's minimum O-Level pass threshold is four subjects. He began writing his own songs in Form Five. Luc trained in the evenings with mud-formed dumbbells and a sand-filled punching bag; the training's starting year is unknown. **P** this Form Five training placement, study arrangement, lyric margin and dialogue. This episode begins O-Level preparation; it does not show results.
 
 ### 0:00–0:20 — TEN
 **ON-SCREEN TEXT | C:** *10 O-LEVEL SUBJECTS. MAXIMUM: 11.*
@@ -1422,25 +1432,27 @@
 **VISUAL | P:** Ten blank subject lines stack vertically beside an exercise book. Zino’s football, Luc’s Bible and Gideon’s camera bag sit outside the frame of the page.
 
 ### 0:20–0:50 — A DIFFERENT CONTRIBUTION
-**VISUAL | P:** At the compound, each friend contributes something non-monetary to the plan: Luc keeps a quiet hour; Gideon writes a possible camera date around revision; Zino folds his lunch-money cloth back into his bag rather than putting it in a game.
+**VISUAL | C habits / P meeting:** At Luc's evening training space, the older-secondary Luc sets down his mud-formed dumbbells beside a sand-filled punching bag. His high flat-top and trained shoulders distinguish him; he is still a schoolboy. Zino has come with the ten-subject list. Training stops so Luc can take a look.
 
 **GIDEON (P):** You no go play today?
 
 **ZINO (P):** Today, I get ten opponents.
+
+**VISUAL | P:** A brief sung phrase escapes Zino as he writes. A half-line of his own song occupies the page margin, then the revision list takes the page. Do not display invented lyrics as a recovered real song.
 
 ### 0:50–1:22 — MOTHER’S STANDARD
 **VISUAL | C mother profession / P action:** Mother marks pupils’ books and then checks only the first line of Zino’s plan.
 
 **MOTHER (P, English):** Get one line right. Then the next.
 
-**VISUAL | P:** Zino nods. He does not tell a story.
+**VISUAL | P:** Zino nods. He folds the lunch-money cloth into his bag instead of putting it into a game. He does not tell a story.
 
 ### 1:22–1:55 — HOOK
 **VISUAL | P:** In the open-air evening, Zino dribbles past two slippers before setting the ball down beside the O-Level list. The mango leaves rustle above him. He turns to the first paper.
 
 **END CARD:** *EPISODE 37 — TEN ON THE TABLE*
 
-**Fact boundary:** The ten-subject fact is C. The personal study plan, friends’ contributions and exact prep routine are P. O-Level results, the uncle’s promise and boarding remain for the next block.
+**Fact boundary:** Ten taken / eleven maximum / four minimum are separate author-supplied facts. Singing and Form Five songwriting are confirmed; actual songs/lyrics await the author. Luc's equipment and habit are confirmed; this meeting and training date are proposed. O-Level results, the uncle's promise and boarding remain for the next block. The first demo happens only after the two boarding years, not here.
 
 ---
 
@@ -1448,7 +1460,7 @@
 
 **Runtime:** 1:55  
 **Logline:** Zino wants ten O-Level subjects to look like a plan; the number becomes frightening once the papers are finally in front of him.  
-**Fact tier:** **C** — after five Fiango day-school years, Zino wrote 10 GCE Ordinary-Level subjects; the maximum was 11. **P** — revision arrangement, paper order, dialogue and individual study images.
+**Fact tier:** **C** — after five Fiango day-school years, Zino wrote 10 GCE Ordinary-Level subjects; the maximum was 11. The author's minimum pass threshold is four subjects, not ten. By Form Five Gideon has a market place selling bread and continues seeking Zino's help with schoolwork. **P** — stall layout, trading details, revision arrangement, paper order, dialogue and individual study images.
 
 ### 0:00–0:18 — THE NUMBER
 **VISUAL | C fact / P staging:** *c. 2005 — END OF FIANGO DAY SCHOOL.* Ten subject labels fill the frame, beside one unmarked place on a general list of eleven. Do not explain why Zino chose ten.
@@ -1460,8 +1472,12 @@
 
 **MOTHER (P, English):** Read the question before you answer it.
 
-### 0:55–1:30 — FRIENDS PASS THROUGH
-**VISUAL | P:** Gideon crosses the courtyard with his camera bag; Luc passes with his small Bible under an exercise book. Neither interrupts. The football sits near Zino's chair, unused.
+### 0:55–1:30 — THE MARKET LESSON
+**VISUAL | C livelihood / P staging:** At Gideon's Form Five bread-selling place in the market, a bread handover is interrupted by a school exercise. Gideon has a W-shaped hairline and almost-afro hair. He points out a line to Zino; Zino explains it in the space between customers, then takes his own ten-subject list home. Do not invent stock prices, earnings, staff or a lease.
+
+**ZINO (P):** Giddy, you fit count money. Follow this line the same way.
+
+**VISUAL | P:** Back at Zino's chair, the football sits unused.
 
 **ZINO (P, to the ball):** Today you rest.
 
@@ -1470,7 +1486,7 @@
 
 **END CARD:** *EPISODE 38 — THE LAST BELL*
 
-**Fact boundary:** No subject name, grade, exam room, exam date or reason for the eleventh unchosen paper is established.
+**Fact boundary:** Four is the author's minimum pass count; ten is Zino's subject count; eleven is the maximum. No subject name, grade, exam room, exam date or reason for the eleventh unchosen paper is established. Gideon's Form Five bread trade is confirmed, but the encounter and economics are proposed.
 
 ---
 
@@ -1646,8 +1662,8 @@
 
 **ZINO (V.O., P):** From Fiango, every road look like e know somebody. This one keep going.
 
-### 0:58–1:30 — THE HERO CANNOT SHORTEN IT
-**FANTASY | P:** Grand-Chukuchuku, in navy and gold, takes one confident step across a valley. The step stops at the edge. He looks back at Zino rather than carrying him.
+### 0:58–1:30 — NOTHING SHORTENS THE ROAD
+**VISUAL | P:** Hold the valley long enough for its scale to defeat Zino's easy confidence. Then another bend, another rise, his hand tightening on the bag. No invented hero crosses the distance for him; afternoon becomes evening through ordinary travel.
 
 ### 1:30–2:00 — HOOK
 **VISUAL | C destination / P staging:** A distant gate and school buildings come into view as the last light leaves. Zino tightens his hand around his bag.
@@ -1780,8 +1796,8 @@
 ### 0:22–0:58 — HOME IN OBJECTS
 **VISUAL | P on C world:** He touches a football mark in his exercise book, then draws the Fiango well beside a maths problem. It is a private habit, not an asserted historical drawing.
 
-### 0:58–1:30 — GRAND-CHUKUCHUKU CHANGES
-**FANTASY | P:** Zino tells no story. Grand-Chukuchuku appears only as a quiet adult figure across the dormitory window, navy suit visible against the mountains. He does not enter the room.
+### 0:58–1:30 — NO STORY TONIGHT
+**VISUAL | P:** Zino looks through the dormitory window at the mountains. Only his own schoolboy reflection sits over the glass. He starts to raise the storytelling hand, then uses it to turn a page. No story is told; Grand does not appear.
 
 ### 1:30–2:00 — HOOK
 **VISUAL | C school fact / P staging:** Beyond Zino's desk, the fence catches rain. A distant light travels on the other side. Zino looks up, then returns to his work.
@@ -1841,7 +1857,7 @@
 **OLDER STUDENT (P):** You fit wait.
 
 ### 0:55–1:22 — TEMPER, HELD
-**VISUAL | P:** Zino’s hands close. For one frame Grand-Chukuchuku’s navy cuff reaches toward the basin, then disappears. Zino takes a slower tap and rinses in silence.
+**VISUAL | P:** Zino's fist closes beside his own school cuff. He catches the tension, opens his fingers and lowers his hand. He takes a slower tap and rinses in silence. No imagined adult acts out his temper for him.
 
 ### 1:22–1:45 — HOOK
 **VISUAL | P:** A runner brings a folded notice toward the dormitory supervisor’s area. Zino sees the colour of school paper, not the name on it.
@@ -1982,7 +1998,7 @@
 
 **Target runtime:** 1:50  
 **Logline:** Zino sees the five A-Level papers as both a promise and a trap: every subject points toward America, but none can guarantee it.  
-**Fact tier:** C — Zino wrote five A-Level subjects, the maximum, representing his university area of study; uncle’s O-Level promise depended on making all five. R — exact subjects and selection process. P — visual study plan and dialogue.
+**Fact tier:** C — Zino wrote five A-Level subjects, the maximum, representing his university area of study; uncle's O-Level promise depended on making all five. The author's minimum A-Level pass threshold is two subjects: this does not satisfy the separate all-five family condition. R — exact subjects and selection process. P — visual study plan and dialogue.
 
 ### 0:00–0:20 — FIVE
 **ON-SCREEN TEXT | C:** *2007 — ADVANCED LEVELS. 5 SUBJECTS. MAXIMUM: 5.*
@@ -1992,7 +2008,9 @@
 ### 0:20–0:52 — PROMISE ON PAPER
 **VISUAL | P:** A small American skyline appears in the book margin as a Grand-Chukuchuku doodle, then Zino shades it out and returns to work.
 
-**ZINO (P, low):** Five paper. One road.
+**FELLOW STUDENT (P):** Two paper fit pass. Why all five?
+
+**ZINO (P):** Uncle no promise America for two.
 
 ### 0:52–1:25 — HELP WITHOUT PERFORMANCE
 **VISUAL | P:** A fellow student gestures at a difficult point. Zino explains one step, then hands the pencil back rather than completing it himself. His intelligence serves someone else quietly.
@@ -2002,7 +2020,7 @@
 
 **END CARD:** *EPISODE 56 — THE STUDY LAMP*
 
-**Fact boundary:** The five papers and their role are confirmed. Subject names, classmate, study method and dialogue are proposed.
+**Fact boundary:** Two minimum / five taken / five maximum / all-five promise are separate author-supplied counts, not independently verified exam regulations. Subject names, classmate, study method and dialogue are proposed. A school-wide 100% pass rate does not by itself establish every pupil's subject count or Zino's grades.
 
 ---
 
@@ -2023,7 +2041,7 @@
 **VISUAL | P:** He finds a mistake, crosses it out, and rewrites every step. The rhythm recalls his mother’s lesson: quick is not careful.
 
 ### 0:55–1:20 — NO HERO ARRIVES
-**VISUAL | P:** Grand-Chukuchuku’s outline could step into the light, but Zino keeps his eyes on the page. The outline fades before taking shape.
+**VISUAL | P:** Zino glances into the unoccupied strip of light beside his desk, then returns to the difficult line. His own hand moves across it, crossing out another wrong step. Nobody appears to supply an answer; the next attempt is his.
 
 ### 1:20–1:45 — HOOK
 **VISUAL | P:** Dawn begins at the window as Zino reaches the end of the problem. A bell follows immediately.
@@ -2104,17 +2122,17 @@
 **SOUND | C mechanism / P staging:** Static. An announcer reads names. Every name makes the room rise and fall. Keep the radio words indistinct until Zino’s name.
 
 ### 0:30–0:58 — HIS NAME
-**VISUAL | C event / P staging:** Zino’s name is heard. He does not move for a beat, then his relief breaks through. Celebration happens in a non-specific, non-invented way: hands, laughter, bodies moving, no named person or particular food/music.
+**VISUAL | C event / P staging:** Zino's name is heard. He does not move for a beat, then his relief breaks through. Restrained proposed gestures carry the celebration: hands, laughter, bodies moving, no named person or particular food/music.
 
-### 0:58–1:25 — THE HERO WATCHES
-**VISUAL | P:** Grand-Chukuchuku stands at the edge of the gathering in his navy suit from the model sheet. He does not enter or take credit. He gives Zino the smallest nod.
+### 0:58–1:25 — THE BOY WHO DID THE WORK
+**VISUAL | P:** Hold on Zino among real people celebrating. His laugh breaks through before he can turn the moment into a performance. The hands that carried books and rewrote answers now hold his result. No imagined figure watches, nods or shares the achievement.
 
 ### 1:25–1:55 — HOOK
 **VISUAL | P:** Zino holds his book close and looks beyond the school gate. A cut carries the radio static into a later conversation.
 
 **END CARD:** *EPISODE 60 — THE PROMISE MOVES*
 
-**Fact boundary:** The name being called is confirmed. Exact reaction, who attended, celebration and Grand-Chukuchuku image are proposed.
+**Fact boundary:** The name being called is confirmed. Exact reaction, who attended and celebration are proposed. Grand is absent because Zino is living the result, not telling an impossible story.
 
 ---
 
@@ -2137,10 +2155,10 @@
 **UNCLE (P — replace with remembered words):** I know. First finish your university degree. Then America.
 
 ### 0:58–1:30 — WHAT CHANGES
-**VISUAL | P:** The imagined American skyline, previously a clear line in Zino’s book, shifts farther down a road. Grand-Chukuchuku’s shadow falls across it, then Zino shuts the book over the shadow.
+**VISUAL | P metaphor:** The imagined American skyline, previously a clear line in Zino's book, shifts farther down a drawn road. Zino closes the book. There is no Grand figure or shadow: this visualises a deferred goal, not a story or a supernatural intervention.
 
 ### 1:30–2:00 — THE NEXT GATE
-**VISUAL | P:** Zino walks down from the mountain school with the result under his arm. He does not claim victory; he carries a new condition.
+**VISUAL | P associative montage:** The mountain-school gate. The Fiango well. The result held in Zino's hand. These images recall the distance he has already crossed; they do not assert a continuous journey after an unlocated conversation. Return to his hand opening a fresh page for the next condition: university.
 
 **ZINO (P):** Then I go pass that one too.
 
@@ -2161,8 +2179,10 @@
 5. Record the exact fence-punishment details Zino witnessed before adding an action, authority, food or student identity.
 6. Record individual jungle-justice incidents separately; this script uses only an explicitly labelled composite witness scene.
 7. Confirm Gideon's camera type and photo process before an animation shows a print, screen or delivery.
-8. Place the Christmas club/drinks/girls memory only after Zino gives its year and confirms he was 18 or older.
+8. Record the Christmas club/drinks/girls memory's year, ages and sequence before placing it at its actual point in the story; do not presume it happened after eighteen.
 9. Lizzy's breakup is resolved as Form Three; Elianne's identity/place, Tracey's exact age/context and the exact year of Ayuk's TV purchase remain open. Working peer-age estimates are not birthdays.
+10. Confirm when Luc began training, the materials/construction of his homemade weights, and Gideon's bread-market arrangement before final prop layouts. Do not substitute commercial weights or a modern gym.
+11. Record Zino's first Form Five song and first post-boarding demo: title, lyrics, recording place, collaborators and date. A later U.S. songwriting scene must acknowledge the earlier music history.
 
 ## Production guardrails
 

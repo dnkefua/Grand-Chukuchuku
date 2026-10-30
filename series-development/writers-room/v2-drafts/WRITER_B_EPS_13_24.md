@@ -84,7 +84,7 @@
 **VISUAL | P:** The cup sits alone beneath the mango tree while the players chase the ball. Zino returns first. Coins glint in the dust; an older player spots him from the road.
 
 ### 0:24–0:52 — THE EASY STORY
-**VISUAL | P:** Zino lifts the cup. GRAND-CHUKUCHUKU flickers in a fantasy suit, dropping coins into a vault, then Zino hears Gideon shout his name from the well.
+**VISUAL | P:** Zino lifts the cup. For a moment, his body hides it from the road. He looks toward the compound exit, then hears Gideon shout his name from the well. No imagined character makes this choice for him.
 
 **ZINO (P):** If I run now, na only my shoe go catch me.
 
@@ -264,7 +264,7 @@
 ### 0:20–0:57 — MAKE IT A FIELD
 **VISUAL | P:** Zino turns the question into a football pitch: arrows become passes, a missing value becomes an open player. Luc follows, then redraws the solution in his own plain symbols.
 
-**ZINO (P):** You no need pray for number. Make you ask am where e dey go.
+**ZINO (P):** Na why I like maths. Puzzle. Find where each piece belong.
 
 ### 0:57–1:27 — LUC FINISHES IT
 **VISUAL | P:** Zino tries to take the pencil. Luc pulls it back with a grin and completes the final line himself. The distant game erupts without them.

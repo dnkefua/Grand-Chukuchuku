@@ -35,3 +35,15 @@ The existing Chapter One picture-board panels remain valid for dramatic framing.
 - **Compound layout:** Zino's room is two apartments from Mother's front room; two shared bathrooms have short doors showing feet/lower shins. These details override assumptions drawn from a picturesque courtyard reference. The reference controls materials and mood, not a measured floor plan.
 - **Uncle:** lawyer-era suits are confirmed; the earlier casual-shirt drawing is not authority for that era. Later cocoa-store dress remains open.
 - **Neighbourhood:** the tarred pickup road is five houses behind; Azi Motel is five storeys; Mother's aunt has a poultry business next to it. Treat the new adjacency schematic as relationships, not surveyed distances or compass bearings.
+
+## Later character corrections — 30 October 2026
+
+The following are **C — author-supplied features**, superseding earlier **P — proposed** designs. Costume and pose choices not supplied by the author remain proposals.
+
+- **Luc:** muscular, bodybuilder-like build from lifting weights in the evenings; high flat-top haircut. Homemade mud-formed dumbbells and a sand-filled punching bag belong to his training world. The earlier lean/slender design is superseded. Training onset and changes across the school years are **OPEN**: the opening at ten must keep child proportions, rather than copying adult-bodybuilder anatomy. His Bible, evangelism and non-player football role remain.
+- **Gideon / Giddy:** W-shaped hairline and fuller, almost-afro hair replace the generic cropped-hair proposal. Camera/bag remains useful for school-era identification. A bread-selling market place belongs by Form Five; do not put a bread stall into his earlier scenes without a date. Exact stall design, ownership terms and physical maturity at each age are **OPEN**.
+- **Zino:** the existing likeness remains. Science and maths aptitude, singing, Catholic identity and primary-school altar service are behavioural/contextual facts, not permission to add unconfirmed uniforms, religious jewellery or instruments. Original songwriting begins in Form Five; the first recorded demo belongs after his boarding high-school return. Later American music is a continuation.
+- **Rooms and trust:** Mother's trust and the separate room explain scope for unobserved coming/going. Preserve the actual two-apartment separation without inventing a deserted home, a neglectful mother or evidence that she approves every event.
+- **Tracey:** two unsuccessful GCE attempts and observing Zino's maths teaching add academic context. Neither settles age or private motives. No sexualised school-age character design or explicit scene follows from these facts.
+
+**P — age progression rule:** a single character sheet should not silently fix one physique or hair length across seven school years. The latest features guide revised older-school portraits; label opening-age variants and leave training/hair progression open until the author supplies dates.

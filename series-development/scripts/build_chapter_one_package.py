@@ -425,6 +425,7 @@ def make_package() -> None:
             ROOT / "character-bible" / "Fiango_Life_and_Characters_Update_2026-10-30.pdf",
             ROOT / "character-bible" / "Fiango_Neighbourhood_Adjacency_2026-10-30.svg",
             ROOT / "writers-room" / "CONTEXT_REVIEW_2026-10-30.md",
+            ROOT / "writers-room" / "LATEST_CHARACTER_CONTINUITY_REVIEW_2026-10-30.md",
         ])
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for path in targets:

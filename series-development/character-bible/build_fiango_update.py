@@ -10,7 +10,7 @@ from reportlab.lib.pagesizes import A4
 from reportlab.lib.styles import ParagraphStyle
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak
+from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, PageBreak, Table, TableStyle
 from reportlab.graphics.shapes import Drawing, Rect, String, Line
 from reportlab.graphics import renderSVG
 
@@ -80,13 +80,30 @@ def main():
         ('title','UpdateTitle',23,28,INK,0,10),('h2','UpdateBold',14,19,INK,12,8),('h3','UpdateBold',10.7,14.5,GOLD,9,5),('body','UpdateBody',9.3,13.3,INK,0,6),('small','UpdateBody',8.2,11.7,MUTED,0,5)]}
     flow += [Paragraph('Fiango: who lives where',styles['title']),Paragraph('An adjacency guide from Zino’s recollections. This diagram does not invent compass directions, addresses, room measurements or a home for Arey.',styles['body']),Spacer(1,16),schematic(),Spacer(1,15),Paragraph('Room correction: Zino’s room is two apartments away from Mother’s front room. The tenants share two bathrooms. A separate detailed compound plan needs the doorway/room arrangement and ages confirmed.',styles['body']),Paragraph('Football correction: Ayuk, Arey, Noge, Bismark and Robi play with Zino. Gideon watches and banters. Luc evangelises or chats. None of these names has been identified as a later crypto associate.',styles['body']),PageBreak()]
     flow += [Paragraph('The pickup, motel and poultry trade',styles['title']),Paragraph('The road and hotel belong to the weekday geography. This great-aunt is Mother’s aunt, not the maternal aunt later killed.',styles['body']),Spacer(1,16),route_diagram(),Spacer(1,16),Paragraph('School budget: 200 CFA = 100 taxi + 100 at school. A single morning ride costs 100; taxis are taken on three mornings a week. Walking early preserves the full 200 for school spending.',styles['body']),Paragraph('Uniform: light sky-blue short-sleeved shirts for both boys and girls; dark-blue trousers for boys, dark-blue skirts for girls. Boarding uniform remains unconfirmed.',styles['body']),Paragraph('Working ages: Form One about 10–11, Two 11–12, Three 12–13, Four 13–14, Five 14–15. These author-authorized estimates do not establish exact birthdays.',styles['body']),PageBreak()]
-    for raw in MD.read_text().splitlines():
+    lines=iter(MD.read_text().splitlines())
+    for raw in lines:
         line=raw.strip()
         if not line:flow.append(Spacer(1,3));continue
+        if line.startswith('|'):
+            rows=[line]
+            for next_line in lines:
+                if not next_line.strip():break
+                if not next_line.strip().startswith('|'):
+                    raise ValueError('Separate a Markdown table from its next paragraph with a blank line')
+                rows.append(next_line.strip())
+            cells=[]
+            for row in rows:
+                values=[v.strip() for v in row.strip('|').split('|')]
+                if all(re.fullmatch(r':?-+:?',v) for v in values):continue
+                cells.append([Paragraph(rich(v),styles['small'])for v in values])
+            table=Table(cells,colWidths=[245,133,133],repeatRows=1,hAlign='LEFT')
+            table.setStyle(TableStyle([('BACKGROUND',(0,0),(-1,0),PALE),('VALIGN',(0,0),(-1,-1),'TOP'),('GRID',(0,0),(-1,-1),.4,LINE),('LEFTPADDING',(0,0),(-1,-1),7),('RIGHTPADDING',(0,0),(-1,-1),7),('TOPPADDING',(0,0),(-1,-1),7),('BOTTOMPADDING',(0,0),(-1,-1),7)]))
+            flow += [table,Spacer(1,8)]
+            continue
         if line.startswith('# '):flow.append(Paragraph(rich(line[2:]),styles['title']))
         elif line.startswith('## '):
             title=line[3:]
-            if re.match(r'^[2-8]\. ',title):flow.append(PageBreak())
+            if re.match(r'^(?:[2-9]|[1-9][0-9]+)\. ',title):flow.append(PageBreak())
             flow.append(Paragraph(rich(title),styles['h2']))
         elif line.startswith('### '):flow.append(Paragraph(rich(line[4:]),styles['h3']))
         else:flow.append(Paragraph(rich('• '+line[2:]if line.startswith('- ')else line),styles['body']))

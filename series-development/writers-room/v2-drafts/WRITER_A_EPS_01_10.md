@@ -8,7 +8,7 @@
 
 **Provenance:** C = fact Zino supplied. P = proposed scene construction or dialogue. Every spoken line below is P unless Zino later confirms it as remembered wording. The compound and adult Grand-Chukuchuku visuals follow `visual-reference/VISUAL_BASELINE_V1.md`.
 
-**Safety boundary:** Zino and his friends are school-age in this section. The school scenes can include social curiosity, flirting and friendship, but no sexual activity, drinking or nightclub activity is depicted. The Christmas night-out memory belongs after its age and year are confirmed.
+**Portrayal and chronology:** Zino and his friends are school-age in this section. School relationships remain age-appropriate and non-graphic. The Christmas night-out memory remains unplaced until its year, ages and sequence are supplied; its actual placement is not assumed to be after eighteen. Do not invent a club event to fill this opening block.
 
 **Author update — 30 October 2026:** Zino plays street football with same-age classmates Ayuk, Arey (Ayuk's cousin), Noge, Bismark and Robi. Gideon does not play: he watches and banters, particularly when Zino loses. Luc does not play: he evangelises or chats nearby. Exact match teams, scores and individual peer actions below remain P. Taxi travel is three mornings a week, one 100-CFA ride from pickup to school; other early starts can mean walking. “College” here means the five secondary day-school years, so Ayuk's household television belongs in that period. The school uniform is light sky blue short-sleeved shirts for everyone, dark blue trousers for boys and dark blue skirts for girls. These are day-school colours, not an invented boarding uniform.
 
@@ -318,7 +318,7 @@
 
 **GIDEON (P):** Today I get work.
 
-**ZINO (P):** Camera work or girl work?
+**ZINO (P):** Giddy. Camera work or girl work?
 
 **GIDEON (P):** Both people fit pay. One with money.
 
@@ -406,7 +406,7 @@
 
 **Episode engine:** Luc wants one student to hear him preach; Zino wants the moment to become a joke, until Luc’s courage exposes Zino’s need for an audience.
 
-**Fact tier:** C — Luc carries a small Gideons Bible, approaches students to preach and values Zino’s humour. P — student, specific exchange, reaction and dialogue.
+**Fact tier:** C — Luc carries a small Gideons Bible, approaches students to preach and values Zino’s humour. Zino is Catholic and served at Mass throughout primary school; secondary-school demands leave no time to continue altar service. P — student, specific exchange, reaction and dialogue. Zino's teasing does not establish disbelief or Luc's denomination.
 
 ### 0:00–0:17 — THE APPROACH
 
@@ -450,15 +450,17 @@
 
 **Episode engine:** Luc needs help with a maths problem; Zino has to teach him without showing off, just as an office-door image hints that school access can disappear.
 
-**Fact tier:** C — Zino helps Luc with maths; Luc values Zino’s directness and humour; Zino is intelligent. P — specific question, lesson, class moment, office-door image and dialogue.
+**Fact tier:** C — Zino helps Luc and Gideon with schoolwork; Luc values his directness and humour. Maths is Zino's favourite because he enjoys its puzzle-like reasoning; he grasps scientific concepts readily. P — specific question, lesson, class moment, office-door image and dialogue.
 
 ### 0:00–0:18 — THE QUESTION
 
-**VISUAL | P:** Luc’s exercise book contains one unanswered maths problem. He has written a careful heading, then nothing beneath it.
+**VISUAL | P:** Zino finds Luc studying alone. Luc's exercise book contains one unanswered maths problem. He has written a careful heading, then nothing beneath it.
+
+**ZINO (P):** Lucky Luc. Which number catch you?
 
 **LUC (P):** This number no dey hear prayer.
 
-**ZINO (P):** Number hear work. Move.
+**ZINO (P):** Na puzzle. Find where the piece fit.
 
 ### 0:18–0:47 — FOOTBALL ON PAPER
 
@@ -480,7 +482,9 @@
 
 **ZINO (P):** No tell anybody. My reputation go spoil.
 
-**VISUAL | P:** Gideon appears at the door with his camera bag and points toward the football road. Zino closes the book before following.
+**VISUAL | P:** Gideon appears at the door with his camera bag and his own exercise book. He points to one line. Zino makes room beside Luc; the football outside will have to wait one more moment.
+
+**GIDEON (P):** Explain this one before we go.
 
 ### 1:40–2:00 — HOOK
 

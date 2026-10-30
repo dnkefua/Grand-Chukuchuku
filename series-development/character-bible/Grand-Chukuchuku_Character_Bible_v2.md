@@ -15,7 +15,7 @@
 | **Luc** | Faithful, candid best friend | Illustrated for a proposed later day-school look. |
 | **Elianne** | Previously named first love; identity/place unresolved | Illustrated as a proposed school-era design; chronology is open. |
 | **Zino’s Mother** | Single mother and primary-school teacher | Illustrated; name, exact age and wardrobe history remain open. |
-| **Zino’s Paternal Uncle** | Occasional school-fee support and promise-maker | Illustrated; name, work and financial circumstances remain open. |
+| **Zino’s Paternal Uncle** | Occasional school-fee support and promise-maker | Lawyer-era suit illustrated; name and financial circumstances remain open. |
 | **Zino’s Father** | Absent father; family-loss foundation | Shown only as a respectful nonliteral memory portrait. |
 | **Miss Mukete** | Favourite chemistry teacher | Illustrated; name is supplied, but individual history and exact likeness remain open. |
 | **The Landlord** | Compound money pressure | Illustrated as an unnamed composite. |
@@ -34,6 +34,7 @@
 - **P — Distinct visual code:** Slim, quick-footed silhouette; short tapered curls; bright, watchful eyes; expressive brow; faded white football vest, worn blue shorts and bare feet for street play. His face must carry the same brow, hairline and quick smile as Grand’s.
 - **Performance:** Words arrive before caution. When Zino is frightened, reduce the speed of his speech rather than remove his humour. His anger is hot and immediate, but never his entire personality.
 - **Props:** Scuffed ball, school bag, folded exercise-book page, small coins, well bucket.
+- **C — Learning, music and faith:** Maths is his favourite, puzzle-like subject; he understands science readily. Singing precedes his own songwriting in Form Five; his first demo follows his return from boarding high school, and he writes later in America. Catholic; primary-school altar service stops for lack of time in secondary school, not a supplied loss of faith.
 - **Do not do:** Do not turn cleverness into invulnerability, poverty into costume, or childhood into an adult body language.
 
 ### GRAND-CHUKUCHUKU
@@ -57,9 +58,10 @@
 **Story role:** The business-minded friend who sees the price, the opportunity and the camera angle before others do.
 
 - **C — Foundation:** Gideon is sharp, focused and always looking for ways to make money. He bought his first camera when he went to secondary school, booked birthday-party camera gigs, often paid for small outings with Zino, and liked Zino’s help approaching girls because Gideon was quiet and found it hard to keep a conversation going.
-- **P — Distinct visual code:** Compact, guarded posture; olive-green striped polo over school trousers or practical shorts; cross-body camera bag; a small period-appropriate camera becomes his identifying prop. His gaze should measure a room before he enters it.
+- **C / P — Revised visual code:** W-shaped hairline and fuller, almost-afro hair; camera and cross-body bag. School uniform is sky-blue short sleeves with dark-blue trousers. Casual wardrobe remains proposed and separate. His gaze should measure a room before he enters it.
 - **C — Football correction:** He does not play; he sits watching and bantering, especially when Zino loses.
 - **Performance:** His jokes land dry. He speaks only after he has calculated the situation. When he laughs freely, the audience should feel that trust has been earned.
+- **C — Later detail:** Zino calls him Giddy. Constant trades and paid services; a market place selling bread by Form Five. He asks Zino to explain schoolwork. Market terms and prices remain open.
 - **Do not do:** Do not make him a comic coward or a sidekick whose only purpose is to pay bills.
 
 ### LUC
@@ -67,8 +69,9 @@
 **Story role:** The moral pressure inside the friendship group: faith, fairness and honesty without self-righteousness.
 
 - **C — Foundation:** Luc is God-fearing, carries a small Bible, preaches to fellow students, and values Zino’s honesty, humour, help with mathematics and conversations about girls.
-- **P — Distinct visual code:** Lean upright silhouette and small Bible. Confirmed day-school uniform: light sky-blue short-sleeved shirt with dark-blue trousers; prior white/brown concepts are superseded. He does not play football; he evangelises or chats. His stillness should contrast with Zino’s restless movement.
+- **C / P — Revised visual code:** Muscular build from evening weights; high flat-top; small Bible. Mud-formed dumbbells and a sand-filled punching bag are confirmed training props. Light sky-blue short-sleeved shirt with dark-blue trousers. He does not play football. Training onset is open; do not give his age-ten version adult musculature. His stillness should contrast with Zino’s restless movement.
 - **Performance:** Clear and direct. He has courage to speak in public even when nobody listens. His faith should guide action, not produce speeches in every scene.
+- **C — Nickname:** Zino calls him Lucky Luc when meeting him alone; the date this begins is open.
 - **Do not do:** Never reduce Luc to a punchline, a hypocrite or an automatic judge of his friends.
 
 ### ELIANNE
@@ -76,7 +79,7 @@
 **Story role:** Zino’s first love and a person whose life must not be reduced to being desired by the lead.
 
 - **C — Foundation:** Elianne was previously named first love. Lizzy is now confirmed as the Form One crush, Form Two girlfriend and Form Three breakup. Their identities must not be merged without clarification.
-- **P — Distinct visual code:** Thoughtful school-era peer with neat braids, a ribbon, books and a deliberate way of holding a conversation. Blue is her recurring colour, distinct from Zino’s earth tones, Gideon’s olive, and Luc’s white/brown.
+- **P — Distinct visual code:** Thoughtful school-era peer with neat braids, a ribbon, books and a deliberate way of holding a conversation. Her proposed ribbon and books distinguish her within the shared sky-blue/navy uniform. Earlier white/brown school concepts are superseded.
 - **Performance:** Give her private wants, friendships, competence and boundaries before any romantic scene. Her attention cannot be a prize for Zino’s charm.
 - **Continuity hold:** Keep this design provisional until Zino records when and how they met, her age then, what she wanted, and what the relationship changed.
 
@@ -93,6 +96,7 @@
 - **C — Foundation:** She raised Zino as a single mother after his father’s death, taught in primary school from a young age and throughout his childhood, believed in Zino, and carried household pressures alongside teaching.
 - **P — Distinct visual code:** Upright posture, patterned teacher’s dresses, practical shoes, shoulder bag and a stack of marked exercise books. Warmth belongs in a private smile or a quiet touch, not in a softened version of her workload.
 - **Performance:** She does not need raised volume to hold a scene. Let pauses, a corrected exercise book, a bucket set down carefully, and the decision to keep going carry her strength.
+- **C — Trust:** Zino’s room is two apartments from hers. He could come, go or sleep late without her always knowing; she trusted him. This does not establish neglect or approval of everything he did.
 - **Do not do:** Do not turn her into suffering alone. She needs humour, professional skill, friends, limits and a point of view that is not only about Zino.
 
 ### ZINO’S PATERNAL UNCLE
@@ -185,6 +189,8 @@
 
 **C:** Zino has his own room, two apartments detached from his mother's room toward the front. Her room contains a queen-size bed and a drawer beside it. After getting ready for school, he enters her room to check the money left in that drawer.
 
+**C — later addition:** Mother trusts him. The separation between their rooms means he can come and go or sleep late without her always knowing. This is freedom within their particular living arrangement; it does not establish neglect, permission for every activity, or her constant absence.
+
 **P — screen treatment:** The route between rooms creates private and public space: he must pass other tenants before reaching Mother. Do not invent a locked door, secret drawer, missing cash or theft. Checking the money is his routine, not automatically a suspicious act. Exact room dimensions and the age at which this arrangement began are open.
 
 ### The 200-CFA decision
@@ -245,11 +251,15 @@ Plays. His ambition, skill, pride and temper can all surface in one ordinary str
 
 ### Gideon — the sideline voice
 
-**C:** Does not play. He sits watching and bantering with Zino, particularly when Zino loses. His camera work, business interests, quietness with girls and friendship with Zino remain intact. **Correction:** earlier goalkeeper, scoring teammate and demanding-a-pass scenes are superseded. His humour can puncture Zino's public performance without making their friendship cruel.
+**C:** Does not play. He sits watching and bantering with Zino, particularly when Zino loses. His camera work, business interests, quietness with girls and friendship with Zino remain intact. He constantly finds gigs, sells things or exchanges services for money. By Form Five he has a place in the market selling bread. He also turns to Zino to explain schoolwork. Zino calls him **Giddy**; the canonical name is **Gideon**, including when the author's message says Gideo.
+
+**C — visual correction:** W-shaped hairline and fuller, almost-afro hair replace the earlier generic short-cropped proposal. Exact hair length at individual ages remains open. **Correction:** earlier goalkeeper, scoring teammate and demanding-a-pass scenes are superseded. His humour can puncture Zino's public performance without making their friendship cruel.
 
 ### Luc — a different use for the same evening
 
-**C:** Does not play. He spends time evangelising or chatting. His small Bible and Zino's maths help remain part of their friendship. **Correction:** do not automatically make him a referee, scorer or touchline commentator in every match; he may be having an entirely separate conversation nearby.
+**C:** Does not play. He spends time evangelising or chatting. His small Bible and Zino's maths help remain part of their friendship. He lifts weights in the evenings, using homemade mud-formed dumbbells, and has a sand-filled punching bag. He has a muscular, bodybuilder-like build and a high flat-top haircut. Zino calls him **Lucky Luc** when he encounters him by himself.
+
+**C / OPEN — visual correction:** The earlier lean/slender design is superseded. His training's starting age and changes in physique across the school years are not supplied. Keep child proportions at ten; do not back-project an adult bodybuilder's anatomy onto the opening. **Correction:** do not automatically make him a referee, scorer or touchline commentator in every match; he may be having an entirely separate conversation nearby. Exercise, conversation and preaching need not all occur on the same evening.
 
 ## 4. School relationships — keep their timelines distinct
 
@@ -274,6 +284,8 @@ Plays. His ambition, skill, pride and temper can all surface in one ordinary str
 ### Tracey
 
 **C / OPEN:** An older student who attends the night-study space. Zino reports his first sexual experience with her while in Form Three, described as after the Lizzy breakup. Both ages, the precise ordering and the circumstances still need his account.
+
+**C — later addition:** She has already sat the GCE twice without passing. She sees Zino teaching maths to students who subsequently pass the GCE. This gives her an academic connection to the study space; it does not establish her exact age, private motives, a transaction, or that Zino alone caused anyone's examination result.
 
 **Treatment:** Preserve the disclosure in neutral biographical notes. Do not script or illustrate an explicit sexual scene involving school-age Zino. If later included, use a non-graphic transition and his own description of its emotional meaning. Do not invent adult status, consent, coercion, culpability or a relationship label. No seductive character art is requested or needed for this update.
 
@@ -324,6 +336,9 @@ The extraordinary events need an ordinary world worth losing. Suspense can grow 
 - The new girls remain separate characters. Preserve Elianne until her identity/place is clarified.
 - Father's cocoa work is a life and livelihood, not a failure verdict. Uncle's work and faith are now supplied facts, not generic mystery.
 - The named childhood players have not been identified as the later crypto circle.
+- Luc's muscular build and high flat-top supersede the lean design; Gideon's W-shaped hairline and almost-afro hair supersede the generic cropped-hair proposal. Keep age-appropriate versions rather than copying an older-school design unchanged onto ten-year-olds.
+- Zino's own songwriting begins in Form Five, and his first demo follows his return home from boarding high school. Later writing in America continues that history; a draft implying that his music begins in America must change.
+- The author's general GCE minimum pass thresholds, the maximum subjects available, Zino's own subjects and the school's pass rate are four different facts; none replaces another.
 
 ## 8. Questions awaiting Zino's corrections
 
@@ -333,3 +348,42 @@ The extraordinary events need an ordinary world worth losing. Suspense can grow 
 4. How old were Zino and Tracey? Record the experience in his own terms before assigning a label or dramatizing an aftermath.
 5. From which age/form did Zino have the separate room, and are the feet-visible doors bathroom doors, toilet doors or both?
 6. What is the sequence of the uncle's conversion, legal work and cocoa-store operation, and why were school payments sometimes late?
+
+## 9. Latest character and education additions — 30 October 2026
+
+### Zino — understanding, music and faith
+
+**C:** He quickly understands scientific concepts, with maths his favourite subject. He describes maths as easy, like a puzzle: he can work out an answer instead of doing the kind of reading he associates with History, Geography and Literature. This describes his preference and confidence, not illiteracy, lack of effort or an inability to learn other subjects.
+
+**C:** He loves singing and starts writing his own songs in Form Five. He records his first demo after coming home from the two-year boarding high-school period. His later songwriting in America is a continuation.
+
+**P / OPEN — placement:** On the existing working chronology, Form Five is around 2004–2005 and the first demo is after his high-school return around 2007. These are approximate placements, not newly confirmed recording dates. Demo title, collaborators, studio, cost and exact timing remain open. Do not place a completed demo in the earlier Fiango day-school years.
+
+**C:** Zino is Catholic and serves at Mass throughout primary school. Secondary-school demands leave him without time to continue altar service. Reduced service is not evidence that he abandons his faith or becomes Luc's religious opposite.
+
+**P — character use:** Let confidence in a maths problem sit beside a song idea he is still struggling to express. Faith can appear through an ordinary practice or memory when its timing is supported. Invented lyrics, lessons and dialogue remain dramatic proposals, not recovered testimony.
+
+### GCE — keep four measures separate
+
+**C — author's account of the examination system:** A paper means a subject in this account. The minimum pass threshold is four subjects at Ordinary Level and two at Advanced Level. These are the author's supplied rules for the story; historical regulations have not been independently verified here.
+
+| Measure | Ordinary Level | Advanced Level |
+| --- | --- | --- |
+| General minimum pass threshold supplied by the author | 4 subjects | 2 subjects |
+| Maximum subjects supplied by the author | 11 subjects | 5 subjects |
+| Zino's reported subjects | 10 subjects | 5 subjects |
+| His boarding school's reported pass rate | Not supplied | 100% |
+
+The uncle's promise specifically depends on Zino succeeding in all five Advanced-Level subjects, a higher condition than the author's general two-subject minimum. The school's 100% pass rate does not mean every student takes or passes five subjects, and it supplies no Ordinary-Level school statistic.
+
+### Friendship, work and trust on screen
+
+**C:** Luc's weights and punching bag belong to his evening life. Gideon's market bread place belongs by Form Five; earlier camera work, small trades and paid services precede or coexist with it as the author describes. His quietness with girls does not make him passive about business. Zino's maths help extends to Gideon as well as Luc and other students.
+
+### Three-act short seeds — proposed
+
+1. **Lucky Luc:** I — Zino finds Luc training alone. II — a conversation competes with the next set of homemade weights. III — the nickname lands in a private friendship moment. Place at an age consistent with the eventual training chronology; do not invent a dangerous stunt or athletic victory.
+2. **Giddy's Bread:** I — in Form Five, Gideon must give attention to a customer at his market place. II — he brings Zino a schoolwork problem between tasks. III — business confidence and academic uncertainty share the same character. Exact prices, takings, ownership terms and Zino's presence there are proposed or open.
+3. **The First Song:** I — Form Five Zino begins a lyric. II — a melody resists the easy certainty he finds in maths. III — he keeps working. Save the first recorded demo for after boarding high school; do not invent an instant music career.
+
+**OPEN:** When did Luc begin training, and how did his build and haircut change? What did Gideon's market arrangement involve? Which school year did each nickname start? What was the first song and where was the demo recorded? These gaps do not block the confirmed traits, but they limit precise scene dates and props.

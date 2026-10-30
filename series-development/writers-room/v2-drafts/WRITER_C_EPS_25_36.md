@@ -8,7 +8,7 @@
 
 **Fact key:** **C** confirmed recollection supplied by Zino; **FT** family testimony; **R** reported/incomplete detail; **P** proposed composite or dialogue. All dialogue below is P unless explicitly stated otherwise.
 
-**Author update — 30 October 2026:** Mirabel befriends Zino through mathematics from Form Three until his US departure. Gideon watches/banters at football and Luc evangelises/chats; neither plays. Uncle was a renowned lawyer in suits, then a cocoa trader after Christian conversion, with a large Kumba store by Zino's Form Three shipping to Douala by trailer. Father's limited education and farming are family context, not proof of a failed life. Lizzy's breakup is now resolved to Form Three. Tracey's reported experience with Form Three Zino remains an undramatized, non-graphic continuity entry pending exact ages; she is only confirmed to be an older student, not necessarily an adult. Never sexualise the school-age characters. Uniform for daytime school: light sky blue short-sleeved shirts with dark blue trousers for boys and dark blue skirts for girls; night-study clothing remains separately proposed.
+**Author update — 30 October 2026:** Mirabel befriends Zino through mathematics from Form Three until his US departure. Gideon watches/banters at football and Luc evangelises/chats; neither plays. Uncle was a renowned lawyer in suits, then a cocoa trader after Christian conversion, with a large Kumba store by Zino's Form Three shipping to Douala by trailer. Father's limited education and farming are family context, not proof of a failed life. Lizzy's breakup is now resolved to Form Three. Tracey's reported experience with Form Three Zino remains an undramatized, non-graphic continuity entry pending exact ages; she is only confirmed to be an older student, not necessarily an adult. She had sat the GCE twice unsuccessfully and observed his maths pupils later pass; this establishes neither a transaction nor her exact age or private motives. Never sexualise the school-age characters. Uniform for daytime school: light sky blue short-sleeved shirts with dark blue trousers for boys and dark blue skirts for girls; night-study clothing remains separately proposed.
 
 ---
 
@@ -48,14 +48,16 @@
 
 **Target runtime:** 1:45  
 **Logline:** Zino uses evening revision to leave the compound, then has to decide whether the freedom is worth carrying home an untouched book.  
-**Fact tier:** **C** Professional School evening sessions gave some students a reason to leave home; some studied and some used the time to socialise. **P** this evening, mother’s question, route and dialogue.
+**Fact tier:** **C** Professional School evening sessions gave some students a reason to leave home; some studied and some used the time to socialise. Zino's separate room gave him freedom to come, go and sleep late without Mother always knowing; she trusted him. **P** this evening, mother's question, route and dialogue. Trust is not blanket permission or evidence of neglect.
 
 ### 0:00–0:18 — BEFORE DARK
-**VISUAL | C setting / P action:** Mother returns with her teaching bag as Zino closes his revision book over a football. At the well, buckets knock and neighbours call across the courtyard.
+**VISUAL | C setting / P action:** Zino steps from his own room with his revision book. Mother crosses toward her front room, two apartments away, carrying her teaching bag. Their paths meet by chance; she is not stationed at his door. Buckets knock at the well.
 
 **MOTHER (P, English):** Are you going to study?
 
-**ZINO (P):** I go read.
+**ZINO (P, English):** Yes. At the school.
+
+**VISUAL | P:** She nods and goes inside. He has her trust; she has not inspected the book. He looks once at the freedom of the open compound entrance.
 
 ### 0:18–0:50 — THE ROAD OFFERS OTHER THINGS
 **VISUAL | P:** On the red-earth road, Gideon slows near laughter and music drifting from a side lane. Luc keeps walking. Zino sees both directions: the lit classrooms and the boys already gathering outside them.
@@ -303,7 +305,7 @@
 ### 0:58–1:30 — FIRE
 **SOUND | C harm / P staging:** A cap twists. Liquid hits dirt. Ignition. The man screams. Fire, smoke, heat and the boys’ recoiling faces are shown; no body, no verdict, no police outcome, no triumphant framing and no replay.
 
-**FANTASY | P:** Grand-Chukuchuku steps between Zino and the fire, adult suit glowing through smoke. He opens his mouth. No sound comes. The image fractures away.
+**VISUAL | P:** Zino looks toward an ordinary roofline as if searching for the beginning of a story. Nothing changes: no gold, no figure, no impossible interruption. He cannot get the words out. The crowd remains real, beyond anything his stories can undo.
 
 ### 1:30–2:00 — HOOK
 **VISUAL | P:** The three boys walk away without speaking. Gideon holds his unused camera to his chest. Zino looks down at his hands as ash lands on them.
@@ -346,7 +348,7 @@
 
 **Target runtime:** 1:55  
 **Logline:** Zino turns the discipline of his next ten papers into a way to keep moving, but the list makes clear how much of life he has to hold at once.  
-**Fact tier:** **C** At the end of five Fiango day-school years, Zino wrote ten GCE Ordinary-Level subjects out of a maximum eleven. **P** timetable, study arrangements, dialogue and exact subject order. This episode begins the O-Level preparation; it does not show results.
+**Fact tier:** **C** At the end of five Fiango day-school years, Zino wrote ten GCE Ordinary-Level subjects out of a maximum eleven. The author's minimum O-Level pass threshold is four subjects. He began writing his own songs in Form Five. Luc trained in the evenings with mud-formed dumbbells and a sand-filled punching bag; the training's starting year is unknown. **P** this Form Five training placement, study arrangement, lyric margin and dialogue. This episode begins O-Level preparation; it does not show results.
 
 ### 0:00–0:20 — TEN
 **ON-SCREEN TEXT | C:** *10 O-LEVEL SUBJECTS. MAXIMUM: 11.*
@@ -354,23 +356,25 @@
 **VISUAL | P:** Ten blank subject lines stack vertically beside an exercise book. Zino’s football, Luc’s Bible and Gideon’s camera bag sit outside the frame of the page.
 
 ### 0:20–0:50 — A DIFFERENT CONTRIBUTION
-**VISUAL | P:** At the compound, each friend contributes something non-monetary to the plan: Luc keeps a quiet hour; Gideon writes a possible camera date around revision; Zino folds his lunch-money cloth back into his bag rather than putting it in a game.
+**VISUAL | C habits / P meeting:** At Luc's evening training space, the older-secondary Luc sets down his mud-formed dumbbells beside a sand-filled punching bag. His high flat-top and trained shoulders distinguish him; he is still a schoolboy. Zino has come with the ten-subject list. Training stops so Luc can take a look.
 
 **GIDEON (P):** You no go play today?
 
 **ZINO (P):** Today, I get ten opponents.
+
+**VISUAL | P:** A brief sung phrase escapes Zino as he writes. A half-line of his own song occupies the page margin, then the revision list takes the page. Do not display invented lyrics as a recovered real song.
 
 ### 0:50–1:22 — MOTHER’S STANDARD
 **VISUAL | C mother profession / P action:** Mother marks pupils’ books and then checks only the first line of Zino’s plan.
 
 **MOTHER (P, English):** Get one line right. Then the next.
 
-**VISUAL | P:** Zino nods. He does not tell a story.
+**VISUAL | P:** Zino nods. He folds the lunch-money cloth into his bag instead of putting it into a game. He does not tell a story.
 
 ### 1:22–1:55 — HOOK
 **VISUAL | P:** In the open-air evening, Zino dribbles past two slippers before setting the ball down beside the O-Level list. The mango leaves rustle above him. He turns to the first paper.
 
 **END CARD:** *EPISODE 37 — “THE FIRST PAPER”*
 
-**Fact boundary:** The ten-subject fact is C. The personal study plan, friends’ contributions and exact prep routine are P. O-Level results, the uncle’s promise and boarding remain for the next block.
+**Fact boundary:** Ten taken / eleven maximum / four minimum are separate author-supplied facts. Singing and Form Five songwriting are confirmed; actual songs/lyrics await the author. Luc's equipment and habit are confirmed; this meeting and training date are proposed. O-Level results, the uncle's promise and boarding remain for the next block. The first demo happens only after the two boarding years, not here.
 

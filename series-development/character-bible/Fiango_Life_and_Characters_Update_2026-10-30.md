@@ -23,6 +23,8 @@
 
 **C:** Zino has his own room, two apartments detached from his mother's room toward the front. Her room contains a queen-size bed and a drawer beside it. After getting ready for school, he enters her room to check the money left in that drawer.
 
+**C — later addition:** Mother trusts him. The separation between their rooms means he can come and go or sleep late without her always knowing. This is freedom within their particular living arrangement; it does not establish neglect, permission for every activity, or her constant absence.
+
 **P — screen treatment:** The route between rooms creates private and public space: he must pass other tenants before reaching Mother. Do not invent a locked door, secret drawer, missing cash or theft. Checking the money is his routine, not automatically a suspicious act. Exact room dimensions and the age at which this arrangement began are open.
 
 ### The 200-CFA decision
@@ -83,11 +85,15 @@ Plays. His ambition, skill, pride and temper can all surface in one ordinary str
 
 ### Gideon — the sideline voice
 
-**C:** Does not play. He sits watching and bantering with Zino, particularly when Zino loses. His camera work, business interests, quietness with girls and friendship with Zino remain intact. **Correction:** earlier goalkeeper, scoring teammate and demanding-a-pass scenes are superseded. His humour can puncture Zino's public performance without making their friendship cruel.
+**C:** Does not play. He sits watching and bantering with Zino, particularly when Zino loses. His camera work, business interests, quietness with girls and friendship with Zino remain intact. He constantly finds gigs, sells things or exchanges services for money. By Form Five he has a place in the market selling bread. He also turns to Zino to explain schoolwork. Zino calls him **Giddy**; the canonical name is **Gideon**, including when the author's message says Gideo.
+
+**C — visual correction:** W-shaped hairline and fuller, almost-afro hair replace the earlier generic short-cropped proposal. Exact hair length at individual ages remains open. **Correction:** earlier goalkeeper, scoring teammate and demanding-a-pass scenes are superseded. His humour can puncture Zino's public performance without making their friendship cruel.
 
 ### Luc — a different use for the same evening
 
-**C:** Does not play. He spends time evangelising or chatting. His small Bible and Zino's maths help remain part of their friendship. **Correction:** do not automatically make him a referee, scorer or touchline commentator in every match; he may be having an entirely separate conversation nearby.
+**C:** Does not play. He spends time evangelising or chatting. His small Bible and Zino's maths help remain part of their friendship. He lifts weights in the evenings, using homemade mud-formed dumbbells, and has a sand-filled punching bag. He has a muscular, bodybuilder-like build and a high flat-top haircut. Zino calls him **Lucky Luc** when he encounters him by himself.
+
+**C / OPEN — visual correction:** The earlier lean/slender design is superseded. His training's starting age and changes in physique across the school years are not supplied. Keep child proportions at ten; do not back-project an adult bodybuilder's anatomy onto the opening. **Correction:** do not automatically make him a referee, scorer or touchline commentator in every match; he may be having an entirely separate conversation nearby. Exercise, conversation and preaching need not all occur on the same evening.
 
 ## 4. School relationships — keep their timelines distinct
 
@@ -112,6 +118,8 @@ Plays. His ambition, skill, pride and temper can all surface in one ordinary str
 ### Tracey
 
 **C / OPEN:** An older student who attends the night-study space. Zino reports his first sexual experience with her while in Form Three, described as after the Lizzy breakup. Both ages, the precise ordering and the circumstances still need his account.
+
+**C — later addition:** She has already sat the GCE twice without passing. She sees Zino teaching maths to students who subsequently pass the GCE. This gives her an academic connection to the study space; it does not establish her exact age, private motives, a transaction, or that Zino alone caused anyone's examination result.
 
 **Treatment:** Preserve the disclosure in neutral biographical notes. Do not script or illustrate an explicit sexual scene involving school-age Zino. If later included, use a non-graphic transition and his own description of its emotional meaning. Do not invent adult status, consent, coercion, culpability or a relationship label. No seductive character art is requested or needed for this update.
 
@@ -162,6 +170,9 @@ The extraordinary events need an ordinary world worth losing. Suspense can grow 
 - The new girls remain separate characters. Preserve Elianne until her identity/place is clarified.
 - Father's cocoa work is a life and livelihood, not a failure verdict. Uncle's work and faith are now supplied facts, not generic mystery.
 - The named childhood players have not been identified as the later crypto circle.
+- Luc's muscular build and high flat-top supersede the lean design; Gideon's W-shaped hairline and almost-afro hair supersede the generic cropped-hair proposal. Keep age-appropriate versions rather than copying an older-school design unchanged onto ten-year-olds.
+- Zino's own songwriting begins in Form Five, and his first demo follows his return home from boarding high school. Later writing in America continues that history; a draft implying that his music begins in America must change.
+- The author's general GCE minimum pass thresholds, the maximum subjects available, Zino's own subjects and the school's pass rate are four different facts; none replaces another.
 
 ## 8. Questions awaiting Zino's corrections
 
@@ -171,3 +182,42 @@ The extraordinary events need an ordinary world worth losing. Suspense can grow 
 4. How old were Zino and Tracey? Record the experience in his own terms before assigning a label or dramatizing an aftermath.
 5. From which age/form did Zino have the separate room, and are the feet-visible doors bathroom doors, toilet doors or both?
 6. What is the sequence of the uncle's conversion, legal work and cocoa-store operation, and why were school payments sometimes late?
+
+## 9. Latest character and education additions — 30 October 2026
+
+### Zino — understanding, music and faith
+
+**C:** He quickly understands scientific concepts, with maths his favourite subject. He describes maths as easy, like a puzzle: he can work out an answer instead of doing the kind of reading he associates with History, Geography and Literature. This describes his preference and confidence, not illiteracy, lack of effort or an inability to learn other subjects.
+
+**C:** He loves singing and starts writing his own songs in Form Five. He records his first demo after coming home from the two-year boarding high-school period. His later songwriting in America is a continuation.
+
+**P / OPEN — placement:** On the existing working chronology, Form Five is around 2004–2005 and the first demo is after his high-school return around 2007. These are approximate placements, not newly confirmed recording dates. Demo title, collaborators, studio, cost and exact timing remain open. Do not place a completed demo in the earlier Fiango day-school years.
+
+**C:** Zino is Catholic and serves at Mass throughout primary school. Secondary-school demands leave him without time to continue altar service. Reduced service is not evidence that he abandons his faith or becomes Luc's religious opposite.
+
+**P — character use:** Let confidence in a maths problem sit beside a song idea he is still struggling to express. Faith can appear through an ordinary practice or memory when its timing is supported. Invented lyrics, lessons and dialogue remain dramatic proposals, not recovered testimony.
+
+### GCE — keep four measures separate
+
+**C — author's account of the examination system:** A paper means a subject in this account. The minimum pass threshold is four subjects at Ordinary Level and two at Advanced Level. These are the author's supplied rules for the story; historical regulations have not been independently verified here.
+
+| Measure | Ordinary Level | Advanced Level |
+| --- | --- | --- |
+| General minimum pass threshold supplied by the author | 4 subjects | 2 subjects |
+| Maximum subjects supplied by the author | 11 subjects | 5 subjects |
+| Zino's reported subjects | 10 subjects | 5 subjects |
+| His boarding school's reported pass rate | Not supplied | 100% |
+
+The uncle's promise specifically depends on Zino succeeding in all five Advanced-Level subjects, a higher condition than the author's general two-subject minimum. The school's 100% pass rate does not mean every student takes or passes five subjects, and it supplies no Ordinary-Level school statistic.
+
+### Friendship, work and trust on screen
+
+**C:** Luc's weights and punching bag belong to his evening life. Gideon's market bread place belongs by Form Five; earlier camera work, small trades and paid services precede or coexist with it as the author describes. His quietness with girls does not make him passive about business. Zino's maths help extends to Gideon as well as Luc and other students.
+
+### Three-act short seeds — proposed
+
+1. **Lucky Luc:** I — Zino finds Luc training alone. II — a conversation competes with the next set of homemade weights. III — the nickname lands in a private friendship moment. Place at an age consistent with the eventual training chronology; do not invent a dangerous stunt or athletic victory.
+2. **Giddy's Bread:** I — in Form Five, Gideon must give attention to a customer at his market place. II — he brings Zino a schoolwork problem between tasks. III — business confidence and academic uncertainty share the same character. Exact prices, takings, ownership terms and Zino's presence there are proposed or open.
+3. **The First Song:** I — Form Five Zino begins a lyric. II — a melody resists the easy certainty he finds in maths. III — he keeps working. Save the first recorded demo for after boarding high school; do not invent an instant music career.
+
+**OPEN:** When did Luc begin training, and how did his build and haircut change? What did Gideon's market arrangement involve? Which school year did each nickname start? What was the first song and where was the demo recorded? These gaps do not block the confirmed traits, but they limit precise scene dates and props.

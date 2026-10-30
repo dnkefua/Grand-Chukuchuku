@@ -12,12 +12,12 @@
     "He spends roughly six months in Cameroon before moving to Dubai in 2020 to work for a Chinese online retailer of digital products. COVID complicates the new beginning. The Ambazonian crisis brings family bereavement, housing loss, disrupted farming, and relatives crowded into a two-bedroom home in Douala; his supportive maternal aunt is killed. Zino eventually becomes a successful crypto merchant in Dubai. The final chapter asks whether this success can bring peace without turning his mother's unbuilt house into a false ending."
   ],
   "characters": [
-    ["Zino / Nkeh Nkengzincho", "Born in 1990. Intelligent, witty, talented, kind, and strongly concerned with justice. Temper, people-pleasing, and limited self-awareness complicate his decisions. He wants success and happiness, with a house for his mother as the enduring goal."],
+    ["Zino / Nkeh Nkengzincho", "Born 1990; witty, kind, just, with temper and people-pleasing flaws. Maths feels like a puzzle; science comes readily. Catholic, primary-school altar server; secondary demands end service. Sings, writes songs from Form Five; first demo after boarding high school, later writing in America. Wants a house for Mother."],
     ["His father", "Dies from a snake bite while spraying cocoa when Zino is two. In the family account, he cuts the bite area and tries to suck out the venom, then passes out before reaching home; his right arm is swollen. Zino has no personal recollection, so this belongs in family testimony or a prologue rather than a firsthand flashback. This is family history, not medical guidance."],
     ["His mother", "A primary-school teacher from a young age and throughout Zino's childhood. After his father's death, she raises Zino and believes in his future. Develop her own work, humor, ambitions, and burdens as well as her sacrifices. Her name and individual memories remain to be supplied."],
     ["Paternal uncle", "A renowned lawyer known for suits, later a Christian convert and cocoa trader. By Form Three he has a large Kumba store shipping trailers to Douala. He supports school at times, promises America after five A-Levels, then defers until a first degree. Legal/trading overlap, payment timing and deferral reasons remain open. He loved Zino's father; his advice about avoiding the father's path is his reported judgement, not a verdict on farming."],
-    ["Gideon", "Business-minded, buys his first camera in secondary school, seeks birthday gigs and often pays for outings. Does not play football: sits watching and bantering, especially when Zino loses. Quiet with girls; loves Sophy in Forms Two-Five. Zino declines her advances from loyalty."],
-    ["Luc", "God-fearing, carries a small Bible and preaches to students. Does not play football; evangelises or chats. Values Zino's honesty, maths help and humour. The friendship must not turn him into an invented teammate or default referee."],
+    ["Gideon / Giddy", "W-shaped hairline, fuller almost-afro. Camera gigs, trades and paid services; a market bread place by Form Five. Often pays; asks Zino for schoolwork help. Quiet with girls; loves Sophy in Forms Two-Five. Watches and banters beside football; does not play."],
+    ["Luc / Lucky Luc", "God-fearing, small Bible, school preaching; no football. Muscular from evening mud-formed dumbbells and sandbag training; high flat-top. Zino's maths help and humour matter. Lucky Luc is Zino's greeting when meeting him alone. Training onset open; age-ten build stays childlike."],
     ["School relationships / Miss Mukete", "Lizzy: Form One crush, girlfriend from Two, breakup in Three. Mirabel: maths friendship from Three until U.S. departure. Elianne was previously called first love; identity/place is unresolved, so do not merge her with Lizzy. Miss Mukete is the favourite chemistry teacher. New details and neutral Tracey notes are in the Fiango update."],
     ["Maternal aunt", "Cooks for him, supports him, and believes in him. Her later killing is a profound family loss. Build her life and personality before depicting its loss; date and circumstances remain to be established."],
     ["Girlfriend in America", "Part of Zino's support system. Her name, relationship timeline, perspective, and independent ambitions remain open. Her actions and immigration involvement must not be assumed."],
@@ -37,6 +37,7 @@
     "water": "four buckets in two rounds, one bucket in each hand",
     "bathrooms": "two shared bathrooms; feet/lower shins visible below door; exact toilet/bathroom distinction open",
     "rooms": "Zino's own room two apartments from Mother's room at the front; queen-size bed and bedside drawer",
+    "mother_trust": "Separate room allowed coming, going and late sleep without Mother always noticing; she trusted him. No inference of neglect or blanket permission.",
     "school_money_cfa": 200,
     "taxi_fare_cfa": 100,
     "taxi_frequency": "one morning ride on three mornings per week",
@@ -57,15 +58,31 @@
     "Lizzy": "crush Form One, girlfriend Form Two, breakup Form Three; do not assume same person as Elianne",
     "Mirabel": "maths friendship Form Three to U.S. departure; no romance supplied",
     "Sophy": "Gideon's interest Forms Two-Five; Zino declines her advances from loyalty; school-age portrayal nonsexual",
-    "Tracey": "older night-study student/near peer; Zino reports first sexual experience in Form Three after breakup; exact ages/context open; neutral notes only, no explicit depiction"
+    "Tracey": "older night-study student; twice sat GCE unsuccessfully, saw Zino teach maths to students who later passed. Zino reports first sexual experience in Form Three after breakup; exact ages/context open; neutral notes only, no explicit depiction"
+  },
+  "latest_character_context": {
+    "source": "Author recollections supplied 30 October 2026; supersede conflicting proposed designs",
+    "Luc": "Muscular older-secondary silhouette, high flat-top, evening mud-formed dumbbells and sand-filled punching bag. Training onset unknown; avoid adult musculature at ten.",
+    "Gideon": "Canonical spelling Gideon, nickname Giddy used by Zino. W-shaped hairline and fuller almost-afro hair. Constant gigs, trades and paid services; market bread place by Form Five; asks Zino for academic help. Market tenure and prices open.",
+    "Zino_learning": "Gifted at understanding scientific concepts; favourite maths is easy like a puzzle, unlike reading-heavy subjects. Preference is not illiteracy or inability in other subjects.",
+    "Zino_music": "Singing, own songwriting from Form Five, first demo after homecoming from boarding high school (around 2007 on working timeline), later songwriting in America. Exact recording date and collaborators open.",
+    "Zino_faith": "Catholic and primary-school altar server; secondary demands leave no time for altar service, not evidence of lost faith.",
+    "nicknames": "Giddy for Gideon; Lucky Luc when Zino meets Luc alone. Dates first used open.",
+    "GCE_author_supplied": {
+      "minimum_pass_subjects": {"ordinary": 4, "advanced": 2},
+      "maximum_subjects": {"ordinary": 11, "advanced": 5},
+      "Zino_reported_subjects": {"ordinary": 10, "advanced": 5},
+      "boarding_school_advanced_pass_rate": "100%, not a claim every pupil passed five",
+      "verification": "Author-supplied exam rules for the story; historical regulations not independently checked. Uncle's all-five condition is distinct from the general two-subject minimum."
+    }
   },
   "timeline": [
     ["1990", "Zino is born."],
     ["Around 1992", "Zino's father dies after a snake bite while spraying cocoa, when Zino is two. Zino has no direct recollection."],
     ["1999", "Primary school completed; its fee exclusion belongs before this milestone."],
     ["Around 2000", "Opening: Zino is ten, in Fiango, after primary school. Five years of day school begin, with Luc and Gideon."],
-    ["Around 2005", "Five years of Fiango day school end with ten GCE Ordinary-Level subjects (maximum 11) and radio results. Zino's uncle promises school choice and America if Zino succeeds in all five Advanced-Level subjects; Zino chooses a remote boarding school."],
-    ["2007", "Boarding high school ends with five GCE Advanced-Level subjects (maximum 5), forming Zino's university study area. His school has a 100% Advanced-Level pass rate. When Zino recalls the America promise, his uncle defers it until Zino completes a first university degree."],
+    ["Around 2005", "Form Five: own songwriting begins; Gideon has a market bread place. Ten O-Level subjects (maximum 11; author-supplied minimum pass 4). Uncle promises school choice and America for all five A-Levels; Zino chooses boarding."],
+    ["2007", "Five A-Level subjects (maximum 5; author-supplied minimum pass 2); school pass rate 100%. Uncle defers America until a first degree. Zino's first demo follows his boarding-school homecoming; exact recording date open."],
     ["2011", "First degree completed; subject and institution need confirmation."],
     ["2012", "Moves to the United States; Oklahoma and East Central University are identified."],
     ["2014", "Master's completed; social-work studies identified; exact award title to confirm."],
@@ -73,7 +90,8 @@
     ["2019", "Deportation for remaining without appropriate immigration documents."],
     ["2019-2020", "Roughly six months in Cameroon before the Dubai move; exact months open."],
     ["2020 onward", "Dubai, digital-retail employment, COVID, and later crypto-merchant success."],
-    ["Dates to place", "Aunt's killing, loss of housing and farming income, relocation to Douala, and individual jungle-justice incidents within the five day-school years."],
+    ["School-era dates open", "Individual jungle-justice witness incidents belong within the five Fiango day-school years; exact dates and sequences open."],
+    ["Later crisis dates open", "Aunt's killing, housing/farming losses and Douala relocation belong to the later Ambazonian-crisis history. Exact dates open; do not place these in 2000-2005."],
     ["June study sessions", "Professional School is a vocational campus that opens classrooms at night during the day-school exam period. Confirm the school name and years; use Zino's remembered local terminology in dialogue."],
     ["Present account", "Mother's house remains unbuilt; later business milestones need expansion."]
   ],

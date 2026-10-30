@@ -38,7 +38,7 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 ## People
 
-**Zino / Nkeh Nkengzincho:** Born in 1990. Intelligent, witty, talented, kind, and strongly concerned with justice. Temper, people-pleasing, and limited self-awareness complicate his decisions. He wants success and happiness, with a house for his mother as the enduring goal.
+**Zino / Nkeh Nkengzincho:** Born 1990; witty, kind, just, with temper and people-pleasing flaws. Maths feels like a puzzle; science comes readily. Catholic, primary-school altar server; secondary demands end service. Sings, writes songs from Form Five; first demo after boarding high school, later writing in America. Wants a house for Mother.
 
 **His father:** Dies from a snake bite while spraying cocoa when Zino is two. In the family account, he cuts the bite area and tries to suck out the venom, then passes out before reaching home; his right arm is swollen. Zino has no personal recollection, so this belongs in family testimony or a prologue rather than a firsthand flashback. This is family history, not medical guidance.
 
@@ -46,9 +46,9 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 **Paternal uncle:** A renowned lawyer known for suits, later a Christian convert and cocoa trader. By Form Three he has a large Kumba store shipping trailers to Douala. He supports school at times, promises America after five A-Levels, then defers until a first degree. Legal/trading overlap, payment timing and deferral reasons remain open. He loved Zino's father; his advice about avoiding the father's path is his reported judgement, not a verdict on farming.
 
-**Gideon:** Business-minded, buys his first camera in secondary school, seeks birthday gigs and often pays for outings. Does not play football: sits watching and bantering, especially when Zino loses. Quiet with girls; loves Sophy in Forms Two-Five. Zino declines her advances from loyalty.
+**Gideon / Giddy:** W-shaped hairline, fuller almost-afro. Camera gigs, trades and paid services; a market bread place by Form Five. Often pays; asks Zino for schoolwork help. Quiet with girls; loves Sophy in Forms Two-Five. Watches and banters beside football; does not play.
 
-**Luc:** God-fearing, carries a small Bible and preaches to students. Does not play football; evangelises or chats. Values Zino's honesty, maths help and humour. The friendship must not turn him into an invented teammate or default referee.
+**Luc / Lucky Luc:** God-fearing, small Bible, school preaching; no football. Muscular from evening mud-formed dumbbells and sandbag training; high flat-top. Zino's maths help and humour matter. Lucky Luc is Zino's greeting when meeting him alone. Training onset open; age-ten build stays childlike.
 
 **School relationships / Miss Mukete:** Lizzy: Form One crush, girlfriend from Two, breakup in Three. Mirabel: maths friendship from Three until U.S. departure. Elianne was previously called first love; identity/place is unresolved, so do not merge her with Lizzy. Miss Mukete is the favourite chemistry teacher. New details and neutral Tracey notes are in the Fiango update.
 
@@ -78,8 +78,8 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 - **Around 1992:** Zino's father dies after a snake bite while spraying cocoa, when Zino is two. Zino has no direct recollection.
 - **1999:** Primary school completed; its fee exclusion belongs before this milestone.
 - **Around 2000:** Opening: Zino is ten, in Fiango, after primary school. Five years of day school begin, with Luc and Gideon.
-- **Around 2005:** Five years of Fiango day school end with ten GCE Ordinary-Level subjects (maximum 11) and radio results. Zino's uncle promises school choice and America if Zino succeeds in all five Advanced-Level subjects; Zino chooses a remote boarding school.
-- **2007:** Boarding high school ends with five GCE Advanced-Level subjects (maximum 5), forming Zino's university study area. His school has a 100% Advanced-Level pass rate. When Zino recalls the America promise, his uncle defers it until Zino completes a first university degree.
+- **Around 2005:** Form Five: own songwriting begins; Gideon has a market bread place. Ten O-Level subjects (maximum 11; author-supplied minimum pass 4). Uncle promises school choice and America for all five A-Levels; Zino chooses boarding.
+- **2007:** Five A-Level subjects (maximum 5; author-supplied minimum pass 2); school pass rate 100%. Uncle defers America until a first degree. Zino's first demo follows his boarding-school homecoming; exact recording date open.
 - **2011:** First degree completed; subject and institution need confirmation.
 - **2012:** Moves to the United States; Oklahoma and East Central University are identified.
 - **2014:** Master's completed; social-work studies identified; exact award title to confirm.
@@ -87,7 +87,8 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 - **2019:** Deportation for remaining without appropriate immigration documents.
 - **2019-2020:** Roughly six months in Cameroon before the Dubai move; exact months open.
 - **2020 onward:** Dubai, digital-retail employment, COVID, and later crypto-merchant success.
-- **Dates to place:** Aunt's killing, loss of housing and farming income, relocation to Douala, and individual jungle-justice incidents within the five day-school years.
+- **School-era dates open:** Individual jungle-justice witness incidents belong within the five Fiango day-school years; exact dates and sequences open.
+- **Later crisis dates open:** Aunt's killing, housing/farming losses and Douala relocation belong to the later Ambazonian-crisis history. Exact dates open; do not place these in 2000-2005.
 - **June study sessions:** Professional School is a vocational campus that opens classrooms at night during the day-school exam period. Confirm the school name and years; use Zino's remembered local terminology in dialogue.
 - **Present account:** Mother's house remains unbuilt; later business milestones need expansion.
 

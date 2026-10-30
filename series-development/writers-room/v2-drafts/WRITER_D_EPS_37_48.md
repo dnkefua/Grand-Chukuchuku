@@ -6,7 +6,7 @@
 **Block:** the end of Fiango day school, the O-Level threshold, and Zino's first boarding-school year.  
 **Draft rule:** **C** = confirmed recollection; **FT** = family testimony; **R** = reported or incomplete; **P** = proposed composite. Every exact line, gesture, setting order and scene construction below is P unless marked otherwise.
 
-**Block movement:** These episodes do not rush from a result into boarding. They let revision, waiting, a promise, travel, routine, social difference and loneliness change Zino one short decision at a time. Grand-Chukuchuku only appears when Zino deliberately tells a story or hides a fear.
+**Block movement:** These episodes do not rush from a result into boarding. They let revision, waiting, a promise, travel, routine, social difference and loneliness change Zino one short decision at a time. Grand-Chukuchuku only appears inside a story Zino actively tells; fear alone does not summon him.
 
 **Author update — 30 October 2026:** The paternal uncle was a renowned lawyer remembered in suits, later a cocoa trader after giving his life to Christ. By Zino's Form Three he had opened a large cocoa store in Kumba and shipped cocoa to Douala by trailer. He loved his late brother, Zino's father, who had limited formal education and farmed cocoa. The uncle urged Zino to study so he would not follow the same constrained educational path; preserve the author's report without inventing that farming or the father was a failure. Exact legal/business overlap, conversion date, wardrobe after the career change and meaning of each warning remain to be recorded.
 
@@ -18,7 +18,7 @@
 
 **Runtime:** 1:55  
 **Logline:** Zino wants ten O-Level subjects to look like a plan; the number becomes frightening once the papers are finally in front of him.  
-**Fact tier:** **C** — after five Fiango day-school years, Zino wrote 10 GCE Ordinary-Level subjects; the maximum was 11. **P** — revision arrangement, paper order, dialogue and individual study images.
+**Fact tier:** **C** — after five Fiango day-school years, Zino wrote 10 GCE Ordinary-Level subjects; the maximum was 11. The author's minimum pass threshold is four subjects, not ten. By Form Five Gideon has a market place selling bread and continues seeking Zino's help with schoolwork. **P** — stall layout, trading details, revision arrangement, paper order, dialogue and individual study images.
 
 ### 0:00–0:18 — THE NUMBER
 **VISUAL | C fact / P staging:** *c. 2005 — END OF FIANGO DAY SCHOOL.* Ten subject labels fill the frame, beside one unmarked place on a general list of eleven. Do not explain why Zino chose ten.
@@ -30,8 +30,12 @@
 
 **MOTHER (P, English):** Read the question before you answer it.
 
-### 0:55–1:30 — FRIENDS PASS THROUGH
-**VISUAL | P:** Gideon crosses the courtyard with his camera bag; Luc passes with his small Bible under an exercise book. Neither interrupts. The football sits near Zino's chair, unused.
+### 0:55–1:30 — THE MARKET LESSON
+**VISUAL | C livelihood / P staging:** At Gideon's Form Five bread-selling place in the market, a bread handover is interrupted by a school exercise. Gideon has a W-shaped hairline and almost-afro hair. He points out a line to Zino; Zino explains it in the space between customers, then takes his own ten-subject list home. Do not invent stock prices, earnings, staff or a lease.
+
+**ZINO (P):** Giddy, you fit count money. Follow this line the same way.
+
+**VISUAL | P:** Back at Zino's chair, the football sits unused.
 
 **ZINO (P, to the ball):** Today you rest.
 
@@ -40,7 +44,7 @@
 
 **END CARD:** *EPISODE 38 — THE LAST BELL*
 
-**Fact boundary:** No subject name, grade, exam room, exam date or reason for the eleventh unchosen paper is established.
+**Fact boundary:** Four is the author's minimum pass count; ten is Zino's subject count; eleven is the maximum. No subject name, grade, exam room, exam date or reason for the eleventh unchosen paper is established. Gideon's Form Five bread trade is confirmed, but the encounter and economics are proposed.
 
 ---
 
@@ -204,8 +208,8 @@
 
 **ZINO (V.O., P):** From Fiango, every road look like e know somebody. This one keep going.
 
-### 0:58–1:30 — THE HERO CANNOT SHORTEN IT
-**FANTASY | P:** Grand-Chukuchuku, in navy and gold, takes one confident step across a valley. The step stops at the edge. He looks back at Zino rather than carrying him.
+### 0:58–1:30 — NOTHING SHORTENS THE ROAD
+**VISUAL | P:** Hold the valley long enough for its scale to defeat Zino's easy confidence. Then another bend, another rise, his hand tightening on the bag. No invented hero crosses the distance for him; afternoon becomes evening through ordinary travel.
 
 ### 1:30–2:00 — HOOK
 **VISUAL | C destination / P staging:** A distant gate and school buildings come into view as the last light leaves. Zino tightens his hand around his bag.
@@ -328,8 +332,8 @@
 ### 0:22–0:58 — HOME IN OBJECTS
 **VISUAL | P on C world:** He touches a football mark in his exercise book, then draws the Fiango well beside a maths problem. It is a private habit, not an asserted historical drawing.
 
-### 0:58–1:30 — GRAND-CHUKUCHUKU CHANGES
-**FANTASY | P:** Zino tells no story. Grand-Chukuchuku appears only as a quiet adult figure across the dormitory window, navy suit visible against the mountains. He does not enter the room.
+### 0:58–1:30 — NO STORY TONIGHT
+**VISUAL | P:** Zino looks through the dormitory window at the mountains. Only his own schoolboy reflection sits over the glass. He starts to raise the storytelling hand, then uses it to turn a page. No story is told; Grand does not appear.
 
 ### 1:30–2:00 — HOOK
 **VISUAL | C school fact / P staging:** Beyond Zino's desk, the fence catches rain. A distant light travels on the other side. Zino looks up, then returns to his work.

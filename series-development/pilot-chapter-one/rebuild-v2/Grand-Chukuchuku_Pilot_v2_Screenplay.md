@@ -29,7 +29,7 @@ The drop becomes a football thump. A scuffed ball races between a pair of slippe
 
 **ZINO:** Na goal.
 
-Gideon is watching from a sideline seat, not playing. Luc pauses his nearby conversation to listen. Ayuk and other same-class street peers belong to the playing circle. Gideon points at the disturbed slipper. Zino notices listeners near the well. He changes the audience instead of the score.
+Gideon is watching from a sideline seat, not playing. His W-shaped hairline and almost-afro distinguish him. Luc pauses his nearby conversation to listen; he has the supplied high flat-top, with age-ten child proportions rather than an adult lifter's build. Ayuk and other same-class street peers belong to the playing circle. Gideon points at the disturbed slipper. Zino notices listeners near the well. He changes the audience instead of the score.
 
 **ZINO:** Grand-Chukuchuku score from worse side.
 
@@ -47,7 +47,7 @@ The gold switches off. The same boy has a bucket to carry. A quick glance at his
 
 A high view establishes the geography: the vocational campus, the gate, the road, the compound opposite. Practical classroom light holds back the night. Inside, construction and electrical diagrams remain on the board. Some students work alone; others share pages. Conversation in the corridor competes with pencil scratches.
 
-Zino, now approximately fourteen, points at one step in Luc's maths problem. All three boys wear the confirmed day-school uniform: light sky-blue short-sleeved shirts and dark-blue trousers. Schoolgirls, where present, wear the same sky-blue shirts and dark-blue skirts. Zino gives Luc the pencil back. Gideon is identified by his bag and Luc by his Bible, not invented alternate uniform colours.
+Zino, now approximately fourteen, points at one step in Luc's maths problem. All three boys wear the confirmed day-school uniform: light sky-blue short-sleeved shirts and dark-blue trousers. Schoolgirls, where present, wear the same sky-blue shirts and dark-blue skirts. Zino gives Luc the pencil back. Luc's high flat-top, trained shoulders and small Bible distinguish him from Gideon's W-shaped hairline, almost-afro and camera bag. The stronger older-secondary build is a proposed placement of his confirmed training habit; its starting year remains unknown. None of the boys has an adult physique.
 
 **ZINO:** You solve am. I only show you road.
 
@@ -136,6 +136,9 @@ One unresolved note may enter after black. No outside knock, secret pursuer or p
 ## Continuity and source notes
 
 - Confirmed foundations: Fiango well/mango compound; street football and slipper goals; Zino's invented Grand; friendship with Gideon and Luc; maths help; Luc's small Bible; Gideon's camera from secondary school onward; Professional School's vocational function and night access; Zino's account of witnessing multiple jungle-justice incidents during secondary school; Mother's primary-school teaching.
+- Latest character correction: Luc trains in the evenings with mud-formed dumbbells and a sand-filled punching bag; his high flat-top and muscular older-secondary build supersede the lean generic design. Gideon's hair has a W-shaped hairline and almost-afro. Their age-ten versions remain children; the exact start of training and haircut chronology are unconfirmed. The older build is proposed for the age-fourteen composite.
+- Zino calls Gideon Giddy, and greets Luc alone as Lucky Luc. Full names in the urgent exit line remain compatible with those nicknames; the group exit is not a solitary Lucky Luc greeting.
+- Zino's Catholic primary altar service, secondary workload, science/maths aptitude, singing and Form Five songwriting are expansion foundations. His first demo follows boarding-school homecoming, not his U.S. arrival. Mother's trust and the detached room give him freedom without implying neglect. These details do not require extra scenes in this five-minute pilot.
 - The incident is a **proposed secondary-school composite**. Approximate age fourteen / 2004, exact reactions, friends' presence, route, dialogue and home response are constructed, not recorded testimony. The author may correct placement without changing the real foundation.
 - Gideon's camera is absent in the ten-year-old passage as a conservative design choice. At fourteen, it stays closed: there is no fabricated evidence photograph.
 - Age-ten secondary-school entry must not inherit the confirmed 1999 primary-fee exclusion. No fee scene appears here.
@@ -155,13 +158,13 @@ One unresolved note may enter after black. No outside knock, secret pursuer or p
 | 02 | 0:06–0:12 | K01 | Close / Mother O.S. | ‘What happened?’ He cannot answer. No physical attacker at home. |
 | 03 | 0:12–0:15 | K02 | Time card / audio match | FOUR YEARS EARLIER. Water becomes football sound. |
 | 04 | 0:15–0:23 | K02 | Ground wide | The ball brushes the outside slipper. Clear miss, no money game. |
-| 05 | 0:23–0:30 | K03 | Medium triangle / sidelines | Gideon banters from his seat; Luc pauses a conversation; neither plays. Zino finds an audience. |
+| 05 | 0:23–0:30 | K03 | Medium triangle / sidelines | Gideon, W hairline/almost-afro, banters from his seat; flat-top Luc pauses a conversation; neither plays. Both have age-ten child proportions. |
 | 06 | 0:30–0:39 | K03 | Hand-led tilt | Zino begins his impossible Grand tale. Fantasy is actively triggered. |
 | 07 | 0:39–0:47 | K04 | Low fantasy wide | Adult Grand walks the familiar roofline, entirely inside the told story. |
 | 08 | 0:47–0:50 | K04 | Return to boy / audio cut | ‘Grand-Chukuchuku no ever run.’ Mother: ‘Zino. The water.’ |
 | 09 | 0:50–0:56 | K05 | Time card / high master | FOUR YEARS LATER — EARLIER THAT EVENING. School foreground, road, compound. |
 | 10 | 0:56–1:05 | K05 | Interior establishing wide | Practical wiring/building diagrams, workbenches and real night readers. |
-| 11 | 1:05–1:16 | K06 | Over-table diagonal | Zino shows a maths step, then gives the pencil back to Luc. |
+| 11 | 1:05–1:16 | K06 | Over-table diagonal | Zino shows a maths step, then returns the pencil to flat-top Luc, whose trained older-secondary build stays age-appropriate. |
 | 12 | 1:16–1:25 | K06 | Same desk / Gideon emphasis | Gideon shields the closed camera bag from an elbow and jokes about customers. |
 | 13 | 1:25–1:34 | K06 | Same desk / Luc emphasis | Luc welcomes a willing listener briefly; the pencil returns him to work. |
 | 14 | 1:34–1:42 | K07 | Empty corridor / locked | An offscreen accusation interrupts study. No theft is shown. |

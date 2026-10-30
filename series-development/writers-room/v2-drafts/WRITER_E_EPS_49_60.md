@@ -61,7 +61,7 @@ This block deliberately gives the remote school a daily life—bell, bed, basin,
 **OLDER STUDENT (P):** You fit wait.
 
 ### 0:55–1:22 — TEMPER, HELD
-**VISUAL | P:** Zino’s hands close. For one frame Grand-Chukuchuku’s navy cuff reaches toward the basin, then disappears. Zino takes a slower tap and rinses in silence.
+**VISUAL | P:** Zino's fist closes beside his own school cuff. He catches the tension, opens his fingers and lowers his hand. He takes a slower tap and rinses in silence. No imagined adult acts out his temper for him.
 
 ### 1:22–1:45 — HOOK
 **VISUAL | P:** A runner brings a folded notice toward the dormitory supervisor’s area. Zino sees the colour of school paper, not the name on it.
@@ -192,7 +192,7 @@ This block deliberately gives the remote school a daily life—bell, bed, basin,
 
 **Target runtime:** 1:50  
 **Logline:** Zino sees the five A-Level papers as both a promise and a trap: every subject points toward America, but none can guarantee it.  
-**Fact tier:** C — Zino wrote five A-Level subjects, the maximum, representing his university area of study; uncle’s O-Level promise depended on making all five. R — exact subjects and selection process. P — visual study plan and dialogue.
+**Fact tier:** C — Zino wrote five A-Level subjects, the maximum, representing his university area of study; uncle's O-Level promise depended on making all five. The author's minimum A-Level pass threshold is two subjects: this does not satisfy the separate all-five family condition. R — exact subjects and selection process. P — visual study plan and dialogue.
 
 ### 0:00–0:20 — FIVE
 **ON-SCREEN TEXT | C:** *2007 — ADVANCED LEVELS. 5 SUBJECTS. MAXIMUM: 5.*
@@ -202,7 +202,9 @@ This block deliberately gives the remote school a daily life—bell, bed, basin,
 ### 0:20–0:52 — PROMISE ON PAPER
 **VISUAL | P:** A small American skyline appears in the book margin as a Grand-Chukuchuku doodle, then Zino shades it out and returns to work.
 
-**ZINO (P, low):** Five paper. One road.
+**FELLOW STUDENT (P):** Two paper fit pass. Why all five?
+
+**ZINO (P):** Uncle no promise America for two.
 
 ### 0:52–1:25 — HELP WITHOUT PERFORMANCE
 **VISUAL | P:** A fellow student gestures at a difficult point. Zino explains one step, then hands the pencil back rather than completing it himself. His intelligence serves someone else quietly.
@@ -212,7 +214,7 @@ This block deliberately gives the remote school a daily life—bell, bed, basin,
 
 **END CARD:** *EPISODE 56 — THE STUDY LAMP*
 
-**Fact boundary:** The five papers and their role are confirmed. Subject names, classmate, study method and dialogue are proposed.
+**Fact boundary:** Two minimum / five taken / five maximum / all-five promise are separate author-supplied counts, not independently verified exam regulations. Subject names, classmate, study method and dialogue are proposed. A school-wide 100% pass rate does not by itself establish every pupil's subject count or Zino's grades.
 
 ---
 
@@ -231,7 +233,7 @@ This block deliberately gives the remote school a daily life—bell, bed, basin,
 **VISUAL | P:** He finds a mistake, crosses it out, and rewrites every step. The rhythm recalls his mother’s lesson: quick is not careful.
 
 ### 0:55–1:20 — NO HERO ARRIVES
-**VISUAL | P:** Grand-Chukuchuku’s outline could step into the light, but Zino keeps his eyes on the page. The outline fades before taking shape.
+**VISUAL | P:** Zino glances into the unoccupied strip of light beside his desk, then returns to the difficult line. His own hand moves across it, crossing out another wrong step. Nobody appears to supply an answer; the next attempt is his.
 
 ### 1:20–1:45 — HOOK
 **VISUAL | P:** Dawn begins at the window as Zino reaches the end of the problem. A bell follows immediately.
@@ -306,17 +308,17 @@ This block deliberately gives the remote school a daily life—bell, bed, basin,
 **SOUND | C mechanism / P staging:** Static. An announcer reads names. Every name makes the room rise and fall. Keep the radio words indistinct until Zino’s name.
 
 ### 0:30–0:58 — HIS NAME
-**VISUAL | C event / P staging:** Zino’s name is heard. He does not move for a beat, then his relief breaks through. Celebration happens in a non-specific, non-invented way: hands, laughter, bodies moving, no named person or particular food/music.
+**VISUAL | C event / P staging:** Zino's name is heard. He does not move for a beat, then his relief breaks through. Restrained proposed gestures carry the celebration: hands, laughter, bodies moving, no named person or particular food/music.
 
-### 0:58–1:25 — THE HERO WATCHES
-**VISUAL | P:** Grand-Chukuchuku stands at the edge of the gathering in his navy suit from the model sheet. He does not enter or take credit. He gives Zino the smallest nod.
+### 0:58–1:25 — THE BOY WHO DID THE WORK
+**VISUAL | P:** Hold on Zino among real people celebrating. His laugh breaks through before he can turn the moment into a performance. The hands that carried books and rewrote answers now hold his result. No imagined figure watches, nods or shares the achievement.
 
 ### 1:25–1:55 — HOOK
 **VISUAL | P:** Zino holds his book close and looks beyond the school gate. A cut carries the radio static into a later conversation.
 
 **END CARD:** *EPISODE 60 — THE PROMISE MOVES*
 
-**Fact boundary:** The name being called is confirmed. Exact reaction, who attended, celebration and Grand-Chukuchuku image are proposed.
+**Fact boundary:** The name being called is confirmed. Exact reaction, who attended and celebration are proposed. Grand is absent because Zino is living the result, not telling an impossible story.
 
 ---
 
@@ -337,10 +339,10 @@ This block deliberately gives the remote school a daily life—bell, bed, basin,
 **UNCLE (P — replace with remembered words):** I know. First finish your university degree. Then America.
 
 ### 0:58–1:30 — WHAT CHANGES
-**VISUAL | P:** The imagined American skyline, previously a clear line in Zino’s book, shifts farther down a road. Grand-Chukuchuku’s shadow falls across it, then Zino shuts the book over the shadow.
+**VISUAL | P metaphor:** The imagined American skyline, previously a clear line in Zino's book, shifts farther down a drawn road. Zino closes the book. There is no Grand figure or shadow: this visualises a deferred goal, not a story or a supernatural intervention.
 
 ### 1:30–2:00 — THE NEXT GATE
-**VISUAL | P:** Zino walks down from the mountain school with the result under his arm. He does not claim victory; he carries a new condition.
+**VISUAL | P associative montage:** The mountain-school gate. The Fiango well. The result held in Zino's hand. These images recall the distance he has already crossed; they do not assert a continuous journey after an unlocated conversation. Return to his hand opening a fresh page for the next condition: university.
 
 **ZINO (P):** Then I go pass that one too.
 
@@ -352,5 +354,7 @@ This block deliberately gives the remote school a daily life—bell, bed, basin,
 
 ## Placement note for the Christmas holiday memory
 
-The Christmas all-night club, drinks and girls memory involving Gideon and Zino is **not placed in this under-18 Chapter One draft**. Record the year and Zino’s age first. If it occurred when Zino was 18 or older, it can become an 18+ Chapter Two day-in-the-life episode, with adult characters only; the present script should not move it earlier merely to fill a gap.
+**Music bridge into Chapter Two:** Zino already loves singing and starts writing songs in Form Five (shown briefly in Episode 36). His first demo is recorded after he returns home from boarding high school, around the 2007 transition in the working chronology. The studio, date, song, lyrics, equipment, collaborators and the demo's order relative to the uncle conversation are still open. Do not backdate it to day school, delay his first songwriting to America, or label a newly written song as his actual recovered demo. The existing sixty-episode ending keeps the deferred promise as its final beat; the recording can open the homecoming material once its details are supplied.
+
+The Christmas all-night club, drinks and girls memory involving Gideon and Zino remains unplaced pending its year, ages and sequence. It can be developed at its actual age with age-appropriate, non-graphic relationships, without moving it merely to fill a gap. Do not assume adult ages, shift the memory into Chapter Two without evidence, or invent the event's details. No explicit sexual portrayal of school-age characters.
 

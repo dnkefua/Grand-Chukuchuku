@@ -2,6 +2,22 @@
 
 This log separates confirmed additions from items that still need a date, source, or naming decision. It is the reference to update before changing a script, outline, or animation prompt.
 
+## Character, music and GCE additions — 30 October 2026
+
+These later author-supplied facts extend the weekday update below. **C** means the author's recollection; **P** means a proposed dramatic/visual choice; **OPEN** means not established. Exact dialogue and staging remain proposals.
+
+- **C — Luc:** muscular, bodybuilder-like build; evening weight training with homemade mud-formed dumbbells, plus a sand-filled punching bag. High flat-top haircut. This supersedes the lean/slender proposed design. Training's starting age and physique changes are **OPEN**: retain age-appropriate child proportions in the ten-year-old opening. His exercise does not change his non-player football role, small Bible or evangelism.
+- **C — Gideon / Giddy:** W-shaped hairline with fuller, almost-afro hair replaces the generic short-cropped proposal. Continually seeks gigs, sells things or provides services for money; by Form Five has a place in the market selling bread. He also asks Zino to explain schoolwork. Legal ownership, rent, exact location, prices and start date of that market arrangement are **OPEN**. Gideon remains the spelling; Gideo is not a new person.
+- **C — nicknames:** Zino calls Gideon **Giddy** and calls Luc **Lucky Luc** when he encounters him by himself. Do not automatically apply the latter to every group exchange. Exact nickname start dates remain **OPEN**.
+- **C — Zino's aptitude:** rapidly understands scientific concepts; maths is his favourite, easy and puzzle-like. His comparison with reading History, Geography or Literature describes a learning preference, not illiteracy, effortless mastery of everything or a rejection of education.
+- **C — music sequence:** loves singing; begins writing his own songs in Form Five; records his first demo after returning home from boarding high school. Writing music in the USA continues an existing interest. **P — dating:** Form Five around 2004–2005 and post-high-school return around 2007 follow the working chronology; exact song/recording dates, studio, collaborators and cost remain **OPEN**. Any draft implying his music began in America is superseded; the author's earlier statement that he wrote music there remains valid.
+- **C — faith:** Catholic and an altar server through primary school. Secondary-school demands leave no time for altar service. This is not a conversion, loss of faith or evidence of a religious conflict with Luc.
+- **C — Tracey's exam context:** she has already sat GCE twice without passing and has seen Zino teach maths to students who go on to pass. This does not establish an adult age, her motives, any exchange, or sole causation of the students' success. The school-age account remains neutral and non-graphic; ages and precise circumstances stay **OPEN**.
+- **C — Mother and the separate room:** she trusts Zino. The detached arrangement lets him come, go or sleep late without her always knowing. Do not infer neglect, constant absence, approval of every activity or absence of household expectations. The age at which this arrangement began remains **OPEN**.
+- **C — GCE minimums:** the author supplies four Ordinary-Level subjects and two Advanced-Level subjects as minimum pass thresholds. In his terminology papers are subjects. These are author-supplied story facts, not independently checked historical regulations. Keep separate from his stated maxima of eleven/five, Zino's ten/five subjects, the boarding school's 100% A-Level pass rate and the uncle's specific condition of all five A-Level subjects. A 100% school pass rate does not mean every student passed five subjects.
+
+**Contradictions resolved:** earlier lean Luc and generic short-cropped Gideon designs yield to these physical descriptions. A U.S.-origin music implication yields to the Form Five / post-high-school sequence. Earlier facts that both friends do not play football, Zino wrote music in America, and he took ten O-Level / five A-Level subjects remain intact.
+
 ## Weekday, neighbourhood and relationship corrections — 30 October 2026
 
 These later recollections override conflicting proposed script action and physical layouts. They do not silently settle contradictory dates.
@@ -82,7 +98,7 @@ These later recollections override conflicting proposed script action and physic
 | GCE result days | Record Zino's ten Ordinary-Level subjects, five Advanced-Level subjects, where each radio was heard, who was present, and the words or celebration he remembers. |
 | Uncle's promise | Record the exact Ordinary-Level promise, how Zino chose boarding school, the Advanced-Level conversation, and why America moved to after the first degree. |
 | Adult activity at Professional School | Confirm what Zino directly saw, at what age, and how far the series should depict it. Avoid sexual content involving minors. |
-| Christmas holiday / club night | Record Zino's age, calendar year, location, who was present, and what happened. The memory includes Gideon paying for drinks and Zino helping him meet girls, but it cannot be placed in the 1999–2007 school chapter unless Zino confirms it occurred when all depicted participants were adults. |
+| Christmas holiday / club night | Record Zino's age, calendar year, location, who was present, and what happened. The memory includes Gideon paying for drinks and Zino helping him meet girls. Place it at its actual age and date; nonsexual nightlife need not be shifted into adulthood. Keep school-age relationships non-graphic and do not invent events merely to fill an episode. |
 
 ## Existing guardrails that remain active
 

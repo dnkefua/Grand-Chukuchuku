@@ -4,6 +4,9 @@ CURRENT AUTHOR UPDATE (30 OCTOBER 2026):
 character-bible/Fiango_Life_and_Characters_Update_2026-10-30.pdf records
 the daily routine, named school/street cast, sky-blue/navy school uniform,
 Lizzy's Form Three breakup, taxi pattern, TV, motel and poultry-farm context.
+Latest additions include Luc's muscular build/high flat-top, Gideon's W-shaped
+hairline and Form Five bread trade, Zino's pre-America music and Catholic
+background, Mother's trust, and separate GCE minimum/maximum/personal counts.
 Grand-Chukuchuku_Character_Bible_v2.zip is the current character package.
 Grand-Chukuchuku_Pilot_v2_Cinematic_Package.zip is the current pilot:
 The Man Who Never Ran, with eighteen drawn keyframes and a 36-shot target edit.
@@ -34,11 +37,9 @@ full shooting script as PDF, editable Word, and Markdown; the illustrated
 picture-board PDF; seven 9:16 key-art panels; the writers' room drafts; and the
 critic architecture and continuity log. v1 remains the original 12-episode
 development package for historical reference.
-Grand-Chukuchuku_Chapter_01_5_Minute_Pilot_Package.zip is the standalone pilot
-package. It contains a five-minute Chapter One opening episode, an editable
-Word screenplay, a 17-board visual storyboard, the pilot's two new keyframes,
-and the relevant Chapter One reference panels. The fee-notice device and all
-scene-specific dialogue remain labelled proposed dramatic construction.
+Grand-Chukuchuku_Chapter_01_5_Minute_Pilot_Package.zip is the superseded
+Courtyard Keeps Score pilot package. Its fee-notice plot and 17-board layout
+remain development history. Use Grand-Chukuchuku_Pilot_v2_Cinematic_Package.zip.
 picture-board/ keeps the editable panel images, board PDF, visual system, and
 provenance notes. The individual images are visual development composites, not
 literal reconstructions of a particular memory or event.

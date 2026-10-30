@@ -1,5 +1,7 @@
 # Grand-Chukuchuku — night wardrobe and character-turnaround review
 
+**Later author correction:** the Mirabel/Lizzy pair approved below was rejected as too similar. Those two sheets have since been redesigned. Their current design and review scope are in `LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md`; this earlier approval does not govern their new faces, hair or clothing.
+
 **Date:** 30 October 2026.
 
 **Scope:** The author's correction to Professional School evening dress, five requested character turnarounds, and their continuity with the active pilot and Chapter One. This is editorial and visual review of author-supplied traits and proposed animation designs, not verification of real likenesses.

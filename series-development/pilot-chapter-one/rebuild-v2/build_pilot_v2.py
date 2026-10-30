@@ -246,6 +246,7 @@ def package():
     includes+=sorted(ROOT.glob('CRITIC*.md'))+[ROOT/'WRITER_THRILLER_TREATMENT.md',ROOT/'DIRECTOR_CAMERA_BRIEF.md']
     includes+=[SERIES/'CONTINUITY_LOG.md',SERIES/'visual-reference'/'VISUAL_BASELINE_V1.md']
     includes+=[SERIES/'writers-room'/'CONTEXT_REVIEW_2026-10-30.md',SERIES/'writers-room'/'LATEST_CHARACTER_CONTINUITY_REVIEW_2026-10-30.md',SERIES/'writers-room'/'NIGHT_WARDROBE_AND_TURNAROUNDS_REVIEW_2026-10-30.md',SERIES/'character-bible'/'Fiango_Life_and_Characters_Update_2026-10-30.md',SERIES/'character-bible'/'Fiango_Life_and_Characters_Update_2026-10-30.pdf']
+    includes+=[SERIES/'writers-room'/'LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md']
     with zipfile.ZipFile(PACKAGE,'w',zipfile.ZIP_DEFLATED)as z:
         for file in includes:
             if file.exists():

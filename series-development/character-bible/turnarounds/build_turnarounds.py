@@ -23,6 +23,8 @@ OUTPUT = SERIES.parent.parent / "output" / "grand-chukuchuku"
 PDF = ROOT / "Grand-Chukuchuku_Five_Character_Turnarounds_v1.pdf"
 PACKAGE = SERIES / "Grand-Chukuchuku_Five_Character_Turnarounds_v1.zip"
 REVIEW = SERIES / "writers-room" / "NIGHT_WARDROBE_AND_TURNAROUNDS_REVIEW_2026-10-30.md"
+DISTANCE_REVIEW = SERIES / "writers-room" / "LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md"
+COMPARISON = ROOT / "Grand-Chukuchuku_Lizzy_Mirabel_Design_Comparison.pdf"
 W, H = landscape(A4)
 PAPER = colors.HexColor("#FAF8F2")
 INK = colors.HexColor("#183C39")
@@ -48,12 +50,12 @@ CAST = [
     {
         "name": "Mirabel", "filename": "04_Mirabel_Turnaround.png",
         "author_traits": "Beautiful, slim build; friendship with Zino begins through maths in Form Three.",
-        "design": "Proposed oval face, low braided bun, loose teal knee-length dress and flat shoes. Her face and hair are a new animation proposal; she is not Elianne.",
+        "design": "Proposed angular oval face, straight brows, squared chin-length braided bob, teal/cream vertical-panel top, charcoal straight trousers and dark flats. Long vertical outline; not Elianne.",
     },
     {
         "name": "Lizzy", "filename": "05_Lizzy_Turnaround.png",
         "author_traits": "Pretty face; Form One crush, girlfriend from Form Two, breakup in Form Three.",
-        "design": "Natural school-age proportions and neutral stance. Proposed cornrows into a low puff, loose dusty-rose blouse, relaxed navy knee-length skirt and flat shoes. Distinct from Mirabel and Elianne.",
+        "design": "Proposed round face, arched brows, two wide high puffs with cream ribbons, loose rose top, full mustard A-line skirt and cream flats. Round hair and triangular garment outline; natural school-age proportions.",
     },
 ]
 
@@ -128,7 +130,7 @@ def package() -> None:
     files += [ROOT / item["filename"] for item in CAST]
     if not REVIEW.exists():
         raise FileNotFoundError(REVIEW)
-    files += [REVIEW]
+    files += [REVIEW, DISTANCE_REVIEW, COMPARISON]
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for path in files:
             z.write(path, path.name)
@@ -137,8 +139,55 @@ def package() -> None:
         shutil.copy2(path, OUTPUT / path.name)
 
 
+def comparison() -> None:
+    """Show the native front views at two display sizes using PDF clipping only."""
+    c = canvas.Canvas(str(COMPARISON), pagesize=(W, H), pageCompression=1)
+    c.setTitle("Grand-Chukuchuku | Mirabel and Lizzy — distance comparison")
+    c.setFillColor(PAPER)
+    c.rect(0, 0, W, H, fill=1, stroke=0)
+    c.setFillColor(INK)
+    c.setFont("TurnBold", 20)
+    c.drawString(36, H - 35, "Mirabel and Lizzy: different at a distance")
+    text(c, "The same native front-view drawings at large and small display sizes. Hair shape and trouser/skirt outlines carry recognition as well as colour.", 36, H - 48, W - 72, 8.5)
+    # Identical source windows preserve proportions and a common baseline.
+    # Original PNG files are never cropped, retouched or resampled here.
+    def front(filename: str, x: float, y: float, height: float) -> None:
+        left, top, right, bottom = 145, 45, 535, 970
+        scale = height / (bottom - top)
+        width = (right - left) * scale
+        with Image.open(ROOT / filename) as im:
+            iw, ih = im.size
+        c.saveState()
+        clip = c.beginPath()
+        clip.rect(x, y, width, height)
+        c.clipPath(clip, stroke=0, fill=0)
+        c.drawImage(str(ROOT / filename), x - left * scale, y - (ih - bottom) * scale, width=iw * scale, height=ih * scale)
+        c.restoreState()
+    for x, name, filename in [(95, "MIRABEL", "04_Mirabel_Turnaround.png"), (330, "LIZZY", "05_Lizzy_Turnaround.png")]:
+        c.setFillColor(INK)
+        c.setFont("TurnBold", 10)
+        c.drawString(x, H - 90, name)
+        front(filename, x, 116, 380)
+    x = 585
+    c.setFont("TurnBold", 9)
+    c.drawString(x, H - 90, "SMALL-SCREEN CHECK")
+    front("04_Mirabel_Turnaround.png", x + 10, 325, 105)
+    front("05_Lizzy_Turnaround.png", x + 92, 325, 105)
+    text(c, "<b>Mirabel</b><br/>Squared bob; straighter face/brows; long teal-and-charcoal trouser outline.<br/><br/><b>Lizzy</b><br/>Two broad round puffs; rounder face; rose top and full gold A-line skirt.", x, 295, W - x - 36, 9)
+    text(c, "Hairstyles, facial construction, relative proportions and outfits are design proposals. Both retain natural school-age proportions and neutral poses; biography and relationships are unchanged.", 36, 85, W - 72, 8.5)
+    c.setStrokeColor(LINE)
+    c.line(36, 28, W - 36, 28)
+    c.setFillColor(MUTED)
+    c.setFont("TurnBody", 7)
+    c.drawString(36, 16, "30 OCTOBER 2026 · Two redesigned characters · Native sheets preserved in full")
+    c.save()
+    OUTPUT.mkdir(parents=True, exist_ok=True)
+    shutil.copy2(COMPARISON, OUTPUT / COMPARISON.name)
+
+
 if __name__ == "__main__":
     build()
+    comparison()
     package()
     print(PDF)
     print(PACKAGE)

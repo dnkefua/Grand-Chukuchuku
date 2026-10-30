@@ -10,4 +10,6 @@ The newest visual revision adds Zino's handsome face and clean fade; Luc's large
 
 The proposed night-scene clothing is burgundy/charcoal for Zino, forest-green/dark-brown for Gideon and mustard/navy for Luc. Those individual outfits continue into the same night's road and well scenes; the daytime school portrait keeps its actual uniform.
 
+The author rejected the first Mirabel/Lizzy pair as too similar. The current sheets now give Mirabel an angular braided bob and a long teal/charcoal trouser outline, and Lizzy two high round puffs, a rounder face and a rose/gold full-skirt outline. See the side-by-side distance comparison PDF in `turnarounds/`. Earlier near-twin sheets are archived; their prior approval is superseded.
+
 Run `python3 build_fiango_update.py`, `python3 turnarounds/build_turnarounds.py`, then `python3 build_character_bible.py` from this directory to rebuild the update, model-sheet PDF, combined bible and packages. The turnaround builder requires all five PNGs. The combined bible appends the five model sheets after the text update.

@@ -2,6 +2,14 @@
 
 This log separates confirmed additions from items that still need a date, source, or naming decision. It is the reference to update before changing a script, outline, or animation prompt.
 
+## Mirabel / Lizzy recognition correction — 30 October 2026
+
+- **C — author feedback:** the first two model sheets looked almost the same, including at a distance. Their prior approval of distinctness is superseded.
+- **P — Mirabel:** angular oval face, straighter brows and nose, squared chin-length braided bob, teal/cream vertical-panel top, charcoal straight trousers and dark flats. A slim vertical outline with visible trouser legs is her distant cue.
+- **P — Lizzy:** rounder cheeks/face, arched brows and shorter rounded nose, two wide high round puffs with cream ribbons, loose rose top, full mustard A-line skirt and cream flats. Round hair plus a triangular garment outline is her distant cue.
+- These are visual proposals, including relative proportions; no exact real height, hairstyle or wardrobe history has been supplied. Natural school-age proportions, the working later-secondary age range, relationships and the separate Elianne identity hold remain intact.
+- The front/profile/back PNGs and five-sheet PDF are current. Older near-twin designs are archived. Use `character-bible/turnarounds/Grand-Chukuchuku_Lizzy_Mirabel_Design_Comparison.pdf` and `writers-room/LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md` for the latest comparison and review scope.
+
 ## Night-school wardrobe and character turnarounds — 30 October 2026
 
 - **C — daytime versus night:** the sky-blue/navy uniform applies to Forms One–Five daytime school. At Professional School's night revision sessions every student wears regular house/casual clothing; some dress to impress. There are no uniformed students at night. The previous pilot instruction to wear day-school uniform during night study is superseded, including its blue-shirt art.

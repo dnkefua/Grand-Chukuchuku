@@ -339,6 +339,11 @@ def build_pdf() -> None:
             raise FileNotFoundError("Run turnarounds/build_turnarounds.py first")
         with fitz.open(turnarounds) as models:
             core.insert_pdf(models)
+        comparison = ROOT / "turnarounds" / "Grand-Chukuchuku_Lizzy_Mirabel_Design_Comparison.pdf"
+        if not comparison.exists():
+            raise FileNotFoundError("Run turnarounds/build_turnarounds.py to build the distance comparison")
+        with fitz.open(comparison) as check:
+            core.insert_pdf(check)
         combined = core.tobytes(garbage=4, deflate=True)
     PDF.write_bytes(combined)
 
@@ -377,6 +382,7 @@ def package() -> None:
     files = [PDF, md, readme, ROOT / "build_character_bible.py", ROOT / "build_fiango_update.py", ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.md", ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.pdf", ROOT / "Fiango_Neighbourhood_Adjacency_2026-10-30.svg", ROOT / "Fiango_Taxi_Motel_Poultry_2026-10-30.svg", SERIES / "writers-room" / "CONTEXT_REVIEW_2026-10-30.md", SERIES / "writers-room" / "LATEST_CHARACTER_CONTINUITY_REVIEW_2026-10-30.md"] + sorted((ROOT / "images").glob("*.png")) + [SERIES / "visual-reference" / "VISUAL_BASELINE_V1.md"]
     files += [p for p in sorted((ROOT / "turnarounds").iterdir()) if p.suffix in {".png", ".pdf", ".md", ".json", ".py"}]
     files += [SERIES / "writers-room" / "NIGHT_WARDROBE_AND_TURNAROUNDS_REVIEW_2026-10-30.md"]
+    files += [SERIES / "writers-room" / "LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md"]
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for file in files:
             if file.parent == ROOT / "images":

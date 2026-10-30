@@ -11,12 +11,12 @@ Five model sheets, each with full-body **front, side and back** views. These are
 | Zino | [Clean fade, burgundy casual clothes](series-development/character-bible/turnarounds/01_Zino_Turnaround.png) |
 | Luc | [High flat-top, muscular build, large hands and ears](series-development/character-bible/turnarounds/02_Luc_Turnaround.png) |
 | Gideon / Giddy | [Larger head and nose, small tooth gap, fuller hair](series-development/character-bible/turnarounds/03_Gideon_Turnaround.png) |
-| Mirabel | [Angular braided bob, long teal/charcoal trouser silhouette](series-development/character-bible/turnarounds/04_Mirabel_Turnaround.png) |
-| Lizzy | [Two wide high puffs, round face, rose top and gold A-line skirt](series-development/character-bible/turnarounds/05_Lizzy_Turnaround.png) |
+| Mirabel | [Low-cut natural hair, angular oval face, teal/charcoal trouser silhouette](series-development/character-bible/turnarounds/04_Mirabel_Turnaround.png) |
+| Lizzy | [Low-cut natural hair, rounder face, rose top and gold A-line skirt](series-development/character-bible/turnarounds/05_Lizzy_Turnaround.png) |
 
 [Five-page turnaround PDF](series-development/character-bible/turnarounds/Grand-Chukuchuku_Five_Character_Turnarounds_v1.pdf) · [Download PNG/PDF package](series-development/Grand-Chukuchuku_Five_Character_Turnarounds_v1.zip)
 
-[Mirabel and Lizzy: side-by-side distance comparison](series-development/character-bible/turnarounds/Grand-Chukuchuku_Lizzy_Mirabel_Design_Comparison.pdf). Their earlier near-identical braided-bun designs were rejected by the author and are preserved in the model-sheet archive.
+[Mirabel and Lizzy: side-by-side comparison](series-development/character-bible/turnarounds/Grand-Chukuchuku_Lizzy_Mirabel_Design_Comparison.pdf). Both are Black Cameroonian girls with **low-cut natural hair**, as confirmed by the author. Earlier long-haired proposals are superseded and archived. Facial construction, proportions and casual outfits distinguish them.
 
 **Wardrobe correction:** the sky-blue/navy uniform belongs to daytime school. At Professional School night revision, every student wears ordinary house/casual clothes; some dress to impress. The current pilot art uses consistent casual clothes through study, the road and the return home.
 

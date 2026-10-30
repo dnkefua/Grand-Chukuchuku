@@ -49,13 +49,13 @@ CAST = [
     },
     {
         "name": "Mirabel", "filename": "04_Mirabel_Turnaround.png",
-        "author_traits": "Beautiful, slim build; friendship with Zino begins through maths in Form Three.",
-        "design": "Proposed angular oval face, straight brows, squared chin-length braided bob, teal/cream vertical-panel top, charcoal straight trousers and dark flats. Long vertical outline; not Elianne.",
+        "author_traits": "Black Cameroonian girl with low-cut natural hair; beautiful, slim build. Zino's maths friend from Form Three.",
+        "design": "Proposed angular oval face, straight brows, precise low-crop texture, teal/cream top, charcoal straight trousers and dark flats. Slim vertical outline; not Elianne.",
     },
     {
         "name": "Lizzy", "filename": "05_Lizzy_Turnaround.png",
-        "author_traits": "Pretty face; Form One crush, girlfriend from Form Two, breakup in Form Three.",
-        "design": "Proposed round face, arched brows, two wide high puffs with cream ribbons, loose rose top, full mustard A-line skirt and cream flats. Round hair and triangular garment outline; natural school-age proportions.",
+        "author_traits": "Black Cameroonian girl with low-cut natural hair and pretty face; Zino's school girlfriend, breakup in Form Three.",
+        "design": "Proposed rounder face, arched brows, short natural crop, loose rose top, full mustard A-line skirt and cream flats. Rounded face and triangular garment outline; natural school-age proportions.",
     },
 ]
 
@@ -147,8 +147,8 @@ def comparison() -> None:
     c.rect(0, 0, W, H, fill=1, stroke=0)
     c.setFillColor(INK)
     c.setFont("TurnBold", 20)
-    c.drawString(36, H - 35, "Mirabel and Lizzy: different at a distance")
-    text(c, "The same native front-view drawings at large and small display sizes. Hair shape and trouser/skirt outlines carry recognition as well as colour.", 36, H - 48, W - 72, 8.5)
+    c.drawString(36, H - 35, "Mirabel and Lizzy: low-cut character designs")
+    text(c, "Both are Black Cameroonian girls with confirmed low-cut natural hair. Facial construction, proportions and casual trouser/skirt outlines distinguish them.", 36, H - 48, W - 72, 8.5)
     # Identical source windows preserve proportions and a common baseline.
     # Original PNG files are never cropped, retouched or resampled here.
     def front(filename: str, x: float, y: float, height: float) -> None:
@@ -173,8 +173,8 @@ def comparison() -> None:
     c.drawString(x, H - 90, "SMALL-SCREEN CHECK")
     front("04_Mirabel_Turnaround.png", x + 10, 325, 105)
     front("05_Lizzy_Turnaround.png", x + 92, 325, 105)
-    text(c, "<b>Mirabel</b><br/>Squared bob; straighter face/brows; long teal-and-charcoal trouser outline.<br/><br/><b>Lizzy</b><br/>Two broad round puffs; rounder face; rose top and full gold A-line skirt.", x, 295, W - x - 36, 9)
-    text(c, "Hairstyles, facial construction, relative proportions and outfits are design proposals. Both retain natural school-age proportions and neutral poses; biography and relationships are unchanged.", 36, 85, W - 72, 8.5)
+    text(c, "<b>Mirabel</b><br/>Low natural crop; longer angular oval face/straighter brows; teal and charcoal trouser outline.<br/><br/><b>Lizzy</b><br/>Low natural crop; rounder cheeks/arched brows; rose top and full gold A-line skirt.", x, 295, W - x - 36, 9)
+    text(c, "Black identity and low-cut hair are author-confirmed. Exact crop texture, facial construction, relative proportions and outfits remain design proposals. Both retain natural school-age proportions and neutral poses.", 36, 85, W - 72, 8.5)
     c.setStrokeColor(LINE)
     c.line(36, 28, W - 36, 28)
     c.setFillColor(MUTED)

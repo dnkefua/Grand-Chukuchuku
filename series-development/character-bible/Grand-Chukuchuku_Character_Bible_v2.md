@@ -269,7 +269,7 @@ Plays. His ambition, skill, pride and temper can all surface in one ordinary str
 
 **C:** Zino's crush in Form One, girlfriend from Form Two, breakup in Form Three. The author corrected his earlier Form Four statement. He recalls her going with an older student who had money.
 
-**C / P — latest visual direction:** A pretty face is supplied. The school-age model uses natural adolescent proportions, ordinary clothing and neutral front, side and back poses. Exact facial construction, hair and casual clothes remain proposed animation choices.
+**C / P — latest visual direction:** Lizzy is a Black girl with low-cut natural hair and a pretty face. The school-age model uses natural proportions, ordinary clothes and neutral front, side and back poses. Exact crop styling, facial construction and casual clothes remain proposals.
 
 **OPEN:** Elianne, previously named first love, is not automatically Lizzy, an alias, or a character to delete. Lizzy's school timeline is now resolved; Elianne's separate place still needs explanation.
 
@@ -277,7 +277,7 @@ Plays. His ambition, skill, pride and temper can all surface in one ordinary str
 
 ### Mirabel
 
-**C:** Friendship begins in Form Three because of Zino's brilliance in maths and continues until he leaves for America. She is described as beautiful and slim. **Mirabel** remains the canonical spelling; the latest 'Mirable' is treated as a spelling variant, not a separate character. **P — character treatment:** a friendship that can outlast classrooms and physical distance. Proposed visual marker: a geometric notebook cover, careful underlining and a distinct hair silhouette. Exact hair and clothes remain design proposals. Do not infer romance, jealousy or a love triangle.
+**C:** Friendship begins in Form Three because of Zino's brilliance in maths and continues until he leaves for America. She is a Black girl with low-cut natural hair, described as beautiful and slim. **Mirabel** remains the canonical spelling; 'Mirable' is a spelling variant. **P — treatment:** a friendship that can outlast classrooms and distance; geometric notebook cover and careful underlining as proposed markers. Exact crop styling, face and clothes remain proposals. Do not infer romance, jealousy or a love triangle.
 
 ### Sophy
 
@@ -410,8 +410,8 @@ The five requested sheets show equally scaled, fully clothed **front / left side
 - **Zino:** the author's handsome face and clean fade guide a slim, athletic adolescent model. Existing facial identity is preserved.
 - **Luc:** trained build, high flat-top, large hands and large ears are author-supplied. Keep his hands readable in the turnaround rather than concealing them behind the Bible.
 - **Gideon / Giddy:** large head, prominent nose, small front-tooth gap, W-shaped hairline and fuller almost-afro hair are author-supplied. A slight front-view smile can reveal the gap; it need not be visible in a closed-mouth profile or back view.
-- **Mirabel:** beauty and a slim build are supplied. Current design proposal: angular oval face, straight brows, squared chin-length braided bob, teal/cream top and charcoal straight trousers. The earlier low-bun/teal-dress model is superseded.
-- **Lizzy:** a pretty face is supplied. Current design proposal: rounder face/arched brows, two high wide round puffs with cream ribbons, loose rose top and full mustard A-line skirt. Natural, fully clothed school-age proportions remain. Elianne is not relabelled as Lizzy or Mirabel.
+- **Mirabel:** Black identity, low-cut natural hair, beauty and slim build are supplied. Proposed angular oval face/straight brows, exact short-crop texture, teal/cream top and charcoal straight trousers. Earlier long hairstyles are superseded.
+- **Lizzy:** Black identity, low-cut natural hair and a pretty face are supplied. Proposed rounder face/arched brows, exact short-crop styling, loose rose top and full mustard A-line skirt. Natural school-age proportions remain. Elianne is not relabelled as either girl.
 
 ### Turnaround files
 
@@ -427,18 +427,18 @@ The five requested sheets show equally scaled, fully clothed **front / left side
 
 **C — author feedback:** the first pair looked almost the same. Changing a low bun to a low puff and swapping the blouse colour did not make two clearly readable characters. The prior approval of that pair is superseded.
 
-**P — revised visual system:** Mirabel has an angular chin-length braided bob, straighter facial lines and a slim vertical teal/charcoal trouser outline. Lizzy has two high round hair puffs, rounder cheeks and a rose/gold full-skirt outline. The distinction comes from head silhouette, face construction, separate trouser legs versus skirt shape, and warm/cool colour grouping. It must survive front, profile, back and small display views.
+**C — subsequent correction:** both are Black girls with **low-cut natural hair**. The invented bob and puffs used in the first redesign contradict that requirement and are superseded.
 
-The exact hair, face, relative proportions and clothes remain proposals. Both are ordinary school-age designs in neutral poses. No exact height or new biographical history is established. Use the revised native PNGs and the actual side-by-side distance comparison PDF; the older near-twin pair remains in the archive.
+**P — current visual system:** both retain low natural crops. Mirabel has more angular oval facial lines and a slim teal/charcoal trouser outline; Lizzy has rounder cheeks/arched brows and a rose/gold full-skirt outline. Exact crop texture, faces, relative proportions and clothes remain proposals. No exact height is established. Use the revised native PNGs and comparison PDF; earlier near-identical and long-haired models are archived.
 
-These garments are casual designs. Daytime school still puts both girls in the confirmed sky-blue shirt and dark-blue skirt. Their bob-versus-puffs head shapes and facial construction must carry recognition when the uniform removes the colour/trouser distinction.
+These garments are casual designs. Daytime school still puts both girls in sky-blue shirts and dark-blue skirts, retaining their low cuts. Different facial/head shapes and proportions must carry recognition when clothes match; a uniformed lineup needs a separate drawing check.
 
 
 ---
 
 # Grand-Chukuchuku — five character turnarounds
 
-Each PNG is one three-view model sheet: **front, left side and back**. The PDF collects the five sheets on separate landscape pages, with author-supplied traits distinguished from design proposals. The ZIP contains all five native-generated PNGs, the PDF, manifest, builder and independent review.
+Each PNG is one three-view model sheet: **front, left side and back**. The PDF collects the five sheets on separate landscape pages, with author-supplied traits distinguished from design proposals. The ZIP contains all five native-generated PNGs, the PDF, manifest, builder and visual review records.
 
 These are proposed **later-secondary models, approximately fourteen to fifteen**, following the working school chronology. They do not replace the younger age-ten opening with older bodies, establish exact birthdays, or claim verified real likenesses. Mirabel and Lizzy are distinct new animation proposals; the older portrait of Elianne remains a different provisional character.
 
@@ -447,16 +447,16 @@ These are proposed **later-secondary models, approximately fourteen to fifteen**
 | Zino | `01_Zino_Turnaround.png` | Handsome, clean fade, slim athletic silhouette; burgundy and charcoal casual clothes. |
 | Luc | `02_Luc_Turnaround.png` | High flat-top, muscular teenage build, big ears and hands; mustard and navy casual clothes. |
 | Gideon / Giddy | `03_Gideon_Turnaround.png` | Big head and nose, small front-tooth gap, W-shaped hairline and fuller hair; green and brown casual clothes. |
-| Mirabel | `04_Mirabel_Turnaround.png` | Slim vertical silhouette, angular oval face, straight brows, squared chin-length braided bob; teal/cream top and charcoal straight trousers. |
-| Lizzy | `05_Lizzy_Turnaround.png` | Rounder face, arched brows, two wide high puffs with cream ribbons; rose top and full mustard A-line skirt. |
+| Mirabel | `04_Mirabel_Turnaround.png` | Black girl with confirmed low-cut natural hair; proposed slim vertical silhouette, angular oval face/straight brows, teal/cream top and charcoal straight trousers. |
+| Lizzy | `05_Lizzy_Turnaround.png` | Black girl with confirmed low-cut natural hair; proposed rounder face/arched brows, rose top and full mustard A-line skirt. |
 
-**Latest author correction:** the previous pair looked too similar. Their shared braided-back hair, near-identical facial construction and similar garment outlines are superseded. Mirabel now reads through angular bob and separated trouser legs; Lizzy reads through round twin puffs and a triangular skirt outline. These cues work beyond colour, including from the back. Hair, facial construction, relative proportions and clothes remain design proposals, not added biographical facts.
+**Latest author correction:** both are Black Cameroonian girls with **low-cut natural hair**. The invented braided bob, puffs, ribbons and earlier long-haired models are superseded. Keep them distinct through angular oval versus rounder facial construction, proportions, stance and casual trouser versus full-skirt outlines. Exact crop texture/hairline, face, relative proportions and clothes remain proposals; the low-cut requirement is confirmed.
 
-The trousers and gold skirt are casual outfit proposals. In daytime school scenes, both girls still follow the supplied sky-blue shirt/dark-blue skirt uniform. Keep their distinct hair and facial construction when clothes change; do not treat a casual palette as their only identifying feature.
+The trousers and gold skirt are casual outfit proposals. In daytime school scenes, both girls still follow the supplied sky-blue shirt/dark-blue skirt uniform and keep their low cuts. Carry their different face/head shapes and proportions into those scenes; do not invent long hair to distinguish them. A uniformed lineup remains a separate drawing task.
 
 `Grand-Chukuchuku_Lizzy_Mirabel_Design_Comparison.pdf` presents the actual native front views side by side at large and small display sizes. The full PNGs retain all three views. The latest visual review is `../../writers-room/LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md`; it supersedes the prior review's approval of the girls' distinctness.
 
-For school-age characters, use ordinary opaque clothes, natural proportions and neutral model poses. The girls' exact hairstyles and clothes are proposals. Their designs must not be mistaken for real visual references. The broader cast and age-specific variants remain development work.
+For school-age characters, use ordinary opaque clothes, natural proportions and neutral model poses. Low-cut natural hair is fixed for these two girls; exact cut styling and clothes remain proposals. Their designs must not be mistaken for real visual references. The broader cast and age-specific variants remain development work.
 
 **Wardrobe correction:** sky-blue/navy is the **daytime** Form One–Five uniform. At Professional School's night study, every student wears house/casual clothes; some dress to impress. The burgundy/green/mustard trio outfits are proposed continuity choices for the pilot's single evening and return home. Classroom access at night does not imply uniform use.
 

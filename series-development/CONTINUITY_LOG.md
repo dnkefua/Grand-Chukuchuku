@@ -5,9 +5,10 @@ This log separates confirmed additions from items that still need a date, source
 ## Mirabel / Lizzy recognition correction — 30 October 2026
 
 - **C — author feedback:** the first two model sheets looked almost the same, including at a distance. Their prior approval of distinctness is superseded.
-- **P — Mirabel:** angular oval face, straighter brows and nose, squared chin-length braided bob, teal/cream vertical-panel top, charcoal straight trousers and dark flats. A slim vertical outline with visible trouser legs is her distant cue.
-- **P — Lizzy:** rounder cheeks/face, arched brows and shorter rounded nose, two wide high round puffs with cream ribbons, loose rose top, full mustard A-line skirt and cream flats. Round hair plus a triangular garment outline is her distant cue.
-- These are visual proposals, including relative proportions; no exact real height, hairstyle or wardrobe history has been supplied. Natural school-age proportions, the working later-secondary age range, relationships and the separate Elianne identity hold remain intact.
+- **C — latest hair/identity correction:** Mirabel and Lizzy are Black Cameroonian girls with low-cut natural hair. The invented bob, puffs, braids and ribbons are superseded. Keep the low cuts in front, profile and back, including daytime uniform scenes.
+- **P — Mirabel:** angular oval face, straighter brows/nose, precise short-crop texture, teal/cream top, charcoal straight trousers and dark flats. Her slim vertical clothing outline contrasts with Lizzy's full skirt.
+- **P — Lizzy:** rounder cheeks/face, arched brows, shorter rounded nose, short natural crop, loose rose top, full mustard A-line skirt and cream flats. Natural school-age proportions remain.
+- Exact crop styling, facial construction, relative proportions and clothes are proposals; no exact real height or garment history is supplied. Relationships, the working later-secondary age range and Elianne's separate unresolved identity remain intact. Do not use invented long hair as the recognition cue.
 - The front/profile/back PNGs and five-sheet PDF are current. Older near-twin designs are archived. Use `character-bible/turnarounds/Grand-Chukuchuku_Lizzy_Mirabel_Design_Comparison.pdf` and `writers-room/LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md` for the latest comparison and review scope.
 
 ## Night-school wardrobe and character turnarounds — 30 October 2026
@@ -17,7 +18,7 @@ This log separates confirmed additions from items that still need a date, source
 - **C — Zino:** handsome, clean fade haircuts; preserve his existing expressive face and adolescent proportions.
 - **C — Luc:** large hands and large ears refine his supplied trained build and high flat-top. The onset of his training remains open; the age-ten model keeps child proportions.
 - **C — Gideon:** large head, prominent nose and a small front-tooth gap join his W-shaped hairline and almost-afro hair. **Gideon** remains canonical; 'Giddeon' is a spelling variant, not another person.
-- **C / P — Mirabel and Lizzy:** Mirabel is described as beautiful and slim; 'Mirable' is treated as a spelling variant. Lizzy has a pretty face. Their school-age turnarounds use ordinary clothing, natural adolescent proportions and neutral poses; exact hair, clothes and facial construction are design proposals. Neither is automatically Elianne.
+- **C / P — Mirabel and Lizzy:** Black girls with confirmed low-cut natural hair. Mirabel is beautiful and slim; 'Mirable' is a spelling variant. Lizzy has a pretty face. Exact crop styling, clothes and facial construction remain proposals; ordinary school-age proportions and neutral poses apply. Neither is automatically Elianne.
 - **P — turnaround scope:** five sheets in `character-bible/turnarounds/`, each with equally scaled front, left-side and back views. The working later-secondary age fourteen–fifteen is a design placement, not an exact dated likeness. These sheets do not replace the age-ten variants or supply a confirmed growth timeline.
 
 **Contradiction resolved:** uniform-at-night was an incorrect extension of the daytime rule. Correct all active night-study and same-evening return-home shots; preserved earlier images remain superseded development history.

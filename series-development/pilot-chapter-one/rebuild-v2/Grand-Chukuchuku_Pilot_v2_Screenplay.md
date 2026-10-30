@@ -13,7 +13,7 @@ A boy invents a man who never runs. When a real crowd turns violent, he must cho
 
 ### EXT. FIANGO COMPOUND — WELL — NIGHT | 0:00–0:12
 
-Fresh drinking water leaks from Zino's cupped hands. He has lifted it from a drawn bucket beside the well, but cannot steady it long enough to bring it to his mouth. This is not washing into the communal water supply. The bucket must be established in the wider animation layout. The cuff is a schoolboy's; the hands are older than those we are about to meet. A neighbour's radio is too far away to understand.
+Fresh drinking water leaks from Zino's cupped hands. He has lifted it from a drawn bucket beside the well, but cannot steady it long enough to bring it to his mouth. This is not washing into the communal water supply. The bucket must be established in the wider animation layout. His plain burgundy T-shirt sleeve matches the casual clothes he wore to night revision; he is not in uniform. The hands are older than those we are about to meet. A neighbour's radio is too far away to understand.
 
 **MOTHER (O.S., English):** What happened?
 
@@ -29,7 +29,7 @@ The drop becomes a football thump. A scuffed ball races between a pair of slippe
 
 **ZINO:** Na goal.
 
-Gideon is watching from a sideline seat, not playing. His W-shaped hairline and almost-afro distinguish him. Luc pauses his nearby conversation to listen; he has the supplied high flat-top, with age-ten child proportions rather than an adult lifter's build. Ayuk and other same-class street peers belong to the playing circle. Gideon points at the disturbed slipper. Zino notices listeners near the well. He changes the audience instead of the score.
+Gideon is watching from a sideline seat, not playing. His larger head and nose, W-shaped hairline and almost-afro distinguish him; a small front-tooth gap is visible when he smiles. Luc pauses his nearby conversation to listen; his supplied high flat-top, large ears and hands retain age-ten child proportions rather than an adult lifter's build. Zino's handsome, expressive face has a clean fade. Ayuk and other same-class street peers belong to the playing circle. Gideon points at the disturbed slipper. Zino notices listeners near the well. He changes the audience instead of the score.
 
 **ZINO:** Grand-Chukuchuku score from worse side.
 
@@ -45,9 +45,9 @@ The gold switches off. The same boy has a bucket to carry. A quick glance at his
 
 **CARD: FOUR YEARS LATER — EARLIER THAT EVENING.**
 
-A high view establishes the geography: the vocational campus, the gate, the road, the compound opposite. Practical classroom light holds back the night. Inside, construction and electrical diagrams remain on the board. Some students work alone; others share pages. Conversation in the corridor competes with pencil scratches.
+A high view establishes the geography: the vocational campus, the gate, the road, the compound opposite. Practical classroom light holds back the night. Inside, construction and electrical diagrams remain on the board. Every student wears regular house/casual clothes; none wears a school uniform. Some have chosen an outfit to impress, while others arrive in plain, well-used clothes. Some work alone; others share pages. Conversation in the corridor competes with pencil scratches.
 
-Zino, now approximately fourteen, points at one step in Luc's maths problem. All three boys wear the confirmed day-school uniform: light sky-blue short-sleeved shirts and dark-blue trousers. Schoolgirls, where present, wear the same sky-blue shirts and dark-blue skirts. Zino gives Luc the pencil back. Luc's high flat-top, trained shoulders and small Bible distinguish him from Gideon's W-shaped hairline, almost-afro and camera bag. The stronger older-secondary build is a proposed placement of his confirmed training habit; its starting year remains unknown. None of the boys has an adult physique.
+Zino, now approximately fourteen, points at one step in Luc's maths problem. His clean fade and burgundy short-sleeved T-shirt distinguish him above charcoal casual trousers, dark sneakers and a backpack. Gideon wears a forest-green plain polo and dark-brown casual trousers, with his camera bag. Luc wears a mustard/ochre plain T-shirt and loose deep-navy casual trousers; his small Bible is nearby and he has no bag. These exact garments are proposed designs, not remembered outfits. Zino gives Luc the pencil back. Luc's high flat-top, large ears and hands and trained shoulders distinguish him from Gideon's larger head and nose, W-shaped hairline and almost-afro. Gideon's small front-tooth gap can register when he smiles. The stronger older-secondary build is a proposed placement of Luc's confirmed training habit; its starting year remains unknown. All three remain recognisably adolescent.
 
 **ZINO:** You solve am. I only show you road.
 
@@ -79,7 +79,7 @@ The first clear wide shot fixes the geography. A crowd grows on the left of fram
 
 Voices repeat the accusation. They do not agree on an explanation. The camera never supplies the missing theft.
 
-Luc hesitates. Adults cross in front of the boys. Zino catches Luc's sleeve rather than pushing ahead.
+Luc hesitates. Adults cross in front of the boys. Zino catches Luc's mustard T-shirt sleeve rather than pushing ahead. The boys retain their distinct casual outfits through the same-night crowd and homecoming.
 
 **ZINO:** Stay here.
 
@@ -113,7 +113,7 @@ The street's roar fades behind footsteps. The camera holds long enough for leavi
 
 ### EXT. FIANGO COMPOUND — WELL — NIGHT | 4:13–5:00
 
-The familiar mango tree. A lit doorway. A neighbour still doing ordinary work. Zino reaches the drawn bucket beside the well and tries to lift fresh drinking water to his mouth. His cupped hands shake and spill; they match the opening precisely. Now the audience knows their cause. He does not wash smoke, dirt or an invented injury into the drinking-water well.
+The familiar mango tree. A lit doorway. A neighbour still doing ordinary work. Still in his burgundy T-shirt and charcoal casual trousers, Zino reaches the drawn bucket beside the well and tries to lift fresh drinking water to his mouth. His cupped hands shake and spill; they match the opening precisely. Now the audience knows their cause. He does not wash smoke, dirt or an invented injury into the drinking-water well.
 
 Mother sets aside marked exercise books. She stays at his level and gives him room to answer.
 
@@ -136,7 +136,7 @@ One unresolved note may enter after black. No outside knock, secret pursuer or p
 ## Continuity and source notes
 
 - Confirmed foundations: Fiango well/mango compound; street football and slipper goals; Zino's invented Grand; friendship with Gideon and Luc; maths help; Luc's small Bible; Gideon's camera from secondary school onward; Professional School's vocational function and night access; Zino's account of witnessing multiple jungle-justice incidents during secondary school; Mother's primary-school teaching.
-- Latest character correction: Luc trains in the evenings with mud-formed dumbbells and a sand-filled punching bag; his high flat-top and muscular older-secondary build supersede the lean generic design. Gideon's hair has a W-shaped hairline and almost-afro. Their age-ten versions remain children; the exact start of training and haircut chronology are unconfirmed. The older build is proposed for the age-fourteen composite.
+- Latest character correction: Zino is handsome with a clean fade. Luc has large hands and ears, trains in the evenings with mud-formed dumbbells and a sand-filled punching bag, and has a high flat-top and muscular older-secondary build. Gideon has a larger head and nose, small front-tooth gap, W-shaped hairline and almost-afro. These details supersede generic prior designs. Their age-ten versions remain children; the exact start of training and haircut chronology are unconfirmed. The older build is proposed for the age-fourteen composite.
 - Zino calls Gideon Giddy, and greets Luc alone as Lucky Luc. Full names in the urgent exit line remain compatible with those nicknames; the group exit is not a solitary Lucky Luc greeting.
 - Zino's Catholic primary altar service, secondary workload, science/maths aptitude, singing and Form Five songwriting are expansion foundations. His first demo follows boarding-school homecoming, not his U.S. arrival. Mother's trust and the detached room give him freedom without implying neglect. These details do not require extra scenes in this five-minute pilot.
 - The incident is a **proposed secondary-school composite**. Approximate age fourteen / 2004, exact reactions, friends' presence, route, dialogue and home response are constructed, not recorded testimony. The author may correct placement without changing the real foundation.
@@ -144,9 +144,10 @@ One unresolved note may enter after black. No outside knock, secret pursuer or p
 - Age-ten secondary-school entry must not inherit the confirmed 1999 primary-fee exclusion. No fee scene appears here.
 - Pidgin among friends; English in the home. The opening is the same moment revisited after its cause, not two separate visits.
 - Author correction on 30 October: Luc and Gideon do not play football. Luc chats/evangelises; Gideon watches and banters. Ayuk, Arey, Noge, Bismark and Robi are the playing circle. Their names are not mapped to later business associates.
-- The same update confirms the sky-blue short-sleeved shirt / dark-blue trousers-or-skirt uniform for the five day-school years. Age-ten casual football clothes and Grand's adult suit remain separate; boarding uniform is not yet confirmed.
+- **Latest night-school correction:** Professional School's night-revision students all wear regular house/casual clothes, with some dressing to impress. No student wears a uniform there at night. This supersedes the earlier pilot's uniform-at-night treatment. The sky-blue shirt / dark-blue trousers-or-skirt uniform remains for daytime school in the five day-school years only. Age-ten casual football clothes and Grand's adult suit remain separate; boarding uniform is not yet confirmed.
+- Proposed night wardrobe continuity: Zino burgundy T-shirt/charcoal casual trousers/backpack; Gideon forest-green polo/dark-brown casual trousers/camera bag; Luc mustard T-shirt/loose deep-navy casual trousers/Bible, no bag. Keep these through all same-night scenes, including the opening and return home. They are character-design proposals, not author-confirmed historical garments.
 - The expanded weekday routine, neighbourhood, school relationships, motel and great-aunt's poultry farm are in the current Fiango update. They are expansion material, not a requirement to crowd every detail into this five-minute witness pilot.
-- The drawings are eighteen keyframes supporting a thirty-six-shot edit. Extra acting poses, reverse coverage, recordings and movement still require an animatic. The source images are not final character turnarounds or finished animation.
+- The drawings are eighteen keyframes supporting a thirty-six-shot edit. Extra acting poses, reverse coverage, recordings and movement still require an animatic. The separate character turnaround sheets are proposed model references; neither those sheets nor the storyboard is finished animation.
 - This pilot condenses later Chapter One material as a standalone introduction. The sixty-episode season remains an expansion source; the rejected v1 pilot and its music cue plan are superseded.
 
 
@@ -154,17 +155,17 @@ One unresolved note may enter after black. No outside knock, secret pursuer or p
 
 | Shot | Time | Keyframe | Camera | Action |
 | --- | --- | --- | --- | --- |
-| 01 | 0:00–0:06 | K01 | ECU / locked | Fresh drinking water leaks from shaking cupped hands; drawn bucket beside well. |
+| 01 | 0:00–0:06 | K01 | ECU / locked | Fresh drinking water leaks from shaking cupped hands; burgundy casual T-shirt, drawn bucket beside well. |
 | 02 | 0:06–0:12 | K01 | Close / Mother O.S. | ‘What happened?’ He cannot answer. No physical attacker at home. |
 | 03 | 0:12–0:15 | K02 | Time card / audio match | FOUR YEARS EARLIER. Water becomes football sound. |
 | 04 | 0:15–0:23 | K02 | Ground wide | The ball brushes the outside slipper. Clear miss, no money game. |
-| 05 | 0:23–0:30 | K03 | Medium triangle / sidelines | Gideon, W hairline/almost-afro, banters from his seat; flat-top Luc pauses a conversation; neither plays. Both have age-ten child proportions. |
+| 05 | 0:23–0:30 | K03 | Medium triangle / sidelines | Gideon, larger head/nose and W almost-afro, banters seated; flat-top Luc with large ears/hands pauses a conversation. Neither plays. Both have age-ten child proportions. |
 | 06 | 0:30–0:39 | K03 | Hand-led tilt | Zino begins his impossible Grand tale. Fantasy is actively triggered. |
 | 07 | 0:39–0:47 | K04 | Low fantasy wide | Adult Grand walks the familiar roofline, entirely inside the told story. |
 | 08 | 0:47–0:50 | K04 | Return to boy / audio cut | ‘Grand-Chukuchuku no ever run.’ Mother: ‘Zino. The water.’ |
 | 09 | 0:50–0:56 | K05 | Time card / high master | FOUR YEARS LATER — EARLIER THAT EVENING. School foreground, road, compound. |
-| 10 | 0:56–1:05 | K05 | Interior establishing wide | Practical wiring/building diagrams, workbenches and real night readers. |
-| 11 | 1:05–1:16 | K06 | Over-table diagonal | Zino shows a maths step, then returns the pencil to flat-top Luc, whose trained older-secondary build stays age-appropriate. |
+| 10 | 0:56–1:05 | K05 | Interior establishing wide | Practical diagrams, workbenches and real night readers in varied house/casual clothes, some dressed to impress; no student uniforms. |
+| 11 | 1:05–1:16 | K06 | Over-table diagonal | Zino in burgundy shows a maths step, returns the pencil to mustard-shirted Luc with high flat-top, large hands/ears and age-appropriate trained build. |
 | 12 | 1:16–1:25 | K06 | Same desk / Gideon emphasis | Gideon shields the closed camera bag from an elbow and jokes about customers. |
 | 13 | 1:25–1:34 | K06 | Same desk / Luc emphasis | Luc welcomes a willing listener briefly; the pencil returns him to work. |
 | 14 | 1:34–1:42 | K07 | Empty corridor / locked | An offscreen accusation interrupts study. No theft is shown. |
@@ -173,7 +174,7 @@ One unresolved note may enter after black. No outside knock, secret pursuer or p
 | 17 | 1:56–2:04 | K09 | Gate master | Crowd screen-left; lit return gate behind/right; boys at the edge. |
 | 18 | 2:04–2:12 | K09 | Hold / foreground crossings | Conflicting voices deny certainty. No authoritative villain portrait. |
 | 19 | 2:12–2:20 | K09 | Same frame / Luc hesitates | Luc stops; the other two register him before moving any further. |
-| 20 | 2:20–2:29 | K10 | Sleeve insert | Zino holds Luc near; Gideon's camera bag remains in sight. All three wear sky-blue/navy. |
+| 20 | 2:20–2:29 | K10 | Sleeve insert | Burgundy Zino grips Luc's mustard sleeve; forest-green Gideon's camera bag remains in sight. Casual night dress, no uniforms. |
 | 21 | 2:29–2:39 | K11 | Compressed child-height wide | Adult shoulders obscure the boys and road. Exit still exists. |
 | 22 | 2:39–2:46 | K11 | Hold / closed bag detail | Gideon keeps the camera in its bag; no evidence photograph is invented. |
 | 23 | 2:46–2:55 | K12 | Obstructed witness POV | A restrained adult raises a pleading hand; no finding of guilt. |
@@ -186,7 +187,7 @@ One unresolved note may enter after black. No outside knock, secret pursuer or p
 | 30 | 3:52–4:02 | K15 | Gate-wide extension | All three pass into the clear route. Nobody pursues them. |
 | 31 | 4:02–4:13 | K15 | Held return movement | Their footsteps take over from the crowd; school light recedes. |
 | 32 | 4:13–4:24 | K16 | Compound master | Mango, well and occupied homes return as stable landmarks. |
-| 33 | 4:24–4:36 | K16 | Exact opening hand position | He cannot steady fresh drinking water to his mouth. No washing into well or invented injury. |
+| 33 | 4:24–4:36 | K16 | Exact opening hand position | Burgundy casual sleeve matches the opening; he cannot steady fresh drinking water to his mouth. No washing into well or invented injury. |
 | 34 | 4:36–4:44 | K17 | Still mother/son two-shot | Mother sets her work aside. ‘What happened?’ English at home. |
 | 35 | 4:44–4:54 | K18 | Tight / no fantasy | ‘Grand…’ fails. ‘There was a man.’ His hand stops performing. |
 | 36 | 4:54–5:00 | K18 | Held face → black | Let the truthful beginning land. Final two seconds: title. |

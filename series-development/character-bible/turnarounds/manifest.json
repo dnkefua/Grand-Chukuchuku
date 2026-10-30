@@ -1,0 +1,69 @@
+{
+  "title": "Grand-Chukuchuku — five-character turnaround set v1",
+  "date": "2026-10-30",
+  "author": "Nkeh Nkengzincho (Zino)",
+  "age_scope": "Proposed later-secondary models, approximately 14–15; exact ages and training onset open",
+  "views": [
+    "front",
+    "left side",
+    "back"
+  ],
+  "source": "Author-supplied traits with proposed animation faces, clothes and age variants; native-generated images",
+  "wardrobe_rule": "Daytime school uniform is sky-blue/navy. Professional School night readers wear house/casual clothes; some dress to impress. No students wear uniforms at night.",
+  "spelling": {
+    "Giddeon": "Gideon",
+    "Mirable": "Mirabel"
+  },
+  "characters": [
+    {
+      "name": "Zino",
+      "filename": "01_Zino_Turnaround.png",
+      "author_traits": "Handsome; clean fades. Gifted, witty and quick-footed.",
+      "design": "Crisp low fade with a curly top; slim athletic teenage silhouette. Proposed night outfit: burgundy T-shirt, charcoal casual trousers and dark sneakers.",
+      "pixels": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "name": "Luc",
+      "filename": "02_Luc_Turnaround.png",
+      "author_traits": "Muscular build, big hands, big ears and high flat-top. Homemade evening weights; small Bible.",
+      "design": "Strong adolescent shoulders and larger hands/ears. Proposed night outfit: mustard T-shirt, loose navy casual trousers and dark sneakers. Training onset remains open.",
+      "pixels": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "name": "Gideon / Giddy",
+      "filename": "03_Gideon_Turnaround.png",
+      "author_traits": "Large head and nose, small front-tooth gap, W-shaped hairline and fuller almost-afro hair.",
+      "design": "The front view's small smile reveals the gap. Proposed night outfit: forest-green polo, dark-brown casual trousers and worn sneakers. Camera bag remains his scene prop.",
+      "pixels": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "name": "Mirabel",
+      "filename": "04_Mirabel_Turnaround.png",
+      "author_traits": "Beautiful, slim build; friendship with Zino begins through maths in Form Three.",
+      "design": "Proposed oval face, low braided bun, loose teal knee-length dress and flat shoes. Her face and hair are a new animation proposal; she is not Elianne.",
+      "pixels": [
+        1536,
+        1024
+      ]
+    },
+    {
+      "name": "Lizzy",
+      "filename": "05_Lizzy_Turnaround.png",
+      "author_traits": "Pretty face; Form One crush, girlfriend from Form Two, breakup in Form Three.",
+      "design": "Natural school-age proportions and neutral stance. Proposed cornrows into a low puff, loose dusty-rose blouse, relaxed navy knee-length skirt and flat shoes. Distinct from Mirabel and Elianne.",
+      "pixels": [
+        1536,
+        1024
+      ]
+    }
+  ]
+}

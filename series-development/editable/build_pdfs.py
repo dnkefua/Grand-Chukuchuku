@@ -428,6 +428,9 @@ Lizzy's Form Three breakup, taxi pattern, TV, motel and poultry-farm context.
 Latest additions include Luc's muscular build/high flat-top, Gideon's W-shaped
 hairline and Form Five bread trade, Zino's pre-America music and Catholic
 background, Mother's trust, and separate GCE minimum/maximum/personal counts.
+Night revision uses house/casual clothes for every student, never uniforms;
+the sky-blue/navy uniform applies to daytime. Five front/side/back model sheets
+are in character-bible/turnarounds/ and Grand-Chukuchuku_Five_Character_Turnarounds_v1.zip.
 Grand-Chukuchuku_Character_Bible_v2.zip is the current character package.
 Grand-Chukuchuku_Pilot_v2_Cinematic_Package.zip is the current pilot:
 The Man Who Never Ran, with eighteen drawn keyframes and a 36-shot target edit.

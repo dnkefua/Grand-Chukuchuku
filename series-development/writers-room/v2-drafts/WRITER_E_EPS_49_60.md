@@ -12,6 +12,8 @@ This block deliberately gives the remote school a daily life—bell, bed, basin,
 
 **School-stage distinction:** The supplied light sky blue shirts with dark blue boys' trousers/girls' skirts are the Form One–Five day-school uniform. This boarding-school block must not claim those colours are confirmed for the later campus. Approximate Form One–Five age bands are planning estimates, not recorded birthdays.
 
+**Latest visual/wardrobe correction:** Professional School's earlier night revision uses house/casual clothes for every student, including some dressed to impress; no student uniform at night. This does not settle the boarding campus's dress rules. Zino has a handsome face and clean fade; Luc's large hands and ears join his high flat-top/trained older-secondary build; Gideon has a large head/nose, small front-tooth gap and W-shaped almost-afro. Retain adolescent proportions and the canonical names Gideon and Mirabel.
+
 ---
 
 # EPISODE 49 — “BEFORE FIRST BELL”

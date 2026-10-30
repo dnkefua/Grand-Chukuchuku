@@ -9,7 +9,7 @@
 
 | Character | Story role | Current design status |
 | --- | --- | --- |
-| **Nkeh “Zino” Nkengzincho** | The boy at the centre of the story | Illustrated design proposal for Chapter One age 10; turnarounds and later-life variants remain open. |
+| **Nkeh “Zino” Nkengzincho** | The boy at the centre of the story | Age-ten concept and later-secondary three-view proposal supplied; age-ten/adult turnarounds and rigging remain open. |
 | **Grand-Chukuchuku** | Zino’s invented adult ideal | Illustrated and locked to the author-supplied adult model sheet. |
 | **Gideon** | Entrepreneurial best friend | Illustrated for a proposed later day-school look. |
 | **Luc** | Faithful, candid best friend | Illustrated for a proposed later day-school look. |
@@ -31,7 +31,7 @@
 **Story role:** The gifted boy who can turn defeat into a story, then must learn that wit cannot solve every material problem.
 
 - **C — Foundation:** Born 1990; in Chapter One’s opening he is ten in Fiango, Kumba. He is intelligent, witty, kind and strongly drawn to justice. He speaks Pidgin with friends, English at home, and French and English at school. He wants to build his mother a house. His weaknesses include temper, people-pleasing and limited self-awareness.
-- **P — Distinct visual code:** Slim, quick-footed silhouette; short tapered curls; bright, watchful eyes; expressive brow; faded white football vest, worn blue shorts and bare feet for street play. His face must carry the same brow, hairline and quick smile as Grand’s.
+- **P — Distinct visual code:** Handsome, clean fade and curly top; slim quick-footed silhouette, bright eyes and expressive brow; faded white football vest, worn blue shorts and bare feet for street play. His face must carry the same brow, hairline and quick smile as Grand’s.
 - **Performance:** Words arrive before caution. When Zino is frightened, reduce the speed of his speech rather than remove his humour. His anger is hot and immediate, but never his entire personality.
 - **Props:** Scuffed ball, school bag, folded exercise-book page, small coins, well bucket.
 - **C — Learning, music and faith:** Maths is his favourite, puzzle-like subject; he understands science readily. Singing precedes his own songwriting in Form Five; his first demo follows his return from boarding high school, and he writes later in America. Catholic; primary-school altar service stops for lack of time in secondary school, not a supplied loss of faith.
@@ -58,7 +58,7 @@
 **Story role:** The business-minded friend who sees the price, the opportunity and the camera angle before others do.
 
 - **C — Foundation:** Gideon is sharp, focused and always looking for ways to make money. He bought his first camera when he went to secondary school, booked birthday-party camera gigs, often paid for small outings with Zino, and liked Zino’s help approaching girls because Gideon was quiet and found it hard to keep a conversation going.
-- **C / P — Revised visual code:** W-shaped hairline and fuller, almost-afro hair; camera and cross-body bag. School uniform is sky-blue short sleeves with dark-blue trousers. Casual wardrobe remains proposed and separate. His gaze should measure a room before he enters it.
+- **C / P — Revised visual code:** Big head/nose, small front-tooth gap, W-shaped hairline and fuller almost-afro; camera/bag. Daytime sky-blue/navy uniform; proposed night-study green polo and brown casual trousers. No student wears a uniform at night study. His gaze should measure a room before he enters it.
 - **C — Football correction:** He does not play; he sits watching and bantering, especially when Zino loses.
 - **Performance:** His jokes land dry. He speaks only after he has calculated the situation. When he laughs freely, the audience should feel that trust has been earned.
 - **C — Later detail:** Zino calls him Giddy. Constant trades and paid services; a market place selling bread by Form Five. He asks Zino to explain schoolwork. Market terms and prices remain open.
@@ -69,7 +69,7 @@
 **Story role:** The moral pressure inside the friendship group: faith, fairness and honesty without self-righteousness.
 
 - **C — Foundation:** Luc is God-fearing, carries a small Bible, preaches to fellow students, and values Zino’s honesty, humour, help with mathematics and conversations about girls.
-- **C / P — Revised visual code:** Muscular build from evening weights; high flat-top; small Bible. Mud-formed dumbbells and a sand-filled punching bag are confirmed training props. Light sky-blue short-sleeved shirt with dark-blue trousers. He does not play football. Training onset is open; do not give his age-ten version adult musculature. His stillness should contrast with Zino’s restless movement.
+- **C / P — Revised visual code:** Muscular build, big hands/ears, high flat-top and small Bible. Mud-formed dumbbells and sand-filled punching bag. Sky-blue/navy uniform applies to daytime only; night-study model uses proposed mustard T-shirt and navy casual trousers. He does not play football. Training onset is open; keep age-ten proportions childlike. His stillness should contrast with Zino’s restless movement.
 - **Performance:** Clear and direct. He has courage to speak in public even when nobody listens. His faith should guide action, not produce speeches in every scene.
 - **C — Nickname:** Zino calls him Lucky Luc when meeting him alone; the date this begins is open.
 - **Do not do:** Never reduce Luc to a punchline, a hypocrite or an automatic judge of his friends.
@@ -229,6 +229,8 @@ The companion diagram is an adjacency schematic, not a surveyed map. The supplie
 
 Plays. His ambition, skill, pride and temper can all surface in one ordinary street match. Do not infer that he is always the best player or always wins.
 
+**C — latest visual detail:** Handsome, with clean fade haircuts. Preserve his existing expressive face and age-appropriate proportions; the precise fade length and changes through the school years are proposed until dated references arrive.
+
 ### Ayuk
 
 **C:** A neighbour north of the compound, a class/age peer and a football participant; his father's later TV makes his home part of the group's evening world. **P — design proposal:** an easily read straight-backed silhouette and a cobalt accent distinguish him from Gideon's olive. Hair, body shape, exact clothing and personality await references.
@@ -253,11 +255,11 @@ Plays. His ambition, skill, pride and temper can all surface in one ordinary str
 
 **C:** Does not play. He sits watching and bantering with Zino, particularly when Zino loses. His camera work, business interests, quietness with girls and friendship with Zino remain intact. He constantly finds gigs, sells things or exchanges services for money. By Form Five he has a place in the market selling bread. He also turns to Zino to explain schoolwork. Zino calls him **Giddy**; the canonical name is **Gideon**, including when the author's message says Gideo.
 
-**C — visual correction:** W-shaped hairline and fuller, almost-afro hair replace the earlier generic short-cropped proposal. Exact hair length at individual ages remains open. **Correction:** earlier goalkeeper, scoring teammate and demanding-a-pass scenes are superseded. His humour can puncture Zino's public performance without making their friendship cruel.
+**C — visual correction:** A large head, prominent nose and small gap between his front teeth join his W-shaped hairline and fuller, almost-afro hair. These replace the earlier generic cropped-hair/head proposal. Exact hair length at individual ages remains open. **Correction:** earlier goalkeeper, scoring teammate and demanding-a-pass scenes are superseded. His humour can puncture Zino's public performance without making their friendship cruel. The latest spelling 'Giddeon' is treated as a variant of canonical **Gideon**, not a new person.
 
 ### Luc — a different use for the same evening
 
-**C:** Does not play. He spends time evangelising or chatting. His small Bible and Zino's maths help remain part of their friendship. He lifts weights in the evenings, using homemade mud-formed dumbbells, and has a sand-filled punching bag. He has a muscular, bodybuilder-like build and a high flat-top haircut. Zino calls him **Lucky Luc** when he encounters him by himself.
+**C:** Does not play. He spends time evangelising or chatting. His small Bible and Zino's maths help remain part of their friendship. He lifts weights in the evenings, using homemade mud-formed dumbbells, and has a sand-filled punching bag. He has a muscular, bodybuilder-like build, large hands, large ears and a high flat-top haircut. Zino calls him **Lucky Luc** when he encounters him by himself.
 
 **C / OPEN — visual correction:** The earlier lean/slender design is superseded. His training's starting age and changes in physique across the school years are not supplied. Keep child proportions at ten; do not back-project an adult bodybuilder's anatomy onto the opening. **Correction:** do not automatically make him a referee, scorer or touchline commentator in every match; he may be having an entirely separate conversation nearby. Exercise, conversation and preaching need not all occur on the same evening.
 
@@ -267,13 +269,15 @@ Plays. His ambition, skill, pride and temper can all surface in one ordinary str
 
 **C:** Zino's crush in Form One, girlfriend from Form Two, breakup in Form Three. The author corrected his earlier Form Four statement. He recalls her going with an older student who had money.
 
+**C / P — latest visual direction:** A pretty face is supplied. The school-age model uses natural adolescent proportions, ordinary clothing and neutral front, side and back poses. Exact facial construction, hair and casual clothes remain proposed animation choices.
+
 **OPEN:** Elianne, previously named first love, is not automatically Lizzy, an alias, or a character to delete. Lizzy's school timeline is now resolved; Elianne's separate place still needs explanation.
 
 **P — character treatment:** School-age affection, conversation, jealousy and hurt can carry the relationship. Give Lizzy her own perspective. Zino's account of money and the older student is his recollection, not a licence to invent every motive or turn her into a villain.
 
 ### Mirabel
 
-**C:** Friendship begins in Form Three because of Zino's brilliance in maths and continues until he leaves for America. **P — character treatment:** a friendship that can outlast classrooms and physical distance. Proposed visual marker: a geometric notebook cover, careful underlining and a distinct hair silhouette once references arrive. Do not infer romance, jealousy or a love triangle.
+**C:** Friendship begins in Form Three because of Zino's brilliance in maths and continues until he leaves for America. She is described as beautiful and slim. **Mirabel** remains the canonical spelling; the latest 'Mirable' is treated as a spelling variant, not a separate character. **P — character treatment:** a friendship that can outlast classrooms and physical distance. Proposed visual marker: a geometric notebook cover, careful underlining and a distinct hair silhouette. Exact hair and clothes remain design proposals. Do not infer romance, jealousy or a love triangle.
 
 ### Sophy
 
@@ -291,7 +295,9 @@ Plays. His ambition, skill, pride and temper can all surface in one ordinary str
 
 ### School uniform and working ages
 
-**C:** All students wear light sky-blue short-sleeved shirts. Boys wear dark-blue trousers; girls wear dark-blue skirts. Earlier white/cream/brown school palettes are superseded. Distinguish characters through faces, hairstyles, posture, bags and books rather than changing the uniform colour.
+**C — daytime school:** Students in Forms One–Five wear light sky-blue short-sleeved shirts. Boys wear dark-blue trousers; girls wear dark-blue skirts. Earlier white/cream/brown daytime school palettes are superseded. Distinguish characters through faces, hairstyles, posture, bags and books rather than changing that uniform colour.
+
+**C — night revision at Professional School:** Students wear their regular house or casual clothes. Some dress to impress. No student wears a school uniform at these night sessions. The earlier pilot's sky-blue/navy night-study wardrobe was an incorrect extension of the daytime rule and is superseded. Daytime uniform and the still-unconfirmed boarding-school uniform are separate matters.
 
 **P — ages authorized as estimates:** Form One about 10–11, Form Two 11–12, Form Three 12–13, Form Four 13–14, Form Five 14–15, using the approximate 2000–2005 day-school chronology and 1990 birth year. Exact birthdays and enrolment dates are not supplied. The author describes similar-age peers; Tracey being older does not establish that she was an adult.
 
@@ -337,6 +343,7 @@ The extraordinary events need an ordinary world worth losing. Suspense can grow 
 - Father's cocoa work is a life and livelihood, not a failure verdict. Uncle's work and faith are now supplied facts, not generic mystery.
 - The named childhood players have not been identified as the later crypto circle.
 - Luc's muscular build and high flat-top supersede the lean design; Gideon's W-shaped hairline and almost-afro hair supersede the generic cropped-hair proposal. Keep age-appropriate versions rather than copying an older-school design unchanged onto ten-year-olds.
+- Night-study students wear house/casual clothes, including individual efforts to dress well; no student uniform appears at Professional School at night. The sky-blue/navy uniform belongs to daytime Forms One–Five. A return home from the same night session retains the established casual outfit.
 - Zino's own songwriting begins in Form Five, and his first demo follows his return home from boarding high school. Later writing in America continues that history; a draft implying that his music begins in America must change.
 - The author's general GCE minimum pass thresholds, the maximum subjects available, Zino's own subjects and the school's pass rate are four different facts; none replaces another.
 
@@ -387,3 +394,56 @@ The uncle's promise specifically depends on Zino succeeding in all five Advanced
 3. **The First Song:** I — Form Five Zino begins a lyric. II — a melody resists the easy certainty he finds in maths. III — he keeps working. Save the first recorded demo for after boarding high school; do not invent an instant music career.
 
 **OPEN:** When did Luc begin training, and how did his build and haircut change? What did Gideon's market arrangement involve? Which school year did each nickname start? What was the first song and where was the demo recorded? These gaps do not block the confirmed traits, but they limit precise scene dates and props.
+
+## 10. Night clothing and five-character turnarounds — 30 October 2026
+
+### The wardrobe correction is about time and activity
+
+**C:** The same students who wear uniform during the day change into ordinary house/casual clothes for night revision at Professional School. Some deliberately dress to impress. Show a range of personal clothing; a matching trio of school uniforms or uniformed night-study extras contradicts this recollection.
+
+**P — pilot continuity choices:** Zino wears a plain burgundy short-sleeved T-shirt and charcoal casual trousers; Gideon wears a forest-green polo and dark-brown casual trousers, with his camera bag; Luc wears a mustard/ochre T-shirt and loose navy casual trousers, with his small Bible. Colours and particular garments are proposed, not a claim that he remembered those exact outfits. Keep them through night study, the road and the return to the well. Grand's navy adult suit and the age-ten football clothes are separate.
+
+### What each model sheet establishes
+
+The five requested sheets show equally scaled, fully clothed **front / left side / back** views in neutral poses. They are **P — later-secondary models around fourteen–fifteen**, following the working chronology, not exact dated portraits or verified likenesses. They do not replace age-ten designs or establish when Luc's training began.
+
+- **Zino:** the author's handsome face and clean fade guide a slim, athletic adolescent model. Existing facial identity is preserved.
+- **Luc:** trained build, high flat-top, large hands and large ears are author-supplied. Keep his hands readable in the turnaround rather than concealing them behind the Bible.
+- **Gideon / Giddy:** large head, prominent nose, small front-tooth gap, W-shaped hairline and fuller almost-afro hair are author-supplied. A slight front-view smile can reveal the gap; it need not be visible in a closed-mouth profile or back view.
+- **Mirabel:** beauty and a slim build are supplied. The precise face, proposed low braided hairstyle and teal casual dress remain design choices.
+- **Lizzy:** a pretty face is supplied. The school-age model uses a natural, fully clothed adolescent silhouette; proposed hair, dusty-rose blouse and relaxed skirt are design choices. Elianne remains a separate, unresolved first-love identity and is not relabelled as Lizzy or Mirabel.
+
+### Turnaround files
+
+- `turnarounds/01_Zino_Turnaround.png`
+- `turnarounds/02_Luc_Turnaround.png`
+- `turnarounds/03_Gideon_Turnaround.png`
+- `turnarounds/04_Mirabel_Turnaround.png`
+- `turnarounds/05_Lizzy_Turnaround.png`
+
+**Contradiction resolved:** the prior night-study uniform instruction and its blue-shirt pilot art are superseded by casual night clothing. New facial details refine the same characters; spelling variants do not create extra cast members. Exact garments, hairstyles for the girls, age progression and real likenesses remain proposals or open details.
+
+
+---
+
+# Grand-Chukuchuku — five character turnarounds
+
+Each PNG is one three-view model sheet: **front, left side and back**. The PDF collects the five sheets on separate landscape pages, with author-supplied traits distinguished from design proposals. The ZIP contains all five native-generated PNGs, the PDF, manifest, builder and independent review.
+
+These are proposed **later-secondary models, approximately fourteen to fifteen**, following the working school chronology. They do not replace the younger age-ten opening with older bodies, establish exact birthdays, or claim verified real likenesses. Mirabel and Lizzy are distinct new animation proposals; the older portrait of Elianne remains a different provisional character.
+
+| Character | Sheet | Distinctive features |
+| --- | --- | --- |
+| Zino | `01_Zino_Turnaround.png` | Handsome, clean fade, slim athletic silhouette; burgundy and charcoal casual clothes. |
+| Luc | `02_Luc_Turnaround.png` | High flat-top, muscular teenage build, big ears and hands; mustard and navy casual clothes. |
+| Gideon / Giddy | `03_Gideon_Turnaround.png` | Big head and nose, small front-tooth gap, W-shaped hairline and fuller hair; green and brown casual clothes. |
+| Mirabel | `04_Mirabel_Turnaround.png` | Slim, thoughtful face; proposed low braided bun and loose teal dress. |
+| Lizzy | `05_Lizzy_Turnaround.png` | Pretty face, natural school-age proportions; proposed cornrows/puff and loose rose/navy clothes. |
+
+For school-age characters, use ordinary opaque clothes, natural proportions and neutral model poses. The girls' exact hairstyles and clothes are proposals. Their designs must not be mistaken for real visual references. The broader cast and age-specific variants remain development work.
+
+**Wardrobe correction:** sky-blue/navy is the **daytime** Form One–Five uniform. At Professional School's night study, every student wears house/casual clothes; some dress to impress. The burgundy/green/mustard trio outfits are proposed continuity choices for the pilot's single evening and return home. Classroom access at night does not imply uniform use.
+
+Canonical spellings remain **Gideon** and **Mirabel**; the latest Giddeon/Mirable wording is treated as spelling variation. No characters have been merged or renamed.
+
+Run `python3 build_turnarounds.py` after all five images exist. The builder places images in PDF pages without retouching or cropping their pixels.

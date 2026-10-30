@@ -14,6 +14,8 @@
 
 **Neighbourhood orientation:** Ayuk lives one house north of the compound; Arey is his cousin; Noge lives next to Ayuk; Bismark is south, beside the neighbouring TV house; Robi is next to Bismark. The major tarred taxi road is five houses behind the compound, distinct from the dirt-road football space. AZI Motel is a nearby five-storey landmark. Mother's aunt lives beside the motel and runs a large poultry farm supplying the hotel and others; she is Zino's great-aunt, not the separately reported maternal aunt who was killed. The exact motel/road bearings and whether “poultry” is the intended wording remain source notes for the location bible rather than invented plot actions.
 
+**Later wardrobe/design correction:** Daytime uniform remains sky-blue/navy. Every Professional School night-revision student wears regular house/casual clothes, never uniform; some dress to impress. Zino has a handsome face and clean fade. Luc has large hands and ears alongside his high flat-top and trained older-secondary build. Gideon has a large head and nose, a small front-tooth gap, and W-shaped almost-afro hair. Keep child proportions in the opening; physical traits are identifiers, not insults. Canonical spellings stay Gideon and Mirabel; their latest typed variants do not introduce new people.
+
 ---
 
 # EPISODE 01 — “THE COURTYARD KEEPS SCORE”

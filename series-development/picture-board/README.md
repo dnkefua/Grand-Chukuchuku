@@ -4,7 +4,7 @@
 **Format:** 2D adult animation, vertical 9:16, English and Cameroon Pidgin with subtitles  
 **Status:** Development visual board. The images establish framing, character relationships, colour, and emotional progression; they are not literal reconstructions of Zino's memories.
 
-**30 October correction:** these older reference panels are not authority for day-school wardrobe or football participation. Forms One–Five wear light sky-blue short-sleeved shirts with dark-blue trousers / skirts. Luc and Gideon do not play football. The current pilot sheets in `../pilot-chapter-one/rebuild-v2/art/` reflect the uniform correction; older character/scene anchors retain their historical proposed colours pending a separate reference-art redraw.
+**Latest 30 October correction:** daytime Forms One–Five use light sky-blue shirts with dark-blue trousers/skirts. At Professional School's night revision, **every student wears regular house/casual clothes; none wears uniform**, and some dress to impress. The current pilot sheets and the revised `01_Professional_School_Night.png` reflect that correction. Earlier uniform-at-night art is superseded. Other older reference anchors remain historical concepts where their faces, clothing or football roles differ; Luc and Gideon do not play. Use the current pilot and five character turnaround sheets for those details.
 
 ## Canonical visual references
 
@@ -23,10 +23,10 @@ Use [`VISUAL_BASELINE_V1.md`](../visual-reference/VISUAL_BASELINE_V1.md) and its
 | File | Episodes supported | Story purpose | Fact boundary |
 | --- | --- | --- | --- |
 | `00_Fiango_Character_Anchor.png` | 01–06 | Establishes Zino, Gideon, Luc, Zino's mother, football, well, mango tree, and compound life. | Composite illustration based on confirmed setting and character facts. |
-| `01_Professional_School_Night.png` | 07 | Contrasts sincere revision with distraction inside the real vocational campus after hours. | Confirmed campus identity and night access; individual students and activity are composites. |
-| `02_Radio_Results.png` | 09 | Captures the Ordinary-Level radio wait, release, and the forward pull of the promise. | Radio result, 10 O-Level subjects, and uncle's promise confirmed; location and arrangement are proposed. |
-| `03_The_Long_Road.png` | 10–12 | Shows the day-long journey from Fiango to an isolated boarding school across mountains and valleys. | Journey, terrain, and school environment confirmed; route and school details proposed. |
-| `04_The_Crowd_Witness_View.png` | 34 | Marks the chapter's moral rupture through Zino, Gideon, and Luc as witnesses. | Composite of at least four recalled incidents; accused person's guilt remains unknown. |
+| `01_Professional_School_Night.png` | 25–29, 32–35 | Contrasts sincere revision with distraction and students dressing to impress in casual clothes. | Campus identity, night access and no night uniforms confirmed; exact garments, students and activity proposed. |
+| `02_Radio_Results.png` | 39–41 | Captures the Ordinary-Level radio wait, release, and the forward pull of the promise. | Radio result, 10 O-Level subjects, and uncle's promise confirmed; location and arrangement are proposed. |
+| `03_The_Long_Road.png` | 42–44 | Shows the day-long journey from Fiango to an isolated boarding school across mountains and valleys. | Journey, terrain, and school environment confirmed; route and school details proposed. |
+| `04_The_Crowd_Witness_View.png` | 33–35 | Marks the chapter's moral rupture through a proposed witness composite. | Composite of at least four recalled incidents; accused person's guilt remains unknown. Current faces/clothes follow the revised pilot. |
 | `05_Nacking_Bottle.png` | 03–05, 13–15, 30 | Shows the three-hit street-football game, its bottle targets, slippers and low-stakes pot. | The game and Zino saving lunch money are confirmed; match action is composite. No school-age drinking is depicted. |
 | `06_Between_Bells.png` | 08–12, 18–21 | Shows maths help, Luc's Bible, Gideon's social hesitation and school-courtyard energy. | Friendship traits are confirmed; individual classmates and action are composite. |
 

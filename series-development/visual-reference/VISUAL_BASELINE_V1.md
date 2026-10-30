@@ -30,8 +30,8 @@ The existing Chapter One picture-board panels remain valid for dramatic framing.
 ## Author corrections — 30 October 2026
 
 - The current character bible is [v2](../character-bible/Grand-Chukuchuku_Character_Bible_v2.pdf), with the [daily-life and character update](../character-bible/Fiango_Life_and_Characters_Update_2026-10-30.md). Its author-supplied facts supersede earlier proposed wardrobe and character action.
-- **Forms One–Five uniform:** light sky-blue short-sleeved shirts; dark-blue trousers for boys, dark-blue skirts for girls. Older white/cream/brown school art is a superseded concept. Boarding uniform is unconfirmed. Casual football clothes and Grand's adult suit are separate.
-- **Football:** Luc and Gideon do not play. Gideon sits and banters; Luc evangelises or chats. Ayuk, Arey, Noge, Bismark and Robi play with Zino. School uniforms no longer distinguish the trio by shirt colour; use faces, posture, camera bag and Bible.
+- **Forms One–Five daytime uniform:** light sky-blue short-sleeved shirts; dark-blue trousers for boys, dark-blue skirts for girls. Older white/cream/brown daytime school art is a superseded concept. Boarding uniform is unconfirmed. Night revision, casual football clothes and Grand's adult suit follow separate rules.
+- **Football:** Luc and Gideon do not play. Gideon sits and banters; Luc evangelises or chats. Ayuk, Arey, Noge, Bismark and Robi play with Zino. Daytime school uniforms do not distinguish the trio by shirt colour; use faces, posture, camera bag and Bible. Casual night-study outfits can distinguish them without changing the daytime uniform.
 - **Compound layout:** Zino's room is two apartments from Mother's front room; two shared bathrooms have short doors showing feet/lower shins. These details override assumptions drawn from a picturesque courtyard reference. The reference controls materials and mood, not a measured floor plan.
 - **Uncle:** lawyer-era suits are confirmed; the earlier casual-shirt drawing is not authority for that era. Later cocoa-store dress remains open.
 - **Neighbourhood:** the tarred pickup road is five houses behind; Azi Motel is five storeys; Mother's aunt has a poultry business next to it. Treat the new adjacency schematic as relationships, not surveyed distances or compass bearings.
@@ -47,3 +47,13 @@ The following are **C — author-supplied features**, superseding earlier **P �
 - **Tracey:** two unsuccessful GCE attempts and observing Zino's maths teaching add academic context. Neither settles age or private motives. No sexualised school-age character design or explicit scene follows from these facts.
 
 **P — age progression rule:** a single character sheet should not silently fix one physique or hair length across seven school years. The latest features guide revised older-school portraits; label opening-age variants and leave training/hair progression open until the author supplies dates.
+
+## Night wardrobe and turnaround correction — 30 October 2026
+
+**C — night revision:** no student at Professional School's night sessions wears a school uniform. Students wear regular house/casual clothes; some dress to impress. The prior blue-shirt night-study pilot images and uniform instruction are superseded. The correction does not change the daytime uniform or establish boarding colours.
+
+**P — pilot clothing continuity:** Zino: burgundy plain short-sleeved T-shirt, charcoal casual trousers; Gideon: forest-green polo, dark-brown casual trousers, camera bag; Luc: mustard/ochre T-shirt, loose navy casual trousers, Bible. Carry these proposed outfits from night study through the road and homecoming, including the cold-open and final well close-ups. Background night students also wear varied casual clothing; adults remain in their own civilian clothes. Grand's navy suit is unchanged.
+
+**C — additional visual traits:** Zino is handsome with clean fades. Luc has large hands and ears as well as his trained build/high flat-top. Gideon has a large head, prominent nose and small front-tooth gap, alongside his W-shaped hairline and fuller almost-afro. Mirabel is beautiful and slim; Lizzy has a pretty face. Canonical spellings remain **Gideon** and **Mirabel**, treating 'Giddeon' and 'Mirable' as variants.
+
+**P — five-character model set:** `../character-bible/turnarounds/` contains front, left-side and back model sheets for Zino, Luc, Gideon, Mirabel and Lizzy, with matching scale, clothing and neutral poses across views. These are later-secondary working designs around fourteen–fifteen, not real likenesses or age-ten models. Exact girls' hair, facial construction and casual garments are proposed. Use ordinary clothing and natural adolescent proportions; no sexualised framing or exaggerated sexual anatomy. Keep Lizzy and Mirabel distinct from the provisional Elianne portrait.

@@ -8,7 +8,9 @@
 
 **Fact key:** **C** confirmed recollection supplied by Zino; **FT** family testimony; **R** reported/incomplete detail; **P** proposed composite or dialogue. All dialogue below is P unless explicitly stated otherwise.
 
-**Author update — 30 October 2026:** Mirabel befriends Zino through mathematics from Form Three until his US departure. Gideon watches/banters at football and Luc evangelises/chats; neither plays. Uncle was a renowned lawyer in suits, then a cocoa trader after Christian conversion, with a large Kumba store by Zino's Form Three shipping to Douala by trailer. Father's limited education and farming are family context, not proof of a failed life. Lizzy's breakup is now resolved to Form Three. Tracey's reported experience with Form Three Zino remains an undramatized, non-graphic continuity entry pending exact ages; she is only confirmed to be an older student, not necessarily an adult. She had sat the GCE twice unsuccessfully and observed his maths pupils later pass; this establishes neither a transaction nor her exact age or private motives. Never sexualise the school-age characters. Uniform for daytime school: light sky blue short-sleeved shirts with dark blue trousers for boys and dark blue skirts for girls; night-study clothing remains separately proposed.
+**Author update — 30 October 2026:** Mirabel befriends Zino through mathematics from Form Three until his US departure. Gideon watches/banters at football and Luc evangelises/chats; neither plays. Uncle was a renowned lawyer in suits, then a cocoa trader after Christian conversion, with a large Kumba store by Zino's Form Three shipping to Douala by trailer. Father's limited education and farming are family context, not proof of a failed life. Lizzy's breakup is now resolved to Form Three. Tracey's reported experience with Form Three Zino remains an undramatized, non-graphic continuity entry pending exact ages; she is only confirmed to be an older student, not necessarily an adult. She had sat the GCE twice unsuccessfully and observed his maths pupils later pass; this establishes neither a transaction nor her exact age or private motives. Never sexualise the school-age characters. Uniform for daytime school: light sky blue short-sleeved shirts with dark blue trousers for boys and dark blue skirts for girls. **Latest correction: every night-revision student wears house/casual clothes, never school uniform; some dress to impress.** Exact garments remain proposed.
+
+**Updated visual identities:** Handsome Zino has a clean fade. Luc's large hands and ears join his high flat-top and trained, age-appropriate build. Gideon's large head and nose, small front-tooth gap and W-shaped almost-afro distinguish him without mockery. Mirabel's slim appearance and Lizzy's pretty face receive fully clothed, ordinary school-age model designs. Canonical spellings remain Gideon and Mirabel.
 
 ---
 
@@ -31,7 +33,7 @@
 **VISUAL | P:** Zino looks at the precise lines, embarrassed that his joke was careless. Gideon photographs nothing; he simply watches the craftsman leave.
 
 ### 0:52–1:22 — TWO KINDS OF WORK
-**VISUAL | C setting / P staging:** A bell. Workshop doors shut. The same corridor fills with day-school students carrying exercise books. Luc chooses a quiet room. Gideon notices who is arriving; Zino follows the yellow chalk arrows that point to classrooms.
+**VISUAL | C setting and casual-night dress / P staging:** A bell. Workshop doors shut. The same corridor fills with day-school students carrying exercise books, now in their ordinary house/casual clothes. A student smooths a carefully chosen shirt in the dark window's reflection before going in; another arrives in a plain worn T-shirt. No one wears school uniform. Luc chooses a quiet room. Gideon notices who is arriving; Zino follows the yellow chalk arrows that point to classrooms.
 
 **LUC (P):** Person fit build house. Person fit build result. Both one need work.
 
@@ -51,7 +53,7 @@
 **Fact tier:** **C** Professional School evening sessions gave some students a reason to leave home; some studied and some used the time to socialise. Zino's separate room gave him freedom to come, go and sleep late without Mother always knowing; she trusted him. **P** this evening, mother's question, route and dialogue. Trust is not blanket permission or evidence of neglect.
 
 ### 0:00–0:18 — BEFORE DARK
-**VISUAL | C setting / P action:** Zino steps from his own room with his revision book. Mother crosses toward her front room, two apartments away, carrying her teaching bag. Their paths meet by chance; she is not stationed at his door. Buckets knock at the well.
+**VISUAL | C setting and casual-night dress / P action:** Zino steps from his own room in a regular house T-shirt, revision book in hand. Mother crosses toward her front room, two apartments away, carrying her teaching bag. Their paths meet by chance; she is not stationed at his door. Buckets knock at the well.
 
 **MOTHER (P, English):** Are you going to study?
 
@@ -85,7 +87,7 @@
 **Fact tier:** **C** Students used Professional School classrooms to study around the GCE period. **P** room, question, visual arrangement and dialogue.
 
 ### 0:00–0:22 — NO AUDIENCE
-**VISUAL | C setting / P staging:** A room of students bent over books. A ceiling light hums. Zino enters late, expecting eyes on him; no one looks up. Luc has saved a corner of a desk, not a speech.
+**VISUAL | C setting and casual-night dress / P staging:** A room of students in varied ordinary clothes, bent over books. A ceiling light hums. Zino enters late, expecting eyes on him; no one looks up. Luc has saved a corner of a desk, not a speech.
 
 ### 0:22–0:55 — THE QUESTION
 **VISUAL | P:** Zino sees a question he knows. His hand starts to rise out of habit, then stops. He writes an answer slowly.
@@ -323,7 +325,7 @@
 **Fact tier:** **C** Zino witnessed such incidents; his mother, compound, well and school routines are confirmed. **P** this aftermath, symptom, dialogue and actions.
 
 ### 0:00–0:22 — WATER DOES NOT FIX IT
-**VISUAL | C setting / P action:** At the well under the mango tree, Zino scrubs soot from his uniform. Mother sets down a bucket, notices he is shaking and takes the brush from him.
+**VISUAL | C setting and casual-night dress / P action:** At the well under the mango tree, Zino scrubs soot from the casual T-shirt he wore to night revision, using drawn water in a separate basin beside the well. Mother sets down a bucket, notices he is shaking and takes the brush from him. No dirt is washed into the shared water supply.
 
 **MOTHER (P, English):** Sit down first.
 

@@ -147,10 +147,10 @@ def cast_system(c: canvas.Canvas) -> None:
     y = para(c, "Character system", "h1", M, y, W - 2*M) - 8
     y = para(c, "Every visual difference must reveal how a person acts under pressure. These images are character-development composites, not literal portraits.", "subtitle", M, y, W - 2*M) - 15
     items = [
-        ("ZINO", "Quick movement, bright attention, earth and faded blue; turns loss into a story."),
+        ("ZINO", "Handsome, clean fade and quick movement; turns loss into a story."),
         ("GRAND", "Stillness, clean navy and gold; the imagined answer to every impossible problem."),
-        ("GIDEON", "W-shaped hairline, fuller hair and camera bag; turns a skill into a paid gig."),
-        ("LUC", "High flat-top, trained shoulders and small Bible; evening weights, public faith."),
+        ("GIDEON", "Big head/nose, small tooth gap, W hairline and camera bag; always finding a gig."),
+        ("LUC", "High flat-top, big ears/hands, trained shoulders and Bible; evening weights, public faith."),
         ("MOTHER", "Teacher’s papers, practical shoes and upright control; care expressed through action."),
         ("UNCLE", "Lawyer-era suits, faith and bulk cocoa trade; family pride with unresolved limits."),
         ("MISS MUKETE", "Glass, chalk and blue/white precision; academic attention with standards."),
@@ -174,7 +174,7 @@ def cast_system(c: canvas.Canvas) -> None:
         "Zino’s father is family testimony and must remain outside Zino’s firsthand point of view.",
         "Elianne’s timing and story are unconfirmed; she receives agency before romance.",
         "The unnamed aunt, U.S. girlfriend, crypto circle and boarding cast are protected placeholders until Zino supplies the detail needed to distinguish them truthfully.",
-        "Physical traits below are proposed animation choices and must change when a real reference, correction or fictionalisation direction arrives.",
+        "Author-supplied traits govern the animation proposals below; faces, clothes and age variants remain proposals where no real reference is supplied.",
     ]
     for line in boundaries:
         y = para(c, "• " + line, "body", M, y, W - 2*M) - 6
@@ -192,7 +192,7 @@ def zino_page(c: canvas.Canvas) -> None:
     fit_image(c, image("zino"), M, 195, 246, 437)
     card(c, 312, H - 122, 240, "ZINO", "Gifted footballer, storyteller and future-builder.",
          "Ten at the opening; born 1990. Bright, witty, kind and just. Maths feels like a puzzle; science comes readily. A Catholic and former primary-school altar server. He wants to build his mother a house.",
-         "Slim, quick-footed silhouette; tapered curls, expressive brow and a fast smile; faded white vest, worn blue shorts, scuffed ball, coins and school bag.",
+         "Handsome, clean fade, curly top and slim quick-footed silhouette. Age-ten street wear: white vest and worn blue shorts. Later night-study proposal: burgundy T-shirt and charcoal casual trousers.",
          "Temper and people-pleasing coexist with ability. Loves singing; writes songs from Form Five. First demo follows boarding high school; later U.S. writing continues this history. See update for language and faith detail.")
     c.showPage()
 
@@ -225,16 +225,16 @@ def friends_page(c: canvas.Canvas) -> None:
     x, y, width = 285, H - 122, 267
     y = card(c, x, y, width, "GIDEON", "Business-minded friend and sideline banter; never a football player.",
              "Zino calls him Giddy. Camera gigs, trades and paid services; a market bread place by Form Five. Often pays; seeks Zino’s schoolwork help. Quiet with girls; loves Sophy in Forms Two–Five.",
-             "Confirmed W-shaped hairline and fuller, almost-afro hair; camera bag. Sky-blue short sleeves, dark-blue trousers. Watches and banters beside football.")
+             "Big head and nose; small front-tooth gap; W hairline and fuller hair. Camera bag. Daytime portrait: sky-blue/navy uniform. Night proposal: green polo and brown casual trousers.")
     y -= 8
     y = card(c, x, y, width, "LUC", "Faithful, candid friend; the group’s conscience.",
              "Small Bible, school preaching and Zino’s maths help. Evening training: mud-formed dumbbells and a sand-filled punching bag. Zino calls him Lucky Luc when meeting him alone. Does not play football.",
-             "Confirmed muscular build and high flat-top. Sky-blue short sleeves, dark-blue trousers. Training onset is open: retain a child’s proportions at ten; older-school portrait shows the trained build.")
+             "Muscular build, big hands/ears and high flat-top. Daytime portrait: sky-blue/navy uniform. Night proposal: mustard T-shirt and navy casual trousers. Training onset open; age-ten version stays childlike.")
     y -= 8
     card(c, x, y, width, "ELIANNE", "Previously named first love; identity/place still open.",
          "Lizzy is now confirmed as the school girlfriend: crush Form One, together Form Two, breakup Form Three. Do not merge or delete Elianne without clarification.",
          "Old school-era look is provisional. Girls’ day-school uniform is sky-blue short sleeves with a dark-blue skirt.",
-         "See the appended character update for Lizzy, Mirabel, Sophy and Tracey; new portraits are not yet supplied.")
+         "Mirabel and Lizzy now have separate three-view model proposals appended. Sophy/Tracey designs remain open; Elianne is not renamed.")
     c.showPage()
 
 
@@ -334,6 +334,11 @@ def build_pdf() -> None:
         raise FileNotFoundError("Run build_fiango_update.py first")
     with fitz.open(PDF) as core, fitz.open(update) as appendix:
         core.insert_pdf(appendix)
+        turnarounds = ROOT / "turnarounds" / "Grand-Chukuchuku_Five_Character_Turnarounds_v1.pdf"
+        if not turnarounds.exists():
+            raise FileNotFoundError("Run turnarounds/build_turnarounds.py first")
+        with fitz.open(turnarounds) as models:
+            core.insert_pdf(models)
         combined = core.tobytes(garbage=4, deflate=True)
     PDF.write_bytes(combined)
 
@@ -344,11 +349,12 @@ def package() -> None:
     legacy = (ROOT / "Grand-Chukuchuku_Character_Bible_v1.md").read_text()
     replacements = {
         "Character Bible v1 — Fiango and the wider story": "Character Bible v2 — Fiango and the wider story",
-        "Illustrated and production-ready for Chapter One age 10; later-life variants remain open.": "Illustrated design proposal for Chapter One age 10; turnarounds and later-life variants remain open.",
+        "Illustrated and production-ready for Chapter One age 10; later-life variants remain open.": "Age-ten concept and later-secondary three-view proposal supplied; age-ten/adult turnarounds and rigging remain open.",
         "**Elianne** | Zino’s first love": "**Elianne** | Previously named first love; identity/place unresolved",
         "**C — Foundation:** Elianne is identified as Zino’s first love. Her exact age, years, school, relationship arc and voice have not yet been supplied.": "**C — Foundation:** Elianne was previously named first love. Lizzy is now confirmed as the Form One crush, Form Two girlfriend and Form Three breakup. Their identities must not be merged without clarification.",
-        "**P — Distinct visual code:** Lean upright silhouette; neat white school shirt, brown shorts or trousers; compact worn Bible close to his body.": "**C / P — Revised visual code:** Muscular build from evening weights; high flat-top; small Bible. Mud-formed dumbbells and a sand-filled punching bag are confirmed training props. Light sky-blue short-sleeved shirt with dark-blue trousers. He does not play football. Training onset is open; do not give his age-ten version adult musculature.",
-        "**P — Distinct visual code:** Compact, guarded posture; olive-green striped polo over school trousers or practical shorts; cross-body camera bag; a small period-appropriate camera becomes his identifying prop.": "**C / P — Revised visual code:** W-shaped hairline and fuller, almost-afro hair; camera and cross-body bag. School uniform is sky-blue short sleeves with dark-blue trousers. Casual wardrobe remains proposed and separate.",
+        "**P — Distinct visual code:** Lean upright silhouette; neat white school shirt, brown shorts or trousers; compact worn Bible close to his body.": "**C / P — Revised visual code:** Muscular build, big hands/ears, high flat-top and small Bible. Mud-formed dumbbells and sand-filled punching bag. Sky-blue/navy uniform applies to daytime only; night-study model uses proposed mustard T-shirt and navy casual trousers. He does not play football. Training onset is open; keep age-ten proportions childlike.",
+        "**P — Distinct visual code:** Compact, guarded posture; olive-green striped polo over school trousers or practical shorts; cross-body camera bag; a small period-appropriate camera becomes his identifying prop.": "**C / P — Revised visual code:** Big head/nose, small front-tooth gap, W-shaped hairline and fuller almost-afro; camera/bag. Daytime sky-blue/navy uniform; proposed night-study green polo and brown casual trousers. No student wears a uniform at night study.",
+        "Slim, quick-footed silhouette; short tapered curls; bright, watchful eyes; expressive brow;": "Handsome, clean fade and curly top; slim quick-footed silhouette, bright eyes and expressive brow;",
         "**Elianne** | Illustrated as a proposed school-era design; chronology is open.": "**Elianne** | Provisional school-era design; identity and chronology remain open.",
         "**Zino’s Paternal Uncle** | Occasional school-fee support and promise-maker | Illustrated; name, work and financial circumstances remain open.": "**Zino’s Paternal Uncle** | Occasional school-fee support and promise-maker | Lawyer-era suit illustrated; name and financial circumstances remain open.",
         "Blue is her recurring colour, distinct from Zino’s earth tones, Gideon’s olive, and Luc’s white/brown.": "Her proposed ribbon and books distinguish her within the shared sky-blue/navy uniform. Earlier white/brown school concepts are superseded.",
@@ -367,12 +373,16 @@ def package() -> None:
             raise ValueError(f"Missing core-text anchor: {before}")
         legacy = legacy.replace(before, after)
     legacy=legacy.replace("**Performance:** His jokes land dry.", "**C — Football correction:** He does not play; he sits watching and bantering, especially when Zino loses.\n- **Performance:** His jokes land dry.")
-    md.write_text(legacy + "\n\n---\n\n" + (ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.md").read_text())
+    md.write_text(legacy + "\n\n---\n\n" + (ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.md").read_text() + "\n\n---\n\n" + (ROOT / "turnarounds" / "README.md").read_text())
     files = [PDF, md, readme, ROOT / "build_character_bible.py", ROOT / "build_fiango_update.py", ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.md", ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.pdf", ROOT / "Fiango_Neighbourhood_Adjacency_2026-10-30.svg", ROOT / "Fiango_Taxi_Motel_Poultry_2026-10-30.svg", SERIES / "writers-room" / "CONTEXT_REVIEW_2026-10-30.md", SERIES / "writers-room" / "LATEST_CHARACTER_CONTINUITY_REVIEW_2026-10-30.md"] + sorted((ROOT / "images").glob("*.png")) + [SERIES / "visual-reference" / "VISUAL_BASELINE_V1.md"]
+    files += [p for p in sorted((ROOT / "turnarounds").iterdir()) if p.suffix in {".png", ".pdf", ".md", ".json", ".py"}]
+    files += [SERIES / "writers-room" / "NIGHT_WARDROBE_AND_TURNAROUNDS_REVIEW_2026-10-30.md"]
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for file in files:
             if file.parent == ROOT / "images":
                 arc = Path("images") / file.name
+            elif file.parent == ROOT / "turnarounds":
+                arc = Path("turnarounds") / file.name
             elif file.parent == SERIES / "visual-reference":
                 arc = Path("visual-reference") / file.name
             else:

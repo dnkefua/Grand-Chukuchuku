@@ -92,6 +92,15 @@ PANELS = [
     ),
 ]
 if VERSION == "v2":
+    # The first five anchors originated in the twelve-episode outline. Their
+    # current captions must point to the expanded sixty-episode chronology.
+    current_captions = {
+        "01_Professional_School_Night.png": "Episodes 25–29 and 32–35 · Vocational classrooms open for night revision. All students wear house/casual clothes; some dress to impress. No student uniforms.",
+        "02_Radio_Results.png": "Episodes 39–41 · The Ordinary-Level radio broadcast turns waiting into public release and the uncle's school-choice/America promise.",
+        "03_The_Long_Road.png": "Episodes 42–44 · A day through mountains and valleys carries Zino from Fiango to boarding-school discipline and a different social world.",
+        "04_The_Crowd_Witness_View.png": "Episodes 33–35 · A proposed secondary-school witness composite. The accused stays unnamed; accusation never establishes guilt. Current clothing and faces follow the revised pilot.",
+    }
+    PANELS = [(name, title, current_captions.get(name, caption)) for name, title, caption in PANELS]
     PANELS.extend([
         (
             "05_Nacking_Bottle.png",
@@ -334,7 +343,7 @@ def board_cover(c: canvas.Canvas) -> None:
     if VERSION == "v2":
         c.setFont("GCSans", 8)
         c.drawString(48, 176, "30 Oct update: these older anchors retain superseded wardrobe concepts.")
-        c.drawString(48, 160, "Day school uses sky-blue shirts and dark-blue trousers / skirts. Luc and Gideon do not play.")
+        c.drawString(48, 160, "Daytime uniform: sky-blue/navy. Night revision: casual clothes; no student uniforms.")
         c.drawString(48, 144, "Use the updated pilot sheets and Character Bible v2 for current character direction.")
     c.showPage()
 
@@ -426,6 +435,7 @@ def make_package() -> None:
             ROOT / "character-bible" / "Fiango_Neighbourhood_Adjacency_2026-10-30.svg",
             ROOT / "writers-room" / "CONTEXT_REVIEW_2026-10-30.md",
             ROOT / "writers-room" / "LATEST_CHARACTER_CONTINUITY_REVIEW_2026-10-30.md",
+            ROOT / "writers-room" / "NIGHT_WARDROBE_AND_TURNAROUNDS_REVIEW_2026-10-30.md",
         ])
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for path in targets:

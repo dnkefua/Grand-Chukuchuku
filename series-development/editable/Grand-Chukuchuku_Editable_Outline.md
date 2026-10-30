@@ -38,7 +38,7 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 ## People
 
-**Zino / Nkeh Nkengzincho:** Born 1990; witty, kind, just, with temper and people-pleasing flaws. Maths feels like a puzzle; science comes readily. Catholic, primary-school altar server; secondary demands end service. Sings, writes songs from Form Five; first demo after boarding high school, later writing in America. Wants a house for Mother.
+**Zino / Nkeh Nkengzincho:** Born 1990; handsome, clean fade, witty, kind and just; temper and people-pleasing flaws. Maths feels like a puzzle. Catholic, primary altar server; secondary demands end service. Sings; writes songs from Form Five, first demo after boarding, later music in America. Wants a house for Mother.
 
 **His father:** Dies from a snake bite while spraying cocoa when Zino is two. In the family account, he cuts the bite area and tries to suck out the venom, then passes out before reaching home; his right arm is swollen. Zino has no personal recollection, so this belongs in family testimony or a prologue rather than a firsthand flashback. This is family history, not medical guidance.
 
@@ -46,9 +46,9 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 **Paternal uncle:** A renowned lawyer known for suits, later a Christian convert and cocoa trader. By Form Three he has a large Kumba store shipping trailers to Douala. He supports school at times, promises America after five A-Levels, then defers until a first degree. Legal/trading overlap, payment timing and deferral reasons remain open. He loved Zino's father; his advice about avoiding the father's path is his reported judgement, not a verdict on farming.
 
-**Gideon / Giddy:** W-shaped hairline, fuller almost-afro. Camera gigs, trades and paid services; a market bread place by Form Five. Often pays; asks Zino for schoolwork help. Quiet with girls; loves Sophy in Forms Two-Five. Watches and banters beside football; does not play.
+**Gideon / Giddy:** Big head/nose, small front-tooth gap, W hairline and fuller hair. Camera gigs, trades and paid services; market bread place by Form Five. Often pays; asks Zino for schoolwork help. Quiet with girls; loves Sophy in Forms Two-Five. Watches/banters beside football, never plays.
 
-**Luc / Lucky Luc:** God-fearing, small Bible, school preaching; no football. Muscular from evening mud-formed dumbbells and sandbag training; high flat-top. Zino's maths help and humour matter. Lucky Luc is Zino's greeting when meeting him alone. Training onset open; age-ten build stays childlike.
+**Luc / Lucky Luc:** God-fearing, small Bible, school preaching; no football. Muscular, big hands/ears, high flat-top; evening mud-formed dumbbells and sandbag. Values Zino's maths help and humour. Lucky Luc is Zino's solo greeting. Training onset open; age-ten build stays childlike.
 
 **School relationships / Miss Mukete:** Lizzy: Form One crush, girlfriend from Two, breakup in Three. Mirabel: maths friendship from Three until U.S. departure. Elianne was previously called first love; identity/place is unresolved, so do not merge her with Lizzy. Miss Mukete is the favourite chemistry teacher. New details and neutral Tracey notes are in the Fiango update.
 
@@ -64,13 +64,13 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 **The Fiango compound:** Two families, three single mothers, two bachelors and three students share a well, mango tree and two bathrooms. Zino's room is two apartments from Mother's front room. At 5:30 he fetches four buckets in two trips. The drawer usually holds 200 CFA: 100 taxi/100 school, or walk early and retain 200. Taxi on three mornings weekly.
 
-**Professional School:** A working vocational campus for building, construction and electrical training. Around June, classrooms open at night for secondary-school exam revision. Genuine individual/group study coexists with socialising, distractions and a pretext to leave home; not every student misbehaves.
+**Professional School:** Vocational campus by day, open for exam revision at night around June. All night readers wear house/casual clothes; some dress to impress. No uniforms at night. Genuine individual/group study coexists with socialising and distractions; not every student misbehaves.
 
 **Boarding high school:** Two high-school years before 2007, in a remote village a day away across mountains and valleys. Elite students, wealthy parents, white teachers and priests, discipline and bullying change Zino's world. He witnesses punishments after students jump the fence to buy food; he does not jump himself.
 
 **Jungle justice:** Zino reports witnessing at least four secondary-school incidents: crowds attack people accused of theft and burn them with tires and fuel. Depict physical harm and aftermath through his witness perspective. Accusation is never proof of guilt; an individual event's names, dates and sequence need his recollection.
 
-**Everyday texture:** Ayuk, Arey, Noge, Bismark and Robi play football; Luc/Gideon do not. Children first watch TV through an adjacent barred window, later at Ayuk's during secondary school. The tarred pickup road is five houses behind, near five-storey Azi Motel and Mother's aunt's poultry farm. Uniform: sky-blue short sleeves, dark-blue trousers/skirts.
+**Everyday texture:** Ayuk, Arey, Noge, Bismark and Robi play football; Luc/Gideon do not. TV first through an adjacent barred window, later at Ayuk's. Tarred pickup road five houses behind, near five-storey Azi Motel and Mother's aunt's poultry farm. Daytime uniform: sky-blue shirts, dark-blue trousers/skirts.
 
 ## Chronology
 

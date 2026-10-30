@@ -10,7 +10,9 @@
 
 **Author update — 30 October 2026:** The paternal uncle was a renowned lawyer remembered in suits, later a cocoa trader after giving his life to Christ. By Zino's Form Three he had opened a large cocoa store in Kumba and shipped cocoa to Douala by trailer. He loved his late brother, Zino's father, who had limited formal education and farmed cocoa. The uncle urged Zino to study so he would not follow the same constrained educational path; preserve the author's report without inventing that farming or the father was a failure. Exact legal/business overlap, conversion date, wardrobe after the career change and meaning of each warning remain to be recorded.
 
-**Uniform distinction:** Until leaving Form Five, boys wear dark blue trousers and light sky blue short-sleeved shirts; girls wear dark blue skirts and the same light sky blue shirts. These supplied day-school colours do not establish the remote boarding school's uniform. The boarding colour design remains P until the author supplies it.
+**Uniform distinction:** Until leaving Form Five, daytime school has boys in dark blue trousers and light sky blue short-sleeved shirts; girls wear dark blue skirts and the same light sky blue shirts. At Professional School night revision, every student wears regular house/casual clothes, some chosen to impress, and no school uniform. These daytime colours do not establish the remote boarding school's uniform. The boarding colour design remains P until the author supplies it.
+
+**Updated visual identities:** Zino's handsome face has a clean fade; Luc has large hands and ears with his trained, age-appropriate build/high flat-top; Gideon has a large head and nose, small front-tooth gap and W-shaped almost-afro. School-age girls' models remain fully clothed with ordinary adolescent proportions. Gideon and Mirabel remain the canonical spellings.
 
 ---
 

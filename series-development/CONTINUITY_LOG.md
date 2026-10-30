@@ -2,6 +2,18 @@
 
 This log separates confirmed additions from items that still need a date, source, or naming decision. It is the reference to update before changing a script, outline, or animation prompt.
 
+## Night-school wardrobe and character turnarounds — 30 October 2026
+
+- **C — daytime versus night:** the sky-blue/navy uniform applies to Forms One–Five daytime school. At Professional School's night revision sessions every student wears regular house/casual clothing; some dress to impress. There are no uniformed students at night. The previous pilot instruction to wear day-school uniform during night study is superseded, including its blue-shirt art.
+- **P — continuous pilot wardrobe:** Zino burgundy T-shirt/charcoal casual trousers; Gideon forest-green polo/dark-brown casual trousers/camera bag; Luc mustard T-shirt/loose navy casual trousers/Bible. These exact colours and garments are visual proposals. The cold open and homecoming from that night use the same clothes. Daytime school scenes, casual football and Grand's navy adult suit retain their separate rules.
+- **C — Zino:** handsome, clean fade haircuts; preserve his existing expressive face and adolescent proportions.
+- **C — Luc:** large hands and large ears refine his supplied trained build and high flat-top. The onset of his training remains open; the age-ten model keeps child proportions.
+- **C — Gideon:** large head, prominent nose and a small front-tooth gap join his W-shaped hairline and almost-afro hair. **Gideon** remains canonical; 'Giddeon' is a spelling variant, not another person.
+- **C / P — Mirabel and Lizzy:** Mirabel is described as beautiful and slim; 'Mirable' is treated as a spelling variant. Lizzy has a pretty face. Their school-age turnarounds use ordinary clothing, natural adolescent proportions and neutral poses; exact hair, clothes and facial construction are design proposals. Neither is automatically Elianne.
+- **P — turnaround scope:** five sheets in `character-bible/turnarounds/`, each with equally scaled front, left-side and back views. The working later-secondary age fourteen–fifteen is a design placement, not an exact dated likeness. These sheets do not replace the age-ten variants or supply a confirmed growth timeline.
+
+**Contradiction resolved:** uniform-at-night was an incorrect extension of the daytime rule. Correct all active night-study and same-evening return-home shots; preserved earlier images remain superseded development history.
+
 ## Character, music and GCE additions — 30 October 2026
 
 These later author-supplied facts extend the weekday update below. **C** means the author's recollection; **P** means a proposed dramatic/visual choice; **OPEN** means not established. Exact dialogue and staging remain proposals.
@@ -25,7 +37,7 @@ These later recollections override conflicting proposed script action and physic
 ### Answers received during this update — these resolve the open wording below
 
 - **Lizzy breakup: Form Three.** Form Four is superseded. Lizzy is the school girlfriend; Elianne's identity/place has not been explicitly reconciled, so do not merge the names.
-- **Uniform:** light sky-blue short-sleeved shirts for boys and girls; dark-blue trousers for boys and dark-blue skirts for girls. This overrides earlier proposed white/cream shirts and brown school trousers. Casual football clothes and Grand's adult suit remain separate.
+- **Daytime uniform:** light sky-blue short-sleeved shirts for boys and girls; dark-blue trousers for boys and dark-blue skirts for girls. This overrides earlier proposed white/cream shirts and brown daytime school trousers. Night revision uses regular house/casual clothes with no student uniforms. Casual football clothes and Grand's adult suit remain separate.
 - **Taxi:** one 100-CFA ride from the pickup to school on three mornings per week. This resolves the earlier ambiguous 'three times' phrase; it does not mean three taxi changes per day. Other mornings may involve walking; exact weekly days are not supplied.
 - **TV 'college':** the five secondary day-school years. Ayuk's TV belongs in that period; exact form/year of purchase is still open.
 - **Taxi route:** a major tarred road is five houses behind the compound. A five-storey **Azi Motel** is nearby. No compass direction for 'behind', exact road name, pickup coordinates or travel time has been supplied.

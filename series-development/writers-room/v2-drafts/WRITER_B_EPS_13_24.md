@@ -8,6 +8,8 @@
 
 **Author correction — 30 October 2026:** Gideon never plays football; he watches and banters. Luc never plays; he evangelises or chats. Zino's playing classmates are Ayuk, Arey, Noge, Bismark and Robi. Specific game roles remain P. Lizzy's breakup is now resolved to Form Three, correcting the earlier Form Four account; do not merge her identity with Elianne. Mirabel's friendship begins in Form Three. Sophy's Form Two–Five interest remains a nonsexual friendship-and-loyalty story. Day-school uniform: light sky blue short-sleeved shirts for all; dark blue trousers for boys, dark blue skirts for girls. Taxi use is one 100-CFA ride on three mornings weekly. “College” means the five secondary years, when Zino watches TV in Ayuk's nearby home.
 
+**Latest wardrobe/design correction:** These uniforms belong to daytime classes. All Professional School night-revision students wear house/casual clothes, with some dressing to impress; no student wears uniform there at night. Zino has a handsome face and clean fade; Luc has large hands and ears with his high flat-top/trained older-secondary build; Gideon has a large head/nose, small front-tooth gap and W-shaped almost-afro hair. School-age model poses and proportions stay ordinary and nonsexual. Canonical names remain Gideon and Mirabel.
+
 ---
 
 # EPISODE 13 — “THE LUNCH BELL”

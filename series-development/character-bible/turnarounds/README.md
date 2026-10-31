@@ -2,6 +2,8 @@
 
 Each PNG is one three-view model sheet: **front, left side and back**. The PDF collects the five sheets on separate landscape pages, with author-supplied traits distinguished from design proposals. The ZIP contains all five native-generated PNGs, the PDF, manifest, builder and visual review records.
 
+**31 October addition:** Mirabel is confirmed darker than Lizzy. Her casual sheet now reflects that contrast. `school-uniforms/` adds two matching-identity uniform turnarounds, a two-page model PDF and a same-uniform comparison. The main character package also includes these new uniform files; a separate uniform-only ZIP is available.
+
 These are proposed **later-secondary models, approximately fourteen to fifteen**, following the working school chronology. They do not replace the younger age-ten opening with older bodies, establish exact birthdays, or claim verified real likenesses. Mirabel and Lizzy are distinct new animation proposals; the older portrait of Elianne remains a different provisional character.
 
 | Character | Sheet | Distinctive features |
@@ -14,9 +16,11 @@ These are proposed **later-secondary models, approximately fourteen to fifteen**
 
 **Latest author correction:** both are Black Cameroonian girls with **low-cut natural hair**. The invented braided bob, puffs, ribbons and earlier long-haired models are superseded. Keep them distinct through angular oval versus rounder facial construction, proportions, stance and casual trouser versus full-skirt outlines. Exact crop texture/hairline, face, relative proportions and clothes remain proposals; the low-cut requirement is confirmed.
 
-The trousers and gold skirt are casual outfit proposals. In daytime school scenes, both girls still follow the supplied sky-blue shirt/dark-blue skirt uniform and keep their low cuts. Carry their different face/head shapes and proportions into those scenes; do not invent long hair to distinguish them. A uniformed lineup remains a separate drawing task.
+The trousers and gold skirt are casual outfit proposals. Daytime school uses the supplied sky-blue shirt/dark-blue skirt uniform and low cuts. The new uniform sheets preserve darker Mirabel versus lighter Lizzy, different face/head shapes and current proportions. No long hair or different uniform colours are used as identifiers.
 
 `Grand-Chukuchuku_Lizzy_Mirabel_Design_Comparison.pdf` presents the actual native front views side by side at large and small display sizes. The full PNGs retain all three views. The latest visual review is `../../writers-room/LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md`; it supersedes the prior review's approval of the girls' distinctness.
+
+The newer `../../writers-room/COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md` reviews the complexion change and same-uniform pair. Lizzy's requested body-size edit was declined and not retried; her accepted casual PNG remains unchanged. The uniform task changes her clothes only.
 
 For school-age characters, use ordinary opaque clothes, natural proportions and neutral model poses. Low-cut natural hair is fixed for these two girls; exact cut styling and clothes remain proposals. Their designs must not be mistaken for real visual references. The broader cast and age-specific variants remain development work.
 

@@ -1,6 +1,6 @@
 {
   "title": "Grand-Chukuchuku — five-character turnaround set v1",
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "author": "Nkeh Nkengzincho (Zino)",
   "age_scope": "Proposed later-secondary models, approximately 14–15; exact ages and training onset open",
   "views": [
@@ -48,7 +48,7 @@
     {
       "name": "Mirabel",
       "filename": "04_Mirabel_Turnaround.png",
-      "author_traits": "Black Cameroonian girl with low-cut natural hair; beautiful, slim build. Zino's maths friend from Form Three.",
+      "author_traits": "Black Cameroonian girl; low-cut natural hair, slim build and darker complexion than Lizzy. Zino's maths friend from Form Three.",
       "design": "Proposed angular oval face, straight brows, precise low-crop texture, teal/cream top, charcoal straight trousers and dark flats. Slim vertical outline; not Elianne.",
       "pixels": [
         1536,
@@ -58,12 +58,18 @@
     {
       "name": "Lizzy",
       "filename": "05_Lizzy_Turnaround.png",
-      "author_traits": "Black Cameroonian girl with low-cut natural hair and pretty face; Zino's school girlfriend, breakup in Form Three.",
+      "author_traits": "Black Cameroonian girl with low-cut natural hair, pretty face and lighter complexion than Mirabel; Zino's school girlfriend.",
       "design": "Proposed rounder face, arched brows, short natural crop, loose rose top, full mustard A-line skirt and cream flats. Rounded face and triangular garment outline; natural school-age proportions.",
       "pixels": [
         1536,
         1024
       ]
     }
-  ]
+  ],
+  "complexion_rule": "Mirabel is darker than Lizzy; exact illustrated shades are proposals. Preserve the contrast in casual and uniform models.",
+  "uniform_models": [
+    "school-uniforms/04_Mirabel_Uniform_Turnaround.png",
+    "school-uniforms/05_Lizzy_Uniform_Turnaround.png"
+  ],
+  "body_revision_status": "Lizzy body-size edit was declined by image safety and was not retried. Her accepted casual PNG remains unchanged; uniform model changes clothes, retaining current proportions."
 }

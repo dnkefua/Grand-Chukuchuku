@@ -1,5 +1,7 @@
 # Mirabel and Lizzy — recognition at a distance
 
+**31 October update:** Mirabel is now confirmed darker than Lizzy, and matching school-uniform turnarounds have been delivered. The actual new asset review and the body-edit limitation are recorded in `COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md`; it supersedes the earlier pending-uniform note below.
+
 **Date:** 30 October 2026.
 
 **Source:** the author rejected the first pair as almost identical, then confirmed that both are Black girls with low-cut hair. The subsequent invented bob and puffs are therefore superseded. Low-cut natural hair is a character requirement, not an optional recognition device.

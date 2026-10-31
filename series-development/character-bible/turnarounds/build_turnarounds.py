@@ -25,6 +25,11 @@ PACKAGE = SERIES / "Grand-Chukuchuku_Five_Character_Turnarounds_v1.zip"
 REVIEW = SERIES / "writers-room" / "NIGHT_WARDROBE_AND_TURNAROUNDS_REVIEW_2026-10-30.md"
 DISTANCE_REVIEW = SERIES / "writers-room" / "LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md"
 COMPARISON = ROOT / "Grand-Chukuchuku_Lizzy_Mirabel_Design_Comparison.pdf"
+UNIFORM_ROOT = ROOT / "school-uniforms"
+UNIFORM_PDF = UNIFORM_ROOT / "Grand-Chukuchuku_Mirabel_Lizzy_Uniform_Turnarounds.pdf"
+UNIFORM_COMPARISON = UNIFORM_ROOT / "Grand-Chukuchuku_Uniform_Comparison.pdf"
+UNIFORM_PACKAGE = SERIES / "Grand-Chukuchuku_School_Uniform_Characters_v1.zip"
+UNIFORM_REVIEW = SERIES / "writers-room" / "COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md"
 W, H = landscape(A4)
 PAPER = colors.HexColor("#FAF8F2")
 INK = colors.HexColor("#183C39")
@@ -49,12 +54,12 @@ CAST = [
     },
     {
         "name": "Mirabel", "filename": "04_Mirabel_Turnaround.png",
-        "author_traits": "Black Cameroonian girl with low-cut natural hair; beautiful, slim build. Zino's maths friend from Form Three.",
+        "author_traits": "Black Cameroonian girl; low-cut natural hair, slim build and darker complexion than Lizzy. Zino's maths friend from Form Three.",
         "design": "Proposed angular oval face, straight brows, precise low-crop texture, teal/cream top, charcoal straight trousers and dark flats. Slim vertical outline; not Elianne.",
     },
     {
         "name": "Lizzy", "filename": "05_Lizzy_Turnaround.png",
-        "author_traits": "Black Cameroonian girl with low-cut natural hair and pretty face; Zino's school girlfriend, breakup in Form Three.",
+        "author_traits": "Black Cameroonian girl with low-cut natural hair, pretty face and lighter complexion than Mirabel; Zino's school girlfriend.",
         "design": "Proposed rounder face, arched brows, short natural crop, loose rose top, full mustard A-line skirt and cream flats. Rounded face and triangular garment outline; natural school-age proportions.",
     },
 ]
@@ -105,19 +110,22 @@ def build() -> None:
         c.line(36, 28, W - 36, 28)
         c.setFillColor(MUTED)
         c.setFont("TurnBody", 7)
-        c.drawString(36, 16, "30 OCTOBER 2026 · Model proposals, not verified likenesses or age-ten/adult turnarounds")
+        c.drawString(36, 16, "31 OCTOBER 2026 · Model proposals, not verified likenesses or age-ten/adult turnarounds")
         c.drawRightString(W - 36, 16, f"{index:02d} / {len(CAST):02d}")
         c.showPage()
     c.save()
     manifest = {
         "title": "Grand-Chukuchuku — five-character turnaround set v1",
-        "date": "2026-10-30", "author": "Nkeh Nkengzincho (Zino)",
+        "date": "2026-10-31", "author": "Nkeh Nkengzincho (Zino)",
         "age_scope": "Proposed later-secondary models, approximately 14–15; exact ages and training onset open",
         "views": ["front", "left side", "back"],
         "source": "Author-supplied traits with proposed animation faces, clothes and age variants; native-generated images",
         "wardrobe_rule": "Daytime school uniform is sky-blue/navy. Professional School night readers wear house/casual clothes; some dress to impress. No students wear uniforms at night.",
         "spelling": {"Giddeon": "Gideon", "Mirable": "Mirabel"},
         "characters": CAST,
+        "complexion_rule": "Mirabel is darker than Lizzy; exact illustrated shades are proposals. Preserve the contrast in casual and uniform models.",
+        "uniform_models": ["school-uniforms/04_Mirabel_Uniform_Turnaround.png", "school-uniforms/05_Lizzy_Uniform_Turnaround.png"],
+        "body_revision_status": "Lizzy body-size edit was declined by image safety and was not retried. Her accepted casual PNG remains unchanged; uniform model changes clothes, retaining current proportions.",
     }
     for item in manifest["characters"]:
         with Image.open(ROOT / item["filename"]) as im:
@@ -130,40 +138,45 @@ def package() -> None:
     files += [ROOT / item["filename"] for item in CAST]
     if not REVIEW.exists():
         raise FileNotFoundError(REVIEW)
-    files += [REVIEW, DISTANCE_REVIEW, COMPARISON]
+    files += [REVIEW, DISTANCE_REVIEW, COMPARISON, UNIFORM_REVIEW]
+    files += sorted(p for p in UNIFORM_ROOT.iterdir() if p.suffix in {".png", ".pdf", ".md", ".json"})
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for path in files:
-            z.write(path, path.name)
+            arc = Path("school-uniforms") / path.name if path.parent == UNIFORM_ROOT else Path(path.name)
+            z.write(path, arc)
     OUTPUT.mkdir(parents=True, exist_ok=True)
     for path in [PDF, PACKAGE]:
         shutil.copy2(path, OUTPUT / path.name)
 
 
-def comparison() -> None:
+def comparison(uniform: bool = False) -> None:
     """Show the native front views at two display sizes using PDF clipping only."""
-    c = canvas.Canvas(str(COMPARISON), pagesize=(W, H), pageCompression=1)
+    target = UNIFORM_COMPARISON if uniform else COMPARISON
+    image_root = UNIFORM_ROOT if uniform else ROOT
+    c = canvas.Canvas(str(target), pagesize=(W, H), pageCompression=1)
     c.setTitle("Grand-Chukuchuku | Mirabel and Lizzy — distance comparison")
     c.setFillColor(PAPER)
     c.rect(0, 0, W, H, fill=1, stroke=0)
     c.setFillColor(INK)
     c.setFont("TurnBold", 20)
-    c.drawString(36, H - 35, "Mirabel and Lizzy: low-cut character designs")
-    text(c, "Both are Black Cameroonian girls with confirmed low-cut natural hair. Facial construction, proportions and casual trouser/skirt outlines distinguish them.", 36, H - 48, W - 72, 8.5)
+    c.drawString(36, H - 35, "Mirabel and Lizzy: same school uniform" if uniform else "Mirabel and Lizzy: low-cut character designs")
+    text(c, "Both have low-cut natural hair. Mirabel's darker complexion and angular face contrast with Lizzy's warmer, lighter complexion and rounder face." + (" The uniform colours match." if uniform else " The casual garments are different."), 36, H - 48, W - 72, 8.5)
     # Identical source windows preserve proportions and a common baseline.
     # Original PNG files are never cropped, retouched or resampled here.
     def front(filename: str, x: float, y: float, height: float) -> None:
         left, top, right, bottom = 145, 45, 535, 970
         scale = height / (bottom - top)
         width = (right - left) * scale
-        with Image.open(ROOT / filename) as im:
+        with Image.open(image_root / filename) as im:
             iw, ih = im.size
         c.saveState()
         clip = c.beginPath()
         clip.rect(x, y, width, height)
         c.clipPath(clip, stroke=0, fill=0)
-        c.drawImage(str(ROOT / filename), x - left * scale, y - (ih - bottom) * scale, width=iw * scale, height=ih * scale)
+        c.drawImage(str(image_root / filename), x - left * scale, y - (ih - bottom) * scale, width=iw * scale, height=ih * scale)
         c.restoreState()
-    for x, name, filename in [(95, "MIRABEL", "04_Mirabel_Turnaround.png"), (330, "LIZZY", "05_Lizzy_Turnaround.png")]:
+    names = ["04_Mirabel_Uniform_Turnaround.png", "05_Lizzy_Uniform_Turnaround.png"] if uniform else ["04_Mirabel_Turnaround.png", "05_Lizzy_Turnaround.png"]
+    for x, name, filename in [(95, "MIRABEL", names[0]), (330, "LIZZY", names[1])]:
         c.setFillColor(INK)
         c.setFont("TurnBold", 10)
         c.drawString(x, H - 90, name)
@@ -171,23 +184,62 @@ def comparison() -> None:
     x = 585
     c.setFont("TurnBold", 9)
     c.drawString(x, H - 90, "SMALL-SCREEN CHECK")
-    front("04_Mirabel_Turnaround.png", x + 10, 325, 105)
-    front("05_Lizzy_Turnaround.png", x + 92, 325, 105)
-    text(c, "<b>Mirabel</b><br/>Low natural crop; longer angular oval face/straighter brows; teal and charcoal trouser outline.<br/><br/><b>Lizzy</b><br/>Low natural crop; rounder cheeks/arched brows; rose top and full gold A-line skirt.", x, 295, W - x - 36, 9)
-    text(c, "Black identity and low-cut hair are author-confirmed. Exact crop texture, facial construction, relative proportions and outfits remain design proposals. Both retain natural school-age proportions and neutral poses.", 36, 85, W - 72, 8.5)
+    front(names[0], x + 10, 325, 105)
+    front(names[1], x + 92, 325, 105)
+    notes = "<b>Mirabel</b><br/>Deeper dark-brown complexion; slim silhouette; longer angular oval face and straighter brows.<br/><br/><b>Lizzy</b><br/>Warmer, lighter brown complexion; rounder face and current broader overall silhouette. Body proportions were not newly enlarged."
+    text(c, notes, x, 295, W - x - 36, 9)
+    text(c, "Low-cut hair, relative complexion and the sky-blue shirt/dark-blue skirt are author-supplied. Exact shades, faces and garment fit are proposals. Both remain ordinary school-age models in neutral poses.", 36, 85, W - 72, 8.5)
     c.setStrokeColor(LINE)
     c.line(36, 28, W - 36, 28)
     c.setFillColor(MUTED)
     c.setFont("TurnBody", 7)
-    c.drawString(36, 16, "30 OCTOBER 2026 · Two redesigned characters · Native sheets preserved in full")
+    c.drawString(36, 16, "31 OCTOBER 2026 · Two character models · Native sheets preserved in full")
     c.save()
     OUTPUT.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(COMPARISON, OUTPUT / COMPARISON.name)
+    shutil.copy2(target, OUTPUT / target.name)
+
+
+def uniform_models() -> None:
+    """Export the two native three-view uniform sheets without pixel editing."""
+    c = canvas.Canvas(str(UNIFORM_PDF), pagesize=(W, H), pageCompression=1)
+    c.setTitle("Grand-Chukuchuku | Mirabel and Lizzy — school uniform turnarounds")
+    for index, (name, filename, cue) in enumerate([
+        ("Mirabel", "04_Mirabel_Uniform_Turnaround.png", "Darker complexion; slim silhouette and proposed angular oval face/straighter brows."),
+        ("Lizzy", "05_Lizzy_Uniform_Turnaround.png", "Lighter warm-brown complexion; proposed rounder face/arched brows and current natural proportions."),
+    ], 1):
+        path = UNIFORM_ROOT / filename
+        with Image.open(path) as im:
+            iw, ih = im.size
+        c.setFillColor(PAPER); c.rect(0, 0, W, H, fill=1, stroke=0)
+        c.setFillColor(INK); c.setFont("TurnBold", 21)
+        c.drawString(36, H - 40, name + " — daytime school uniform")
+        text(c, "FRONT / SIDE / BACK · Low-cut natural hair · Sky-blue short-sleeved shirt / dark-blue knee-length skirt", 36, H - 54, W - 72)
+        scale = min((W - 72) / iw, (H - 160) / ih)
+        dw, dh = iw * scale, ih * scale
+        c.drawImage(str(path), (W - dw) / 2, 82 + ((H - 160) - dh) / 2, width=dw, height=dh, mask="auto")
+        text(c, cue + " Exact shades, face, fit and plain dark shoes are model proposals; uniform colours and complexion contrast are supplied.", 36, 72, W - 72)
+        c.setFillColor(MUTED); c.setFont("TurnBody", 7)
+        c.drawString(36, 16, "31 OCTOBER 2026 · Proposed later-secondary model, approximately 14–15 · Neutral pose")
+        c.drawRightString(W - 36, 16, f"{index:02d} / 02")
+        c.showPage()
+    c.save()
+    shutil.copy2(UNIFORM_PDF, OUTPUT / UNIFORM_PDF.name)
+
+
+def uniform_package() -> None:
+    files = sorted(p for p in UNIFORM_ROOT.iterdir() if p.suffix in {".png", ".pdf", ".md", ".json"}) + [UNIFORM_REVIEW]
+    with zipfile.ZipFile(UNIFORM_PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
+        for path in files:
+            z.write(path, path.name)
+    shutil.copy2(UNIFORM_PACKAGE, OUTPUT / UNIFORM_PACKAGE.name)
 
 
 if __name__ == "__main__":
     build()
     comparison()
+    uniform_models()
+    comparison(uniform=True)
     package()
+    uniform_package()
     print(PDF)
     print(PACKAGE)

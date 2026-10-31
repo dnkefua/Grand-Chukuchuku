@@ -1,7 +1,7 @@
 # GRAND-CHUKUCHUKU
 ## Fiango — daily life, neighbourhood and character update
 
-**Source:** Zino's recollections supplied on 30 October 2026.  
+**Source:** Zino's recollections supplied on 30–31 October 2026.
 **Authority:** This update supersedes conflicting proposed details in the earlier character bible, scripts and concept art.  
 **Key:** C = author-supplied recollection; P = proposed dramatic or visual treatment; OPEN = not yet settled. No suggested scene is a claimed transcript.
 
@@ -111,7 +111,7 @@ Plays. His ambition, skill, pride and temper can all surface in one ordinary str
 
 ### Mirabel
 
-**C:** Friendship begins in Form Three because of Zino's brilliance in maths and continues until he leaves for America. She is a Black girl with low-cut natural hair, described as beautiful and slim. **Mirabel** remains the canonical spelling; 'Mirable' is a spelling variant. **P — treatment:** a friendship that can outlast classrooms and distance; geometric notebook cover and careful underlining as proposed markers. Exact crop styling, face and clothes remain proposals. Do not infer romance, jealousy or a love triangle.
+**C:** Friendship begins in Form Three because of Zino's brilliance in maths and continues until he leaves for America. She is a Black girl with low-cut natural hair, beautiful/slim and darker than Lizzy. **Mirabel** remains canonical; 'Mirable' is a spelling variant. **P — treatment:** friendship beyond classrooms/distance; geometric notebook and careful underlining as proposed markers. Exact shades, crop styling, face and clothes remain proposals. Do not infer romance, jealousy or a love triangle.
 
 ### Sophy
 
@@ -266,3 +266,15 @@ The five requested sheets show equally scaled, fully clothed **front / left side
 **P — current visual system:** both retain low natural crops. Mirabel has more angular oval facial lines and a slim teal/charcoal trouser outline; Lizzy has rounder cheeks/arched brows and a rose/gold full-skirt outline. Exact crop texture, faces, relative proportions and clothes remain proposals. No exact height is established. Use the revised native PNGs and comparison PDF; earlier near-identical and long-haired models are archived.
 
 These garments are casual designs. Daytime school still puts both girls in sky-blue shirts and dark-blue skirts, retaining their low cuts. Different facial/head shapes and proportions must carry recognition when clothes match; a uniformed lineup needs a separate drawing check.
+
+## 12. Complexion and the same school uniform — 31 October 2026
+
+**C:** Mirabel's complexion is darker than Lizzy's. Keep that contrast consistent across all exposed skin and front/profile/back views. Both remain Black Cameroonian girls with low-cut natural hair.
+
+**P — completed uniform models:** two new three-view sheets show the same supplied sky-blue short-sleeved shirt and dark-blue skirt. Knee-length rendering, plain dark flats and exact shirt fit are proposed. Mirabel retains her slim outline/longer angular oval face and Lizzy her rounder face/current natural proportions; the contrast does not depend on different uniform colours or added accessories. Their faces, exact shades and garment details remain proposals.
+
+The matching-uniform images and comparison now exist in `turnarounds/school-uniforms/`, superseding the earlier note that the lineup still needs to be drawn. Animation age progression, acting and rigging remain later production work.
+
+**Implementation limit:** the image tool declined the requested Lizzy body-size edit, which was not retried. Her accepted casual PNG remains unchanged. The uniform version changes her clothes only; this update does not establish that a new body enlargement or localized anatomical change was made.
+
+Use `COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md` for the actual-file review and the uniform comparison for the small-display check.

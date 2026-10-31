@@ -167,7 +167,7 @@
 # GRAND-CHUKUCHUKU
 ## Fiango — daily life, neighbourhood and character update
 
-**Source:** Zino's recollections supplied on 30 October 2026.  
+**Source:** Zino's recollections supplied on 30–31 October 2026.
 **Authority:** This update supersedes conflicting proposed details in the earlier character bible, scripts and concept art.  
 **Key:** C = author-supplied recollection; P = proposed dramatic or visual treatment; OPEN = not yet settled. No suggested scene is a claimed transcript.
 
@@ -277,7 +277,7 @@ Plays. His ambition, skill, pride and temper can all surface in one ordinary str
 
 ### Mirabel
 
-**C:** Friendship begins in Form Three because of Zino's brilliance in maths and continues until he leaves for America. She is a Black girl with low-cut natural hair, described as beautiful and slim. **Mirabel** remains the canonical spelling; 'Mirable' is a spelling variant. **P — treatment:** a friendship that can outlast classrooms and distance; geometric notebook cover and careful underlining as proposed markers. Exact crop styling, face and clothes remain proposals. Do not infer romance, jealousy or a love triangle.
+**C:** Friendship begins in Form Three because of Zino's brilliance in maths and continues until he leaves for America. She is a Black girl with low-cut natural hair, beautiful/slim and darker than Lizzy. **Mirabel** remains canonical; 'Mirable' is a spelling variant. **P — treatment:** friendship beyond classrooms/distance; geometric notebook and careful underlining as proposed markers. Exact shades, crop styling, face and clothes remain proposals. Do not infer romance, jealousy or a love triangle.
 
 ### Sophy
 
@@ -433,12 +433,26 @@ The five requested sheets show equally scaled, fully clothed **front / left side
 
 These garments are casual designs. Daytime school still puts both girls in sky-blue shirts and dark-blue skirts, retaining their low cuts. Different facial/head shapes and proportions must carry recognition when clothes match; a uniformed lineup needs a separate drawing check.
 
+## 12. Complexion and the same school uniform — 31 October 2026
+
+**C:** Mirabel's complexion is darker than Lizzy's. Keep that contrast consistent across all exposed skin and front/profile/back views. Both remain Black Cameroonian girls with low-cut natural hair.
+
+**P — completed uniform models:** two new three-view sheets show the same supplied sky-blue short-sleeved shirt and dark-blue skirt. Knee-length rendering, plain dark flats and exact shirt fit are proposed. Mirabel retains her slim outline/longer angular oval face and Lizzy her rounder face/current natural proportions; the contrast does not depend on different uniform colours or added accessories. Their faces, exact shades and garment details remain proposals.
+
+The matching-uniform images and comparison now exist in `turnarounds/school-uniforms/`, superseding the earlier note that the lineup still needs to be drawn. Animation age progression, acting and rigging remain later production work.
+
+**Implementation limit:** the image tool declined the requested Lizzy body-size edit, which was not retried. Her accepted casual PNG remains unchanged. The uniform version changes her clothes only; this update does not establish that a new body enlargement or localized anatomical change was made.
+
+Use `COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md` for the actual-file review and the uniform comparison for the small-display check.
+
 
 ---
 
 # Grand-Chukuchuku — five character turnarounds
 
 Each PNG is one three-view model sheet: **front, left side and back**. The PDF collects the five sheets on separate landscape pages, with author-supplied traits distinguished from design proposals. The ZIP contains all five native-generated PNGs, the PDF, manifest, builder and visual review records.
+
+**31 October addition:** Mirabel is confirmed darker than Lizzy. Her casual sheet now reflects that contrast. `school-uniforms/` adds two matching-identity uniform turnarounds, a two-page model PDF and a same-uniform comparison. The main character package also includes these new uniform files; a separate uniform-only ZIP is available.
 
 These are proposed **later-secondary models, approximately fourteen to fifteen**, following the working school chronology. They do not replace the younger age-ten opening with older bodies, establish exact birthdays, or claim verified real likenesses. Mirabel and Lizzy are distinct new animation proposals; the older portrait of Elianne remains a different provisional character.
 
@@ -452,9 +466,11 @@ These are proposed **later-secondary models, approximately fourteen to fifteen**
 
 **Latest author correction:** both are Black Cameroonian girls with **low-cut natural hair**. The invented braided bob, puffs, ribbons and earlier long-haired models are superseded. Keep them distinct through angular oval versus rounder facial construction, proportions, stance and casual trouser versus full-skirt outlines. Exact crop texture/hairline, face, relative proportions and clothes remain proposals; the low-cut requirement is confirmed.
 
-The trousers and gold skirt are casual outfit proposals. In daytime school scenes, both girls still follow the supplied sky-blue shirt/dark-blue skirt uniform and keep their low cuts. Carry their different face/head shapes and proportions into those scenes; do not invent long hair to distinguish them. A uniformed lineup remains a separate drawing task.
+The trousers and gold skirt are casual outfit proposals. Daytime school uses the supplied sky-blue shirt/dark-blue skirt uniform and low cuts. The new uniform sheets preserve darker Mirabel versus lighter Lizzy, different face/head shapes and current proportions. No long hair or different uniform colours are used as identifiers.
 
 `Grand-Chukuchuku_Lizzy_Mirabel_Design_Comparison.pdf` presents the actual native front views side by side at large and small display sizes. The full PNGs retain all three views. The latest visual review is `../../writers-room/LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md`; it supersedes the prior review's approval of the girls' distinctness.
+
+The newer `../../writers-room/COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md` reviews the complexion change and same-uniform pair. Lizzy's requested body-size edit was declined and not retried; her accepted casual PNG remains unchanged. The uniform task changes her clothes only.
 
 For school-age characters, use ordinary opaque clothes, natural proportions and neutral model poses. Low-cut natural hair is fixed for these two girls; exact cut styling and clothes remain proposals. Their designs must not be mistaken for real visual references. The broader cast and age-specific variants remain development work.
 
@@ -463,3 +479,20 @@ For school-age characters, use ordinary opaque clothes, natural proportions and 
 Canonical spellings remain **Gideon** and **Mirabel**; the latest Giddeon/Mirable wording is treated as spelling variation. No characters have been merged or renamed.
 
 Run `python3 build_turnarounds.py` after all five images exist. The builder places images in PDF pages without retouching or cropping their pixels.
+
+
+---
+
+# Mirabel and Lizzy — daytime school uniform
+
+Two native-generated three-view sheets: **front, side and back**, plus a two-page PDF and a side-by-side uniform comparison PDF. The common uniform is the author's light sky-blue short-sleeved shirt and dark-blue skirt. Knee-length rendering, plain dark flats and shirt fit are proposed model choices.
+
+- **Mirabel:** darker complexion than Lizzy, slim build, proposed longer angular oval face and straighter brows.
+- **Lizzy:** warmer, lighter brown complexion, proposed rounder face/arched brows and her existing natural overall proportions. The casual source's proportions were retained; no new body enlargement was applied.
+- **Both:** Black Cameroonian girls with confirmed low-cut natural hair; proposed later-secondary models around fourteen–fifteen. Neutral full-body poses, ordinary opaque clothes, consistent identity across the views.
+
+Different uniforms, long hairstyles, badges or accessories are not the recognition method. Preserve each character's complexion/face from her casual sheet. Professional School night revision still uses casual clothes; this set is for daytime.
+
+The image tool declined the attempted Lizzy body-size edit, and it was not retried. The completed uniform image changes clothing only. The latest review is `../../../writers-room/COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md`.
+
+From the parent folder run `python3 build_turnarounds.py` after both uniform PNGs and the five casual PNGs exist. Original native PNG pixels are preserved; PDF exports only place or clip the sources for presentation.

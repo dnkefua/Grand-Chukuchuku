@@ -77,7 +77,7 @@ def page(c: canvas.Canvas, number: int, total: int, label: str) -> None:
     c.drawString(M, H - 29, "GRAND-CHUKUCHUKU")
     c.setFont("CastSans", 7.1)
     c.drawRightString(W - M, H - 29, label.upper())
-    c.drawString(M, 29, "AUTHOR-BASED CHARACTER DEVELOPMENT · 30 OCTOBER 2026")
+    c.drawString(M, 29, "AUTHOR-BASED CHARACTER DEVELOPMENT · UPDATED 31 OCTOBER 2026")
     c.setFont("CastSansB", 7.5)
     c.drawRightString(W - M, 29, f"CORE {number:02d} / {total:02d}")
 
@@ -344,6 +344,10 @@ def build_pdf() -> None:
             raise FileNotFoundError("Run turnarounds/build_turnarounds.py to build the distance comparison")
         with fitz.open(comparison) as check:
             core.insert_pdf(check)
+        uniform_root = ROOT / "turnarounds" / "school-uniforms"
+        for name in ["Grand-Chukuchuku_Mirabel_Lizzy_Uniform_Turnarounds.pdf", "Grand-Chukuchuku_Uniform_Comparison.pdf"]:
+            with fitz.open(uniform_root / name) as uniform:
+                core.insert_pdf(uniform)
         combined = core.tobytes(garbage=4, deflate=True)
     PDF.write_bytes(combined)
 
@@ -378,17 +382,21 @@ def package() -> None:
             raise ValueError(f"Missing core-text anchor: {before}")
         legacy = legacy.replace(before, after)
     legacy=legacy.replace("**Performance:** His jokes land dry.", "**C — Football correction:** He does not play; he sits watching and bantering, especially when Zino loses.\n- **Performance:** His jokes land dry.")
-    md.write_text(legacy + "\n\n---\n\n" + (ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.md").read_text() + "\n\n---\n\n" + (ROOT / "turnarounds" / "README.md").read_text())
+    md.write_text(legacy + "\n\n---\n\n" + (ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.md").read_text() + "\n\n---\n\n" + (ROOT / "turnarounds" / "README.md").read_text() + "\n\n---\n\n" + (ROOT / "turnarounds" / "school-uniforms" / "README.md").read_text())
     files = [PDF, md, readme, ROOT / "build_character_bible.py", ROOT / "build_fiango_update.py", ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.md", ROOT / "Fiango_Life_and_Characters_Update_2026-10-30.pdf", ROOT / "Fiango_Neighbourhood_Adjacency_2026-10-30.svg", ROOT / "Fiango_Taxi_Motel_Poultry_2026-10-30.svg", SERIES / "writers-room" / "CONTEXT_REVIEW_2026-10-30.md", SERIES / "writers-room" / "LATEST_CHARACTER_CONTINUITY_REVIEW_2026-10-30.md"] + sorted((ROOT / "images").glob("*.png")) + [SERIES / "visual-reference" / "VISUAL_BASELINE_V1.md"]
     files += [p for p in sorted((ROOT / "turnarounds").iterdir()) if p.suffix in {".png", ".pdf", ".md", ".json", ".py"}]
     files += [SERIES / "writers-room" / "NIGHT_WARDROBE_AND_TURNAROUNDS_REVIEW_2026-10-30.md"]
     files += [SERIES / "writers-room" / "LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md"]
+    files += [p for p in sorted((ROOT / "turnarounds" / "school-uniforms").iterdir()) if p.suffix in {".png", ".pdf", ".md", ".json"}]
+    files += [SERIES / "writers-room" / "COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md"]
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for file in files:
             if file.parent == ROOT / "images":
                 arc = Path("images") / file.name
             elif file.parent == ROOT / "turnarounds":
                 arc = Path("turnarounds") / file.name
+            elif file.parent == ROOT / "turnarounds" / "school-uniforms":
+                arc = Path("turnarounds") / "school-uniforms" / file.name
             elif file.parent == SERIES / "visual-reference":
                 arc = Path("visual-reference") / file.name
             else:

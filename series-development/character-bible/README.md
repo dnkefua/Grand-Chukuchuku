@@ -12,4 +12,6 @@ The proposed night-scene clothing is burgundy/charcoal for Zino, forest-green/da
 
 The author rejected the first Mirabel/Lizzy pair as too similar, then corrected the invented long hairstyles: both have low cuts. Current sheets keep their natural short hair while distinguishing Mirabel's angular oval face/teal-trouser outline from Lizzy's rounder face/rose-and-gold skirt outline. See the updated side-by-side comparison in `turnarounds/`. Earlier near-identical and long-haired proposals are archived and superseded.
 
+On 31 October, the author confirmed Mirabel is darker than Lizzy and requested a matching-uniform distinction. `turnarounds/school-uniforms/` now contains both three-view uniform sheets and a comparison PDF; these pages are appended to the combined bible. Mirabel's casual complexion is updated too. Lizzy's body-size edit was declined by the image tool and was not applied; her uniform model retains her accepted proportions. Review: `../writers-room/COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md`.
+
 Run `python3 build_fiango_update.py`, `python3 turnarounds/build_turnarounds.py`, then `python3 build_character_bible.py` from this directory to rebuild the update, model-sheet PDF, combined bible and packages. The turnaround builder requires all five PNGs. The combined bible appends the five model sheets after the text update.

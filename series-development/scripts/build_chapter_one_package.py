@@ -437,6 +437,7 @@ def make_package() -> None:
             ROOT / "writers-room" / "LATEST_CHARACTER_CONTINUITY_REVIEW_2026-10-30.md",
             ROOT / "writers-room" / "NIGHT_WARDROBE_AND_TURNAROUNDS_REVIEW_2026-10-30.md",
             ROOT / "writers-room" / "LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md",
+            ROOT / "writers-room" / "COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md",
         ])
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for path in targets:

@@ -71,7 +71,7 @@ def chrome(c,doc):
     c.setFillColor(PAPER);c.rect(0,0,W,H,fill=1,stroke=0)
     c.setFillColor(MUTED);c.setFont('UpdateBold',7.2);c.drawString(42,H-30,'GRAND-CHUKUCHUKU / FIANGO LIFE + CHARACTER UPDATE')
     c.setStrokeColor(LINE);c.line(42,H-39,W-42,H-39);c.line(42,42,W-42,42)
-    c.setFont('UpdateBody',7);c.drawString(42,28,'AUTHOR-SUPPLIED CONTEXT / 30 OCTOBER 2026')
+    c.setFont('UpdateBody',7);c.drawString(42,28,'AUTHOR-SUPPLIED CONTEXT / UPDATED 31 OCTOBER 2026')
     c.drawRightString(W-42,28,f'UPDATE {doc.page:02d}')
 
 def main():

@@ -2,6 +2,14 @@
 
 This log separates confirmed additions from items that still need a date, source, or naming decision. It is the reference to update before changing a script, outline, or animation prompt.
 
+## Complexion and shared school uniform — 31 October 2026
+
+- **C — complexion:** Mirabel is darker than Lizzy. Preserve this relation over face, neck, ears, arms, hands and legs in every view. Exact illustrated shades remain proposals; the contrast is supplied by the author.
+- **C / P — uniform:** both wear the confirmed light sky-blue short-sleeved shirt and dark-blue skirt. The new three-view uniform models use proposed knee-length rendering, plain dark flats and ordinary shirt fit. Low-cut natural hair remains confirmed for both.
+- **P — visual distinction:** current models retain Mirabel's slim silhouette/longer angular oval face and Lizzy's rounder face/current broader overall silhouette. Use the same uniform colours, not invented accessories or long hair, to test those identifiers.
+- **Not applied:** the requested Lizzy body-size edit was declined by the image tool and not retried. Her accepted casual PNG remains unchanged. The completed uniform task changes clothing while retaining her existing proportions; do not claim that a new body enlargement was made.
+- New assets: `character-bible/turnarounds/school-uniforms/04_Mirabel_Uniform_Turnaround.png`, `05_Lizzy_Uniform_Turnaround.png` and `Grand-Chukuchuku_Uniform_Comparison.pdf`. Latest review: `writers-room/COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md`. This supersedes the earlier note that a uniform drawing still needs to be made; animation/rigging work remains open.
+
 ## Mirabel / Lizzy recognition correction — 30 October 2026
 
 - **C — author feedback:** the first two model sheets looked almost the same, including at a distance. Their prior approval of distinctness is superseded.

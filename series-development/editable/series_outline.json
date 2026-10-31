@@ -1,7 +1,7 @@
 {
   "title": "Grand-Chukuchuku",
   "author": "Nkeh Nkengzincho (Zino)",
-  "date": "30 October 2026",
+  "date": "31 October 2026",
   "logline": "After losing his father, a gifted boy in Kumba invents an invincible hero while dreaming of building his mother a house. His pursuit of a future takes him to America, through immigration insecurity and an alleged betrayal, and eventually to Dubai, where rebuilding his fortune may be easier than finding peace.",
   "premise": "Grand-Chukuchuku follows Zino from a crowded compound in Fiango to education in America, deportation in 2019, and a new beginning in Dubai in 2020. Raised by his mother after his father dies, Zino learns to use humor, intelligence, and stories to face financial pressure, grief, and misplaced trust. Success is real, but the house he wants to build for her remains an unfinished promise.",
   "synopsis": [
@@ -29,8 +29,19 @@
     ["Professional School", "Vocational campus by day, open for exam revision at night around June. All night readers wear house/casual clothes; some dress to impress. No uniforms at night. Genuine individual/group study coexists with socialising and distractions; not every student misbehaves."],
     ["Boarding high school", "Two high-school years before 2007, in a remote village a day away across mountains and valleys. Elite students, wealthy parents, white teachers and priests, discipline and bullying change Zino's world. He witnesses punishments after students jump the fence to buy food; he does not jump himself."],
     ["Jungle justice", "Zino reports witnessing at least four secondary-school incidents: crowds attack people accused of theft and burn them with tires and fuel. Depict physical harm and aftermath through his witness perspective. Accusation is never proof of guilt; an individual event's names, dates and sequence need his recollection."],
-    ["Everyday texture", "Ayuk, Arey, Noge, Bismark and Robi play football; Luc/Gideon do not. TV first through an adjacent barred window, later at Ayuk's. Tarred pickup road five houses behind, near five-storey Azi Motel and Mother's aunt's poultry farm. Daytime uniform: sky-blue shirts, dark-blue trousers/skirts."]
+    ["Everyday texture", "Ayuk, Arey, Noge, Bismark and Robi play football; Luc/Gideon do not. TV: barred window, later Ayuk's. Pickup road five houses behind, near five-storey Azi Motel and great-aunt's poultry farm. Day school: GBHS Kumba, reported 10.7 km (route/time open). Sky-blue/navy uniform; left-chest GBHS/candle badge."]
   ],
+  "gbhs_campus": {
+    "school_name": "Government Bilingual High School Kumba",
+    "compound_distance_km": 10.7,
+    "distance_basis_and_travel_time": "OPEN",
+    "confirmed_storeys": {"forms_1_2": 1, "form_3": 2, "forms_4_5": 2, "lower_upper_sixth": 2},
+    "reported_separations_m": [500, 10, 500],
+    "relationships": "Administration opposite Form Five; adjacent Physics/Biology/Chemistry labs; canteen/merchants next to labs.",
+    "scope": "GBHS Sixth Form does not change Zino's separate boarding-school attendance; Professional School remains distinct.",
+    "proposals": "Footprints, bearings, materials, terrain, court and admin/lab/canteen heights. Exact distance endpoints open; second 500 m span includes labs/canteen near Form Five.",
+    "reference": "school-campus/campus_spec.json"
+  },
   "fiango_daily_life": {
     "source_date": "2026-10-30",
     "wake_time": "about 05:30, cocks behind Zino's room",
@@ -42,7 +53,7 @@
     "taxi_fare_cfa": 100,
     "taxi_frequency": "one morning ride on three mornings per week",
     "walking_choice": "leave early and retain the full 200 CFA for school",
-    "uniform": "Forms One-Five daytime only: light sky-blue short sleeves; dark-blue trousers boys/skirts girls. Professional School night study has NO student uniforms. Boarding colours unconfirmed.",
+    "uniform": "GBHS Kumba: wearer-left chest pocket with circular GBHS / Government Bilingual High School Kumba / lit-candle badge (crest art/colours proposed). Forms One-Five daytime only: light sky-blue short sleeves; dark-blue trousers boys/skirts girls. Professional School night study has NO student uniforms. Boarding colours unconfirmed.",
     "night_study_clothes": "Regular house/casual clothes; some dress to impress. Proposed pilot continuity: Zino burgundy T-shirt/charcoal trousers, Gideon forest-green polo/brown trousers, Luc mustard T-shirt/navy casual trousers. Same evening clothes through return home.",
     "television": "barred-window viewing first, then Ayuk's TV during secondary school, sometimes until 21:00; exact purchase year open",
     "road": "major tarred road five houses behind compound; compass direction not supplied",
@@ -124,7 +135,7 @@
         ["The Fence", "Zino witnesses students punished after jumping the boarding-school fence to buy food. The episode makes clear that he does not jump, while showing how hunger, fear, and discipline shape the whole dormitory."]
       ],
       "prompts": [
-        "Which day school did you attend with Luc and Gideon, what were your ten Ordinary-Level subjects, and what is one defining memory of Luc, Gideon, Elianne, or Miss Mukete?",
+        "What were your ten Ordinary-Level subjects at GBHS Kumba, and what is one defining school-day memory of Luc, Gideon, Elianne or Miss Mukete?",
         "What exact words did your uncle use after the Ordinary Levels, and how did you decide to take him up on the boarding-school offer?",
         "What did Professional School mean in your day school, which exam was it for, and what is one evening or jungle-justice incident you remember most clearly?",
         "What was the boarding school's name, how did you travel there, what were your five Advanced-Level subjects, and how did your uncle explain the change to his America promise?"

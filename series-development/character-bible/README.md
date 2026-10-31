@@ -1,5 +1,7 @@
 # Grand-Chukuchuku character bible
 
+**31 October campus/badge addition:** day school is **Government Bilingual High School Kumba (GBHS)**. Current Mirabel/Lizzy uniform sheets and the daytime friend portrait have a wearer's left-chest pocket/circular school-name/GBHS/candle badge. Crest colours/art remain proposed. [Campus visual pack and source limits](../school-campus/README.md). GBHS Sixth Form facilities do not move Zino's separate boarding-school years here. Professional School remains distinct, with casual clothes at night. The cumulative update now includes section 13 on campus geography and the reported 10.7 km distance.
+
 Start with `Grand-Chukuchuku_Character_Bible_v2.pdf`. It corrects the core-cast facts and appends the 30 October daily-life update, named street and school peers, daytime uniform/night casual distinction, relative-location diagram, uncle's career and open continuity questions. No real likenesses are claimed. The core is numbered separately from the appended update.
 
 The latest revision adds Luc's muscular older-school build, high flat-top and homemade evening training; Gideon's W-shaped hairline, fuller hair and Form Five market bread place; Giddy / Lucky Luc; Zino's maths, music and Catholic background; Mother's trust; and the author's GCE minimum thresholds. The revised friend portrait shows the older school-age designs. Age-ten pilot variants keep child proportions; the onset of Luc's training remains open. The old lean-Luc and generic cropped-Gideon concepts are superseded.

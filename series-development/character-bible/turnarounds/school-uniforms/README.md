@@ -6,7 +6,9 @@ Two native-generated three-view sheets: **front, side and back**, plus a two-pag
 - **Lizzy:** warmer, lighter brown complexion, proposed rounder face/arched brows and her existing natural overall proportions. The casual source's proportions were retained; no new body enlargement was applied.
 - **Both:** Black Cameroonian girls with confirmed low-cut natural hair; proposed later-secondary models around fourteen–fifteen. Neutral full-body poses, ordinary opaque clothes, consistent identity across the views.
 
-Different uniforms, long hairstyles, badges or accessories are not the recognition method. Preserve each character's complexion/face from her casual sheet. Professional School night revision still uses casual clothes; this set is for daytime.
+Both share the same **GBHS Kumba badge** on the wearer's **left chest pocket** (viewer-right frontally): GBHS, circular Government Bilingual High School Kumba lettering and a lit candle. No back badge. Badge colours/typeface/art are proposed; the [construction reference](../../../school-campus/references/GBHS_Badge_Construction.pdf) preserves exact wording. Pre-badge sheets are archived.
+
+Different uniforms, long hairstyles or individual accessories are not the recognition method. Preserve each character's complexion/face from her casual sheet. Professional School night revision still uses casual clothes without school badges; this set is for daytime.
 
 The image tool declined the attempted Lizzy body-size edit, and it was not retried. The completed uniform image changes clothing only. The latest review is `../../../writers-room/COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md`.
 

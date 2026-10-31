@@ -4,7 +4,7 @@ Series synopsis and five-chapter development workbook
 
 Based on the life of Nkeh Nkengzincho (Zino)
 
-Development draft: 30 October 2026
+Development draft: 31 October 2026
 
 Biography below is drawn from Zino's account. Structure, episode seeds, and emotional transitions are proposed for expansion, not additional biographical claims.
 
@@ -70,7 +70,7 @@ He spends roughly six months in Cameroon before moving to Dubai in 2020 to work 
 
 **Jungle justice:** Zino reports witnessing at least four secondary-school incidents: crowds attack people accused of theft and burn them with tires and fuel. Depict physical harm and aftermath through his witness perspective. Accusation is never proof of guilt; an individual event's names, dates and sequence need his recollection.
 
-**Everyday texture:** Ayuk, Arey, Noge, Bismark and Robi play football; Luc/Gideon do not. TV first through an adjacent barred window, later at Ayuk's. Tarred pickup road five houses behind, near five-storey Azi Motel and Mother's aunt's poultry farm. Daytime uniform: sky-blue shirts, dark-blue trousers/skirts.
+**Everyday texture:** Ayuk, Arey, Noge, Bismark and Robi play football; Luc/Gideon do not. TV: barred window, later Ayuk's. Pickup road five houses behind, near five-storey Azi Motel and great-aunt's poultry farm. Day school: GBHS Kumba, reported 10.7 km (route/time open). Sky-blue/navy uniform; left-chest GBHS/candle badge.
 
 ## Chronology
 
@@ -132,7 +132,7 @@ The final two high-school years move Zino to a remote village reached after a da
 
 ## Memory prompts
 
-1. Which day school did you attend with Luc and Gideon, what were your ten Ordinary-Level subjects, and what is one defining memory of Luc, Gideon, Elianne, or Miss Mukete?
+1. What were your ten Ordinary-Level subjects at GBHS Kumba, and what is one defining school-day memory of Luc, Gideon, Elianne or Miss Mukete?
 
    Notes: 
 

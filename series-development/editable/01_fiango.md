@@ -38,7 +38,7 @@ The final two high-school years move Zino to a remote village reached after a da
 
 ## Memory prompts
 
-1. Which day school did you attend with Luc and Gideon, what were your ten Ordinary-Level subjects, and what is one defining memory of Luc, Gideon, Elianne, or Miss Mukete?
+1. What were your ten Ordinary-Level subjects at GBHS Kumba, and what is one defining school-day memory of Luc, Gideon, Elianne or Miss Mukete?
 
    Notes: 
 

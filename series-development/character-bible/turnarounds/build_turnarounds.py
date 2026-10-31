@@ -30,6 +30,8 @@ UNIFORM_PDF = UNIFORM_ROOT / "Grand-Chukuchuku_Mirabel_Lizzy_Uniform_Turnarounds
 UNIFORM_COMPARISON = UNIFORM_ROOT / "Grand-Chukuchuku_Uniform_Comparison.pdf"
 UNIFORM_PACKAGE = SERIES / "Grand-Chukuchuku_School_Uniform_Characters_v1.zip"
 UNIFORM_REVIEW = SERIES / "writers-room" / "COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md"
+GBHS_REVIEW = SERIES / "writers-room" / "GBHS_KUMBA_CAMPUS_REVIEW_2026-10-31.md"
+GBHS_BADGE = SERIES / "school-campus" / "references" / "GBHS_Badge_Construction.pdf"
 W, H = landscape(A4)
 PAPER = colors.HexColor("#FAF8F2")
 INK = colors.HexColor("#183C39")
@@ -125,6 +127,7 @@ def build() -> None:
         "characters": CAST,
         "complexion_rule": "Mirabel is darker than Lizzy; exact illustrated shades are proposals. Preserve the contrast in casual and uniform models.",
         "uniform_models": ["school-uniforms/04_Mirabel_Uniform_Turnaround.png", "school-uniforms/05_Lizzy_Uniform_Turnaround.png"],
+        "school_and_badge": "GBHS: Government Bilingual High School Kumba. Wearer's left-chest pocket, circular school-name/GBHS/lit-candle badge. Placement/content supplied; badge colours/typeface/art proposed. No back badge or badge on night casual clothes.",
         "body_revision_status": "Lizzy body-size edit was declined by image safety and was not retried. Her accepted casual PNG remains unchanged; uniform model changes clothes, retaining current proportions.",
     }
     for item in manifest["characters"]:
@@ -138,7 +141,7 @@ def package() -> None:
     files += [ROOT / item["filename"] for item in CAST]
     if not REVIEW.exists():
         raise FileNotFoundError(REVIEW)
-    files += [REVIEW, DISTANCE_REVIEW, COMPARISON, UNIFORM_REVIEW]
+    files += [REVIEW, DISTANCE_REVIEW, COMPARISON, UNIFORM_REVIEW, GBHS_REVIEW, GBHS_BADGE]
     files += sorted(p for p in UNIFORM_ROOT.iterdir() if p.suffix in {".png", ".pdf", ".md", ".json"})
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for path in files:
@@ -213,11 +216,11 @@ def uniform_models() -> None:
         c.setFillColor(PAPER); c.rect(0, 0, W, H, fill=1, stroke=0)
         c.setFillColor(INK); c.setFont("TurnBold", 21)
         c.drawString(36, H - 40, name + " — daytime school uniform")
-        text(c, "FRONT / SIDE / BACK · Low-cut natural hair · Sky-blue short-sleeved shirt / dark-blue knee-length skirt", 36, H - 54, W - 72)
+        text(c, "FRONT / SIDE / BACK · GBHS Kumba · Low-cut hair · Sky-blue shirt / navy skirt · Left-chest pocket and badge", 36, H - 54, W - 72)
         scale = min((W - 72) / iw, (H - 160) / ih)
         dw, dh = iw * scale, ih * scale
         c.drawImage(str(path), (W - dw) / 2, 82 + ((H - 160) - dh) / 2, width=dw, height=dh, mask="auto")
-        text(c, cue + " Exact shades, face, fit and plain dark shoes are model proposals; uniform colours and complexion contrast are supplied.", 36, 72, W - 72)
+        text(c, cue + " Badge content/left-pocket placement supplied; crest artwork/colours, exact shades, face, fit and shoes proposed.", 36, 72, W - 72)
         c.setFillColor(MUTED); c.setFont("TurnBody", 7)
         c.drawString(36, 16, "31 OCTOBER 2026 · Proposed later-secondary model, approximately 14–15 · Neutral pose")
         c.drawRightString(W - 36, 16, f"{index:02d} / 02")
@@ -227,7 +230,7 @@ def uniform_models() -> None:
 
 
 def uniform_package() -> None:
-    files = sorted(p for p in UNIFORM_ROOT.iterdir() if p.suffix in {".png", ".pdf", ".md", ".json"}) + [UNIFORM_REVIEW]
+    files = sorted(p for p in UNIFORM_ROOT.iterdir() if p.suffix in {".png", ".pdf", ".md", ".json"}) + [UNIFORM_REVIEW, GBHS_REVIEW, GBHS_BADGE]
     with zipfile.ZipFile(UNIFORM_PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for path in files:
             z.write(path, path.name)

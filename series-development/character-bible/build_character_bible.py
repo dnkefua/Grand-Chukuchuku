@@ -389,6 +389,7 @@ def package() -> None:
     files += [SERIES / "writers-room" / "LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md"]
     files += [p for p in sorted((ROOT / "turnarounds" / "school-uniforms").iterdir()) if p.suffix in {".png", ".pdf", ".md", ".json"}]
     files += [SERIES / "writers-room" / "COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md"]
+    files += [SERIES / "writers-room" / "GBHS_KUMBA_CAMPUS_REVIEW_2026-10-31.md", SERIES / "school-campus" / "references" / "GBHS_Badge_Construction.pdf"]
     with zipfile.ZipFile(PACKAGE, "w", zipfile.ZIP_DEFLATED) as z:
         for file in files:
             if file.parent == ROOT / "images":

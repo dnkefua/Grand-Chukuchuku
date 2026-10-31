@@ -2,6 +2,12 @@
 
 An autobiographical animated thriller based on the life of Nkeh Nkengzincho, known as Zino: Fiango, education in America, deportation, and rebuilding in Dubai.
 
+## GBHS Kumba campus
+
+[Campus visual pack — 11-page PDF](series-development/school-campus/GBHS_Kumba_Campus_Visual_Pack.pdf) · [Download six PNG views, plans and sources](series-development/Grand-Chukuchuku_GBHS_Kumba_Campus_Package_v1.zip) · [View individual images](series-development/school-campus/README.md)
+
+Two aerial, two side and two eye-level **generated reconstructions**, based on the author's account. Form Three is confirmed as two storeys. GBHS Sixth Form facilities belong in the campus plan; Zino's separate boarding-school chapter remains. The current daytime uniform sheets and friend portrait now have the left-chest GBHS pocket badge; its colours/art are proposed.
+
 ## Character turnarounds
 
 Five model sheets, each with full-body **front, side and back** views. These are proposed later-secondary designs, approximately fourteen to fifteen; exact likenesses and age progression remain open.

@@ -1,5 +1,13 @@
 # GRAND-CHUKUCHUKU — Visual Baseline v1
 
+## GBHS campus and badge addition — 31 October 2026
+
+**C:** Day school is Government Bilingual High School Kumba (GBHS), reported 10.7 km from Zino's compound. Forms One–Two: one storey; Form Three, Four–Five and Lower/Upper Sixth: two storeys. The author resolved the initial Form Three ambiguity. GBHS Sixth Form does not replace Zino's separate boarding school; Professional School remains a distinct location.
+
+Use [`../school-campus/campus_spec.json`](../school-campus/campus_spec.json) and the labelled plans for reported relationships and proposed geometry. Six native campus images are photorealistic **design reconstructions**, with proposed materials, terrain, orientation and footprints. They do not establish actual architecture, survey distances or travel time. The second 500 m span includes labs/canteen locally; exact distance endpoints remain open.
+
+**C:** Sky-blue day-uniform shirt has a pocket on the **wearer's left chest**, viewer-right frontally. Round badge: **GBHS**, circular **Government Bilingual High School Kumba**, lit candle centre. Use the [badge construction reference](../school-campus/references/GBHS_Badge_Construction.pdf) for exact text. Colours/typography/candle art are **P**, not verified official crest details. No back badge or badge on night casual clothes. Updated Mirabel/Lizzy uniform sheets and the core friend portrait supersede their unbadged copies; earlier scene images remain historical concepts.
+
 These two author-supplied images are the canonical visual references for all new or revised storyboards, character art, image-generation prompts, animation turnarounds and colour scripts.
 
 | Reference | Location | What it locks |

@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "title": "Government Bilingual High School Kumba — proposed campus reconstruction",
+  "school_name": "Government Bilingual High School Kumba",
+  "abbreviation": "GBHS",
+  "source_date": "2026-10-31",
+  "source_key": {
+    "C": "Author-supplied account or follow-up clarification; not independently surveyed",
+    "P": "Proposed visual or architectural implementation",
+    "OPEN": "Not supplied or not yet determined"
+  },
+  "image_status": "Generated photorealistic location references, not real school photographs or an official survey",
+  "story_period": {
+    "value": "approximately 2000–2005",
+    "status": "P — existing working chronology of Zino's five day-school years"
+  },
+  "compound_distance": {
+    "value_km": 10.7,
+    "status": "C",
+    "from": "Zino's compound, Fiango",
+    "name_normalization": "Dino is treated as the existing Zino, not a new character",
+    "measurement_basis": "OPEN — road, walking route or straight line not specified",
+    "route_geometry": null
+  },
+  "clarifications": {
+    "form_three_storeys": {
+      "value": 2,
+      "status": "C — author follow-up resolves the initially contradictory grouping"
+    },
+    "sixth_form_on_campus": {
+      "value": true,
+      "status": "C — Lower and Upper Sixth belong to GBHS campus"
+    },
+    "zino_boarding_attendance_changed": {
+      "value": false,
+      "status": "The separate two-year boarding-school chapter remains unchanged; campus membership is not attendance evidence"
+    }
+  },
+  "coordinate_system": {
+    "units": "metres",
+    "status": "P — reconstruction coordinates, not measured geography",
+    "positive_x": "display-left to display-right; west-to-east shorthand only",
+    "positive_y": "upward on the plan",
+    "true_compass_bearing": null,
+    "extent": {"x_min": -40, "x_max": 1330, "y_min": -130, "y_max": 170},
+    "extent_status": "P — illustration frame only, not actual campus boundary or land area",
+    "circulation_spine_y": 35,
+    "circulation_spine_status": "P"
+  },
+  "buildings": [
+    {
+      "id": "forms_1_2",
+      "label": "Forms One–Two",
+      "rect": {"x_min": 0, "x_max": 80, "y_min": 0, "y_max": 14},
+      "rect_status": "P",
+      "storeys": 1,
+      "storeys_status": "C — reported one-storey zone",
+      "functions": ["Form One classrooms", "Form Two classrooms"],
+      "internal_allocation_status": "OPEN — no room counts or class split supplied"
+    },
+    {
+      "id": "form_3",
+      "label": "Form Three",
+      "rect": {"x_min": 580, "x_max": 620, "y_min": 0, "y_max": 16},
+      "rect_status": "P",
+      "storeys": 2,
+      "storeys_status": "C — confirmed by author follow-up",
+      "functions": ["Form Three classrooms"]
+    },
+    {
+      "id": "forms_4_5",
+      "label": "Forms Four–Five",
+      "rect": {"x_min": 630, "x_max": 710, "y_min": 0, "y_max": 16},
+      "rect_status": "P",
+      "storeys": 2,
+      "storeys_status": "C",
+      "functions": ["Form Four classrooms", "Form Five classrooms"],
+      "proposed_subzones": [
+        {"label": "Form Four", "rect": {"x_min": 630, "x_max": 670, "y_min": 0, "y_max": 16}},
+        {"label": "Form Five", "rect": {"x_min": 670, "x_max": 710, "y_min": 0, "y_max": 16}}
+      ],
+      "subzone_status": "P — exact allocation not supplied"
+    },
+    {
+      "id": "sixth_form",
+      "label": "Lower / Upper Sixth",
+      "rect": {"x_min": 1210, "x_max": 1290, "y_min": 0, "y_max": 16},
+      "rect_status": "P",
+      "storeys": 2,
+      "storeys_status": "C",
+      "functions": ["Lower Sixth classrooms", "Upper Sixth classrooms"],
+      "internal_allocation_status": "OPEN — no floor or room split supplied",
+      "boarding_status": "Not established; do not draw or label as a dormitory"
+    },
+    {
+      "id": "administration",
+      "label": "Administration",
+      "rect": {"x_min": 665, "x_max": 710, "y_min": 75, "y_max": 95},
+      "rect_status": "P",
+      "storeys": 1,
+      "storeys_status": "P — actual administrative height OPEN",
+      "functions": ["Administrative offices"],
+      "relationship": "C — opposite Form Five"
+    },
+    {
+      "id": "laboratories",
+      "label": "Physics / Biology / Chemistry laboratories",
+      "rect": {"x_min": 722, "x_max": 782, "y_min": 0, "y_max": 24},
+      "rect_status": "P",
+      "storeys": 1,
+      "storeys_status": "P — actual lab height OPEN",
+      "functions": ["Physics laboratory", "Biology laboratory", "Chemistry laboratory"],
+      "functions_status": "C",
+      "internal_layout_status": "OPEN — exact room arrangement not supplied",
+      "relationship": "C — adjacent to Form Five"
+    },
+    {
+      "id": "canteen",
+      "label": "Canteen / food merchants",
+      "rect": {"x_min": 794, "x_max": 834, "y_min": 0, "y_max": 24},
+      "rect_status": "P",
+      "storeys": 1,
+      "storeys_status": "P — proposed open-sided pavilion; actual structure OPEN",
+      "functions": ["Food stalls and merchants"],
+      "functions_status": "C",
+      "relationship": "C — next to laboratory block"
+    }
+  ],
+  "reported_separations": [
+    {
+      "id": "junior_to_middle",
+      "from": "forms_1_2",
+      "to": "forms_3_5_zone",
+      "distance_m": 500,
+      "distance_status": "C",
+      "measurement_basis": "OPEN",
+      "proposed_edge_points": [[80, 8], [580, 8]],
+      "proposed_edge_separation_m": 500,
+      "implementation_status": "P — east edge of Forms One–Two to west edge of Form Three"
+    },
+    {
+      "id": "form_3_to_forms_4_5",
+      "from": "form_3",
+      "to": "forms_4_5",
+      "distance_m": 10,
+      "distance_status": "C",
+      "measurement_basis": "OPEN — exact endpoints not supplied",
+      "proposed_edge_points": [[620, 8], [630, 8]],
+      "proposed_edge_separation_m": 10,
+      "implementation_status": "P — usable clear lane between proposed block edges"
+    },
+    {
+      "id": "middle_to_sixth",
+      "from": "forms_3_5_zone",
+      "to": "sixth_form",
+      "distance_m": 500,
+      "distance_status": "C",
+      "measurement_basis": "OPEN",
+      "proposed_edge_points": [[710, 8], [1210, 8]],
+      "proposed_edge_separation_m": 500,
+      "implementation_status": "P — east edge of Forms Four–Five to west edge of Sixth Form; labs/canteen locally occupy this span, leaving proposed 376 m open beyond canteen"
+    }
+  ],
+  "adjacencies": [
+    {"a": "administration", "b": "form_5_subzone", "relation": "opposite", "status": "C", "court_size_status": "P"},
+    {"a": "laboratories", "b": "form_5_subzone", "relation": "adjacent", "status": "C", "gap_in_plan_m": 12, "gap_status": "P"},
+    {"a": "canteen", "b": "laboratories", "relation": "next to", "status": "C", "gap_in_plan_m": 12, "gap_status": "P"}
+  ],
+  "uniform_badge": {
+    "pocket_location": "wearer's left chest; viewer-right in a frontal view",
+    "placement_status": "C",
+    "shape": "circular",
+    "abbreviation": "GBHS",
+    "circular_text": "Government Bilingual High School Kumba",
+    "central_symbol": "candle with light/flame",
+    "content_status": "C",
+    "colours_border_typeface_candle_art": "P / OPEN — original badge reference not supplied",
+    "back_of_shirt": "no badge",
+    "profile_visibility": "depends on which side is visible; do not duplicate onto the wrong side"
+  },
+  "visual_treatment": {
+    "status": "P",
+    "architecture": "weathered cream/ochre rendered masonry, grey/rust corrugated roofs, open verandas and upper-floor railings/stairs",
+    "landscape": "humid tropical Cameroon; red-earth paths, grass/open ground and mango/palm/banana vegetation",
+    "long_gap_rule": "Keep broad landscape separation between three academic zones. The second 500 m span includes labs/canteen near Form Five; remaining open ground after canteen is 376 m in this proposal, not an uninterrupted clear 500 m strip",
+    "daytime_people": "anonymous fully clothed students in supplied daytime uniform; merchants by the canteen; no real portraits or named incidents",
+    "avoid": ["modern smartphones", "contemporary sponsorship", "invented crest motto", "American-campus styling", "invented dormitory", "claiming actual satellite or surveyed imagery"]
+  },
+  "shots": [
+    {
+      "id": "A01",
+      "category": "aerial",
+      "title": "Whole-campus oblique aerial",
+      "camera_proposed_xyz": [645, -850, 650],
+      "target_proposed_xyz": [645, 20, 0],
+      "must_show": ["forms_1_2", "form_3", "forms_4_5", "administration", "laboratories", "canteen", "sixth_form", "both long landscape gaps"],
+      "note": "Preserve left/central/right zones and different building heights; no true geographic bearing is claimed"
+    },
+    {
+      "id": "A02",
+      "category": "aerial",
+      "title": "High-angle aerial / whole-campus reference",
+      "camera_proposed_xyz": [645, -500, 950],
+      "target_proposed_xyz": [645, 20, 0],
+      "must_show": ["full same-plan extent", "both reported 500 m spans, including labs/canteen locally in the second", "10 m lane", "Administration opposite Form Five", "lab/canteen sequence"],
+      "note": "Delivered higher-angle perspective, not vertical satellite imagery. Labelled plan supplies overhead geometry. A true-overhead trial added roofs and was excluded"
+    },
+    {
+      "id": "S01",
+      "category": "side",
+      "title": "Main academic side-oblique",
+      "camera_proposed_xyz": [555, -90, 6],
+      "target_proposed_xyz": [700, 8, 6],
+      "must_show": ["two-storey Form Three", "10 m opening", "two-storey Forms Four–Five", "lower lab block", "canteen"],
+      "note": "Administration is across the court behind this direction, not relocated into the classroom/lab row"
+    },
+    {
+      "id": "S02",
+      "category": "side",
+      "title": "Lower / Upper Sixth side view",
+      "camera_proposed_xyz": [1160, -100, 6],
+      "target_proposed_xyz": [1250, 8, 6],
+      "must_show": ["two-storey Sixth Form building", "long open approach"],
+      "note": "Do not place main academic blocks immediately beside this building or call it boarding accommodation"
+    },
+    {
+      "id": "E01",
+      "category": "eye_level",
+      "title": "The 10 m passage",
+      "camera_proposed_xyz": [625, -15, 1.6],
+      "target_proposed_xyz": [625, 16, 1.6],
+      "must_show": ["two-storey Form Three on one side", "two-storey Forms Four–Five on the other", "usable open lane", "ordinary school-day activity"],
+      "note": "The passage is not a doorway or corridor inside one building"
+    },
+    {
+      "id": "E02",
+      "category": "eye_level",
+      "title": "Administration toward Form Five, labs and canteen",
+      "camera_proposed_xyz": [660, 72, 1.6],
+      "target_proposed_xyz": [690, 8, 1.6],
+      "must_show": ["Form Five opposite", "labs to viewer-left", "canteen farther viewer-left", "food merchants next to labs"],
+      "note": "View from Administration-side court/veranda; a foreground column may establish the near building without relocating it"
+    }
+  ],
+  "open_items": [
+    "Actual compass bearings and satellite coordinates",
+    "Gate/road locations and real site boundary",
+    "Measured building footprints, classroom counts, roof/paint references and terrain",
+    "Measurement basis/endpoints of the 500 m and 10 m descriptions",
+    "Road/footpath/straight-line basis and route for the 10.7 km compound distance",
+    "Exact Form One/Two and Lower/Upper Sixth classroom allocations",
+    "Administrative and laboratory building heights",
+    "Original badge colours, border, typeface, candle design and pocket dimensions"
+  ]
+}

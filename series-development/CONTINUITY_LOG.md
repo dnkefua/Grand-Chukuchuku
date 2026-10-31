@@ -2,6 +2,15 @@
 
 This log separates confirmed additions from items that still need a date, source, or naming decision. It is the reference to update before changing a script, outline, or animation prompt.
 
+## GBHS Kumba campus and badge — 31 October 2026
+
+- **C:** Government Bilingual High School Kumba (GBHS) is Zino's day school. Reported compound distance: **10.7 km**. “Dino” is treated as Zino. Distance basis, route and travel time are OPEN; do not invent a short walk from the dawn routine.
+- **C:** Forms One–Two are one storey. The author resolved **Form Three as two storeys**; Forms Four–Five and Lower/Upper Sixth are two storeys. Form Three to Forms Four–Five: **10 m**; junior to middle zone: **500 m**; middle to Sixth: **500 m**. Exact measurement endpoints remain OPEN.
+- **C:** Administration opposite Form Five; Physics/Biology/Chemistry labs adjacent; canteen and merchants next to labs. **P:** orientation, footprints, combined blocks, materials, court, terrain and admin/lab/canteen heights. The proposed second 500 m span includes labs/canteen near Form Five, leaving 376 m after the canteen; it is not an uninterrupted clear 500 m strip.
+- **C:** GBHS Sixth Form belongs in the campus layout. Zino's separate two-year remote boarding-school attendance is unchanged. Professional School remains a separate vocational/night-revision location.
+- **C:** Day-uniform pocket on the wearer's **left chest**, with circular **GBHS / Government Bilingual High School Kumba / lit candle** badge. Viewer-right in a frontal drawing, no back badge. **P:** colours, border, typeface and candle art pending an original reference. No badge on night casual clothes.
+- **Implementation:** six generated campus reference images, labelled plans and badge construction in `school-campus/`. Uniform Mirabel/Lizzy sheets and core daytime portrait updated; pre-badge images archived. These are reconstructions, not actual photographs or a surveyed site. Primary-agent final review is recorded separately; no independent final critic approval is claimed after worker usage limits.
+
 ## Complexion and shared school uniform — 31 October 2026
 
 - **C — complexion:** Mirabel is darker than Lizzy. Preserve this relation over face, neck, ears, arms, hands and legs in every view. Exact illustrated shades remain proposals; the contrast is supplied by the author.

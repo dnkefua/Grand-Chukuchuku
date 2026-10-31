@@ -248,6 +248,7 @@ def package():
     includes+=[SERIES/'writers-room'/'CONTEXT_REVIEW_2026-10-30.md',SERIES/'writers-room'/'LATEST_CHARACTER_CONTINUITY_REVIEW_2026-10-30.md',SERIES/'writers-room'/'NIGHT_WARDROBE_AND_TURNAROUNDS_REVIEW_2026-10-30.md',SERIES/'character-bible'/'Fiango_Life_and_Characters_Update_2026-10-30.md',SERIES/'character-bible'/'Fiango_Life_and_Characters_Update_2026-10-30.pdf']
     includes+=[SERIES/'writers-room'/'LIZZY_MIRABEL_DISTANCE_REVIEW_2026-10-30.md']
     includes+=[SERIES/'writers-room'/'COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md']
+    includes+=[SERIES/'writers-room'/'GBHS_KUMBA_CAMPUS_REVIEW_2026-10-31.md']
     with zipfile.ZipFile(PACKAGE,'w',zipfile.ZIP_DEFLATED)as z:
         for file in includes:
             if file.exists():

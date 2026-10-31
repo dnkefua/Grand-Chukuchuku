@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-31",
+  "tool": "image_gen.imagegen",
+  "status": "Generated photorealistic reconstruction, not actual school photography",
+  "images": [
+    {
+      "file": "images/01_Aerial_Oblique.png",
+      "native_source": "/workspace/generated_images/exec-124bdbcc-b4b7-4e1d-9bbd-c94d65a22a17.png",
+      "pixels": [
+        2006,
+        784
+      ],
+      "sha256": "f41b8a4e7dbb729d5bd0794d900ee9e9c2512af17c968d630b139b35bde8a2ad",
+      "pixel_handling": "native output copied unchanged; original retained"
+    },
+    {
+      "file": "images/02_Aerial_High_Angle.png",
+      "native_source": "/workspace/generated_images/exec-d4bca1bb-9b0b-4dcb-b245-6f09e4d8a77c.png",
+      "pixels": [
+        2006,
+        784
+      ],
+      "sha256": "a39837f908aca4e32f66335c8a400713033bc4c21004e2e3ddf977a2ec0f349c",
+      "pixel_handling": "native output copied unchanged; original retained"
+    },
+    {
+      "file": "images/03_Main_Blocks_Side.png",
+      "native_source": "/workspace/generated_images/exec-9ec66113-3d7b-4492-b477-e911ec2c2c11.png",
+      "pixels": [
+        2006,
+        784
+      ],
+      "sha256": "89ff80013810c8f509f1fb9df058a7d587d6be0bf1b088d3481e33a74aed92f2",
+      "pixel_handling": "native output copied unchanged; original retained"
+    },
+    {
+      "file": "images/04_Sixth_Form_Side.png",
+      "native_source": "/workspace/generated_images/exec-58b23a0d-8fba-4838-aa8a-555ea6a21359.png",
+      "pixels": [
+        2006,
+        784
+      ],
+      "sha256": "38b6d29ef209da65f16381ff8625ad71095511d9f3b3cfb99a0d298f258c0018",
+      "pixel_handling": "native output copied unchanged; original retained"
+    },
+    {
+      "file": "images/05_Form_Three_Gap_Eye_Level.png",
+      "native_source": "/workspace/generated_images/exec-5e1b4b0c-10ef-49e1-a256-a9e7ab2699cb.png",
+      "pixels": [
+        2006,
+        784
+      ],
+      "sha256": "7b9f67eaeacbbe13cb49eb386cb567d8433cf6a1ba3c0b31c1f805239503dad6",
+      "pixel_handling": "native output copied unchanged; original retained"
+    },
+    {
+      "file": "images/06_Admin_Labs_Canteen_Eye_Level.png",
+      "native_source": "/workspace/generated_images/exec-78d1da79-50df-4a6c-bbcf-ad7157b991af.png",
+      "pixels": [
+        2006,
+        784
+      ],
+      "sha256": "055a14eeec5687747b81a9f07f8f066ec543db3bd7a7943ad426177cd88208dc",
+      "pixel_handling": "native output copied unchanged; original retained"
+    }
+  ],
+  "excluded_trials": [
+    {
+      "native_source": "exec-3949cbdf-2f46-4fc1-9ad1-cbad9515771d.png",
+      "reason": "First A01 too compact; second accepted."
+    },
+    {
+      "native_source": "exec-6ea88f7b-44d8-4c2b-9438-c2fe714a3928.png",
+      "reason": "Overhead trial added extra roofs; excluded. Delivered A02 is high-angle candidate."
+    }
+  ],
+  "character_badge_edits": {
+    "Mirabel": "exec-a478192c-c1a2-474a-ae6d-be149f241401.png",
+    "Lizzy": "exec-5eb4db1d-38a6-4008-9ccd-7d7c8192a62a.png",
+    "core_friends_and_Elianne": "exec-8dd42370-8253-465e-bfb5-97bedb62b603.png"
+  }
+}

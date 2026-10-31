@@ -445,6 +445,20 @@ The matching-uniform images and comparison now exist in `turnarounds/school-unif
 
 Use `COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md` for the actual-file review and the uniform comparison for the small-display check.
 
+## 13. GBHS Kumba — campus, distance and badge
+
+**C:** Zino's day school is **Government Bilingual High School Kumba (GBHS)**, reported **10.7 km** from his compound. “Dino” is treated as a spelling slip for Zino. The route, distance basis and journey time remain OPEN; the 5:30 routine does not establish a short walk.
+
+**C:** Forms One–Two occupy the one-storey zone. The author's follow-up confirms **Form Three is two storeys**; Forms Four–Five and Lower/Upper Sixth are also two storeys. Form Three stands **10 m** from Forms Four–Five. The junior zone is **500 m** from Forms Three–Five, which is another **500 m** from Sixth Form. Administration is opposite Form Five; the adjacent laboratory block contains Physics, Biology and Chemistry; the canteen and merchants are next to the labs.
+
+**C — attendance boundary:** Sixth Form facilities belong to GBHS's campus. Zino's two high-school years still take place at his separate remote boarding school. Professional School remains the vocational campus used for night revision, not another name for GBHS.
+
+**C — badge:** the sky-blue daytime shirt has a pocket on the wearer's **left chest**, viewer-right in a front view. A round badge contains **GBHS**, **Government Bilingual High School Kumba** around the circle, and a lit candle in the centre. No badge on backs or casual night clothes. **P:** exact colours, border, lettering style and candle drawing await an original school badge reference.
+
+**P — visual reconstruction:** the new campus pack contains two aerial, two side and two eye-level images plus labelled diagrams. Proposed orientation, footprints, combined blocks, landscape, paint/roofs and administrative/lab/canteen heights are not independently verified. Exact measurement endpoints are OPEN. The second proposed 500 m span locally includes labs/canteen and leaves 376 m of open ground beyond them; it is not all unobstructed landscape. The high-angle aerial is not a vertical satellite image.
+
+**Implementation:** Mirabel/Lizzy uniform turnarounds and the core daytime friend portrait now carry the badge, with original identities and props retained. Elianne remains provisional and is not relabelled as Lizzy or Mirabel. Pre-badge versions are archived. Refer to `../school-campus/README.md` and `GBHS_KUMBA_CAMPUS_REVIEW_2026-10-31.md` for source and review limits.
+
 
 ---
 
@@ -491,7 +505,9 @@ Two native-generated three-view sheets: **front, side and back**, plus a two-pag
 - **Lizzy:** warmer, lighter brown complexion, proposed rounder face/arched brows and her existing natural overall proportions. The casual source's proportions were retained; no new body enlargement was applied.
 - **Both:** Black Cameroonian girls with confirmed low-cut natural hair; proposed later-secondary models around fourteen–fifteen. Neutral full-body poses, ordinary opaque clothes, consistent identity across the views.
 
-Different uniforms, long hairstyles, badges or accessories are not the recognition method. Preserve each character's complexion/face from her casual sheet. Professional School night revision still uses casual clothes; this set is for daytime.
+Both share the same **GBHS Kumba badge** on the wearer's **left chest pocket** (viewer-right frontally): GBHS, circular Government Bilingual High School Kumba lettering and a lit candle. No back badge. Badge colours/typeface/art are proposed; the [construction reference](../../../school-campus/references/GBHS_Badge_Construction.pdf) preserves exact wording. Pre-badge sheets are archived.
+
+Different uniforms, long hairstyles or individual accessories are not the recognition method. Preserve each character's complexion/face from her casual sheet. Professional School night revision still uses casual clothes without school badges; this set is for daytime.
 
 The image tool declined the attempted Lizzy body-size edit, and it was not retried. The completed uniform image changes clothing only. The latest review is `../../../writers-room/COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md`.
 

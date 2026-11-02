@@ -2,6 +2,10 @@
 
 Six **generated photorealistic reconstructions** for the animated series, based on the author's account. These are location/design references, not real school photographs or a measured campus survey.
 
+## Current canon update
+
+Read [GBHS campus adjustments v2](GBHS_Kumba_Campus_Adjustments_v2.md) before using the v1 images or plans. It adds the soccer field, aligned sports strip, Food and Nutrition building, long-jump court by the cafeteria, access road, concrete-block perimeter fence and the surrounding houses/vegetation. The [uniform and discipline policy v2](../character-bible/turnarounds/school-uniforms/GBHS_Uniform_and_Discipline_Policy_v2.md) is the authority for the three-pocket jacket and badge-inspection scenes.
+
 [Open the 11-page visual pack](GBHS_Kumba_Campus_Visual_Pack.pdf) · [Download images, plans and sources](../Grand-Chukuchuku_GBHS_Kumba_Campus_Package_v1.zip)
 
 | View | Image |

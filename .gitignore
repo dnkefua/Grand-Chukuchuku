@@ -1,2 +1,11 @@
 __pycache__/
 *.py[cod]
+
+# media stays out of git (too large for GitHub)
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.m4a
+*.aac

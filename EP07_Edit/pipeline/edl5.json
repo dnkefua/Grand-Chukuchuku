@@ -1,0 +1,1856 @@
+[
+{
+"k": "01",
+"src": "/tmp/ed/seg3/01.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [],
+"laughs": [],
+"start": 0
+},
+{
+"k": "02",
+"src": "/tmp/ed/seg3/02.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"coins_tin",
+0.8,
+-10
+]
+],
+"laughs": [],
+"start": 2.962
+},
+{
+"k": "CU_L01",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L01.mp4",
+"ss": 0,
+"dur": 5.078141,
+"speed": 1,
+"lines": [
+[
+"L01",
+0.15
+]
+],
+"cues": [],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_GIDEON.mp3",
+4.678140999999999,
+0.5
+]
+],
+"crop": 0,
+"start": 5.924
+},
+{
+"k": "M04",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/MOD_04.mp4",
+"ss": 0,
+"dur": 2.6,
+"speed": 1,
+"lines": [],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 11.002141
+},
+{
+"k": "CU_L02",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L02.mp4",
+"ss": 0,
+"dur": 10.122857,
+"speed": 1,
+"lines": [
+[
+"L02",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 13.602141
+},
+{
+"k": "05",
+"src": "/tmp/ed/seg3/05.mp4",
+"ss": 0,
+"dur": 2.4,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"knuckles",
+0.3,
+-4
+]
+],
+"laughs": [],
+"start": 23.724998
+},
+{
+"k": "CU_L03",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L03.mp4",
+"ss": 0,
+"dur": 2.812698,
+"speed": 1,
+"lines": [
+[
+"L03",
+0.15
+]
+],
+"cues": [],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_KIDS_GIGGLE.mp3",
+2.5126980000000003,
+0.45
+]
+],
+"crop": 0.8,
+"start": 26.124997999999998
+},
+{
+"k": "CU_L04",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L04.mp4",
+"ss": 0,
+"dur": 3.44,
+"speed": 1,
+"lines": [
+[
+"L04",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 28.937696
+},
+{
+"k": "07",
+"src": "/tmp/ed/seg3/07.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"kick_hard",
+1.8,
+0
+],
+[
+"whoosh_fast",
+1.85,
+-10
+]
+],
+"laughs": [],
+"start": 32.377696
+},
+{
+"k": "08",
+"src": "/tmp/ed/seg3/08.mp4",
+"ss": 0,
+"dur": 2.4,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"run_steps",
+0.0,
+-8
+],
+[
+"dribble_taps",
+0.3,
+-6
+]
+],
+"laughs": [],
+"start": 35.339696
+},
+{
+"k": "CU_L05",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L05.mp4",
+"ss": 0,
+"dur": 2.53356,
+"speed": 1,
+"lines": [
+[
+"L05",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 37.739696
+},
+{
+"k": "CU_L06",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L06.mp4",
+"ss": 0,
+"dur": 2.3022,
+"speed": 1,
+"lines": [
+[
+"L06",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 40.273256
+},
+{
+"k": "10",
+"src": "/tmp/ed/seg3/10.mp4",
+"ss": 0,
+"dur": 2.4,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"dribble_taps",
+0.0,
+-6
+],
+[
+"kick_hard",
+0.9,
+-3
+],
+[
+"ball_roll",
+1.0,
+-10
+]
+],
+"laughs": [],
+"start": 42.575456
+},
+{
+"k": "CU_L07",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L07.mp4",
+"ss": 0,
+"dur": 1.491474,
+"speed": 1,
+"lines": [
+[
+"L07",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 44.975456
+},
+{
+"k": "11",
+"src": "/tmp/ed/seg3/11.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"run_steps",
+0.0,
+-6
+],
+[
+"kick_hard",
+1.0,
+-4
+]
+],
+"laughs": [],
+"start": 46.46693
+},
+{
+"k": "12",
+"src": "/tmp/ed/seg3/12.mp4",
+"ss": 0,
+"dur": 2.4,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"run_steps",
+0.0,
+-4
+],
+[
+"dribble_taps",
+0.2,
+-4
+]
+],
+"laughs": [],
+"start": 49.42893
+},
+{
+"k": "CU_L08",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L08.mp4",
+"ss": 0,
+"dur": 1.201451,
+"speed": 1,
+"lines": [
+[
+"L08",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 51.82893
+},
+{
+"k": "13",
+"src": "/tmp/ed/seg3/13.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"slowmo_swell",
+0.0,
+-4
+],
+[
+"slide_gravel",
+1.5,
+-1
+],
+[
+"body_fall",
+2.3,
+-3
+]
+],
+"laughs": [],
+"start": 53.030381
+},
+{
+"k": "14",
+"src": "/tmp/ed/seg3/14.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [
+[
+"L09",
+0.05
+]
+],
+"cues": [],
+"laughs": [],
+"start": 55.992381
+},
+{
+"k": "15",
+"src": "/tmp/ed/seg3/15.mp4",
+"ss": 0,
+"dur": 2.4,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"run_steps",
+0.5,
+-16
+]
+],
+"laughs": [],
+"start": 58.954381000000005
+},
+{
+"k": "CU_L10",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L10.mp4",
+"ss": 0,
+"dur": 2.124376,
+"speed": 1,
+"lines": [
+[
+"L10",
+0.15
+]
+],
+"cues": [],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_KIDS_GIGGLE.mp3",
+1.4,
+0.5
+]
+],
+"crop": 0,
+"start": 61.354381000000004
+},
+{
+"k": "M16",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/M_16.mp4",
+"ss": 0,
+"dur": 3.0,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"slowmo_swell",
+0,
+-6
+],
+[
+"kick_hard",
+0.0,
+-6
+],
+[
+"bottle_hit",
+0.08,
+0
+],
+[
+"bottle_fall",
+0.3,
+-1
+],
+[
+"gasp_boys",
+0.8,
+-8
+]
+],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_CHEER.mp3",
+1.3,
+0.45
+]
+],
+"crop": 0,
+"start": 63.478757
+},
+{
+"k": "CU_L11",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L11.mp4",
+"ss": 0,
+"dur": 1.814898,
+"speed": 1,
+"lines": [
+[
+"L11",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 66.478757
+},
+{
+"k": "CU_L12",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L12.mp4",
+"ss": 0,
+"dur": 4.491746,
+"speed": 1,
+"lines": [
+[
+"L12",
+0.15
+]
+],
+"cues": [],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_GIDEON.mp3",
+4.191746,
+0.55
+]
+],
+"crop": 0.8,
+"start": 68.293655
+},
+{
+"k": "18",
+"src": "/tmp/ed/seg3/18.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"stick_scratch",
+0.3,
+-2
+]
+],
+"laughs": [],
+"start": 72.78540100000001
+},
+{
+"k": "DRIB",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/DRIBBLE_A.mp4",
+"ss": 0,
+"dur": 10.0,
+"speed": 1,
+"lines": [
+[
+"L13",
+1.0
+]
+],
+"cues": [
+[
+"run_steps",
+0,
+-8
+],
+[
+"dribble_taps",
+0,
+-4
+],
+[
+"dribble_taps",
+3.0,
+-4
+],
+[
+"whoosh_fast",
+4.6,
+-6
+],
+[
+"gasp_boys",
+5.2,
+-8
+],
+[
+"dribble_taps",
+6.2,
+-4
+],
+[
+"run_steps",
+6.5,
+-8
+],
+[
+"cheer_boys",
+8.6,
+-6
+]
+],
+"laughs": [],
+"crop": 0,
+"start": 75.74740100000001
+},
+{
+"k": "CU_L14",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L14.mp4",
+"ss": 0,
+"dur": 1.524286,
+"speed": 1,
+"lines": [
+[
+"L14",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 85.74740100000001
+},
+{
+"k": "CU_L15",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L15.mp4",
+"ss": 0,
+"dur": 1.238277,
+"speed": 1,
+"lines": [
+[
+"L15",
+0.15
+]
+],
+"cues": [],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/Audio files/SFX_Laughter/LAUGH_STREET_KIDS.mp3",
+1.0382770000000001,
+0.35
+]
+],
+"crop": 0,
+"start": 87.27168700000001
+},
+{
+"k": "25",
+"src": "/tmp/ed/seg3/25.mp4",
+"ss": 0,
+"dur": 3.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"slowmo_swell",
+0.0,
+-4
+],
+[
+"slide_gravel",
+1.2,
+0
+],
+[
+"kick_body",
+1.9,
+-2
+],
+[
+"gasp_boys",
+2.4,
+-6
+]
+],
+"laughs": [],
+"start": 88.50996400000001
+},
+{
+"k": "26",
+"src": "/tmp/ed/seg3/26.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"body_fall",
+0.0,
+-6
+]
+],
+"laughs": [],
+"start": 92.47196400000001
+},
+{
+"k": "M27",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/MOD_27.mp4",
+"ss": 0,
+"dur": 2.6,
+"speed": 1,
+"lines": [],
+"cues": [],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_KIDS_GIGGLE.mp3",
+0.9,
+0.4
+]
+],
+"crop": 0,
+"start": 95.43396400000002
+},
+{
+"k": "CU_L16",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L16.mp4",
+"ss": 0,
+"dur": 3.019252,
+"speed": 1,
+"lines": [
+[
+"L16",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 98.03396400000001
+},
+{
+"k": "28",
+"src": "/tmp/ed/seg3/28.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [
+[
+"L17",
+0.08
+]
+],
+"cues": [],
+"laughs": [],
+"start": 101.053216
+},
+{
+"k": "29",
+"src": "/tmp/ed/seg3/29.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"kick_hard",
+1.1,
+-3
+],
+[
+"ball_roll",
+1.3,
+-8
+]
+],
+"laughs": [],
+"start": 104.01521600000001
+},
+{
+"k": "M30",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/M_30.mp4",
+"ss": 0,
+"dur": 3.0,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"slowmo_swell",
+0,
+-6
+],
+[
+"ball_roll",
+0,
+-8
+],
+[
+"bottle_hit",
+1.1,
+0
+],
+[
+"bottle_fall",
+1.25,
+-4
+],
+[
+"cheer_boys",
+2.0,
+-4
+]
+],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_CHEER.mp3",
+1.9,
+0.45
+]
+],
+"crop": 0,
+"start": 106.97721600000001
+},
+{
+"k": "CU_L18a",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L18a.mp4",
+"ss": 0,
+"dur": 3.12839,
+"speed": 1,
+"lines": [
+[
+"L18a",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 109.97721600000001
+},
+{
+"k": "31",
+"src": "/tmp/ed/seg3/31.mp4",
+"ss": 0,
+"dur": 2.4,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"cheer_boys",
+0.0,
+-6
+]
+],
+"laughs": [],
+"start": 113.10560600000001
+},
+{
+"k": "CU_L18b",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L18b.mp4",
+"ss": 0,
+"dur": 2.745147,
+"speed": 1,
+"lines": [
+[
+"L18b",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 115.50560600000001
+},
+{
+"k": "CU_L19",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L19.mp4",
+"ss": 0,
+"dur": 2.2,
+"speed": 1,
+"lines": [
+[
+"L19",
+0.15
+]
+],
+"cues": [],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_CHEER.mp3",
+0.2,
+0.35
+]
+],
+"crop": 0,
+"start": 118.25075300000002
+},
+{
+"k": "32",
+"src": "/tmp/ed/seg3/32.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"slowmo_swell",
+0.0,
+-8
+],
+[
+"header",
+0.5,
+-2
+],
+[
+"body_fall",
+2.4,
+-8
+]
+],
+"laughs": [],
+"start": 120.45075300000002
+},
+{
+"k": "33",
+"src": "/tmp/ed/seg3/33.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"slide_gravel",
+0.1,
+-2
+],
+[
+"body_fall",
+1.9,
+-3
+],
+[
+"gasp_boys",
+2.1,
+-8
+]
+],
+"laughs": [],
+"start": 123.41275300000002
+},
+{
+"k": "34",
+"src": "/tmp/ed/seg3/34.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"run_steps",
+0.0,
+-2
+],
+[
+"dribble_taps",
+0.5,
+-10
+]
+],
+"laughs": [],
+"start": 126.37475300000003
+},
+{
+"k": "CU_L20",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L20.mp4",
+"ss": 0,
+"dur": 5.030612,
+"speed": 1,
+"lines": [
+[
+"L20",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 129.33675300000002
+},
+{
+"k": "35",
+"src": "/tmp/ed/seg3/35.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"stick_scratch",
+0.3,
+-2
+]
+],
+"laughs": [],
+"start": 134.367365
+},
+{
+"k": "M36",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/M_36.mp4",
+"ss": 0,
+"dur": 4.0,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"slowmo_swell",
+0,
+-4
+],
+[
+"kick_hard",
+0.2,
+-2
+],
+[
+"block_hit",
+1.0,
+-8
+],
+[
+"ball_roll",
+1.2,
+-8
+],
+[
+"bottle_hit",
+2.3,
+0
+],
+[
+"bottle_fall",
+2.45,
+-1
+]
+],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_CHEER.mp3",
+2.6,
+0.5
+]
+],
+"crop": 0,
+"start": 137.329365
+},
+{
+"k": "CU_L21",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L21.mp4",
+"ss": 0,
+"dur": 4.218027,
+"speed": 1,
+"lines": [
+[
+"L21",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 141.329365
+},
+{
+"k": "37",
+"src": "/tmp/ed/seg3/37.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"cheer_boys",
+0.2,
+-6
+]
+],
+"laughs": [],
+"start": 145.547392
+},
+{
+"k": "38",
+"src": "/tmp/ed/seg3/38.mp4",
+"ss": 0,
+"dur": 4.962,
+"speed": 1,
+"lines": [
+[
+"L22",
+0.08
+]
+],
+"cues": [],
+"laughs": [],
+"start": 148.509392
+},
+{
+"k": "CU_L23",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L23.mp4",
+"ss": 0,
+"dur": 1.772132,
+"speed": 1,
+"lines": [
+[
+"L23",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 153.47139199999998
+},
+{
+"k": "CU_L24",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L24.mp4",
+"ss": 0,
+"dur": 2.128821,
+"speed": 1,
+"lines": [
+[
+"L24",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 155.24352399999998
+},
+{
+"k": "41",
+"src": "/tmp/ed/seg3/41.mp4",
+"ss": 0,
+"dur": 2.2,
+"speed": 1,
+"lines": [],
+"cues": [],
+"laughs": [],
+"start": 157.37234499999997
+},
+{
+"k": "CU_L25",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L25.mp4",
+"ss": 0,
+"dur": 1.336848,
+"speed": 1,
+"lines": [
+[
+"L25",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 159.57234499999996
+},
+{
+"k": "M42",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/MOD_42.mp4",
+"ss": 0,
+"dur": 3.0,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"slowmo_swell",
+0,
+-6
+],
+[
+"whoosh_fast",
+0.6,
+0
+],
+[
+"block_hit",
+1.0,
+0
+],
+[
+"whoosh_fast",
+1.6,
+-2
+],
+[
+"punch_impact",
+2.0,
+0
+],
+[
+"gasp_boys",
+2.2,
+-8
+]
+],
+"laughs": [],
+"crop": 0,
+"start": 160.90919299999996
+},
+{
+"k": "CU_L26",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L26.mp4",
+"ss": 0,
+"dur": 1.992971,
+"speed": 1,
+"lines": [
+[
+"L26",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 163.90919299999996
+},
+{
+"k": "43",
+"src": "/tmp/ed/seg3/43.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [
+[
+"L27",
+0.08
+]
+],
+"cues": [],
+"laughs": [],
+"start": 165.90216399999997
+},
+{
+"k": "M44",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/MOD_44.mp4",
+"ss": 0,
+"dur": 3.2,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"whoosh_fast",
+0.6,
+-2
+],
+[
+"whoosh_fast",
+1.2,
+-2
+],
+[
+"block_hit",
+1.4,
+-2
+]
+],
+"laughs": [],
+"crop": 0,
+"start": 168.86416399999996
+},
+{
+"k": "CU_L28",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L28.mp4",
+"ss": 0,
+"dur": 4.438821,
+"speed": 1,
+"lines": [
+[
+"L28",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0.74,
+"start": 172.06416399999995
+},
+{
+"k": "M45",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/MOD_45.mp4",
+"ss": 0,
+"dur": 3.0,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"slowmo_swell",
+0,
+-6
+],
+[
+"whoosh_fast",
+0.5,
+0
+],
+[
+"kick_body",
+1.0,
+2
+],
+[
+"whoosh_fast",
+1.6,
+-2
+],
+[
+"block_hit",
+1.8,
+0
+],
+[
+"punch_impact",
+2.4,
+0
+]
+],
+"laughs": [],
+"crop": 0,
+"start": 176.50298499999994
+},
+{
+"k": "46",
+"src": "/tmp/ed/seg3/46.mp4",
+"ss": 0,
+"dur": 2.4,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"whoosh_fast",
+0.3,
+0
+],
+[
+"block_hit",
+0.8,
+0
+],
+[
+"kick_body",
+1.4,
+2
+],
+[
+"punch_impact",
+2.0,
+0
+]
+],
+"laughs": [],
+"start": 179.50298499999994
+},
+{
+"k": "CU_L29",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L29.mp4",
+"ss": 0,
+"dur": 3.553288,
+"speed": 1,
+"lines": [
+[
+"L29",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 181.90298499999994
+},
+{
+"k": "47",
+"src": "/tmp/ed/seg3/47.mp4",
+"ss": 0,
+"dur": 2.4,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"whoosh_fast",
+0.9,
+0
+],
+[
+"whoosh_fast",
+1.6,
+0
+],
+[
+"kick_body",
+1.95,
+3
+],
+[
+"gasp_boys",
+2.1,
+-8
+]
+],
+"laughs": [],
+"start": 185.45627299999995
+},
+{
+"k": "CU_L30",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L30.mp4",
+"ss": 0,
+"dur": 2.071814,
+"speed": 1,
+"lines": [
+[
+"L30",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0.82,
+"start": 187.85627299999996
+},
+{
+"k": "48",
+"src": "/tmp/ed/seg3/48.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"whoosh_fast",
+0.5,
+0
+],
+[
+"block_hit",
+0.9,
+0
+],
+[
+"whoosh_fast",
+1.5,
+0
+],
+[
+"punch_impact",
+1.9,
+0
+]
+],
+"laughs": [],
+"start": 189.92808699999995
+},
+{
+"k": "49",
+"src": "/tmp/ed/seg3/49.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"whoosh_fast",
+0.2,
+0
+],
+[
+"whoosh_fast",
+1.2,
+-2
+],
+[
+"kick_body",
+1.6,
+2
+],
+[
+"block_hit",
+2.2,
+-2
+]
+],
+"laughs": [],
+"start": 192.89008699999994
+},
+{
+"k": "M50",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/MOD_50.mp4",
+"ss": 0,
+"dur": 3.0,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"cheer_boys",
+0,
+-4
+],
+[
+"whoosh_fast",
+0.6,
+-2
+],
+[
+"block_hit",
+1.0,
+-2
+],
+[
+"whoosh_fast",
+1.9,
+0
+],
+[
+"punch_impact",
+2.1,
+1
+]
+],
+"laughs": [],
+"crop": 0,
+"start": 195.85208699999993
+},
+{
+"k": "CU_L31",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L31.mp4",
+"ss": 0,
+"dur": 2.895283,
+"speed": 1,
+"lines": [
+[
+"L31",
+0.15
+]
+],
+"cues": [],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_GIDEON.mp3",
+2.5952830000000002,
+0.5
+]
+],
+"crop": 0.8,
+"start": 198.85208699999993
+},
+{
+"k": "MATRIX",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/MATRIX.mp4",
+"ss": 0,
+"dur": 10.0,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"whoosh_fast",
+0.4,
+0
+],
+[
+"slowmo_swell",
+1.6,
+0
+],
+[
+"whoosh_fast",
+2.4,
+-4
+],
+[
+"whoosh_fast",
+4.0,
+-6
+],
+[
+"block_hit",
+6.9,
+0
+],
+[
+"whoosh_fast",
+7.2,
+0
+],
+[
+"slowmo_impact",
+8.05,
+0
+],
+[
+"body_fall",
+8.15,
+4
+],
+[
+"land_back",
+8.15,
+2
+],
+[
+"slide_gravel",
+8.3,
+-4
+],
+[
+"cheer_boys",
+8.7,
+-4
+]
+],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_KIDS_BIG.mp3",
+9.0,
+0.5
+]
+],
+"crop": 0,
+"start": 201.74736999999993
+},
+{
+"k": "52",
+"src": "/tmp/ed/seg3/52.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"gasp_boys",
+0.4,
+-6
+]
+],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/Audio files/SFX_Laughter/CROWD_OOH_GATE.mp3",
+0.1,
+0.45
+],
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_KIDS_GIGGLE.mp3",
+1.3,
+0.4
+]
+],
+"start": 211.74736999999993
+},
+{
+"k": "53",
+"src": "/tmp/ed/seg3/53.mp4",
+"ss": 0,
+"dur": 3.5406460000000206,
+"speed": 1,
+"lines": [
+[
+"L32",
+0.08
+],
+[
+"L33",
+0.75
+]
+],
+"cues": [
+[
+"slowmo_impact",
+0.0,
+-6
+]
+],
+"laughs": [],
+"start": 214.70936999999992
+},
+{
+"k": "54",
+"src": "/tmp/ed/seg3/54.mp4",
+"ss": 0,
+"dur": 5.962,
+"speed": 1,
+"lines": [],
+"cues": [],
+"laughs": [],
+"start": 218.25001599999993
+},
+{
+"k": "55",
+"src": "/tmp/ed/seg3/55.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [
+[
+"L34",
+0.08
+]
+],
+"cues": [],
+"laughs": [],
+"start": 224.21201599999992
+},
+{
+"k": "56",
+"src": "/tmp/ed/seg3/56.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [
+[
+"L35",
+0.08
+]
+],
+"cues": [],
+"laughs": [],
+"start": 227.1740159999999
+},
+{
+"k": "CU_L36",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L36.mp4",
+"ss": 0,
+"dur": 3.362585,
+"speed": 1,
+"lines": [
+[
+"L36",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0.9,
+"start": 230.1360159999999
+},
+{
+"k": "M57",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/M_57.mp4",
+"ss": 0,
+"dur": 5.0,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"coins_tin",
+1.5,
+-2
+]
+],
+"laughs": [],
+"crop": 0,
+"start": 233.4986009999999
+},
+{
+"k": "CU_L37",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L37.mp4",
+"ss": 0,
+"dur": 1.992653,
+"speed": 1,
+"lines": [
+[
+"L37",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 238.4986009999999
+},
+{
+"k": "58",
+"src": "/tmp/ed/seg3/58.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"steps_arey",
+0.2,
+0
+]
+],
+"laughs": [],
+"start": 240.49125399999988
+},
+{
+"k": "S59",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/S59.mp4",
+"ss": 0,
+"dur": 5.0,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"coins_tin",
+0.8,
+-6
+],
+[
+"coins_tin",
+2.6,
+-6
+]
+],
+"laughs": [],
+"crop": 0,
+"start": 243.45325399999987
+},
+{
+"k": "CU_L38",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L38.mp4",
+"ss": 0,
+"dur": 6.102086,
+"speed": 1,
+"lines": [
+[
+"L38",
+0.15
+]
+],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 248.45325399999987
+},
+{
+"k": "60",
+"src": "/tmp/ed/seg3/60.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [
+[
+"cheer_boys",
+1.2,
+-4
+]
+],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_CHEER.mp3",
+0.3,
+0.4
+],
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/Audio files/SFX_Laughter/LAUGH_STREET_KIDS.mp3",
+1.2,
+0.3
+]
+],
+"start": 254.5553399999999
+},
+{
+"k": "CU_L39",
+"src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/av/AV_L39.mp4",
+"ss": 0,
+"dur": 2.95195,
+"speed": 1,
+"lines": [
+[
+"L39",
+0.15
+]
+],
+"cues": [],
+"laughs": [
+[
+"/mnt/user-data/uploads/Grand-Chukuchuku/EP07_Board/v1/fix/LAUGH_GIDEON.mp3",
+2.75195,
+0.55
+]
+],
+"crop": 0.88,
+"start": 257.5173399999999
+},
+{
+"k": "61",
+"src": "/tmp/ed/seg3/61.mp4",
+"ss": 0,
+"dur": 2.962,
+"speed": 1,
+"lines": [],
+"cues": [],
+"laughs": [],
+"start": 260.4692899999999
+},
+{
+"k": "END",
+"src": "/tmp/ed/seg3/zz_end.mp4",
+"ss": 0,
+"dur": 2.5,
+"speed": 1,
+"lines": [],
+"cues": [],
+"laughs": [],
+"crop": 0,
+"start": 263.4312899999999
+}
+]

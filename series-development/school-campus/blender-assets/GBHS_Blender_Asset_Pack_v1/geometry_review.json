@@ -1,0 +1,15 @@
+{
+  "date": "2026-11-13",
+  "checks": {
+    "junior_form3_gap_m": 500,
+    "form3_form45_gap_m": 10,
+    "form45_sixth_gap_m": 500,
+    "basketball_handball_long_jump_centres_same_y": 32,
+    "stair_landings_connect_to_veranda": true,
+    "classroom_doorway_camera_unblocked": true,
+    "physical_block_fence_joints": true
+  },
+  "objects": 16680,
+  "rigid_hinges": 662,
+  "cameras": 14
+}

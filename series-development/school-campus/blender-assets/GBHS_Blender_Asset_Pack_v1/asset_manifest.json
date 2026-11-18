@@ -1,0 +1,222 @@
+{
+  "title": "GBHS Kumba campus and first-days classroom asset pack",
+  "version": "1.1",
+  "date": "2026-11-13",
+  "blender_version": "5.0.1",
+  "units": "metres",
+  "status": "Editable reconstruction for creator review; unsurveyed dimensions and classroom fittings proposed",
+  "episode_direction": "First days at GBHS after the pilot (creator confirmed)",
+  "cameras": [
+    {
+      "name": "01_Campus_Whole_Oblique",
+      "location": [
+        -100.0,
+        -540.0,
+        580.0
+      ],
+      "lens": 35.0,
+      "type": "ORTHO"
+    },
+    {
+      "name": "02_Campus_Plan",
+      "location": [
+        645.0,
+        35.0,
+        1600.0
+      ],
+      "lens": 35.0,
+      "type": "ORTHO"
+    },
+    {
+      "name": "03_Main_Cluster_Sports",
+      "location": [
+        710.0,
+        -230.0,
+        230.0
+      ],
+      "lens": 38.0,
+      "type": "PERSP"
+    },
+    {
+      "name": "04_Form_Three_Passage",
+      "location": [
+        625.0,
+        -16.0,
+        1.899999976158142
+      ],
+      "lens": 22.0,
+      "type": "PERSP"
+    },
+    {
+      "name": "05_Cafeteria_and_Sports",
+      "location": [
+        845.0,
+        65.0,
+        16.0
+      ],
+      "lens": 32.0,
+      "type": "PERSP"
+    },
+    {
+      "name": "06_Sixth_Form_and_Gate",
+      "location": [
+        1217.0,
+        -132.0,
+        10.0
+      ],
+      "lens": 30.0,
+      "type": "PERSP"
+    },
+    {
+      "name": "07_Classroom_A_Back_To_Board",
+      "location": [
+        9.149999618530273,
+        8.300000190734863,
+        1.850000023841858
+      ],
+      "lens": 20.0,
+      "type": "PERSP"
+    },
+    {
+      "name": "08_Classroom_A_Teacher_Reverse",
+      "location": [
+        0.800000011920929,
+        8.399999618530273,
+        1.850000023841858
+      ],
+      "lens": 20.0,
+      "type": "PERSP"
+    },
+    {
+      "name": "09_Classroom_A_Doorway",
+      "location": [
+        9.149999618530273,
+        3.6500000953674316,
+        1.850000023841858
+      ],
+      "lens": 22.0,
+      "type": "PERSP"
+    },
+    {
+      "name": "10_Classroom_B_Lesson",
+      "location": [
+        19.149999618530273,
+        8.300000190734863,
+        1.850000023841858
+      ],
+      "lens": 20.0,
+      "type": "PERSP"
+    },
+    {
+      "name": "11_Classroom_A_Slow_Dolly",
+      "location": [
+        7.449999809265137,
+        8.300000190734863,
+        1.850000023841858
+      ],
+      "lens": 22.0,
+      "type": "PERSP"
+    },
+    {
+      "name": "12_Campus_Cluster_Dolly",
+      "location": [
+        715.0,
+        -180.0,
+        108.0
+      ],
+      "lens": 35.0,
+      "type": "PERSP"
+    },
+    {
+      "name": "13_Sports_Aligned_Reverse",
+      "location": [
+        700.0,
+        260.0,
+        145.0
+      ],
+      "lens": 35.0,
+      "type": "PERSP"
+    },
+    {
+      "name": "14_Junior_Classroom_Veranda",
+      "location": [
+        28.0,
+        -16.0,
+        3.200000047683716
+      ],
+      "lens": 27.0,
+      "type": "PERSP"
+    }
+  ],
+  "classrooms": {
+    "A": {
+      "bounds": [
+        0,
+        10,
+        3,
+        14
+      ],
+      "seats": 30,
+      "purpose": "First day, arrival, welcome, teacher/pupil reverses"
+    },
+    "B": {
+      "bounds": [
+        10,
+        20,
+        3,
+        14
+      ],
+      "seats": 30,
+      "purpose": "First lessons and reusable dialogue coverage"
+    }
+  },
+  "geometry_checks": {
+    "form_1_to_form_3_gap_m": 500,
+    "form_3_to_forms_4_5_gap_m": 10,
+    "forms_4_5_to_sixth_gap_m": 500,
+    "sports_centerline_y": 32,
+    "boundary": [
+      -40,
+      1330,
+      -110,
+      180
+    ]
+  },
+  "objects": 16680,
+  "collections": [
+    "00_Site",
+    "01_Forms_One_Two",
+    "02_Form_Three",
+    "03_Forms_Four_Five",
+    "04_Sixth_Form",
+    "05_Admin_Labs_Canteen",
+    "06_Sport_and_Food_Nutrition",
+    "07_Boundary_and_Gates",
+    "08_North_East_Neighbours",
+    "09_Tropical_Landscape",
+    "10_Classroom_A_First_Day",
+    "11_Classroom_B_Lessons",
+    "12_Cameras",
+    "13_Lighting",
+    "14_Blocking_Markers"
+  ],
+  "no_paid_generation": true,
+  "selected_render_names": [
+    "01_Campus_Whole_Oblique.png",
+    "02_Campus_Plan.png",
+    "03_Main_Cluster_Sports_v1_1.png",
+    "04_Form_Three_Passage.png",
+    "05_Cafeteria_and_Sports_v1_1.png",
+    "06_Sixth_Form_and_Gate.png",
+    "07_Classroom_A_Back_To_Board.png",
+    "08_Classroom_A_Teacher_Reverse.png",
+    "09_Classroom_A_Doorway.png",
+    "10_Classroom_B_Lesson.png",
+    "13_Sports_Aligned_Reverse.png",
+    "14_Junior_Classroom_Veranda.png"
+  ],
+  "superseded_openart_previews": [
+    "03_Main_Cluster_Sports.png",
+    "05_Cafeteria_and_Sports.png"
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "file": "GBHS_Classroom_A_First_Day.blend",
+    "opened_successfully": true,
+    "paired_desks": 15,
+    "seat_capacity": 30,
+    "hinge_controls": 11,
+    "objects": 384,
+    "camera": "07_Classroom_A_Back_To_Board.001"
+  },
+  {
+    "file": "GBHS_Classroom_B_Lessons.blend",
+    "opened_successfully": true,
+    "paired_desks": 15,
+    "seat_capacity": 30,
+    "hinge_controls": 11,
+    "objects": 396,
+    "camera": "10_Classroom_B_Lesson.001"
+  }
+]

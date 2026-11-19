@@ -34,6 +34,10 @@ Both wear the same sky-blue shirt and dark-blue skirt. Mirabel is darker than Li
 
 **Wardrobe correction:** the sky-blue/navy uniform belongs to daytime school. At Professional School night revision, every student wears ordinary house/casual clothes; some dress to impress. The current pilot art uses consistent casual clothes through study, the road and the return home.
 
+## Production (Flow + OpenArt)
+
+Live project links, naming rules for collections/folders, and episode status: [Production hub](series-development/PRODUCTION_HUB.md).
+
 ## Current story documents
 
 - [Character bible, including the five model sheets](series-development/character-bible/Grand-Chukuchuku_Character_Bible_v2.pdf)

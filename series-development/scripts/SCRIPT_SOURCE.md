@@ -7,3 +7,5 @@
 - `Grand-Chukuchuku_Chapter_01_Full_Shooting_Script_v1.md` is the old 12-episode plan, kept for history only.
 
 Decided by the author on 18 November 2026.
+
+Platform links and episode production status: [`../PRODUCTION_HUB.md`](../PRODUCTION_HUB.md).

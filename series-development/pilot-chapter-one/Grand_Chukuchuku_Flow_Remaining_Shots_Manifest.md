@@ -1,6 +1,7 @@
 # Grand Chukuchuku — Google Flow Complete Pilot Shot Manifest (`A01`–`C23`)
 
-**Google Flow Project:** `https://flow.google.com/project/f0228615-cbd8-4825-bdf5-797f61bdc9ff/collection/1c1fecfa-5ee2-4a1e-aca1-9d683a087018` (`01 Pilot — Characters and Compound`)  
+**Google Flow project home:** `https://flow.google.com/project/f0228615-cbd8-4825-bdf5-797f61bdc9ff`  
+**Google Flow collection:** `https://flow.google.com/project/f0228615-cbd8-4825-bdf5-797f61bdc9ff/collection/1c1fecfa-5ee2-4a1e-aca1-9d683a087018` (`01 Pilot — Characters and Compound`)  
 **Assembled Google Flow Scene (`Grand Chukuchuku — Pilot Draft`):** `https://flow.google.com/project/f0228615-cbd8-4825-bdf5-797f61bdc9ff/scene/36ae1ae5-db2d-482c-96f5-134e40d0f039` (`26` clips · `02:14:00` total duration)  
 **Model & Settings:** `Omni 1.1 Flash` · `16:9` · `720p` (`Ingredients` mode with start-frame keyframe + custom Cameroon draft voice ingredients)
 

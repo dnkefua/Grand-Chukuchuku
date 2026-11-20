@@ -1,0 +1,337 @@
+[
+ {
+  "id": "A01",
+  "src": "/home/claude/e8/flow/EP08_A01.mp4",
+  "inp": 0.0,
+  "dur": 3.0,
+  "start": 0.0,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/BREEZE_LEAVES.mp3",
+    0.0,
+    0.6
+   ]
+  ]
+ },
+ {
+  "id": "X11",
+  "src": "/home/claude/e8/flow/EP08_B11.mp4",
+  "inp": 4.0,
+  "dur": 1.5,
+  "start": 3.0,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/TENSION_STING.mp3",
+    0.0,
+    0.55
+   ]
+  ]
+ },
+ {
+  "id": "R01",
+  "src": "/home/claude/e8/oa/R01.mp4",
+  "inp": 0.0,
+  "dur": 2.5,
+  "start": 4.5,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/LIZARD_SCUTTLE.mp3",
+    0.5,
+    0.5
+   ]
+  ]
+ },
+ {
+  "id": "R02",
+  "src": "/home/claude/e8/oa/R02.mp4",
+  "inp": 0.0,
+  "dur": 2.0,
+  "start": 7.0,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/BREEZE_LEAVES.mp3",
+    0.0,
+    0.5
+   ]
+  ]
+ },
+ {
+  "id": "A02",
+  "src": "/home/claude/e8/flow/EP08_A02.mp4",
+  "inp": 0.0,
+  "dur": 5.0,
+  "start": 9.0,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/CRUTCH_CONCRETE.mp3",
+    0.4,
+    4.0
+   ]
+  ]
+ },
+ {
+  "id": "A03",
+  "src": "/home/claude/e8/flow/EP08_A03.mp4",
+  "inp": 0.0,
+  "dur": 5.0,
+  "start": 14.0,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/BODY_THUD.mp3",
+    0.4,
+    0.45
+   ],
+   [
+    "/mnt/user-data/uploads/Grand-Chukuchuku/Audio files/SFX_Laughter/LAUGH_CLASS_SHORT.mp3",
+    0.7,
+    0.9
+   ]
+  ]
+ },
+ {
+  "id": "A04",
+  "src": "/home/claude/e8/flow/EP08_A04.mp4",
+  "inp": 0.0,
+  "dur": 6.0,
+  "start": 19.0,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/HEARTBEAT.mp3",
+    1.5,
+    0.35
+   ]
+  ]
+ },
+ {
+  "id": "A05",
+  "src": "/home/claude/e8/oa/A05.mp4",
+  "inp": 0.0,
+  "dur": 12.403,
+  "start": 25.0,
+  "line": "E1",
+  "sfx": []
+ },
+ {
+  "id": "A06",
+  "src": "/home/claude/e8/oa/A06.mp4",
+  "inp": 0.0,
+  "dur": 12.908,
+  "start": 37.403,
+  "line": "E2",
+  "sfx": []
+ },
+ {
+  "id": "B01",
+  "src": "/home/claude/e8/oa/B01.mp4",
+  "inp": 0.0,
+  "dur": 4.0,
+  "start": 50.311,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/CRUTCH_DIRT.mp3",
+    0.0,
+    3.5
+   ]
+  ]
+ },
+ {
+  "id": "B02",
+  "src": "/home/claude/e8/oa/B02.mp4",
+  "inp": 0.0,
+  "dur": 3.0,
+  "start": 54.311,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/GIRLS_OOH.mp3",
+    0.3,
+    0.6
+   ]
+  ]
+ },
+ {
+  "id": "B03",
+  "src": "/home/claude/e8/oa/B03.mp4",
+  "inp": 0.0,
+  "dur": 8.206,
+  "start": 57.311,
+  "line": "E3",
+  "sfx": []
+ },
+ {
+  "id": "B04",
+  "src": "/home/claude/e8/oa/B04.mp4",
+  "inp": 0.0,
+  "dur": 2.6,
+  "start": 65.517,
+  "line": null,
+  "sfx": [
+   [
+    "/mnt/user-data/uploads/Grand-Chukuchuku/Audio files/SFX_Laughter/LAUGH_CLASS.mp3",
+    0.0,
+    0.8
+   ]
+  ]
+ },
+ {
+  "id": "B05",
+  "src": "/home/claude/e8/print/B05_test.mp4",
+  "inp": 0.0,
+  "dur": 2.408,
+  "start": 68.117,
+  "line": "E4",
+  "sfx": []
+ },
+ {
+  "id": "B06",
+  "src": "/home/claude/e8/oa/B06.mp4",
+  "inp": 0.0,
+  "dur": 3.0,
+  "start": 70.525,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/MISCHIEF_PLUCK.mp3",
+    0.2,
+    0.4
+   ]
+  ]
+ },
+ {
+  "id": "B07",
+  "src": "/home/claude/e8/oa/B07.mp4",
+  "inp": 0.0,
+  "dur": 2.95,
+  "start": 73.525,
+  "line": "E5",
+  "sfx": []
+ },
+ {
+  "id": "B08",
+  "src": "/home/claude/e8/oa/B08.mp4",
+  "inp": 0.0,
+  "dur": 4.72,
+  "start": 76.475,
+  "line": "E6",
+  "sfx": []
+ },
+ {
+  "id": "B09",
+  "src": "/mnt/user-data/uploads/Grand-Chukuchuku/EP06_Edit/GC_EP06_Lunch_Money_v2.mp4",
+  "inp": 13.2,
+  "dur": 3.0,
+  "start": 81.195,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/HAND_BELL.mp3",
+    0.0,
+    0.7
+   ]
+  ]
+ },
+ {
+  "id": "B10",
+  "src": "/home/claude/e8/oa/B10.mp4",
+  "inp": 0.0,
+  "dur": 5.0,
+  "start": 84.195,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/SHIMMER.mp3",
+    0.6,
+    0.6
+   ]
+  ]
+ },
+ {
+  "id": "B11",
+  "src": "/home/claude/e8/flow/EP08_B11.mp4",
+  "inp": 0.0,
+  "dur": 4.0,
+  "start": 89.195,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/TENSION_STING.mp3",
+    0.1,
+    0.4
+   ]
+  ]
+ },
+ {
+  "id": "C01",
+  "src": "/home/claude/e8/oa/C01.mp4",
+  "inp": 0.0,
+  "dur": 6.103,
+  "start": 93.195,
+  "line": "E7",
+  "sfx": []
+ },
+ {
+  "id": "C02",
+  "src": "/home/claude/e8/oa/C02.mp4",
+  "inp": 0.0,
+  "dur": 4.84,
+  "start": 99.298,
+  "line": "E8",
+  "sfx": []
+ },
+ {
+  "id": "C03",
+  "src": "/home/claude/e8/oa/C03.mp4",
+  "inp": 0.0,
+  "dur": 3.0,
+  "start": 104.138,
+  "line": null,
+  "sfx": []
+ },
+ {
+  "id": "D01",
+  "src": "/home/claude/e8/oa/D01.mp4",
+  "inp": 0.0,
+  "dur": 6.0,
+  "start": 107.138,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/BREEZE_LEAVES.mp3",
+    0.0,
+    0.4
+   ]
+  ]
+ },
+ {
+  "id": "TAG",
+  "src": "TAG",
+  "inp": 0.0,
+  "dur": 3.0,
+  "start": 113.138,
+  "line": null,
+  "sfx": [
+   [
+    "/home/claude/e8/sfx/HEARTBEAT.mp3",
+    0.0,
+    0.7
+   ]
+  ]
+ },
+ {
+  "id": "BLK",
+  "src": "BLK",
+  "inp": 0.0,
+  "dur": 1.0,
+  "start": 116.138,
+  "line": null,
+  "sfx": []
+ }
+]

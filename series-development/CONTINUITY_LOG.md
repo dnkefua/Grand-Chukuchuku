@@ -168,3 +168,13 @@ These later recollections override conflicting proposed script action and physic
   - The speaker is in frame on every line, and both sides of every action beat are shown.
   - Split screen is used when the two sides don't fit, with impact punch-ins and slow-motion push-ins.
 - Shared tool: `tools/tiktok_vertical/`. Reference: Episode 7 TikTok v2.
+
+## 21 Nov 2026: French subtitles burned into every video (from Episode 9)
+
+| Version | Burned in | Also uploaded |
+|---|---|---|
+| TikTok | English (white) with French (yellow italic) underneath | — |
+| YouTube | French (yellow) | `.en.srt` and `.fr.srt` |
+
+- The Pilot to Episode 8 keep their current subtitles.
+- Tools: `tools/tiktok_vertical` (`subtitles.fr_srt`) and `tools/subtitles/burn_french_youtube.py`.

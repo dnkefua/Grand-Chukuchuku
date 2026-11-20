@@ -23,7 +23,7 @@ def load_config(path):
     for k in ('master', 'work', 'camera', 'cues', 'output'):
         if k in cfg: cfg[k] = fix(cfg[k])
     if cfg.get('subtitles'):
-        for k in ('ass', 'srt'):
+        for k in ('ass', 'srt', 'fr_srt'):
             if k in cfg['subtitles']: cfg['subtitles'][k] = fix(cfg['subtitles'][k])
     if cfg.get('clean_opening') and cfg['clean_opening'].get('image'):
         cfg['clean_opening']['image'] = fix(cfg['clean_opening']['image'])
@@ -109,9 +109,10 @@ def srt_to_events(path):
     return ev
 
 
-def subtitle_events(cfg):
-    """[(start, end, text)] for every spoken line (used by the dialogue review sheet)."""
+def subtitle_events(cfg, lang='en'):
+    """[(start, end, text)] for every spoken line. lang='fr' reads subtitles.fr_srt."""
     sub = cfg.get('subtitles') or {}
+    if lang == 'fr': return srt_to_events(sub['fr_srt']) if sub.get('fr_srt') else []
     if sub.get('srt'): return srt_to_events(sub['srt'])
     if sub.get('ass'):
         ev = []
@@ -135,6 +136,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Sub,DejaVu Sans,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,2,80,80,520,1
 Style: Title,DejaVu Sans,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,4,3,8,60,60,330,1
 Style: Ep,DejaVu Sans,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,445,1
+Style: SubFR,DejaVu Sans,46,&H003FD2FF,&H003FD2FF,&H00000000,&H80000000,-1,-1,0,0,100,100,0,0,1,3,2,2,80,80,520,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -143,13 +145,27 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 def build_vertical_ass(cfg, out_path):
     """House vertical style: subtitles low on screen (bottom margin 520 px, above TikTok's caption area),
-    show title + episode line top-centre over the opening."""
+    show title + episode line top-centre over the opening.
+    RULE from Episode 9: TikTok burns English AND French. English (white) sits on top, French (yellow,
+    italic) directly under it, in the same block. French comes from subtitles.fr_srt and is matched
+    to the English line it overlaps most."""
     body = ''
     t = cfg.get('title')
     if t:
         body += f"Dialogue: 0,{ass_time(t['start'])},{ass_time(t['end'])},Title,,0,0,0,,{{\\fad(400,400)}}{t['line1']}\n"
         body += f"Dialogue: 0,{ass_time(t['start'] + 0.2)},{ass_time(t['end'])},Ep,,0,0,0,,{{\\fad(400,400)}}{t['line2']}\n"
-    for a, b, txt in subtitle_events(cfg):
+    en, fr = subtitle_events(cfg), subtitle_events(cfg, 'fr')
+    used = set()
+    for a, b, txt in en:
+        best, bo = None, 0.0
+        for k, (c, d, ft) in enumerate(fr):
+            ov = min(b, d) - max(a, c)
+            if ov > bo: best, bo = k, ov
+        if best is not None:
+            used.add(best)
+            txt = f"{txt}\\N{{\\rSubFR}}{fr[best][2]}"
         body += f"Dialogue: 0,{ass_time(a)},{ass_time(b)},Sub,,0,0,0,,{txt}\n"
+    for k, (c, d, ft) in enumerate(fr):   # French lines with no English partner still show
+        if k not in used: body += f"Dialogue: 0,{ass_time(c)},{ass_time(d)},SubFR,,0,0,0,,{ft}\n"
     open(out_path, 'w', encoding='utf-8').write(ASS_HEADER + body)
     return out_path

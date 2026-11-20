@@ -37,7 +37,8 @@ Both wear the same sky-blue shirt and dark-blue skirt. Mirabel is darker than Li
 ## Current story documents
 
 - [Character bible, including the five model sheets](series-development/character-bible/Grand-Chukuchuku_Character_Bible_v2.pdf)
-- [Chapter One: 60-episode shooting script](series-development/scripts/Grand-Chukuchuku_Chapter_01_Full_Shooting_Script_v2.pdf) — planned runtimes up to two minutes each.
+- **[Unified 60-Episode Plan, Version 2 — CURRENT](series-development/scripts/Grand-Chukuchuku_Unified_60_Episode_Plan_v2.md)**: the episode order and story in use (from 20 Nov 2026), up to two minutes per episode.
+- [Archived: Full Shooting Scripts v1 and v2](series-development/archive/shooting-script_v1_v2_ARCHIVED/README_ARCHIVED.md), superseded by Unified v2 and kept as scene reference ("SSv2").
 - [Pilot: The Man Who Never Ran — cinematic storyboard](series-development/pilot-chapter-one/rebuild-v2/Grand-Chukuchuku_Pilot_v2_Cinematic_Storyboard.pdf) — eighteen drawn keyframes, thirty-six-shot editorial plan, five-minute target. Voice performances, missing coverage and a timed animatic remain production work.
 - [Unified series and five chapter outlines](series-development/Grand-Chukuchuku_Series_and_Chapters.pdf)
 - [Latest complexion and uniform review](series-development/writers-room/COMPLEXION_AND_UNIFORM_REVIEW_2026-10-31.md)

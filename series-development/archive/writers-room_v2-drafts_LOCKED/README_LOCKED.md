@@ -2,7 +2,7 @@
 
 These five drafts and the critic's architecture notes are the earlier version of the Chapter One 60-episode plan. They are kept for reference only and are locked: do not edit them and do not pull episodes from them.
 
-**The only source for episodes from now on:** `series-development/scripts/Grand-Chukuchuku_Chapter_01_Full_Shooting_Script_v2.md`
+**The only source for episodes from now on (updated 20 Nov 2026):** `series-development/scripts/Grand-Chukuchuku_Unified_60_Episode_Plan_v2.md`. The Full Shooting Script v2 it was compared with below is archived in `series-development/archive/shooting-script_v1_v2_ARCHIVED/`.
 
 Differences from the Full Shooting Script v2 (everything else is word for word the same):
 - Ep 04 "Nacking Bottle" (v2: "First Bottle"), Ep 05 "Three Hits" (v2: "The Deciding Pass"), Ep 30 "Three Hits" (v2: "The Third Strike"), Ep 36 "Ten Papers" (v2: "The Study List").

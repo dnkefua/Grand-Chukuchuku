@@ -1,0 +1,69 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,DejaVu Sans,54,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,3,2,2,80,80,520,1
+Style: Title,DejaVu Sans,78,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,4,3,8,60,60,330,1
+Style: Ep,DejaVu Sans,44,&H00FFFFFF,&H00FFFFFF,&H00000000,&H90000000,-1,0,0,0,100,100,0,0,1,3,2,8,60,60,445,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:02.90,Title,,0,0,0,,{\fad(400,400)}GRAND CHUCKUCHUCKU
+Dialogue: 0,0:00:00.50,0:00:02.90,Ep,,0,0,0,,{\fad(400,400)}Episode 7 · First Bottle
+Dialogue: 0,0:00:06.07,0:00:08.89,Sub,,0,0,0,,Today is the day. No retreat, no surrender, Zino?
+Dialogue: 0,0:00:08.94,0:00:11.05,Sub,,0,0,0,,Once a goal goes in, no refund!
+Dialogue: 0,0:00:13.75,0:00:16.59,Sub,,0,0,0,,My 100 francs has ambition. Big ambition.
+Dialogue: 0,0:00:16.64,0:00:20.11,Sub,,0,0,0,,Six of us have put in. The winning team takes 600,
+Dialogue: 0,0:00:20.16,0:00:23.77,Sub,,0,0,0,,200 for each man. Three goals. My blood is hot.
+Dialogue: 0,0:00:26.27,0:00:27.17,Sub,,0,0,0,,Talk all you want, Zino.
+Dialogue: 0,0:00:27.22,0:00:28.99,Sub,,0,0,0,,Today your knee will kiss the gravel.
+Dialogue: 0,0:00:29.09,0:00:32.43,Sub,,0,0,0,,Hey! It's only a game. No need for war.
+Dialogue: 0,0:00:37.89,0:00:40.32,Sub,,0,0,0,,Pass it! There's space at the back post!
+Dialogue: 0,0:00:40.42,0:00:42.62,Sub,,0,0,0,,Zino, the back post is open!
+Dialogue: 0,0:00:45.12,0:00:46.52,Sub,,0,0,0,,I've got him covered. Go in!
+Dialogue: 0,0:00:51.98,0:00:53.08,Sub,,0,0,0,,They can't catch me!
+Dialogue: 0,0:01:01.50,0:01:03.53,Sub,,0,0,0,,Sorry, Ayuk. Get up.
+Dialogue: 0,0:01:06.63,0:01:08.34,Sub,,0,0,0,,ONE-nil!
+Dialogue: 0,0:01:08.44,0:01:10.10,Sub,,0,0,0,,Arey one, Zino zero!
+Dialogue: 0,0:01:10.15,0:01:12.84,Sub,,0,0,0,,Zino, your bottle is crying!
+Dialogue: 0,0:01:16.75,0:01:18.92,Sub,,0,0,0,,Ayuk, one touch! Robi, cover!
+Dialogue: 0,0:01:25.90,0:01:27.32,Sub,,0,0,0,,Wait! Where did the pass go?!
+Dialogue: 0,0:01:27.42,0:01:28.56,Sub,,0,0,0,,Chai!
+Dialogue: 0,0:01:38.18,0:01:39.53,Sub,,0,0,0,,Did you come to play ball
+Dialogue: 0,0:01:39.58,0:01:41.08,Sub,,0,0,0,,or to scrape my skin?!
+Dialogue: 0,0:01:41.13,0:01:43.15,Sub,,0,0,0,,That was the gravel testing you, not me!
+Dialogue: 0,0:01:50.13,0:01:53.16,Sub,,0,0,0,,GOAL! Equalizer!
+Dialogue: 0,0:01:55.66,0:01:58.30,Sub,,0,0,0,,One-one!
+Dialogue: 0,0:01:58.40,0:01:59.50,Sub,,0,0,0,,That's it!
+Dialogue: 0,0:02:09.49,0:02:10.59,Sub,,0,0,0,,Two-two!
+Dialogue: 0,0:02:10.64,0:02:14.42,Sub,,0,0,0,,Next goal takes the 600!
+Dialogue: 0,0:02:21.48,0:02:24.39,Sub,,0,0,0,,GOAL! THREE! The bottle rang like a church bell!
+Dialogue: 0,0:02:24.43,0:02:25.60,Sub,,0,0,0,,Bring the 600!
+Dialogue: 0,0:02:28.59,0:02:30.11,Sub,,0,0,0,,What goal?! It didn't touch!
+Dialogue: 0,0:02:30.16,0:02:33.22,Sub,,0,0,0,,A foot pushed the bottle. That one doesn't count!
+Dialogue: 0,0:02:33.62,0:02:35.29,Sub,,0,0,0,,That's a clean goal.
+Dialogue: 0,0:02:35.39,0:02:37.42,Sub,,0,0,0,,It's only 200 francs. No need to fight!
+Dialogue: 0,0:02:39.72,0:02:40.96,Sub,,0,0,0,,Get out of the way, Pastor!
+Dialogue: 0,0:02:44.06,0:02:45.93,Sub,,0,0,0,,When a man passes you, you carry his bag.
+Dialogue: 0,0:02:45.98,0:02:47.08,Sub,,0,0,0,,What is this?
+Dialogue: 0,0:02:52.21,0:02:53.64,Sub,,0,0,0,,It's old man style.
+Dialogue: 0,0:02:53.69,0:02:56.55,Sub,,0,0,0,,Your own force comes back to you.
+Dialogue: 0,0:03:02.05,0:03:05.51,Sub,,0,0,0,,Kung fu will finish you all!
+Dialogue: 0,0:03:08.01,0:03:09.98,Sub,,0,0,0,,You're all blowing wind, not fire.
+Dialogue: 0,0:03:19.00,0:03:21.80,Sub,,0,0,0,,Bruce Lee meets Grandpa on Fiango road!
+Dialogue: 0,0:03:34.79,0:03:35.59,Sub,,0,0,0,,ENOUGH!
+Dialogue: 0,0:03:35.46,0:03:39.59,Sub,,0,0,0,,You're fighting over 600 francs on the road?
+Dialogue: 0,0:03:39.64,0:03:41.11,Sub,,0,0,0,,I saw the match,
+Dialogue: 0,0:03:41.16,0:03:44.24,Sub,,0,0,0,,and little bro Zino's team won.
+Dialogue: 0,0:03:44.29,0:03:46.23,Sub,,0,0,0,,Grand Nestor, the ball didn't touch the bottle!
+Dialogue: 0,0:03:47.25,0:03:48.90,Sub,,0,0,0,,Don't worry. Next match.
+Dialogue: 0,0:03:50.29,0:03:52.25,Sub,,0,0,0,,Take your money. And Arey, football is not a fight.
+Dialogue: 0,0:03:52.30,0:03:53.55,Sub,,0,0,0,,Go and clean your mouth.
+Dialogue: 0,0:03:58.65,0:04:00.54,Sub,,0,0,0,,Yes, Grand Nestor.
+Dialogue: 0,0:04:08.60,0:04:11.33,Sub,,0,0,0,,Thank you, Grand. Two hundred for Ayuk,
+Dialogue: 0,0:04:11.38,0:04:14.61,Sub,,0,0,0,,two hundred for Robi, two hundred for me.
+Dialogue: 0,0:04:17.67,0:04:20.22,Sub,,0,0,0,,Chai! A champion with a bloody knee!

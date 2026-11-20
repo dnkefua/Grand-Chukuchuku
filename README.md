@@ -34,6 +34,14 @@ Both wear the same sky-blue shirt and dark-blue skirt. Mirabel is darker than Li
 
 **Wardrobe correction:** the sky-blue/navy uniform belongs to daytime school. At Professional School night revision, every student wears ordinary house/casual clothes; some dress to impress. The current pilot art uses consistent casual clothes through study, the road and the return home.
 
+## Release formats
+
+- **YouTube:** 16:9 master with English and French subtitle files.
+- **TikTok:** full-screen 9:16, built from the YouTube master with the [TikTok vertical method](series-development/TIKTOK_VERTICAL_METHOD.md) and the [`tools/tiktok_vertical`](tools/tiktok_vertical/README.md) tool.
+  - Every speaker is in frame on their line, and both sides of every action beat are shown (split screen when needed).
+  - Impacts get punch-ins.
+  - Episode 7 is the [reference cut](EP07_Edit/pipeline/tiktok_fullscreen/README.md).
+
 ## Current story documents
 
 - [Character bible, including the five model sheets](series-development/character-bible/Grand-Chukuchuku_Character_Bible_v2.pdf)

@@ -159,3 +159,12 @@ These later recollections override conflicting proposed script action and physic
 - Zino's mother’s house remains unbuilt. Do not turn the goal into a completed ending.
 - Grand-Chukuchuku is Zino's invented ideal person. Fantasy sequences must remain distinguishable from real events.
 - Character Bible v1 locks proposed animation signals—not literal likenesses—for Zino, Grand-Chukuchuku, Gideon, Luc, Elianne, Mother, Paternal Uncle, Miss Mukete and the Landlord. The father remains a family-testimony / nonliteral-memory treatment. The maternal aunt, U.S. girlfriend, boarding-school cast, crypto circle, Dubai colleagues, and university / immigration characters remain intentionally unvisualized until Zino supplies their source details.
+
+
+## 21 Nov 2026: TikTok vertical method adopted
+
+- Every TikTok version from Episode 7 on follows [TIKTOK_VERTICAL_METHOD.md](TIKTOK_VERTICAL_METHOD.md).
+  - It is a full-screen 9:16 reframe of the YouTube master, frame-exact, so the sound and lip-sync are untouched.
+  - The speaker is in frame on every line, and both sides of every action beat are shown.
+  - Split screen is used when the two sides don't fit, with impact punch-ins and slow-motion push-ins.
+- Shared tool: `tools/tiktok_vertical/`. Reference: Episode 7 TikTok v2.

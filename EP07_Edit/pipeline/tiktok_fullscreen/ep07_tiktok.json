@@ -1,0 +1,11 @@
+{
+  "episode": "Episode 7 - First Bottle",
+  "master": "/mnt/user-data/uploads/Final cut/Youtube submission/Grand Chuckuchucku - Episode 7 - First Bottle.mp4",
+  "work": "/home/claude/tt/ep07",
+  "camera": "ep07_camera.json",
+  "cues": "../edl5.json",
+  "subtitles": {"ass": "../ep07_tt.ass"},
+  "title": {"line1": "GRAND CHUCKUCHUCKU", "line2": "Episode 7 · First Bottle", "start": 0.3, "end": 2.9},
+  "clean_opening": {"image": "ep07_opening_clean.jpg", "until_shot": 1, "cx": 0.45, "push": 0.06},
+  "output": "/home/claude/tt/ep07/Grand Chuckuchucku - Episode 7 - First Bottle - TikTok.mp4"
+}

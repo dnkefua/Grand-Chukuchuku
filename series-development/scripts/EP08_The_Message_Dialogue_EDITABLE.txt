@@ -1,5 +1,5 @@
 GRAND-CHUKUCHUKU - EPISODE 08 - "THE MESSAGE"
-SOURCE: Unified 60-Episode Plan v2 (series-development/scripts/Grand-Chukuchuku_Unified_60_Episode_Plan_v2.md), "The Message" (Unified v2 Ep 11; produced as Ep 8 pending the author's slot decision). Scene material from the archived Full Shooting Script v2, Ep 08 (SSv2 8).
+SOURCE: Unified 60-Episode Plan v3 (series-development/scripts/Grand-Chukuchuku_Unified_60_Episode_Plan_v3.md), Episode 8 "The Message". Scene material from the archived Full Shooting Script v2, Ep 08 (SSv2 8).
 CHANGE (approved): the party / camera-gig references are tied to Episode 7 instead, because "Gideon's First Gig" was not made. The girl watched yesterday's bottle match on the road.
 STATUS: DRAFT for author edit. Pidgin lines to be recorded by the author.
 SETTING: GBHS Kumba day school, classroom veranda / corridor at morning break (Blender GBHS campus asset). Look: 3D cinematic.

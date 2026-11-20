@@ -2,6 +2,19 @@
 
 This log separates confirmed additions from items that still need a date, source, or naming decision. It is the reference to update before changing a script, outline, or animation prompt.
 
+## Unified 60-Episode Plan v3 adopted — 20 November 2026
+
+- **C:** Unified v3 (`series-development/scripts/Grand-Chukuchuku_Unified_60_Episode_Plan_v3.md`) is the plan in use, with a thrill target of 9.5 per episode. Unified v2 and the Full Shooting Scripts v1/v2 are archived.
+- **C — the reveal:** the girl in Zino's class (1B) stays unnamed, and her identity is kept from the audience as well as from Zino. Clues only before the reveal (Ep 11: she won't be photographed and runs at a whistle; Ep 13: the negative disappears). In **Ep 19**, Zino and the audience learn at the same moment that she is the discipline master's daughter. No earlier plant for the audience (author rejected dramatic irony).
+- **C:** the DM's daughter **stays at GBHS through Form 5**.
+- **C — named characters:**
+  - **Arey:** the street and bottle-game rival (Eps 9, 14, 24, 28, 30). Look: **P**.
+  - **Sophy:** a money-minded girl who tests Zino's loyalty over Gideon's bread route (Ep 17). Look: **P**.
+  - **Tracey:** an older student who rules the seats at Professional School night revision (Eps 25, 27). Look: **P**.
+- **R — Ep 24:** Cameroon v Germany, 2002 World Cup, Tuesday 11 June 2002. Played at 20:30 in Shizuoka, Japan, which is 12:30 in Kumba. Cameroon lost 0–2 and went out. Watched on Ayuk's TV across the road while Ma's rule keeps Zino in the compound.
+- **P — story date:** RASKA week and the Lake Barombi drownings (Eps 22–23) are placed in early June 2002, at the end of Form 3. The real dates are still OPEN with the author.
+- **C — edit rules:** Episodes 1–7 stay exactly as finished. From Episode 8 up: an aerial of 3 s at most landing on a jeopardy image; the last sound held over 1 s of black; a "tomorrow" tag of up to 3 s inside the 2:00.
+
 ## GBHS Kumba campus and badge — 31 October 2026
 
 - **C:** Government Bilingual High School Kumba (GBHS) is Zino's day school. Reported compound distance: **10.7 km**. “Dino” is treated as Zino. Distance basis, route and travel time are OPEN; do not invent a short walk from the dawn routine.

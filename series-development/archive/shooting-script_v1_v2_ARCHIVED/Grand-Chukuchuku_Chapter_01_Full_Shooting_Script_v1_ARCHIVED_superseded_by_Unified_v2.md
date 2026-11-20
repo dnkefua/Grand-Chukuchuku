@@ -1,4 +1,4 @@
-> **ARCHIVED (20 Nov 2026): Full Shooting Script v1. NOT the current plan.** Superseded by the Unified 60-Episode Plan, Version 2 (`series-development/scripts/Grand-Chukuchuku_Unified_60_Episode_Plan_v2.md`). Reference only; do not use this episode order or numbering.
+> **ARCHIVED (20 Nov 2026): Full Shooting Script v1. NOT the current plan.** Superseded by the Unified 60-Episode Plan, Version 2 (now archived too), then Version 3. The current plan is `series-development/scripts/Grand-Chukuchuku_Unified_60_Episode_Plan_v3.md`. Reference only; do not use this episode order or numbering.
 
 # GRAND-CHUKUCHUKU
 ## Chapter One: **Fiango** — Full Shooting Script v1

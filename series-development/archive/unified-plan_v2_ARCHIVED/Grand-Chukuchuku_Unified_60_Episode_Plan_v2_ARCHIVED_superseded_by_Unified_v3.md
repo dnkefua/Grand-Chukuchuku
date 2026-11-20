@@ -1,3 +1,5 @@
+> **ARCHIVED (20 Nov 2026): Unified 60-Episode Plan, Version 2. NOT the current plan.** Superseded by Unified Version 3 (`series-development/scripts/Grand-Chukuchuku_Unified_60_Episode_Plan_v3.md`). Kept for the record; do not use this episode order.
+
 # Grand Chuckuchucku: Unified 60-Episode Plan, Version 2 (CURRENT)
 
 **This is the episode plan in use.** It replaces the episode order of the Full Shooting Script v2, which is now archived (see `series-development/archive/shooting-script_v1_v2_ARCHIVED/`).

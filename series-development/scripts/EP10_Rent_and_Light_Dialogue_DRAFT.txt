@@ -1,0 +1,102 @@
+GRAND-CHUKUCHUKU - EPISODE 10 - "RENT AND LIGHT"
+SOURCE: Unified 60-Episode Plan v3, Episode 10. Scene material from archived Full Shooting Script v2, Episode 06. Built to the 9.5 gate in EP09_EP10_THRILL_9_5_GATE.md.
+STATUS: DRAFT for the author. Not locked. The author's recording will win where it differs. No franc amount is stated.
+
+CONTINUITY FROM EPISODE 9 (required, or Episode 9 loses its cost point):
+- Same evening. He is still in the football clothes. The coins from Grand Nestor are still in his fist.
+- The buckets at the well are still empty. The bulb over Ma's table is already dead. The landlord's notebook is already open.
+- Ayuk does not greet him. One off-screen voice may repeat "ben-ben foot". No new story.
+
+SETTING: the Fiango compound, Ma's front room, the well in the yard, the gate.
+TIME AND LIGHT: dusk into night, the same day as Episode 9. SONEL is out. The only light is a small flame or the last sky in the doorway, and it is failing.
+OPENING (aerial rule): 3 seconds over the dark compound, landing on the landlord's open notebook under the dead bulb. Not on a skyline.
+
+WARDROBE: Zino still in the white ribbed tank and royal-blue shorts, dust on him. Ma in her house clothes. The landlord as previously boarded, notebook in hand. Gideon at the window in the green polo, not inside the argument.
+
+RUNTIME TARGET: 1:55, inside 2:00.
+SUBTITLES: French burned in, low. English is the selectable file.
+
+----------------------------------------------------------------
+SCENE 1 - ALREADY LATE (0:00-0:15)
+The aerial lands on the notebook. The landlord's finger is on a line. Zino comes through the gate at a run, fist closed. He passes the empty buckets and stops when he sees the landlord already inside the doorway. Ayuk, still on the road, does not call his name. An off-screen voice throws the old jab, once.
+VOICE (O.S.): Ben-ben foot.
+MA (English): The water is not here.
+ZINO (English): I am coming.
+He does not move toward the well. The landlord is between him and the room.
+
+SCENE 2 - SEVEN O'CLOCK (0:15-0:40)
+The landlord does not sit. The dead bulb is in the shot. A clock face is visible behind Ma, or his watch is visible when he checks it.
+LANDLORD: I finish this compound at seven. Light money. Rent money. This line.
+He taps the page. He does not say a number. Zino's eyes go from the tap to his own fist. The gap on the page is the size of what Nestor put in his hand. Ma sees the look, not the coins.
+MA (English): Sit down.
+ZINO (P, the boast that dies): Grand-Chukuchuku fit buy all the light for Fiango.
+MA (English): A story will not hold this page.
+
+SCENE 3 - THE ROAD ALREADY KNOWS (0:40-0:55)
+Gideon is at the window, low, not entering.
+GIDEON: Arey dey tell the road say you run with the cote.
+Zino's fist stays in his pocket. This is the plan: let Ma face the page, keep the secret. The landlord turns a page toward the close of his round.
+
+SCENE 4 - THE HAND (0:55-1:10)  [THE TURN]
+The landlord starts to close the notebook.
+LANDLORD: Seven is here.
+Zino opens his hand. The coins sit in the sweat of the fist. Ma sees what they are and what they can do in the same second. He puts them into her palm. He does not explain.
+ZINO (English): For the line.
+
+SCENE 5 - THE COST (1:10-1:40)
+Ma counts without speaking and pays the landlord the part that makes him leave tonight. She does not thank Zino. The door closes. She sets the cane on the table between them.
+MA (English): Tomorrow.
+The buckets are still empty in the yard behind her. Zino looks at them and does not pick them up. The secret is spent. The cane is what replaced it.
+
+SCENE 6 - HOOK (1:40-1:55)
+Gideon, from the window, after the landlord's footsteps are gone.
+GIDEON: Tomorrow I get one roll. Borrowed camera. I need your mouth.
+Zino looks at the cane, then at Gideon. He does not answer.
+Hold the last sound (the cane set down, still ringing in the quiet) over 1 second of black.
+TOMORROW TAG (inside the 2:00): the girl from Episode 8 turns her face out of a camera lens. No name. No father. No explanation.
+END CARD: EPISODE 11 - GIDEON'S FIRST GIG
+
+----------------------------------------------------------------
+LINES TO RECORD (draft, 10):
+ 1 VOICE (O.S.)   Ben-ben foot.
+ 2 MA             The water is not here.
+ 3 ZINO           I am coming.
+ 4 LANDLORD       I finish this compound at seven. Light money. Rent money. This line.
+ 5 ZINO           Grand-Chukuchuku fit buy all the light for Fiango.
+ 6 MA             A story will not hold this page.
+ 7 GIDEON         Arey dey tell the road say you run with the cote.
+ 8 LANDLORD       Seven is here.
+ 9 ZINO           For the line.
+10 MA             Tomorrow.
+11 GIDEON         Tomorrow I get one roll. Borrowed camera. I need your mouth.
+
+SUBTITLES (French burned in; English uploaded):
+ #  | ENGLISH                                              | FRANCAIS
+ 1  | Crooked foot.                                        | Pied tordu.
+ 2  | The water is not here.                               | L'eau n'est pas là.
+ 3  | I am coming.                                         | J'arrive.
+ 4  | I finish this compound at seven. Light. Rent. This line. | Je termine cette concession à sept heures. Lumière. Loyer. Cette ligne.
+ 5  | Grand-Chukuchuku could buy all the light in Fiango.  | Grand-Chukuchuku pourrait payer toute la lumière de Fiango.
+ 6  | A story will not hold this page.                     | Une histoire ne tiendra pas cette page.
+ 7  | Arey is telling the road you ran with the cote.      | Arey raconte sur la route que tu es parti avec la cote.
+ 8  | Seven is here.                                       | Sept heures, c'est maintenant.
+ 9  | For the line.                                        | Pour la ligne.
+10  | Tomorrow.                                            | Demain.
+11  | Tomorrow I have one roll. Borrowed camera. I need your mouth. | Demain j'ai une pellicule. Appareil emprunté. J'ai besoin de ta bouche.
+
+----------------------------------------------------------------
+THRILL 9.5 CHECK (design target of this draft; score again after the author locks it):
+1. Cold open lands on the notebook under the dead bulb. Yes.
+2. Stake: the fist and the unmarked gap on the page. He loses the secret or the evening. Yes.
+3. Named opposition: the landlord in the room. Arey is the voice Gideon carries in. Yes.
+4. Clock: the notebook starts to close at seven, inside the last 30 seconds. Yes.
+5. Turn at 0:55–1:10: the hand opens. Yes.
+6. Cost: her silence and the cane. Episode 11 must open with that morning still in the frame. Yes, if Episode 11 obeys it.
+7. Season loop E: Arey's public story of the bolt is now on the road. It is the debt Episode 14 collects. Yes.
+8. Hook: Gideon asks for the morning. The tag is the girl turning from the lens. Episode 11's first 15 seconds must answer both the cane and the borrowed roll. Yes, if Episode 11 is written to that opening.
+
+DO NOT:
+- Say a franc amount.
+- Name a school, a grade, or a fee total.
+- Let Grand-Chukuchuku appear. The boast dies in Ma's answer.
+- Identify the girl, or point the tag at the discipline master.

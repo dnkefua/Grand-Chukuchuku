@@ -1,71 +1,120 @@
 GRAND-CHUKUCHUKU - EPISODE 09 - "THE DECIDING PASS"
 SOURCE: Unified 60-Episode Plan v3 (series-development/scripts/Grand-Chukuchuku_Unified_60_Episode_Plan_v3.md), Episode 9. Scene material from the archived Full Shooting Script v2, Ep 05 (SSv2 5).
-AUTHOR NOTE (20 Nov): Zino is already healed. It is a normal day, and he is eager to "chop" another cote.
-STATUS: DRAFT for author edit. Pidgin lines to be recorded by the author; his recording wins where it differs.
+STATUS: DIALOGUE LOCKED BY THE AUTHOR (21 Nov 2026), ready to record. The author's recording wins where it differs.
+AUTHOR NOTES:
+- 20 Nov: Zino is already healed. It is a normal day, and he is eager to "chop" another cote.
+- 21 Nov: Zino's failed pass hits his OWN bottle in Scene 3. That is how Arey's side reaches two hits, and it is why Gideon calls him "ben-ben foot".
+- 21 Nov: Grand Nestor has already split the cote when Ma calls. The teammates are shocked and angry only because Zino bolts.
 
 SETTING: the Fiango road outside the compound, the bottle pitch and Grand Nestor's kiosk.
-TIME AND LIGHT: late afternoon, a few days after Episode 8. Low golden sun to start, falling to dusk by the end. The streetlight is dead (SONEL), which is why the game must finish before dark.
+TIME AND LIGHT: late afternoon, a few days after Episode 8. A low golden sun to start, falling to dusk by the end. The streetlight is dead (SONEL), which is why the game has to finish before dark.
 OPENING (aerial rule): a 3 s aerial over the Fiango road and the compound roofs at golden hour, landing on the jeopardy image (Scene 1).
 
 WARDROBE (no-long-pants rule):
 - Football players wear shorts and singlets or tees, barefoot or in worn canvas shoes. Zino: white ribbed tank, royal-blue shorts.
 - Gideon sits on a crate at the side and does NOT play (green polo, brown trousers).
 - Luc walks the verge with his small Bible and does NOT play (mustard tee).
-- Grand Nestor: red cap backwards, red plaid shirt over a white tee.
+- Grand Nestor: red cap worn backwards, red plaid shirt over a white tee.
 
-SIDES (as in Episodes 6-7): Zino, Ayuk, Robi vs Bismark (captain), Noge, Arey.
-TARGETS: "33 Export" bottles (Flow assets); slippers as goalposts.
-RULE: three hits on the other side's bottle wins the cote.
+SIDES (as in Episodes 6-7): Zino, Ayuk and Robi vs Bismark (captain), Noge and Arey.
+TARGETS: "33 Export" bottles (Flow assets), one at each end; slippers as goalposts.
+RULE: three hits on the other side's bottle wins the cote. Hitting your own bottle counts for the other side.
 
 CONTINUITY: no crutch and no bandage. A faint pale scar on Zino's right knee. The crutch from Episode 8 leans against the compound wall.
+CALLBACK: Episode 5 "Well Water". Carrying water from the well and filling the buckets is Zino's job.
 RUNTIME TARGET: about 1:55, within the 2:00 rule.
+SUBTITLES: French burned in, low on screen (rule from Ep 9). English is uploaded as a selectable file.
 
-SCENE 1 - COTE DAY (0:00-0:14)
-Aerial lands on the compound gate. The crutch leans against the wall. Zino steps out past it without it, flips a coin and catches it.
+----------------------------------------------------------------
+SCENE 1 - COTE DAY (0:00-0:12)
+The aerial lands on the compound gate. The crutch leans against the wall. Zino steps out past it without it, flips a coin and catches it.
 ZINO: Leg don correct. Today na cote day.
 
-SCENE 2 - THE COTE (0:14-0:36)
+SCENE 2 - THE COTE (0:12-0:32)
 Grand Nestor's kiosk. The players drop coins into his upturned cap. Gideon is on his crate; Luc is on the verge.
 GRAND NESTOR: Cote don full. Three hit, e done. Who hit three first, chop am.
 AREY: Crutch boy don come back? Today you go waka home with empty pocket.
 ZINO: Na me go chop this cote. Write am for your head.
 SOUND: Gideon's laugh; a bike man rings his bell as he passes.
 
-SCENE 3 - TWO ROUNDS (0:36-0:56)
-Quick montage of the game: Ayuk hits, Arey's side answers. Two hits each. The sun drops behind the roofs and the dead streetlight stays dark.
+SCENE 3 - TWO ROUNDS (0:32-0:58)
+A quick montage of the game:
+- Ayuk hits Arey's side's bottle: 1-0.
+- Arey's side answers: 1-1.
+- Zino tries to pass to a teammate, mis-hits it, and the ball knocks over HIS OWN bottle: 1-2. Arey's side howls.
+GIDEON (laughing): Weh, ben-ben foot!
+- Robi hits back: 2-2.
+The sun drops behind the roofs and the dead streetlight stays dark.
 GIDEON: Zino, sun don go house. Una go play reach morning?
+SOUND: laughter SFX on the own bottle (Arey's side and Gideon).
 
-SCENE 4 - THE WRONG HERO (0:56-1:14)  [THE TURN]
-Ayuk is open at the better angle. Zino wants the glory and goes for the same feint as in Episode 7. Arey reads it, blocks the angle, and Zino's shot misses the bottle and rolls into the gutter. Arey's side erupts.
+SCENE 4 - THE WRONG HERO (0:58-1:14)  [THE TURN]
+Ayuk is open at the better angle. Zino wants the glory and goes for the same feint as in Episode 7. Arey reads it and blocks the angle. Zino's shot misses the bottle and rolls into the gutter. Arey's side erupts.
 AYUK: Pass am!
-AREY: I don know your leg. Na the same trick every time.
+AREY: I don know your touch. Na the same trick every time.
 SOUND: laughter from Arey's side (laughter SFX).
 
-SCENE 5 - ONE MORE CHANCE (1:14-1:34)
-The ball comes back. Zino is ready to argue. Luc steps in from the verge and catches his wrist before it becomes a quarrel; he does not play.
-LUC: Play the road, Zino. No play the people.
-Zino looks at Ayuk, open again. He passes. Ayuk hits the third bottle. It rings and falls.
+SCENE 5 - ONE MORE CHANCE (1:14-1:32)
+The ball comes back. Zino is ready to argue. Luc steps in from the verge and catches his wrist before it becomes a quarrel; Luc does not play.
+LUC: Use your head, Zino. No play like Etii.
+Zino looks at Ayuk, open again. He passes. Ayuk hits the third bottle. It rings and falls: 3-2.
+LUC: Na so, my man!
 SOUND: the bottle's ring, then the crowd.
 
-SCENE 6 - THE COST (1:34-1:48)
-Grand Nestor splits the cote between Zino and Ayuk. The boys lift Ayuk, not Zino. Zino smiles, and it costs him.
-GIDEON: So your leg fit hear somebody else name.
+SCENE 6 - THE COST (1:32-1:42)
+Grand Nestor splits the cote between Zino and Ayuk; Zino's share is in his fist. The boys lift Ayuk, not Zino. Zino smiles, and it costs him.
+GIDEON (laughing, repeating his jab): Ben-ben foot!
 
-SCENE 7 - HOOK (1:48-1:55)
-Dusk. A woman's voice from inside the compound calls once, then twice:
-MA: Zino!
-Zino freezes with the coins in his fist and quickly pushes them into his pocket. Hold the last sound over 1 s of black.
+SCENE 7 - HOOK (1:42-1:55)
+Dusk. From inside the compound, Ma calls once, then again, louder:
+MA: Ziiiiii! ... Ziiiiii!
+- Zino freezes, coins in his fist.
+- INSERT: the empty buckets beside the well. He forgot to carry water from the well and fill them.
+- INSERT, memory: Ma marching him home by the ear in front of everyone, as she has done before.
+- He bolts for home without a word. His teammates are shocked and angry ("Eh!?", arms out, Ayuk kicks the dust).
+Hold the last sound over 1 s of black.
 TOMORROW TAG (inside the 2:00): the landlord's notebook, open on a table.
 END CARD: EPISODE 10 - RENT AND LIGHT
 
-LINES TO RECORD (11): Zino x2, Grand Nestor x1, Arey x2, Gideon x2, Ayuk x1, Luc x1, Ma x1 (her call, twice), plus laughs and crowd reactions.
+----------------------------------------------------------------
+LINES TO RECORD (12, all in one file as usual):
+ 1 ZINO          Leg don correct. Today na cote day.
+ 2 GRAND NESTOR  Cote don full. Three hit, e done. Who hit three first, chop am.
+ 3 AREY          Crutch boy don come back? Today you go waka home with empty pocket.
+ 4 ZINO          Na me go chop this cote. Write am for your head.
+ 5 GIDEON        Weh, ben-ben foot!   (laughing)
+ 6 GIDEON        Zino, sun don go house. Una go play reach morning?
+ 7 AYUK          Pass am!
+ 8 AREY          I don know your touch. Na the same trick every time.
+ 9 LUC           Use your head, Zino. No play like Etii.
+10 LUC           Na so, my man!
+11 GIDEON        Ben-ben foot!   (laughing, a short repeat of line 5)
+12 MA            Ziiiiii! ... Ziiiiii!   (from inside the house; the second call louder)
+Plus: laughs, crowd reactions, the teammates' "Eh!?".
 
+SUBTITLES (French is burned in; English is uploaded as a file):
+ #  | ENGLISH                                                        | FRANCAIS (burned in)
+ 1  | My leg is fixed. Today is cote day.                            | Ma jambe est guérie. Aujourd'hui, c'est jour de cote.
+ 2  | The cote is full. Three hits and it's done. First to three takes it. | La cote est pleine. Trois touches et c'est fini. Le premier à trois rafle tout.
+ 3  | Crutch boy is back? Today you'll walk home with empty pockets. | Le garçon aux béquilles est revenu ? Aujourd'hui, tu rentres les poches vides.
+ 4  | I'm the one taking this cote. Write that in your head.         | C'est moi qui vais rafler cette cote. Mets-toi ça dans la tête.
+ 5  | Whoa, crooked foot!                                            | Ouh, pied tordu !
+ 6  | Zino, the sun has gone home. Are you playing till morning?     | Zino, le soleil est rentré. Vous allez jouer jusqu'au matin ?
+ 7  | Pass it!                                                       | Passe-la !
+ 8  | I already know your touch. Same trick every time.              | Je connais déjà ta touche. Toujours le même truc.
+ 9  | Use your head, Zino. Don't play like Etii.                     | Réfléchis, Zino. Ne joue pas comme Etii.
+ 10 | That's it, my man!                                             | C'est ça, mon gars !
+ 11 | Crooked foot!                                                  | Pied tordu !
+ 12 | Ziiiiii! ... Ziiiiii!                                          | Ziiiiii ! ... Ziiiiii !
+GLOSSARY: cote = the betting pot each player pays into; "chop" = win/eat; "ben-ben foot" = crooked/bent foot (a jab at a bad touch).
+
+----------------------------------------------------------------
 THRILL 9.5 CHECK (target; scored again after the recording):
-1. Cold open: aerial lands on the crutch left at the gate. Yes.
-2. Stake on screen: Zino's coin in the cote, and his pride. Yes.
+1. Cold open: the aerial lands on the crutch left at the gate. Yes.
+2. Stake on screen: Zino's coin in the cote, and his pride against Arey. Yes.
 3. Named opposition: Arey. Yes.
-4. Clock: two hits each and the light going, with no streetlight. Yes.
+4. Clock: two hits each, the light going, no streetlight. Zino's own-bottle blunder makes it his fault. Yes.
 5. Turn at about 1:00: Arey reads the feint and the glory shot misses. Yes.
-6. Cost: the glory and half the cote go to Ayuk. Yes.
-7. Season loop: E (Arey learns Zino's move; this pays off in Ep 14). Yes.
-8. Hook: Ma's call while the cote money is still in his fist. Ep 10 opens on that money, and the landlord comes that night. Yes.
+6. Cost: the glory goes to Ayuk, and Gideon's "ben-ben foot" sticks. Yes.
+7. Season loop: E (Arey now knows Zino's move; this pays off in Ep 14). Yes.
+8. Hook: Ma's call grows louder. He forgot the water (Ep 5 callback) and fears being marched home by the ear, so he bolts and leaves the team angry. Ep 10 opens on the money in his pocket, and the landlord comes that night. Yes.

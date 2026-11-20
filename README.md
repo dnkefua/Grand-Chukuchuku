@@ -36,8 +36,8 @@ Both wear the same sky-blue shirt and dark-blue skirt. Mirabel is darker than Li
 
 ## Release formats
 
-- **YouTube:** 16:9, **French subtitles burned in** (from Episode 9). English and French subtitle files are uploaded too.
-- **TikTok:** full-screen 9:16, **English and French subtitles burned in** (from Episode 9), built from the YouTube master with the [TikTok vertical method](series-development/TIKTOK_VERTICAL_METHOD.md) and the [`tools/tiktok_vertical`](tools/tiktok_vertical/README.md) tool.
+- **YouTube:** 16:9, **French subtitles burned in, low on screen** (from Episode 9). English (and French) subtitle files are uploaded so viewers can select them.
+- **TikTok:** full-screen 9:16, **French subtitles burned in, low on screen** (from Episode 9), built from the YouTube master with the [TikTok vertical method](series-development/TIKTOK_VERTICAL_METHOD.md) and the [`tools/tiktok_vertical`](tools/tiktok_vertical/README.md) tool.
   - Every speaker is in frame on their line, and both sides of every action beat are shown (split screen when needed).
   - Impacts get punch-ins.
   - Episode 7 is the [reference cut](EP07_Edit/pipeline/tiktok_fullscreen/README.md).

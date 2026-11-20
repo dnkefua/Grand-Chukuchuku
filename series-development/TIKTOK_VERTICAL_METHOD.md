@@ -30,13 +30,16 @@ This is the house standard for every TikTok version of the series from **Episode
    - Every impact gets a short punch-in (+9%) and a short shake.
    - Every slow-motion moment gets a slow push-in (+10% over 2.2 s).
    - Both are placed automatically from the edit's own sound-effect cues, so they land on the sound.
-7. **Text: English and French are both burned in (rule from Episode 9).**
-   - **English:** DejaVu Sans Bold 54, white with a black outline.
-   - **French:** directly underneath in the same block, DejaVu Sans Bold Italic 46, yellow.
-   - The block sits 520 px above the bottom, clear of TikTok's caption area.
-   - Set `subtitles.srt` (or `.ass`) for English and `subtitles.fr_srt` for French in the episode config. The tool pairs each French line with the English line it overlaps.
+7. **Text: only the French subtitles are burned in, low on the screen (rule from Episode 9).**
+   - **TikTok:**
+     - French in DejaVu Sans Bold 54, yellow with a black outline.
+     - Bottom-centred, 400 px above the bottom: as low as it can sit while staying clear of TikTok's caption and username text.
+     - English is **not** burned in, because both at once is too much text. Viewers can switch on TikTok's own captions.
+     - Set `subtitles.fr_srt` in the episode config. If it is missing, the tool warns and falls back to English.
+   - **YouTube:**
+     - French is burned in with `tools/subtitles/burn_french_youtube.py`: DejaVu Sans Bold 50, the same yellow, 60 px above the bottom.
+     - The `.en.srt` (and `.fr.srt`) are uploaded so viewers can select English.
    - Show title "GRAND CHUCKUCHUCKU", with "Episode N · Title" under it, at the top over the opening.
-   - **YouTube versions:** French is burned in with `tools/subtitles/burn_french_youtube.py`: DejaVu Sans Bold 50, the same yellow, 60 px above the bottom. English stays as an uploaded `.en.srt`, and the `.fr.srt` is uploaded too.
    - Episodes up to 8 keep their earlier subtitles (author's decision, 21 Nov 2026).
 8. **No cropped burned-in text.**
    - If the master has a burned-in title, the opening shot is replaced by a title-free still with a slow push-in.
@@ -117,7 +120,7 @@ This is the house standard for every TikTok version of the series from **Episode
 | YouTube master (final picture and mix) | `Final cut\Youtube submission\Grand Chuckuchucku - Episode N - Title.mp4` |
 | Sound-effect cue times (for punch-ins) | The episode EDL with `cues` (e.g. `EP07_Edit/pipeline/edl5.json`), or a flat `[[t, "name"], ...]` list |
 | English subtitles | The episode `.en.srt` or `.ass` |
-| French subtitles | The episode `.fr.srt` (burned in under the English on TikTok; burned in alone on YouTube) |
+| French subtitles | The episode `.fr.srt`, burned in (low on screen) on both TikTok and YouTube |
 | Title-free opening still (only if the master has a burned-in title) | Frame 0 of an earlier cut, or the clean source clip |
 
 Cue names that trigger effects:

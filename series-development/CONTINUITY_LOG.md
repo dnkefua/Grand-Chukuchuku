@@ -171,10 +171,13 @@ These later recollections override conflicting proposed script action and physic
 
 ## 21 Nov 2026: French subtitles burned into every video (from Episode 9)
 
-| Version | Burned in | Also uploaded |
+- Every video, TikTok and YouTube, has **only the French** subtitles burned in, low on the screen.
+- The first proposal of English and French together was rejected by the author as too much text.
+
+| Version | Burned in | Selectable |
 |---|---|---|
-| TikTok | English (white) with French (yellow italic) underneath | — |
-| YouTube | French (yellow) | `.en.srt` and `.fr.srt` |
+| TikTok | French (yellow, 400 px above the bottom, clear of TikTok's caption text) | TikTok's own captions |
+| YouTube | French (yellow, 60 px above the bottom) | Uploaded `.en.srt` and `.fr.srt` |
 
 - The Pilot to Episode 8 keep their current subtitles.
 - Tools: `tools/tiktok_vertical` (`subtitles.fr_srt`) and `tools/subtitles/burn_french_youtube.py`.

@@ -36,8 +36,8 @@ python3 tools/tiktok_vertical/tt_review.py  $CFG output     # QC sheet of the re
 
 - Relative paths are read from the config's own folder.
 - `subtitles` takes `srt` or `ass` for English and `fr_srt` for French.
-  - From Episode 9 both are burned in: English white, French yellow italic underneath.
-  - Only the Dialogue lines of an `.ass` file are used; the house vertical style is applied.
+  - From Episode 9, **only French** is burned in, low on the screen (yellow, 400 px above the bottom).
+  - English is used only for the dialogue review sheet.
 - Leave out `clean_opening` when the master has no burned-in title.
 - `camera.json` keys are shot numbers from `shots.json`. Shots you don't list keep the auto centre.
 
